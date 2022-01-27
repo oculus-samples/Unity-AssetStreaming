@@ -1,6 +1,9 @@
 ﻿// Copyright (c) Meta Platforms, Inc. and affiliates.
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
+using UnityEngine.ResourceManagement.ResourceProviders;
 using UnityEngine.SceneManagement;
 
 // Node used in the LOD system.
@@ -19,8 +22,9 @@ public class LODTreeNode
     // Stores info needed to queue asynchrounes Load or Unload operations
     public class LoadOperation
     {
+        public bool processing = false;
         public bool load; // Is load or unload operation
-        public AsyncOperation asyncOperation; // Store asynchrounes operation handles
+        public AsyncOperationHandle<SceneInstance> asyncOperationHandle; // Store asynchrounes operation handles
     }
 
     public LODManager lodManager = null;
@@ -28,9 +32,15 @@ public class LODTreeNode
     public int lodLevel = -1;
     public int nodeIndex = -1;
     public GameObject mesh;
+    // NOTE athivierge: We still use the sceneIndex after the upgrade to adressable.
+    // it gives a reference to what scene in build settings it is suppose to refer to
+    // and there was logic related to this index that we didn't have to change to the new 
+    // AssetReference sceneRef. We could do those checks with sceneRef.RuntimeKeyIsValid(); probably
     public int sceneIndex = -1;
+    public AssetReference sceneRef = null;
     public NodeState nodeState;
     public Scene scene;
+    public AsyncOperationHandle<SceneInstance> sceneHandle;
     private List<Mesh> meshAssets;
     public bool sceneIsShown = false;
     public int[] children = null;
@@ -142,11 +152,12 @@ public class LODTreeNode
     {
         if (loadOperations[0] != null)
         {
-            if (loadOperations[0].asyncOperation != null)
+            if (loadOperations[0].processing)
             {
-                if (loadOperations[0].asyncOperation.isDone)
+                if (loadOperations[0].asyncOperationHandle.IsDone)
                 {
                     // Previous operation is done. Remove it from the queue.
+                    loadOperations[0].processing = false;
                     loadOperations[0] = loadOperations[1];
                     loadOperations[1] = null;
 
@@ -157,12 +168,12 @@ public class LODTreeNode
             {
                 if (loadOperations[0].load)
                 {
-                    lodManager.QueueAsyncOperation(new LODManager.AsyncOperation(sceneIndex, lodLevel, OnSceneLoadComplete, SetAsyncOperation));
+                    lodManager.QueueAsyncOperation(new LODManager.AsyncOperation(sceneRef, lodLevel, OnSceneLoadComplete, SetAsyncOperation));
                 }
                 else
                 {
                     lodManager.GetNode(parentNodeIndex).ChildUnloaded();
-                    lodManager.QueueAsyncOperation(new LODManager.AsyncOperation(scene, OnSceneUnloadComplete, SetAsyncOperation));
+                    lodManager.QueueAsyncOperation(new LODManager.AsyncOperation(sceneHandle, OnSceneUnloadComplete, SetAsyncOperation));
                     asyncUnloadQueued = true;
                 }
             }
@@ -320,9 +331,10 @@ public class LODTreeNode
     }
 
     // Asynchronous load operation callback
-    public void OnSceneLoadComplete(AsyncOperation asyncOperation)
+    public void OnSceneLoadComplete(AsyncOperationHandle<SceneInstance> asyncOperationHandle)
     {
-        scene = SceneManager.GetSceneByBuildIndex(sceneIndex);
+        sceneHandle = asyncOperationHandle;
+        scene = sceneHandle.Result.Scene;
         sceneRootObjects.Clear();
         scene.GetRootGameObjects(sceneRootObjects);
         sceneIsShown = true;
@@ -338,7 +350,7 @@ public class LODTreeNode
     }
 
     // Asynchronous unload operation callback
-    public void OnSceneUnloadComplete(AsyncOperation asyncOperation)
+    public void OnSceneUnloadComplete(AsyncOperationHandle<SceneInstance> asyncOperation)
     {
         UnloadMeshes();
         sceneIsShown = false;
@@ -441,9 +453,10 @@ public class LODTreeNode
     }
 
     // Callback to retrieve asynchronous operation handle
-    public void SetAsyncOperation(UnityEngine.AsyncOperation asyncOperation)
+    public void SetAsyncOperation(AsyncOperationHandle<SceneInstance> asyncOperationHandle)
     {
-        loadOperations[0].asyncOperation = asyncOperation;
+        loadOperations[0].processing = true;
+        loadOperations[0].asyncOperationHandle = asyncOperationHandle;
         if (!loadOperations[0].load)
             asyncUnloadQueued = false;
     }

@@ -1,0 +1,1529 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: alpine
+  m_EditorClassIdentifier: 
+  m_GroupName: alpine
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0298a656e0a38054cbdebb63a69627c1
+  m_SerializeEntries:
+  - m_GUID: 10838c60058a2d045be9dd2d9dca6359
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ba6254b23bf59d41acd47d59cbdd23b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e18f12a3daa943440aa10cbdbbdb5f22
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4426f2760c36f146bae9f44ccefc9e8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09c954fa1c19742408e14b34039e5b4c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd66f65f0214860429a8a0c3a4b4a345
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfe71e725b1182d49adf50c1f8d6d336
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bba2b4c5a4081c43a1a8262a8b45769
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7681d6e40d2564945a215345fe9d600d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8f42e6ac727de047911c10048f0b367
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efee2c94c85562f4fa9b7909ab4ec199
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54b6e1681efe0a64398c7147b75f244c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddbe044b8b0211b4e9d50fe8e8ef1e53
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab3d82bf50a646144a25e543cc9e9bcd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7899d1566aab5cf4eba621795ec70262
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c99d5f29e7f58784fa70fc5bfd367a23
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22d1e616109896f43be6ff42e15049b1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a96ac9e14aebb7e428265ebe59d028ad
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 428e21b77e6b1e84e9ab986c46011863
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ffa8ba751b7edf41b6e4273cf383569
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27d335baad62195409fed4ac08c8b5f8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f7c6a4960000af44a197ac3c70097e4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1883b75b577ab94385d071a47e8e8c2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d2d2b11e37533844a0691aedd604a5e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c29f768a775627342be6e4313b46dc32
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b85ab3008376874f834b9bb98cd4acc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bcf084ff0e68b242b89ef0ad1a305a8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e82665cca2d7104eb42aa05c67306ba
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd32c5ec401071447ae168b642b61a32
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eab26d5b5ef18d347a2354ad86d245fb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0158bcfc3c60db34bbb2a8c99ce40cd8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 856f7958e37e6fb4eabbe45ae9ba4c8a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9f16dc0f4c22ee47aa7b8cc3c5b9734
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cce7a7b648a0a8448b059c91902c9707
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12a7df883492fcd4d969dfc6d47170d3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ad1a7bfe5e30554e9a84375bda60207
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c62e98c9a7433442817816788c1318f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68d2f45f335890b4981a70804a6f83ef
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d5a84bf03d70384e81f6c70e06688b9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc77253271fd3cf40bc8d1ebbee760d1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b3a0be290304d047a7ecba020f95a1d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87542a7db0f8a5a43918a5975a3edcda
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2004df6410b0d84292f30030525b0eb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e72fc0b141792f47bbcf57fcc125160
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a908dda496d2f2489d3fb7ef34af4b8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41418bb97ec7a1749875bb08622702bc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fcfe49e76674564ebb07862a351063e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 480a421f7b3cf4048b17b4c414bab8d5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2211bfc363786cb439a16e87e036b5ca
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 320e4280b8f33e645b1230716c535957
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a931e90da979bee4daacced71dbe132a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14c1f6783fa6fc54d92c5b8b4c9082c4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d59f77cc2addbe4d80c81858647912f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdddc85e3c1c24a4cb5014e14dd3341d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72c87bf2d9e9c6344b637f9407f32077
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06c23676c75c74a43b98f61101df89a7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5347749d424c6a4cb737dc329aab055
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-9.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c037b27f8dc52434c87116dd7d2c2219
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30db38382c413644d8848e3520db3737
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9952f57948e95a346bd016b7bb723bd8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-10.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0578a7ac08d15fb4d8bcce0aa4c1301e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-11.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 485adfc4804dd524596c2ff78193c611
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-11.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0946de8464e6b13449fee3b4092ee7ea
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f518ff2f599678f44a533f1fb5085cf7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 707eb3d611b9f36458385c2a964be9a9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efd1acab36a707746a5582aca8a2dee9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa471276b3f241c43bdf4388a5f4c403
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_7_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 687d550e0eaf1624d9ddaa2d66d092e9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abf080ac9636f9544a5b36668c5fe199
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a112aa69964d2a4ab54578faf7419be
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bba98f06cd92df458f446d37fb4450a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9ffd6f97fd64954995cf7eb541cbb37
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_7_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4892aa446069e2646b9da03de79a2fae
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 343e8f82733a35145804d82a75b7744c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 990450bd97c798b4a99ae55c4bfa53ad
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d83a1c2c9f43624da0edbea26ce6e25
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37386a289499cb54b9a5f9de1d215fd4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cf88d3feb7d0ef40a9797522a27330f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9c43b52c8bbc94459937e170d038c35
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d8b4cb340c54b246888d3c98638b44e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9fbd256ff21bf543ae99f5261e6a965
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c3bafa99ae114249b321f504f60d505
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 113c17f241ba29a41a86c1117c5eebf4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 300a40ee4ebcc344f83a89c5f841c85d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a594cbdab68f37840b1bb10d99c10ac5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96a98631ada042147aa73a7ec2429ac1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 524d9d28bc8cce24db5861be95c11e11
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e73922e632b854e40a4481e817820efa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6f29580dd01d7145b8578444ab9a1e2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e4abf5ae7093374d9129ffad1517b17
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95cb5dc0852986147bcb565a552f6d5b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e757b40bbeec046439a9b3aaea2a22c1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2eb2016cb201cae4a8176f062fe1813b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f59611c54e339094b8f43c90a5f4aec2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a085ee27c921bf14e84f1f911d616113
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 405f94a43b91660428b51b0b929c7dba
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a81dae8134309f742b7f4b7c9c7fff47
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07acc2f69cc95eb45ac0ac276abe8454
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e698844fabe797e43939d528fd279016
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7035703c3d1ce8f4ba79b24e881f2abb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4b7462a3e6312a46b0ceea5f1105d83
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbbfb31c0ce4b4f41a6ca9bc34c3a877
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d77880ff647986441b1c1d0182906181
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2a6db29ff9671e41aa3c602c4843220
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43d09a934fb93de41803a6f6ebf91fb1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d4b4496f77e0684fbc6c2bc21234e84
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4cd40a846d1cb440a03499291737917
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fddcf9306e9a7d54083ed560f43f5f1f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90a244ea9eb6b92448b0fc6e40577667
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1085e0c0fd86b794c8d115cb27909214
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86d2948a7f8f6404ea9cd14ae8aa8e5b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5e89539a0b7d664b8453b40ae9a1f20
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf3aa31bfc4c7aa46b49d66b1e74a6b8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 977817100bd6adf4d8d3afde25492e9d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01af93edc2af41749a0d0b29e1ac0568
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b46ff9f46303b2b468ac7d9d617aa47f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b6d984b3c50c7949a55b75480e7d795
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d0851fbaf638c747922ceea883f1aac
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 234d8a15912233a46b9bac83559e4c2d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8525344fff76ad24eb8c1593c3982cd3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5e1f6109be5d91439bfa398d128e933
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f1d934259691a545b390d1f244dc117
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d76a6868e60d046438995c99066917eb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3965d4768204ec64c939cc8671a674d0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfd7267736047b54fa98451f9b469519
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a22c8836a56a07944bf2bc369c3c212b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12b0685138eaab44db5430e7a4831667
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 259adf489fd22044c866823e9dba6cd8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0173bfa140ea06b45a18b6aa3bd7b64f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0235c73c350b8d149b1c115153a32aa9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d712f378e2e80149a2bba975170e26c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 713f15ce2c6ca3c4ea1795603f0f7c24
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbcf1866f0ce3f64395d72490cb0a4ea
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b3f5dab57d9ced45b91e4b2c842846e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffc8fc42e6f7dde40897ec4e94e6e504
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 639eb4c9ef1749a49986312fd99b1ff3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fa45d564136fbb48a1342a1e7a22b51
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e33ba2eb4c170be42ae53dcca47e833d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fad78a0dab919724cb64f3fdfa8b8d95
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c476fbbbfe6c76e44aa62b93fd366d6d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcc4a6c9af0e26844bd7edc16ae636ca
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f694c001bffe1044bbdf3866cb4b684
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4eb8dcf11de39804692950c008e95e96
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 038793e14125b814885b022b0273e8ee
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29a0a5dfbed86664d8db5884267ff83b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1da854514273e14408f94c4f49c5a458
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7306f64b4033e049a9cb05102a2b8be
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c758413ef32bd334c820c0ca2397131d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dae7882f90985db40a2e919e108354dc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 554369c617032d54ca15992c6801c11e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c2477a5d2899f640906b1418473b18a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54fa1359eec6d9245afe0cb33c3daad5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d7cba4ea824c6648969b8e554911669
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49057713c8cc7b445a611f6dca29c26d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4975e2cd1b254fb418507937ba4df4f4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 391706f6b67a9e54398810fa6e9f7d5a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81fc99af1505d1041ae3107515ad4bc7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5980e9725e1b46145a64b584bee79faa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7ca3f1f159d1e94fae9cc412ca253a2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91004768d66e45a44b1833ddaa542258
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d67eeb6ea697ec447b5d46345f21214a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ee2cf6a776a4314e81a24001c9c8250
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ce06be3a8da03e40a27e98b6b975a39
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9220f84962edddc4c852accf0c75049b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3109d6a856917b438cd5c24bc918d09
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c746d8ff4c338a47a41b3723cf35e98
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbe5f582adc5ed54c938d8f6d9d52501
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b073d325f7832594088d4a916c600e9f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4919eaa737cfa6408e433fc066edd42
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fa277cc72bc5754d9d1fe43320e87b7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26f829cd39dd49848936737a54f14c3f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78fc69139778df84084c580acce20a10
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6de2d1f3428a06042ad311cbf53b354c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af6f371d36561ae4c9f4a9de4690b35f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81224a740ac752343906431daac64908
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a73c0e3eb50d4dd4faa527ad17a1836d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e730b8d1c71cd7448bc650cbd5ef4e4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3433805689ce4b4ab1bd7eb0f77070e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f903c13c4a09164e9ec2d7396ee61f9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5ab50f67d136c84aa302cd5a95f8ed2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e193238356515142a1d9a5e66a3f3e2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7de86483dfc096d48ad7ab196503c3bc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37bb6d51396ba1f49ae74561e1a7f551
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fbcc5f92edad954b9d9bf7ef40e1fb8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f1d7c3056bfbcb42a69ed030a3778a3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6f77e78cae87dc4fab2fc6e0e7a462a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de6173f3f8f162e459b4c47e68815e8b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e817d2c03fc43ab43a07def168a50171
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb068eb0329e3da4eb236cc0aa8a33ad
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a80b42ba184acae4cbfc174496c31387
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58d18ea92b544a54ea8c6e8abc2b24a7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38d9746403212494a924b192c7cb156b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e36c519b4bdb30d42af2ef80e6b0e75a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f1c30612c6436e419f65d7fe2cbe214
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba38500a282fc5d4f8021ab117118ecc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57cc157810c610e4fb93f921acd57fe4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87a20c4408f0cb049953c533130b7d28
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc1aa86ed73dc4345a46a58c3d39045a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03f7c98153e911a479d77c598a004405
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16e0e695e8bc4c940a95451edad1340f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5c65680305921c41a1f3d2a89bad48a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc8a244167864c14aa0d47ef6f0569e9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40add86662463614ea77f916d332ef75
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 686b44d367166e24dbfdbc0be4f176dc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ac0711ad2f3ec84898c5c5f56c4868b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd1f94195166abd499189cf49544d034
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5175a5133a4bd24aa5934c3b6b59abb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6ac2b7a43c82c04bb862abd2e0cca1e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31931350e32e94243a951bd7380ddaaf
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c9b0042f3fc6bd4b9ee6e2e9dc6fa26
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b320e6760b706f46ad239088e79aa91
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 469ac85ea3c79fe44be220cfc97e394e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 412e3a2688c26ec4a8c403e6e21d4e24
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e00d6f207e18e54081ac7877c8c9281
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a97466d48e639b439a7ad9728773033
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 114d5c32a4b187e46b4b95d5897baed2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43cda9ace73a1e1478148ac2f5f3be61
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 745458d42e83c76409418494b2d19034
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ade656198ebd0142a68ca49b5662e0d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc363326f4adc0b4789236b1e0365594
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1adffb992f3351f40a4a3ee758975e23
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bd8f53cd03df854c9a28e3032114627
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3457d66655b14624fb5bd6536566a247
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bef23be33efd9940b97ce58020d7bf6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80ddc41a2ac5c7148afd6b4ab68099d1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 894bedf330b8fd347b51f395267776b0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07cb087c5bdf52f4abcfeece20e19f44
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87f6b3d67ef15664fb161b4f178aefea
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6e12d76d54b599419a1ca38f78c1e3c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7001f0b27e79424789e725cc05effad
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6d968c454975014084595da29a03f61
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a25eef36454ddcb4cbd6478d2b3995a0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd3990bea6acf4947af781c3ecff8fff
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50f58401b762c2445869a22910f1d189
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3de32706138eb1f4198176c1ce9b184c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2a944bb2e9d29449bb420dc5f6952af
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74c42a582af5e10439ff354b74a6b70d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d9cebde33322d147b4d4e06aad9296b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccfa4aaa79a9fe3479fb27ac01e8141c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecac575d3cd72a84bbb6dab29f916358
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9e9bb9a5affc0d4d8fcfee0a6ac948c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96e92784d813409439932c9ca66a3fec
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b84a5a14e10ce2a49b01d0867f09326c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1cced92d4e519ab4790bd687af70f0aa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-9.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24dcbb47e6fe6884aa0f57695179e0b5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9be2662c1f81b734da8f433779219ba4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2355cc68d30482d4aba3b71ad3feb417
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-10.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5e962cc4f41c9b488fb8d498380fef2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-11.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ad865e9c90e66744b14dd817387dc59
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-11.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 325aaa68cda871c42966dca7f6f32080
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce32fa8bc4bbf59408f5cfee3afffd90
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccafd25aeb714ab4d87d0b628dae6790
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cc2bb0c438c35440b3632fd65f1e7af
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4ae7aa6ba186c742aed47211f74b813
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_7_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9000b88eb1847af448e98863922648d0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8940b824d6ad4b458d690daaa144d5d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aee5fdabdd1851f44b8737734c75fe64
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e00f484f419b325449e51e391b3b1880
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a74ed7eb66f34b43ac68c98934af4fc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_7_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee1ffadcc484f1747970c4e8d5d6b9db
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4430e4c465256ba4ebf7ef533f709742
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4955b73281170e94eb7d60a92f400cfa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2941716c864af524798030de4f3b119c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6b68210cafb1d04b9a08e5610c5f7d6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77f832b268810e444adfee06c367b685
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd7b0c3fe3fd504448ad79089921985a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2acf7062fb5c1ec43968cb02f501aa20
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e951c98a33acce4b80b794d0c04a4fb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71166d4b66ad87a47826035560a153c2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d4e02a12133b9940bf00c81ce9a6986
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 673915c8b5508004f97fe90ea519c8b9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82880ae2a3e74494ea8b8591a110c65a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa44cac03a79cc149b4d85a107793802
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88592d060c3e2da4ca5bf6ac9b1fcd66
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f091c8c6010051e4c9996306f8993b9e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2fade840b40f7c408972624a0823d9e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 835c28dae1388594b884c3f5d14d1308
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e3b9e3e2079ed940adb1b422d2c4b3d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb6814cc8e6822e489266185cb90ea46
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 764428f405a3bd84ca7e513eb9a34863
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e667ef3e740bb64d822597a4c5c6fe8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca5d4a46513db9e4985b176f0b6f07df
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d7365ec0c37d0e4fbb12de37f45de13
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c10ff656df657724d8c43bdba7818370
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e904381f83fe32d4fae1723585eac676
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa2727a04b7c30f409fa3cb43dde0068
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9694485611444a4483ebc64ccbc2420
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54329b8dfdec9e746badf4c48b2a379d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83f8cb09afc94e94bbbec0330575b6be
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 616c90652e9332242a4d78df22563fb2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a126f88be5f52e4e862339d733cbde8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba741cb15cba6254282c228b21e3b968
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e46beb890360014469264b46494d78ad
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c752516e0c1e90844a15fa8b440445de
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11acc40326067014cbec6e98e7cc98fd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91115122ee75c82448b76ee587dd4408
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de3e1434ab4d67c45bf991991f5607df
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efb53d6bac9188c4e96abd47edd6741a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2946e981b8244842840f551f598810e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f385cbc944126684d84080e5eea39eab
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73eaadf60d56f5f419114fd43c579703
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9788b5cab8c5d4b408d65d7e5c691d3f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bea4ed5e6a4a0e947ab475005471b08a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 336bb9bb23709fc46b1a3360d0c062e0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88e1dcd818f95bf499e05bfe22b4b0a6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ef030378ed587a4fbacee0b08fbbf32
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c789ce5f21fda240892e1f23c3813cc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abf8afc505040114dbd3757d10b549bb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3026b52ef913aa64cad3175bef214f42
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1b28010b505d7440a40ba34b57c5b21
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41d4d32211d32404f82c6a2c8a61339d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a058ee00ac340714fb8bd0680fad888c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1766a17d1cba54e40ad541647f777ac1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d662e5d49ebd5314db51641c9e180457
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ea98700ff848a34e8ca17b944ace587
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc3fc1e81aae63147a93ec7f926d3b6c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d70692866e96c84895443b58ca0a8aa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e9e6a46db8b36e448a29835914a6a23
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e4e0eebb74c9104a888ea6d02f1f781
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9eac47377666984ea2757146e432758
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7500d450d3de62d47ab6b39a629402bf
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6484cdd4a34f1b24dae03a33317ce64a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5ea41377d6a387458b50395e619107f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 491842d06f0ef024abed6fc015cc10e0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39e88d52aa791c148b04f3735e6dc133
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66d5b98a6e19fc94aae7f2d7b9f87408
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65e5724b47941d147900e42a7bf23c84
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 798161e6561911045a663a3b6e4c113c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49f894f7c71da5b48935a984a7e77b28
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03ad77b13b4378f4fb9a1a5801979e8a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f8a5daaa09d5df4293ccd7c1eb0592c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86d4268fea1f954438d7130ca79bc611
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf1acb1b193a0624a9d34dd6f45ad440
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 135b384934a276a47bfee533136e59a2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9305a37dd2499954ba009708e9f12e67
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e47ab9f3c6642e5428ea4ac353505579
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 456a04d9a6c2ad6448f58057f4416dd7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20b6353d297e3684db0e25241ca5fc04
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34b0c7703f905d547b9bc12b109bfa24
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0609902b37dd0574f8f63ac6862db492
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9a4c6cd2b9944c4e85df73fcb15d015
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be26560560cb50a408fe266747d724e7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8793bd43fb3d6704b9f2ed1fc3823972
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b134f8b75866d3a49af792f44c3b7f8d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe26ad90c2bf1044ba04cae75be7213e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d55a972dd03d0254e8b816f130a150f1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76e332d1d9ec9584e9bc243afe2700e6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 841ad1d061afda14d8ef48dac3de9244
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b7baf022a634c74aaa4fb07f5e7b16c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6f68f14efb8ad24d929aa32244b563c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f29a9626804d5341b60d30f685d0229
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba905b599623c7643b2863c248239ffb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17af64dd07fd086498ec954fdeadd016
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31b5d4839ea44bc4fbb9bf2cd10744e9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1da7bca242c74c4aa5b3f43e9b00c4f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a772c55e0f70174eb89d393f4b5bab7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8aa6ac7de0e0744299315e3bb036a5c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf170cd771873c940a1bc5cf226e3bc4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e0c5b94566492d4c98a61a9a63e18c0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 942b3f3e1f1fc504a933f7fb715a1977
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65288aab5f54a494bbf1732145d94bd3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 467d38ec90590c34b83b8fe0b6ef357e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 840617150f229334da71df229db02e69
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f34b729489120847b6232d716122a57
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ade357fb6c462d448b5ffe72688ad6af
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e012ea62017060e4da10bd7dd5ffc4c9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d200be077f183a45b5f28ebbcf30066
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a39629d014499e4e8cdaa8e4d8d8d5a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba55acf3eab096f48be3a28c98a0aaa6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c0fb929325b3af469e69b3b07b09866
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: faa8985d0f192a64096c2efe9f0a5213
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d326c4c308b6d084b88959fa540e6a69
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb98fee45f16bc0489d89a6944dcba08
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db5037c45dac26f44a0b479fe8a58942
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9146588c1ec789246bcc49b0f1d8eb9a
+    m_Address: Assets/Scenes/Stripped/alpine/materials/alpine-props-mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34fd37bb52936a24f944462d3b24f91e
+    m_Address: Assets/Scenes/Stripped/alpine/materials/alpine-mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 359e3a4117cc79e45a9dec40ea000069, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 00b70101ddf64a940a7e805d48fcb707, type: 2}
+    - {fileID: 11400000, guid: 91d25ad5145fb7d43897ea780a712a6e, type: 2}

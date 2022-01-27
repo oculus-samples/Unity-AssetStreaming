@@ -8,3164 +8,3166 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Stripped/combined.unity
     guid: ec76f178d514e3b4a89ec76a2b1fd352
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_0.unity
     guid: db5037c45dac26f44a0b479fe8a58942
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-2.unity
     guid: bb98fee45f16bc0489d89a6944dcba08
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_0.unity
     guid: d326c4c308b6d084b88959fa540e6a69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-3.unity
     guid: faa8985d0f192a64096c2efe9f0a5213
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-1.unity
     guid: 0c0fb929325b3af469e69b3b07b09866
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-1.unity
     guid: ba55acf3eab096f48be3a28c98a0aaa6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-2.unity
     guid: 2a39629d014499e4e8cdaa8e4d8d8d5a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-1.unity
     guid: 0d200be077f183a45b5f28ebbcf30066
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-5.unity
     guid: e012ea62017060e4da10bd7dd5ffc4c9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-5.unity
     guid: ade357fb6c462d448b5ffe72688ad6af
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_1.unity
     guid: 8f34b729489120847b6232d716122a57
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_5.unity
     guid: 840617150f229334da71df229db02e69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_4.unity
     guid: 467d38ec90590c34b83b8fe0b6ef357e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_1.unity
     guid: 65288aab5f54a494bbf1732145d94bd3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_1.unity
     guid: 942b3f3e1f1fc504a933f7fb715a1977
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-4.unity
     guid: 2e0c5b94566492d4c98a61a9a63e18c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-2.unity
     guid: bf170cd771873c940a1bc5cf226e3bc4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-4.unity
     guid: b8aa6ac7de0e0744299315e3bb036a5c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-3.unity
     guid: 8a772c55e0f70174eb89d393f4b5bab7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_6.unity
     guid: c1da7bca242c74c4aa5b3f43e9b00c4f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-4.unity
     guid: 31b5d4839ea44bc4fbb9bf2cd10744e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-5.unity
     guid: 17af64dd07fd086498ec954fdeadd016
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-5.unity
     guid: ba905b599623c7643b2863c248239ffb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-4.unity
     guid: 1f29a9626804d5341b60d30f685d0229
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-2.unity
     guid: a6f68f14efb8ad24d929aa32244b563c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-3.unity
     guid: 6b7baf022a634c74aaa4fb07f5e7b16c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-1.unity
     guid: 841ad1d061afda14d8ef48dac3de9244
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_1.unity
     guid: 76e332d1d9ec9584e9bc243afe2700e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_0.unity
     guid: d55a972dd03d0254e8b816f130a150f1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_1.unity
     guid: fe26ad90c2bf1044ba04cae75be7213e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_0.unity
     guid: b134f8b75866d3a49af792f44c3b7f8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-6.unity
     guid: 8793bd43fb3d6704b9f2ed1fc3823972
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_0.unity
     guid: be26560560cb50a408fe266747d724e7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-1.unity
     guid: b9a4c6cd2b9944c4e85df73fcb15d015
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-1.unity
     guid: 0609902b37dd0574f8f63ac6862db492
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_0.unity
     guid: 34b0c7703f905d547b9bc12b109bfa24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_2.unity
     guid: 20b6353d297e3684db0e25241ca5fc04
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_2.unity
     guid: 456a04d9a6c2ad6448f58057f4416dd7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_3.unity
     guid: e47ab9f3c6642e5428ea4ac353505579
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_3.unity
     guid: 9305a37dd2499954ba009708e9f12e67
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_3.unity
     guid: 135b384934a276a47bfee533136e59a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_3.unity
     guid: cf1acb1b193a0624a9d34dd6f45ad440
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_4.unity
     guid: 86d4268fea1f954438d7130ca79bc611
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_6.unity
     guid: 7f8a5daaa09d5df4293ccd7c1eb0592c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_4.unity
     guid: 03ad77b13b4378f4fb9a1a5801979e8a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_5.unity
     guid: 49f894f7c71da5b48935a984a7e77b28
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_5.unity
     guid: 798161e6561911045a663a3b6e4c113c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_7.unity
     guid: 65e5724b47941d147900e42a7bf23c84
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_7.unity
     guid: 66d5b98a6e19fc94aae7f2d7b9f87408
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_6.unity
     guid: 39e88d52aa791c148b04f3735e6dc133
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_6.unity
     guid: 491842d06f0ef024abed6fc015cc10e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_7.unity
     guid: b5ea41377d6a387458b50395e619107f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_8.unity
     guid: 6484cdd4a34f1b24dae03a33317ce64a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_2.unity
     guid: 7500d450d3de62d47ab6b39a629402bf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-6.unity
     guid: e9eac47377666984ea2757146e432758
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_8.unity
     guid: 4e4e0eebb74c9104a888ea6d02f1f781
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_-1.unity
     guid: 9e9e6a46db8b36e448a29835914a6a23
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-6.unity
     guid: 2d70692866e96c84895443b58ca0a8aa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_2.unity
     guid: cc3fc1e81aae63147a93ec7f926d3b6c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_0.unity
     guid: 6ea98700ff848a34e8ca17b944ace587
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-2.unity
     guid: d662e5d49ebd5314db51641c9e180457
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_-3.unity
     guid: 1766a17d1cba54e40ad541647f777ac1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-3.unity
     guid: a058ee00ac340714fb8bd0680fad888c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-4.unity
     guid: 41d4d32211d32404f82c6a2c8a61339d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-4.unity
     guid: e1b28010b505d7440a40ba34b57c5b21
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-2.unity
     guid: 3026b52ef913aa64cad3175bef214f42
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_5.unity
     guid: abf8afc505040114dbd3757d10b549bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_0.unity
     guid: 2c789ce5f21fda240892e1f23c3813cc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-3.unity
     guid: 1ef030378ed587a4fbacee0b08fbbf32
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-1.unity
     guid: 88e1dcd818f95bf499e05bfe22b4b0a6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_-5.unity
     guid: 336bb9bb23709fc46b1a3360d0c062e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_0.unity
     guid: bea4ed5e6a4a0e947ab475005471b08a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-1.unity
     guid: 9788b5cab8c5d4b408d65d7e5c691d3f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_1.unity
     guid: 73eaadf60d56f5f419114fd43c579703
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_2.unity
     guid: f385cbc944126684d84080e5eea39eab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_4.unity
     guid: f2946e981b8244842840f551f598810e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_3.unity
     guid: efb53d6bac9188c4e96abd47edd6741a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_2_8.unity
     guid: de3e1434ab4d67c45bf991991f5607df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_5.unity
     guid: 91115122ee75c82448b76ee587dd4408
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_4.unity
     guid: 11acc40326067014cbec6e98e7cc98fd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_0.unity
     guid: c752516e0c1e90844a15fa8b440445de
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_2.unity
     guid: e46beb890360014469264b46494d78ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_5.unity
     guid: ba741cb15cba6254282c228b21e3b968
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-3.unity
     guid: 7a126f88be5f52e4e862339d733cbde8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-4.unity
     guid: 616c90652e9332242a4d78df22563fb2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-2.unity
     guid: 83f8cb09afc94e94bbbec0330575b6be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_1.unity
     guid: 54329b8dfdec9e746badf4c48b2a379d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-1.unity
     guid: c9694485611444a4483ebc64ccbc2420
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_-1.unity
     guid: aa2727a04b7c30f409fa3cb43dde0068
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-2.unity
     guid: e904381f83fe32d4fae1723585eac676
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_4.unity
     guid: c10ff656df657724d8c43bdba7818370
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_3.unity
     guid: 3d7365ec0c37d0e4fbb12de37f45de13
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_2.unity
     guid: ca5d4a46513db9e4985b176f0b6f07df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_3_3.unity
     guid: 7e667ef3e740bb64d822597a4c5c6fe8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-5.unity
     guid: 764428f405a3bd84ca7e513eb9a34863
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_-6.unity
     guid: eb6814cc8e6822e489266185cb90ea46
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-2.unity
     guid: 3e3b9e3e2079ed940adb1b422d2c4b3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-3.unity
     guid: 835c28dae1388594b884c3f5d14d1308
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-4.unity
     guid: e2fade840b40f7c408972624a0823d9e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-5.unity
     guid: f091c8c6010051e4c9996306f8993b9e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_1.unity
     guid: 88592d060c3e2da4ca5bf6ac9b1fcd66
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_4.unity
     guid: fa44cac03a79cc149b4d85a107793802
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_5.unity
     guid: 82880ae2a3e74494ea8b8591a110c65a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_1_6.unity
     guid: 673915c8b5508004f97fe90ea519c8b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_6.unity
     guid: 1d4e02a12133b9940bf00c81ce9a6986
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_6.unity
     guid: 71166d4b66ad87a47826035560a153c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_5.unity
     guid: 5e951c98a33acce4b80b794d0c04a4fb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_2.unity
     guid: 2acf7062fb5c1ec43968cb02f501aa20
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_3.unity
     guid: dd7b0c3fe3fd504448ad79089921985a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-5.unity
     guid: 77f832b268810e444adfee06c367b685
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_0.unity
     guid: e6b68210cafb1d04b9a08e5610c5f7d6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-3.unity
     guid: 2941716c864af524798030de4f3b119c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-6.unity
     guid: 4955b73281170e94eb7d60a92f400cfa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-2.unity
     guid: 4430e4c465256ba4ebf7ef533f709742
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_3.unity
     guid: ee1ffadcc484f1747970c4e8d5d6b9db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_7_-1.unity
     guid: 2a74ed7eb66f34b43ac68c98934af4fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_6_-2.unity
     guid: e00f484f419b325449e51e391b3b1880
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_5_-3.unity
     guid: aee5fdabdd1851f44b8737734c75fe64
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_4.unity
     guid: f8940b824d6ad4b458d690daaa144d5d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_4_1.unity
     guid: 9000b88eb1847af448e98863922648d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_7_0.unity
     guid: b4ae7aa6ba186c742aed47211f74b813
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-6.unity
     guid: 6cc2bb0c438c35440b3632fd65f1e7af
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-3_-7.unity
     guid: ccafd25aeb714ab4d87d0b628dae6790
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-4_-7.unity
     guid: ce32fa8bc4bbf59408f5cfee3afffd90
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-2_-7.unity
     guid: 325aaa68cda871c42966dca7f6f32080
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_0_-11.unity
     guid: 9ad865e9c90e66744b14dd817387dc59
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-11.unity
     guid: d5e962cc4f41c9b488fb8d498380fef2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-10.unity
     guid: 2355cc68d30482d4aba3b71ad3feb417
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-7.unity
     guid: 9be2662c1f81b734da8f433779219ba4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-8.unity
     guid: 24dcbb47e6fe6884aa0f57695179e0b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M0_LOD0_alpine_merged_-1_-9.unity
     guid: 1cced92d4e519ab4790bd687af70f0aa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_0.unity
     guid: b84a5a14e10ce2a49b01d0867f09326c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_-1.unity
     guid: 96e92784d813409439932c9ca66a3fec
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_0.unity
     guid: d9e9bb9a5affc0d4d8fcfee0a6ac948c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_-2.unity
     guid: ecac575d3cd72a84bbb6dab29f916358
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-1.unity
     guid: ccfa4aaa79a9fe3479fb27ac01e8141c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-1.unity
     guid: 7d9cebde33322d147b4d4e06aad9296b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-3.unity
     guid: 74c42a582af5e10439ff354b74a6b70d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_2.unity
     guid: a2a944bb2e9d29449bb420dc5f6952af
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_0.unity
     guid: 3de32706138eb1f4198176c1ce9b184c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-2.unity
     guid: 50f58401b762c2445869a22910f1d189
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-2.unity
     guid: bd3990bea6acf4947af781c3ecff8fff
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_3.unity
     guid: a25eef36454ddcb4cbd6478d2b3995a0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_-3.unity
     guid: c6d968c454975014084595da29a03f61
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-3.unity
     guid: d7001f0b27e79424789e725cc05effad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-1.unity
     guid: d6e12d76d54b599419a1ca38f78c1e3c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_1.unity
     guid: 87f6b3d67ef15664fb161b4f178aefea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_1.unity
     guid: 07cb087c5bdf52f4abcfeece20e19f44
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_1.unity
     guid: 894bedf330b8fd347b51f395267776b0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_2.unity
     guid: 80ddc41a2ac5c7148afd6b4ab68099d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_3.unity
     guid: 1bef23be33efd9940b97ce58020d7bf6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_2.unity
     guid: 3457d66655b14624fb5bd6536566a247
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_4.unity
     guid: 8bd8f53cd03df854c9a28e3032114627
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_0.unity
     guid: 1adffb992f3351f40a4a3ee758975e23
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-2.unity
     guid: dc363326f4adc0b4789236b1e0365594
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_0.unity
     guid: 3ade656198ebd0142a68ca49b5662e0d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-1.unity
     guid: 745458d42e83c76409418494b2d19034
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_2_1.unity
     guid: 43cda9ace73a1e1478148ac2f5f3be61
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_1_4.unity
     guid: 114d5c32a4b187e46b4b95d5897baed2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_2.unity
     guid: 8a97466d48e639b439a7ad9728773033
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_-1.unity
     guid: 6e00d6f207e18e54081ac7877c8c9281
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-2.unity
     guid: 412e3a2688c26ec4a8c403e6e21d4e24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-3.unity
     guid: 469ac85ea3c79fe44be220cfc97e394e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_3.unity
     guid: 3b320e6760b706f46ad239088e79aa91
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_3.unity
     guid: 2c9b0042f3fc6bd4b9ee6e2e9dc6fa26
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_2.unity
     guid: 31931350e32e94243a951bd7380ddaaf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_1.unity
     guid: b6ac2b7a43c82c04bb862abd2e0cca1e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_3_0.unity
     guid: d5175a5133a4bd24aa5934c3b6b59abb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-2_-4.unity
     guid: bd1f94195166abd499189cf49544d034
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-4.unity
     guid: 4ac0711ad2f3ec84898c5c5f56c4868b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_0_-6.unity
     guid: 686b44d367166e24dbfdbc0be4f176dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-6.unity
     guid: 40add86662463614ea77f916d332ef75
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M0_LOD1_alpine_merged_-1_-5.unity
     guid: bc8a244167864c14aa0d47ef6f0569e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_0.unity
     guid: f5c65680305921c41a1f3d2a89bad48a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_-1.unity
     guid: 16e0e695e8bc4c940a95451edad1340f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_-1.unity
     guid: 03f7c98153e911a479d77c598a004405
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_1.unity
     guid: fc1aa86ed73dc4345a46a58c3d39045a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-1.unity
     guid: 87a20c4408f0cb049953c533130b7d28
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_0.unity
     guid: 57cc157810c610e4fb93f921acd57fe4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_1.unity
     guid: ba38500a282fc5d4f8021ab117118ecc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_2.unity
     guid: 8f1c30612c6436e419f65d7fe2cbe214
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-2.unity
     guid: e36c519b4bdb30d42af2ef80e6b0e75a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_-2.unity
     guid: 38d9746403212494a924b192c7cb156b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_1_0.unity
     guid: 58d18ea92b544a54ea8c6e8abc2b24a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_1.unity
     guid: a80b42ba184acae4cbfc174496c31387
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_0_2.unity
     guid: eb068eb0329e3da4eb236cc0aa8a33ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M0_LOD2_alpine_merged_-1_-3.unity
     guid: e817d2c03fc43ab43a07def168a50171
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_-1.unity
     guid: d1d9ebdedd0435744ac18c210118e74c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_2.unity
     guid: 15edb7a5a5677294ebc464b2f451eed2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_1.unity
     guid: 13f3b82b545486d4381a44d284330313
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_0.unity
     guid: 14a1a8c18875470458a1af1b2512c18b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_0.unity
     guid: bc38ee3836354fe40a0c37febb47c24e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_-1.unity
     guid: 3ecf7dc95abf0034f8236ef4b5668f9e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_-2.unity
     guid: 620a18eaa3c9a794ead3461e7e68541f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_-3.unity
     guid: 4409bb09bae9a4b4ebaa0c9b4351c8c5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_-2.unity
     guid: 8b9176f034f9b5f46ba56e9d3ff246a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_-3.unity
     guid: f586ea301e9d77b4ca575c5faa1c9243
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_-1.unity
     guid: 0123d5672fe9df5408e908de497bb72f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_-2.unity
     guid: e48d6b12210137c46a3add57317c4a76
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_1_0.unity
     guid: 3aa3720848c288d4fa2d9bef2e891d81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_1.unity
     guid: b624468cbb6c8a949a69f43270fad8de
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_2.unity
     guid: 035532cd82277c74fb228bc50c0b9fb4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_1.unity
     guid: e4cd9aab1cf82484480d9512c2ccb07e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_1_-2.unity
     guid: 8b6c3cf410538524787faeff61045b82
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_-3.unity
     guid: e9e2854faaa24ef47a1ff9e3c8e224ec
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_-4.unity
     guid: 7fc2b339ae7f963439a0e4a2f8eaaa6f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_-3.unity
     guid: 78aaef643fd4a5846b9b4f5a894d7a98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_1_1.unity
     guid: 0b33c7c19b570274cbd5748b9169357c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_1.unity
     guid: 9c93ed05e460fa4408eb8e5781cc65b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_0_0.unity
     guid: 6f754675d2943da4486cb5e570a9aadf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_1_-3.unity
     guid: 600f922e9ecc8234bb5d9780ff05f0a4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_1_-1.unity
     guid: 42b9ae8f131a6e044a334c2a5736fe68
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_-1.unity
     guid: b6554c47dfdde5f40bfd972123b3319a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_-1.unity
     guid: b6e99447e0840b147994cbd74078f1a9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_-4.unity
     guid: 5a1de0571a2ec1e44981d9e62e31a302
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_0.unity
     guid: f7c07c03f77bd094b81b45fc09de2517
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_2.unity
     guid: 1ce5e7fe802e03941b247fde3565b3bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_-2.unity
     guid: ab3c03bc8a35db3428a44d6768407f37
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_-3.unity
     guid: 736aeab8316f5d74c83eced3a6033be0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_1.unity
     guid: bee9f70544e061f49850d94108400481
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_2_-1.unity
     guid: b4771b7a30b8908488c3f130d8cee2da
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_3_-1.unity
     guid: 470828038d75d2047a9ab6d688ee88f4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_-4.unity
     guid: 0ac842e26293a21448d894b2b6369dea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-3_-4.unity
     guid: 78b0be87c8ee94e458f6c8892589c19c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_2.unity
     guid: 42f1e499372431f46a46c71f35d952d3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-2_2.unity
     guid: ffac21e7fbd1c044b861ca5892144c0a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-1_-2.unity
     guid: 76ded689d3c9b224994ad617188c66ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_2_-2.unity
     guid: ed3ec63d3f502b646b89f9a027b93871
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-4_0.unity
     guid: b87e88bdd36543c43baa6fcb0dc46f4e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-5_0.unity
     guid: e2c6447a4b64c8744b6a9840dab2693b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-6_-4.unity
     guid: 548d452fbffdc874a98d0ab574d1728a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-6_-6.unity
     guid: aa5fcd9c20ea3454b9c50dbf202bc3ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-7_-5.unity
     guid: 056180bf6b2369c408fab29308561a27
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-7_-3.unity
     guid: de075b5ab18eaf345bb7c5cbcf407f42
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-5_-2.unity
     guid: 163ec8650465b9a48a86d3ded79734ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-5_-5.unity
     guid: b8d1e642f9bfa844d9b2161c7269fd83
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_-6_-5.unity
     guid: e15ab41e126d5494d8f9feeda68eb879
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_2_-3.unity
     guid: 0f24bfc3b844c864495307e884a6bffc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_2_-4.unity
     guid: e03266df97114a04694454f0be8715bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_3_-5.unity
     guid: 959e46a43e408bb47bef26f77bc52a4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_4_-5.unity
     guid: f1cc2ed3a184b4446aa869a22cdbd05b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_5_-5.unity
     guid: 0197c1f3723923f4da5276043802137b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_6_-5.unity
     guid: 80e2dfd4b7123384b87c0b6f18bc9139
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_3_-4.unity
     guid: 76b4255aa58fe154da248c3ff128560a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_2_-5.unity
     guid: 778b4e53322d64a4491f7b771d111ec9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_4_-4.unity
     guid: fb5478b5b98a0614ea57efbd8ac25e5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M1_LOD0_townhub_merged_5_-4.unity
     guid: 837edfaeba41b9d44a1547752fde1017
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_0_-1.unity
     guid: 7789b65dabd3a264b895108f3c08c6d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_0_1.unity
     guid: ac743fdbe7c6c5845b59e4ad00384a7f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-2_0.unity
     guid: 630704493ab09b744a54ab5d44945d03
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-1_0.unity
     guid: b99c60b12e6ed0a49a807153623a9917
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-1_-1.unity
     guid: 0298976ec0743b8479121034d9df2a81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-1_-2.unity
     guid: 5e5549f5d361b7844bc799460a1b0684
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-2_-2.unity
     guid: 76de5e7475a0c634d9d3f21c48064a86
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_0_0.unity
     guid: a2cbf2d96472a9647a5497700e48445b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-2_1.unity
     guid: 01ab8999cfb7b8f4bb5b23816e1e76bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_0_-2.unity
     guid: 2856f215a46af3a4eb864ff7ebf5fa07
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-2_-1.unity
     guid: ce0af03bd60da9642a92815d5f0515f0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-1_1.unity
     guid: 15407983dc1ae6840aa49677ec8fac24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_1_-1.unity
     guid: 70b05e8727f4c1c4d9aac65d733617dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-3_0.unity
     guid: ba8a603cbef491b4ab00cd224fa245fb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-3_-2.unity
     guid: 79f2116a8ad62ec479a515bc14c7c414
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-3_-3.unity
     guid: 4ac72f63c3518e74fb554b7dec51499f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-4_-3.unity
     guid: 1eaaf937c83ee62429a82d93aeed6552
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-4_-2.unity
     guid: 7ed9200bb9891684e8cf712e8128a64e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_-3_-1.unity
     guid: b0c98ece935dc974587f35566096c241
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_1_-2.unity
     guid: b0bb88f0e3e77a34cbd20c6fa62727b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_1_-3.unity
     guid: 36a55c97df2cd994b899cf5896f9fa82
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_2_-3.unity
     guid: dff1d0414e4e78947a23f11c5f97e2d9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_3_-3.unity
     guid: 1901b2c61dcef5041981ecfed29b1d7e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M1_LOD1_townhub_merged_2_-2.unity
     guid: 981ad2b78544ba04fa9d534abd43636b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_-1_0.unity
     guid: fa00769a8bd259049abff286ef951501
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_-1_-1.unity
     guid: adc020d35f76aa24bb26c1f6d6e8208d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_0_-1.unity
     guid: 254cb606545c45746b70211957a73c94
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_0_0.unity
     guid: 55713b61250a66b45b08593ea310e398
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_-2_0.unity
     guid: c8ae627c3ed10e943b6acddb2aa92407
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_-2_-1.unity
     guid: 19c4fdb5a835f5e42b8b02325b42ee85
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_-2_-2.unity
     guid: b1760a6d7985dff469b5defb05ff3db3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_0_-2.unity
     guid: cfed0704050f6114eb75979eeab2f659
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_1_-2.unity
     guid: b196ca562b8d9b4448aea6daa008eb1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M1_LOD2_townhub_merged_1_-1.unity
     guid: 54f99626262748c4d98cd8b26c8b10e4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_-1.unity
     guid: 8934c84d464e5374a88bceb78b3443a6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_-2.unity
     guid: e6b001f1f1ca5f449813f1e9159c66a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_-3.unity
     guid: c074c7e028375b84a8c175b7d5f5dd9d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_-3.unity
     guid: 52b9fc2d91c35f94ea7e42c02cad8e57
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_0.unity
     guid: c45cb56e32e501c4095081203cc237c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_2.unity
     guid: 3374f2092cfa85440b439aea2fe11086
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-1.unity
     guid: 4fdd1f0493836a44c88aeba7ea9ef553
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-2.unity
     guid: 96ceb50c517f6024c89157c60fa6ac99
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_-2.unity
     guid: 74f5ed1c4ba56a94d8898629d445725c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_1.unity
     guid: f9a888f323a8f3c43906e5bd3c6c54bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_1.unity
     guid: 5a45572f2b7f9fd4082d93ae3cd8b45f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_1.unity
     guid: 7a32b2819f4270240a55d11fd300de15
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-3.unity
     guid: 47893c88e307a86489229aa9e21055c7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_0.unity
     guid: afc1c4800d6a4474cb4adbc646761574
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_-2.unity
     guid: 0d6610423d5096045b1e1972e6e71641
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_0.unity
     guid: f1b6f09cc8542884692e76a1b0cf7652
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_-2.unity
     guid: af837fc05bed5fe408a2fe92b31f34b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_-1.unity
     guid: e84b8d35b22c2594a9e1e78d98757504
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_-3.unity
     guid: 9560535c144e3924180ab23abc4ec75c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_-3.unity
     guid: d47f227946028b94aa6dddf150a188e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_-1.unity
     guid: be8ad404b6460db408c0056c1cc28c19
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_0.unity
     guid: 7ca19845cd153bc409a6d4b374e31fa3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_-1.unity
     guid: 44a4263012feee84bb4f21e7330f9cb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-3.unity
     guid: 3a5007f05a750cc4989f4eea5d7768d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_0.unity
     guid: 4fee799c379a3674ab02324573ca2d8f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-2.unity
     guid: a04b0e5ca47d4c34395679e1efbbeb6f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-1.unity
     guid: 0e6e47ce62e493140963a75bf8778b75
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-4.unity
     guid: 3f7f71c6579f5a54b8025930eb4ae04f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_-3.unity
     guid: bdee0bdeb8cbd8a4897f326f8b4d6d8e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_-3.unity
     guid: 9fff7124e6ed2bd45bcc164cc78c5ba8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_-1.unity
     guid: 260b8fe09c8e95646a1737a67124a300
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_-2.unity
     guid: 0f722a1a88baeb64f8d284fbb8d0025e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_-3.unity
     guid: 93d568bb25209974db706cbd359c13b3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_-3.unity
     guid: 37b6717374228f240b2f3232a05420c5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-3_-1.unity
     guid: ff49d466887b233438066059155888b0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_-2.unity
     guid: f9b532becd2159342ab1969353f71068
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_2.unity
     guid: 7fe43f198b97cc644b2b284c2844e96e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_0.unity
     guid: eb600d07aa2a9ec4cb69e350eedf4963
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_2.unity
     guid: f895873e6495c1c469cbec43a58d345f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_1.unity
     guid: 2af03170c7ffbbc44896557ea922a730
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_1.unity
     guid: 11b112f39b8b9f848a622e9bd5c30ba7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_2.unity
     guid: 53579fcdd36d06443800a26ec811d2e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_3.unity
     guid: b83b5a2cad5b2d047bed7494a20d4c23
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_1.unity
     guid: 30fc298b52662274c93b57044ae29190
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_3.unity
     guid: 232de5a44d9a2e948a080b580aeaaa3b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_3.unity
     guid: 89314c926fd813c408e67665228ac35f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_0.unity
     guid: 0d07ef5e3809a4c4d8b80a0d992fadf1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_2.unity
     guid: 865c6aea323adfe4f9046e377b09a686
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_3.unity
     guid: 4451982ba74ecf040a83f36c4fd3a9e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_3.unity
     guid: 059a9574aa4015e40b95c396ef75b8c3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_2.unity
     guid: 3ea4932c1cc969546a097b9c1e5266c3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_3.unity
     guid: facdf41052c93ee45b3e8dbedfdb27db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_4_4.unity
     guid: 74093969534c20743958b26d7fe0e146
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_2.unity
     guid: 2d92d70619749e24eb0d8377fea33b5f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_3.unity
     guid: e7eb7d3866a257b44823a16c7b91625a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_3.unity
     guid: ed3ece601002e6d468e813d23252a05d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_-4.unity
     guid: f61bc227481fa144bb99b15cdc40aef6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_-4.unity
     guid: 4e2905010ef0be247a05786df8ed529c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-4.unity
     guid: 992fd555850bed544a1b3342e69403ef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_1.unity
     guid: 46fd25f3ad38ca94cbd513f0eb632c2a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_0.unity
     guid: da351cc1ab942c742a511359488dd984
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_0.unity
     guid: 1dc5192df32cf0340b9f87505e0444b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_-1.unity
     guid: a7fbc6f86eb581e4b9f7a00a9a991ee9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_-2.unity
     guid: 3e4524d9970021b419ff34b7080fc71d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_-2.unity
     guid: 2c1d52c28288f7542bdc634140d9df8b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_0.unity
     guid: 6f70aaa455cc13c458297cfa7a1da74f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_-1.unity
     guid: f7b20c0c39a2b184f903925c9161b0f0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_-2.unity
     guid: 1dce0d95c81d59b468367a5ea406bfdc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_1.unity
     guid: 8f063adf34ff0124086c43b5e3eb19f7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_1.unity
     guid: 238151de96da89f4fafcf832787255dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_10_-1.unity
     guid: bee4193db96b3804f81f359d039de3e8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_9_0.unity
     guid: 7e01c8e0556c41447946813cec632cd9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_9_-2.unity
     guid: efc1acc97a5ac524fab51f22288985f4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_-1.unity
     guid: b70504dca8b0eec4f9af1747f02eff65
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_0_4.unity
     guid: 438df45e0867cb141883b4c46c85b07a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_3.unity
     guid: 652c09d13f85d6e478471100ca866c43
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_2.unity
     guid: 9b17843d200286c43917621633c2abef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_3.unity
     guid: 09d63f39adf03c945a06f1bcbb7a102a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_1.unity
     guid: 2e818ba1a75015046bd2ddcfbfaa928e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_0.unity
     guid: 7628607f0af6f53439c0da2483deaf0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-2_-1.unity
     guid: a9077f20302bc0e46b8117fa8de78deb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_2.unity
     guid: 2f51ce5e63f9a944b96eb41113d192ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_-1_4.unity
     guid: b0883e364cd61ec4ca9c310a9115c3df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_4.unity
     guid: cd0dfbf35f36a1241ad034754f1fac3e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_3_1.unity
     guid: 5ccae719f55fe7647a94624339d1c2a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_4.unity
     guid: 2af373d84e2fda04fb2b4a73751af892
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_-3.unity
     guid: a64883eb2251c2a4c803e58380ec0c64
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_7_-4.unity
     guid: 7529e48ed8de3ee4c96e2b63b6769390
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_9_-3.unity
     guid: 7960c8424505ce449bfa3e890c12203b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_5_-5.unity
     guid: 6a5505c33145b114690f6688fe41304f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_8_-4.unity
     guid: 5006df4526b833f4f95f5f2be6078ef5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_-4.unity
     guid: 431983e3dc0f4ff4887f2e868b6c756c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_6_-5.unity
     guid: 2da66c7f5827526449ff214203f65346
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-7.unity
     guid: f4096df057be8744eb9f0cfe8c24c158
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-5.unity
     guid: 16eb54fc31fa95d419986cbfb588a69a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_1_-6.unity
     guid: d8044b49406dc324dbdd0220ca2a5897
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-5.unity
     guid: 9f42c1bcc723e284498c4bd3f135f829
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M2_LOD0_canyon_merged_2_-6.unity
     guid: 3c9eba6b015a01141b0539ea68931e5a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_0.unity
     guid: 47b5a9b5019ca814da2eafe4cbd0df2c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_-1.unity
     guid: 3ec53452a08199746bf7e0b141e22a59
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_-2.unity
     guid: 88184d3e23d0b474cbc0c10ba3c1e936
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_0.unity
     guid: f9d53ac370dc4a849bea391630b03f80
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_-1.unity
     guid: 79c690d0d998ba64eb4cfc8d0c1a9968
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_-2.unity
     guid: 3c2f0b417bc64514ba79f21d9c4a382b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_-2.unity
     guid: 080ddefc74f3ebc46875a04fa55edfe2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_-1.unity
     guid: 1c4fe2105ffeae4429c7dd22ea728a51
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-1_-1.unity
     guid: 5f74c44d9c122714c9e68137dc6973f6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-1_-2.unity
     guid: 678365a3c69bc494eb48a7677734d851
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-2_-1.unity
     guid: 250a61ce0a22eab4ab52f09bd842562b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_1.unity
     guid: 5654d5e80194cf941bb19a825d6ed4e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_0.unity
     guid: 7ee3c539328077b419fb7a9fb8e07054
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_1.unity
     guid: 76cc1d111239ec44c9cf31b0fa5d9665
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-1_0.unity
     guid: b436d3c308232a74ebe201736e468f78
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_1.unity
     guid: bc1041984b3570e4abfe05265c54d31c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_2.unity
     guid: 8c8ea6d4711e31448bf6d80c8dd4f40a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_3_1.unity
     guid: e639304ac4c83ae40b5a7ae9782b6a9a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_3_0.unity
     guid: 449c1067f087e0641923941d865e49e7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_3_-1.unity
     guid: 96564a863c76ee245b195540011cb2cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_4_-1.unity
     guid: 1d11dc0cef53a3647925f152e8377af3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_4_0.unity
     guid: 5b63ad6186d641142b172954015ab7bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_5_-1.unity
     guid: 56c5419489a6b4b4ca723edd3a765c30
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_2.unity
     guid: 7d814b67ad8d59a47ae2163200eb036e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-1_1.unity
     guid: d9d9eb4fc9820e349a616cb441d81bd9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_-1_2.unity
     guid: 4a7a18fdb0312524ebde7b3ae62e5f3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_2.unity
     guid: 16a109d1bde80a5458dd8ed46ed2ad53
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_3_-2.unity
     guid: 77cc095b4d9fc9f408c30fcaac12cd29
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_4_-2.unity
     guid: 4823977e45cd82f4b8ff97ed9255a6e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_2_-3.unity
     guid: f6d7876293bf03141ac2672e69ddab72
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_3_-3.unity
     guid: c5b048b6ad253d54a85a657655d9d942
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_-4.unity
     guid: 7c208ad2c66513b4389101c385802c96
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_0_-3.unity
     guid: 2b331e7170aa59a47890a71c10c89710
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M2_LOD1_canyon_merged_1_-3.unity
     guid: 4f92d2379e91ee349a4f696510b894bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_1_0.unity
     guid: 6143c62e2905d854ea5b4456d68ac81b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_1_-1.unity
     guid: 09e986ea9f4abaa4c92fee6bb4f107c6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_0_-1.unity
     guid: 0bcb3ce91733baa4f9997976f33c25e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_0_0.unity
     guid: 958e50ddc224b1f4d9dbc28a64f1933a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_-1_-1.unity
     guid: 10ec4c5bd64dba04aa39cb3831141a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_-1_0.unity
     guid: b343082a27bb8d2419cc15b259d996ef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_2_-1.unity
     guid: 78f11ab6bc9b01445a3932bc3edbe681
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_2_0.unity
     guid: a953a8b41bbffb742b14561f78e40044
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_0_1.unity
     guid: 2eec0c93dc29c894da588e6ce84a5e5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_-1_1.unity
     guid: 08d7a8e5b824637448367c57fbe1de45
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_1_-2.unity
     guid: ac82a5b5552429c428baa60727f259f7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M2_LOD2_canyon_merged_0_-2.unity
     guid: 95721e1870304f6488cd6587142a9da8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_0.unity
     guid: de6173f3f8f162e459b4c47e68815e8b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-2.unity
     guid: f6f77e78cae87dc4fab2fc6e0e7a462a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_0.unity
     guid: 0f1d7c3056bfbcb42a69ed030a3778a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-3.unity
     guid: 5fbcc5f92edad954b9d9bf7ef40e1fb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-1.unity
     guid: 37bb6d51396ba1f49ae74561e1a7f551
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-1.unity
     guid: 7de86483dfc096d48ad7ab196503c3bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-2.unity
     guid: 8e193238356515142a1d9a5e66a3f3e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-1.unity
     guid: b5ab50f67d136c84aa302cd5a95f8ed2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-5.unity
     guid: 7f903c13c4a09164e9ec2d7396ee61f9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-5.unity
     guid: b3433805689ce4b4ab1bd7eb0f77070e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_1.unity
     guid: 5e730b8d1c71cd7448bc650cbd5ef4e4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_5.unity
     guid: a73c0e3eb50d4dd4faa527ad17a1836d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_4.unity
     guid: 81224a740ac752343906431daac64908
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_1.unity
     guid: af6f371d36561ae4c9f4a9de4690b35f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_1.unity
     guid: 6de2d1f3428a06042ad311cbf53b354c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-4.unity
     guid: 78fc69139778df84084c580acce20a10
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-2.unity
     guid: 26f829cd39dd49848936737a54f14c3f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-4.unity
     guid: 2fa277cc72bc5754d9d1fe43320e87b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-3.unity
     guid: c4919eaa737cfa6408e433fc066edd42
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_6.unity
     guid: b073d325f7832594088d4a916c600e9f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-4.unity
     guid: bbe5f582adc5ed54c938d8f6d9d52501
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-5.unity
     guid: 4c746d8ff4c338a47a41b3723cf35e98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-5.unity
     guid: e3109d6a856917b438cd5c24bc918d09
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-4.unity
     guid: 9220f84962edddc4c852accf0c75049b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-2.unity
     guid: 2ce06be3a8da03e40a27e98b6b975a39
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-3.unity
     guid: 5ee2cf6a776a4314e81a24001c9c8250
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-1.unity
     guid: d67eeb6ea697ec447b5d46345f21214a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_1.unity
     guid: 91004768d66e45a44b1833ddaa542258
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_0.unity
     guid: d7ca3f1f159d1e94fae9cc412ca253a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_1.unity
     guid: 5980e9725e1b46145a64b584bee79faa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_0.unity
     guid: 81fc99af1505d1041ae3107515ad4bc7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-6.unity
     guid: 391706f6b67a9e54398810fa6e9f7d5a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_0.unity
     guid: 4975e2cd1b254fb418507937ba4df4f4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-1.unity
     guid: 49057713c8cc7b445a611f6dca29c26d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-1.unity
     guid: 0d7cba4ea824c6648969b8e554911669
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_0.unity
     guid: 54fa1359eec6d9245afe0cb33c3daad5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_2.unity
     guid: 8c2477a5d2899f640906b1418473b18a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_2.unity
     guid: 554369c617032d54ca15992c6801c11e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_3.unity
     guid: dae7882f90985db40a2e919e108354dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_3.unity
     guid: c758413ef32bd334c820c0ca2397131d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_3.unity
     guid: d7306f64b4033e049a9cb05102a2b8be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_3.unity
     guid: 1da854514273e14408f94c4f49c5a458
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_4.unity
     guid: 29a0a5dfbed86664d8db5884267ff83b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_6.unity
     guid: 038793e14125b814885b022b0273e8ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_4.unity
     guid: 4eb8dcf11de39804692950c008e95e96
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_5.unity
     guid: 8f694c001bffe1044bbdf3866cb4b684
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_5.unity
     guid: dcc4a6c9af0e26844bd7edc16ae636ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_7.unity
     guid: c476fbbbfe6c76e44aa62b93fd366d6d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_7.unity
     guid: fad78a0dab919724cb64f3fdfa8b8d95
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_6.unity
     guid: e33ba2eb4c170be42ae53dcca47e833d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_6.unity
     guid: 9fa45d564136fbb48a1342a1e7a22b51
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_7.unity
     guid: 639eb4c9ef1749a49986312fd99b1ff3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_8.unity
     guid: ffc8fc42e6f7dde40897ec4e94e6e504
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_2.unity
     guid: 0b3f5dab57d9ced45b91e4b2c842846e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-6.unity
     guid: fbcf1866f0ce3f64395d72490cb0a4ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_8.unity
     guid: 713f15ce2c6ca3c4ea1795603f0f7c24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_-1.unity
     guid: 2d712f378e2e80149a2bba975170e26c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-6.unity
     guid: 0235c73c350b8d149b1c115153a32aa9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_2.unity
     guid: 0173bfa140ea06b45a18b6aa3bd7b64f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_0.unity
     guid: 259adf489fd22044c866823e9dba6cd8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-2.unity
     guid: 12b0685138eaab44db5430e7a4831667
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_-3.unity
     guid: a22c8836a56a07944bf2bc369c3c212b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-3.unity
     guid: dfd7267736047b54fa98451f9b469519
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-4.unity
     guid: 3965d4768204ec64c939cc8671a674d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-4.unity
     guid: d76a6868e60d046438995c99066917eb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-2.unity
     guid: 1f1d934259691a545b390d1f244dc117
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_5.unity
     guid: e5e1f6109be5d91439bfa398d128e933
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_0.unity
     guid: 8525344fff76ad24eb8c1593c3982cd3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-3.unity
     guid: 234d8a15912233a46b9bac83559e4c2d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-1.unity
     guid: 1d0851fbaf638c747922ceea883f1aac
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_-5.unity
     guid: 2b6d984b3c50c7949a55b75480e7d795
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_0.unity
     guid: b46ff9f46303b2b468ac7d9d617aa47f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-1.unity
     guid: 01af93edc2af41749a0d0b29e1ac0568
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_1.unity
     guid: 977817100bd6adf4d8d3afde25492e9d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_2.unity
     guid: cf3aa31bfc4c7aa46b49d66b1e74a6b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_4.unity
     guid: b5e89539a0b7d664b8453b40ae9a1f20
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_3.unity
     guid: 86d2948a7f8f6404ea9cd14ae8aa8e5b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_2_8.unity
     guid: 1085e0c0fd86b794c8d115cb27909214
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_5.unity
     guid: 90a244ea9eb6b92448b0fc6e40577667
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_4.unity
     guid: fddcf9306e9a7d54083ed560f43f5f1f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_0.unity
     guid: e4cd40a846d1cb440a03499291737917
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_2.unity
     guid: 3d4b4496f77e0684fbc6c2bc21234e84
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_5.unity
     guid: 43d09a934fb93de41803a6f6ebf91fb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-3.unity
     guid: a2a6db29ff9671e41aa3c602c4843220
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-4.unity
     guid: d77880ff647986441b1c1d0182906181
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-2.unity
     guid: dbbfb31c0ce4b4f41a6ca9bc34c3a877
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_1.unity
     guid: c4b7462a3e6312a46b0ceea5f1105d83
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-1.unity
     guid: 7035703c3d1ce8f4ba79b24e881f2abb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_-1.unity
     guid: e698844fabe797e43939d528fd279016
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-2.unity
     guid: 07acc2f69cc95eb45ac0ac276abe8454
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_4.unity
     guid: a81dae8134309f742b7f4b7c9c7fff47
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_3.unity
     guid: 405f94a43b91660428b51b0b929c7dba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_2.unity
     guid: a085ee27c921bf14e84f1f911d616113
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_3_3.unity
     guid: f59611c54e339094b8f43c90a5f4aec2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-5.unity
     guid: 2eb2016cb201cae4a8176f062fe1813b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_-6.unity
     guid: e757b40bbeec046439a9b3aaea2a22c1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-2.unity
     guid: 95cb5dc0852986147bcb565a552f6d5b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-3.unity
     guid: 8e4abf5ae7093374d9129ffad1517b17
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-4.unity
     guid: e6f29580dd01d7145b8578444ab9a1e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-5.unity
     guid: e73922e632b854e40a4481e817820efa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_1.unity
     guid: 524d9d28bc8cce24db5861be95c11e11
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_4.unity
     guid: 96a98631ada042147aa73a7ec2429ac1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_5.unity
     guid: a594cbdab68f37840b1bb10d99c10ac5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_1_6.unity
     guid: 300a40ee4ebcc344f83a89c5f841c85d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_6.unity
     guid: 113c17f241ba29a41a86c1117c5eebf4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_6.unity
     guid: 8c3bafa99ae114249b321f504f60d505
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_5.unity
     guid: a9fbd256ff21bf543ae99f5261e6a965
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_2.unity
     guid: 8d8b4cb340c54b246888d3c98638b44e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_3.unity
     guid: a9c43b52c8bbc94459937e170d038c35
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-5.unity
     guid: 3cf88d3feb7d0ef40a9797522a27330f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_0.unity
     guid: 37386a289499cb54b9a5f9de1d215fd4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-3.unity
     guid: 9d83a1c2c9f43624da0edbea26ce6e25
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-6.unity
     guid: 990450bd97c798b4a99ae55c4bfa53ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-2.unity
     guid: 343e8f82733a35145804d82a75b7744c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_3.unity
     guid: 4892aa446069e2646b9da03de79a2fae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_7_-1.unity
     guid: a9ffd6f97fd64954995cf7eb541cbb37
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_6_-2.unity
     guid: 3bba98f06cd92df458f446d37fb4450a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_5_-3.unity
     guid: 5a112aa69964d2a4ab54578faf7419be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_4.unity
     guid: abf080ac9636f9544a5b36668c5fe199
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_4_1.unity
     guid: 687d550e0eaf1624d9ddaa2d66d092e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_7_0.unity
     guid: fa471276b3f241c43bdf4388a5f4c403
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-6.unity
     guid: efd1acab36a707746a5582aca8a2dee9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-3_-7.unity
     guid: 707eb3d611b9f36458385c2a964be9a9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-4_-7.unity
     guid: f518ff2f599678f44a533f1fb5085cf7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-2_-7.unity
     guid: 0946de8464e6b13449fee3b4092ee7ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_0_-11.unity
     guid: 485adfc4804dd524596c2ff78193c611
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-11.unity
     guid: 0578a7ac08d15fb4d8bcce0aa4c1301e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-10.unity
     guid: 9952f57948e95a346bd016b7bb723bd8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-7.unity
     guid: 30db38382c413644d8848e3520db3737
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-8.unity
     guid: c037b27f8dc52434c87116dd7d2c2219
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M3_LOD0_alpine_merged_-1_-9.unity
     guid: c5347749d424c6a4cb737dc329aab055
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_0.unity
     guid: 06c23676c75c74a43b98f61101df89a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_-1.unity
     guid: 72c87bf2d9e9c6344b637f9407f32077
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_0.unity
     guid: bdddc85e3c1c24a4cb5014e14dd3341d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_-2.unity
     guid: 1d59f77cc2addbe4d80c81858647912f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-1.unity
     guid: 14c1f6783fa6fc54d92c5b8b4c9082c4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-1.unity
     guid: a931e90da979bee4daacced71dbe132a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-3.unity
     guid: 320e4280b8f33e645b1230716c535957
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_2.unity
     guid: 2211bfc363786cb439a16e87e036b5ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_0.unity
     guid: 480a421f7b3cf4048b17b4c414bab8d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-2.unity
     guid: 3fcfe49e76674564ebb07862a351063e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-2.unity
     guid: 41418bb97ec7a1749875bb08622702bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_3.unity
     guid: 0a908dda496d2f2489d3fb7ef34af4b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_-3.unity
     guid: 1e72fc0b141792f47bbcf57fcc125160
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-3.unity
     guid: b2004df6410b0d84292f30030525b0eb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-1.unity
     guid: 87542a7db0f8a5a43918a5975a3edcda
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_1.unity
     guid: 0b3a0be290304d047a7ecba020f95a1d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_1.unity
     guid: cc77253271fd3cf40bc8d1ebbee760d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_1.unity
     guid: 4d5a84bf03d70384e81f6c70e06688b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_2.unity
     guid: 68d2f45f335890b4981a70804a6f83ef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_3.unity
     guid: 2c62e98c9a7433442817816788c1318f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_2.unity
     guid: 7ad1a7bfe5e30554e9a84375bda60207
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_4.unity
     guid: 12a7df883492fcd4d969dfc6d47170d3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_0.unity
     guid: cce7a7b648a0a8448b059c91902c9707
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-2.unity
     guid: a9f16dc0f4c22ee47aa7b8cc3c5b9734
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_0.unity
     guid: 856f7958e37e6fb4eabbe45ae9ba4c8a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-1.unity
     guid: 0158bcfc3c60db34bbb2a8c99ce40cd8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_2_1.unity
     guid: eab26d5b5ef18d347a2354ad86d245fb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_1_4.unity
     guid: bd32c5ec401071447ae168b642b61a32
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_2.unity
     guid: 6e82665cca2d7104eb42aa05c67306ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_-1.unity
     guid: 5bcf084ff0e68b242b89ef0ad1a305a8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-2.unity
     guid: 9b85ab3008376874f834b9bb98cd4acc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-3.unity
     guid: c29f768a775627342be6e4313b46dc32
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_3.unity
     guid: 1d2d2b11e37533844a0691aedd604a5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_3.unity
     guid: d1883b75b577ab94385d071a47e8e8c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_2.unity
     guid: 0f7c6a4960000af44a197ac3c70097e4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_1.unity
     guid: 27d335baad62195409fed4ac08c8b5f8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_3_0.unity
     guid: 8ffa8ba751b7edf41b6e4273cf383569
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-2_-4.unity
     guid: 428e21b77e6b1e84e9ab986c46011863
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-4.unity
     guid: a96ac9e14aebb7e428265ebe59d028ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_0_-6.unity
     guid: 22d1e616109896f43be6ff42e15049b1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-6.unity
     guid: c99d5f29e7f58784fa70fc5bfd367a23
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M3_LOD1_alpine_merged_-1_-5.unity
     guid: 7899d1566aab5cf4eba621795ec70262
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_0.unity
     guid: ab3d82bf50a646144a25e543cc9e9bcd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_-1.unity
     guid: ddbe044b8b0211b4e9d50fe8e8ef1e53
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_-1.unity
     guid: 54b6e1681efe0a64398c7147b75f244c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_1.unity
     guid: efee2c94c85562f4fa9b7909ab4ec199
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-1.unity
     guid: d8f42e6ac727de047911c10048f0b367
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_0.unity
     guid: 7681d6e40d2564945a215345fe9d600d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_1.unity
     guid: 0bba2b4c5a4081c43a1a8262a8b45769
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_2.unity
     guid: cfe71e725b1182d49adf50c1f8d6d336
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-2.unity
     guid: fd66f65f0214860429a8a0c3a4b4a345
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_-2.unity
     guid: 09c954fa1c19742408e14b34039e5b4c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_1_0.unity
     guid: b4426f2760c36f146bae9f44ccefc9e8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_1.unity
     guid: e18f12a3daa943440aa10cbdbbdb5f22
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_0_2.unity
     guid: 8ba6254b23bf59d41acd47d59cbdd23b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M3_LOD2_alpine_merged_-1_-3.unity
     guid: 10838c60058a2d045be9dd2d9dca6359
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_1.unity
     guid: d1c788855b2bfd044bc05796e6595447
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_2.unity
     guid: b36f068a733715a49837168d10f2cb7c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-2.unity
     guid: 00044e98aa745484e8614533f7976f65
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-1.unity
     guid: 761448b7e31a6da47a314a1c72e86545
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-1.unity
     guid: c56326525fcfdde458bbe159bbaa5a81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-3.unity
     guid: 297d8d0cd4fadac4e9ee32386d5c3633
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_2.unity
     guid: d5c446e0f36b5a341acd043baffcec3e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_0.unity
     guid: 9e7cc87a72bed2444864152a26836ae9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-1.unity
     guid: 8dc3ddf7434de02458ad299fcf1c0058
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-4.unity
     guid: 5072a2b3dd95b4e4fb20fc9562feab86
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-3.unity
     guid: b9fe0c9a8f2ce43428e2bb655dad018c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-2.unity
     guid: 3da018e04f156444fb09cdcb63e63b93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_1.unity
     guid: 66629892de4c2754d89774f2cde42457
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-1.unity
     guid: 7f82f4f0be0312345aafbbb7889636dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_2.unity
     guid: a0668a9fcfd451a498acf1f0e1ffaee8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-4.unity
     guid: 4fd69967459bb324f8dbd879a53afd1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_0.unity
     guid: 448abde14f0442b43a6dc94405836d75
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_3.unity
     guid: 4be44201e9d3fdd45b9bb9ed40eeff29
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_2.unity
     guid: 37d8dc1a9ea022a48a81600ed27b5bae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-3.unity
     guid: 3abb6effed15d6142959a8ab9066af07
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_0.unity
     guid: d0169e787be572b4bb2d0ee59b7c5d64
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-2.unity
     guid: a745378c7a0d30646ba009cb9b569956
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_3.unity
     guid: 225e63c0a2d1e1c4b90c918d105c2e51
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_3.unity
     guid: e48f367aec0beb74f9c7f905b6e810f3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_3.unity
     guid: a35490ff6dd8e2c4f8f694fd5f5213ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_0.unity
     guid: 14bdc6e8d72e2aa42bbeaf26fb0c6b60
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_2.unity
     guid: 2e18800edff1d6f4f8dfa2344f559535
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-2.unity
     guid: cb9de1b6ff5e05545af240b57866c0c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-1.unity
     guid: f8ad9731bc1855e44879f82ac188d1ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_-1.unity
     guid: c1686b9736857aa4daa5dda21bcffe21
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-1.unity
     guid: 253f9b896a5971b41a48270ff6d0ca20
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_0.unity
     guid: dfd4485de0d7ba5419104474b0b42d9e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_0.unity
     guid: 846b8c302f3d09844b76ae9327a1beeb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_0.unity
     guid: 56ce7b937a11dcf49bd8fedcf269c5f6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_1.unity
     guid: aef20d66d9e0acb428904be61c6113b1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-2.unity
     guid: 45f4dd3456ed03b40b793f56a84205d2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_0.unity
     guid: 8e92f76e79723994094f4d42539f4b38
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-2.unity
     guid: cb0bca9bf47503949ac55c574249f35e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-3.unity
     guid: b5c449badd6407a4fbf9bb993758754b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-3.unity
     guid: 2f2bba063d59b5e4680abe4bd2dd366d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_1.unity
     guid: 49b687bb98aba8044972ffdc50162197
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_1.unity
     guid: a00debf9c2a83f34681e0ea2db794d1f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-1.unity
     guid: 4e583a4ad3c5a024f83bbdb7c2433c72
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-2.unity
     guid: 546218bdd2c1278438c5871db0363465
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-4.unity
     guid: ce14f49bea9705d49a15826ee1ce9b87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-4.unity
     guid: 2b7815f97e4122c4ba1ca5e0d5b47d77
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_-2.unity
     guid: 2eea147fcd7341542a2ecf98cf1cecea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-4.unity
     guid: 992e825a1d7f07745851995b59ca9346
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-3.unity
     guid: ebec5e3dde20bb04ea118912c3fc6f07
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_3.unity
     guid: cae585f8707931041b2c2fb8df11fe24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_2.unity
     guid: 89ec1f0aac3e9bf44bd533080efbf0ed
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_2.unity
     guid: ff2079cfbc931fe45a80f23fea5d442d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_1.unity
     guid: eed0153e6d02fd74f810eeeb4a0cf63a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-3.unity
     guid: 16808f7e96a84bb48be0bbdf7a61b2d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_-2.unity
     guid: 9f823f04530d9ea419f723705d6d1d93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_-1.unity
     guid: fc80696c847cc934d83599cd92366a2f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_4.unity
     guid: 71f8d25cc08374a448af9f3598432cfa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_4.unity
     guid: 58a80af8e20e0724ab4e45b4e41fe5d8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_3.unity
     guid: d0eae071a7c12b148835fd33f19ef265
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_6_-1.unity
     guid: f7aabe16feb6fc74bac3509f416a39e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_5.unity
     guid: c61c20f8e7fc4f845a1605a9453092e3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_6_0.unity
     guid: ad1489f07ae0b3f4a9d527fb7bdf5ced
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_4.unity
     guid: 850876d479b379b489f1d4f21dbe69bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_3.unity
     guid: 61fa80cbca97e8544a392b1c1eec5d69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-4.unity
     guid: 5decbab31e149fe4f9a4dd2141d699d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_0.unity
     guid: 32949ad9783b5c34b904e6ccc5b8d2ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_4.unity
     guid: 1712a48db1c0eb141af3f47427087509
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_1.unity
     guid: f7058ab426b0a6b48a6b885c7cd2fb6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-4_0.unity
     guid: d773ed1c0ac8d5c4b88c5dcd95884315
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_4.unity
     guid: de180252cdb802f43a1b3687a3945b3b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_0.unity
     guid: 02843cc513b93b140b8b85a85c7924b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_1.unity
     guid: 579f0ba78c44a044883c1cd4c181e199
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_-1.unity
     guid: 71cda8c48052dbd4fb550fb4c515b730
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_-2.unity
     guid: 69bab7a91f3514f4f9c7e4e47428b44e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_1.unity
     guid: b8e61192cbe60884392599b872bac0d3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_0.unity
     guid: 153d2c3e358615843b481a51dd74415c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_-1.unity
     guid: 3f18ceb51009b8c44aa66c899d6ee62c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_-2.unity
     guid: 2417ee15419bfa54b816542737305dd7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_-2.unity
     guid: 666102d3fe1be5d47ae78b1ba2ab26d7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_0.unity
     guid: 6d200e5d7a37ac84f8cb84e6f06b0989
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_-1.unity
     guid: 0be9cd07f9832d147bf4b4bb85dd781a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_1.unity
     guid: 6f60f6641d6aa6d41b31018c6607d459
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_-2.unity
     guid: f314fec6aa7cf9f41adf82f7936ba930
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_0.unity
     guid: 49c88c221be55934982e8e858eaa9935
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_-1.unity
     guid: 85c0a4ad041b72540a5c1f75df9e41a0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_1.unity
     guid: 7e7e26dc58193eb448091fb3b0d34cb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_-1.unity
     guid: 8544c6e6a9fb5c64eb271ce45c0f4598
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_2.unity
     guid: 8016b336b4bdc2f46bfb7dcc9fcb04e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_2.unity
     guid: d513d12d500205549a93b0352bb33dbc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_3_-1.unity
     guid: 71a69106dbea2394a8ec96e6269805a5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_3_0.unity
     guid: b893ac9443bc68848a35c80ac9ad0dfb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_0.unity
     guid: 72e271836ce547e418d74fc49399cbc6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_2.unity
     guid: 6cf46e2f62aa1b2429ddd543ce8ab7f0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_1_0.unity
     guid: 852241fce90ba024f9d44c335d96b404
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_-1.unity
     guid: ad75463fc5286174da0b88414c83b11c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_-1.unity
     guid: b16c3d5854f39714abc0afec663316f4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_1_-1.unity
     guid: 8e4106fc5e6d01f4e90cee83b17eeec1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_0.unity
     guid: cc8f83c9e1286f2409f77275d6f4507a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_0.unity
     guid: ff4aa20c1fe3152498e8f436b4ef2c91
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_1.unity
     guid: 67b89d846a892d64087b2458ebf035c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_1.unity
     guid: e1e5bcc3158cbdf4283ab6c9174b558a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_-1.unity
     guid: 03b1b2608f64a494ebbf68c38d88d760
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_-2.unity
     guid: ad0d7676d60367d4ba65cb2a2e0772bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_-3.unity
     guid: 85f89d4575839f64c89be645de92ba17
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_-3.unity
     guid: c0bb31ef6dca3574f914eaaad655abd7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_0.unity
     guid: 7cab2bb8e5ae16f4e8d7456be7b6a0c6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_2.unity
     guid: 4519d7faa51e44b488e81c7c91f59ffe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-1.unity
     guid: fb6cafc739e191f4c83803c2564030b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-2.unity
     guid: 3f541ff6ae94b924aa4fff5618a1fc36
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_-2.unity
     guid: 217b97e138335d349a359d47f40f9333
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_1.unity
     guid: 873777e9a72de08478ce20eb1ecb5b3c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_1.unity
     guid: 956c7cdf27e3ae747a945ad9afd65fd5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_1.unity
     guid: 48094b3e37bd0d64b97d0389bfe986df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-3.unity
     guid: 9eb1efb19aa3de34185c76e3f00264c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_0.unity
     guid: fb72b48da7686ae40b119f8f65907d5d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_-2.unity
     guid: 0f9886744860ddf47ba322c7e0fdf139
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_0.unity
     guid: 58e76193f34750a4db7a386d99d0f9fd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_-2.unity
     guid: c4f5d65c2fb051540add02deb96721b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_-1.unity
     guid: bc9a4bf6b3fa1e648988558681b478c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_-3.unity
     guid: a4ad66b11737c3a4c92ca7090e26be8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_-3.unity
     guid: 0a0659034b8715c458fe735b42db6e1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_-1.unity
     guid: 141f531cb9e1576428c7220f099b6c60
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_0.unity
     guid: c6b77b90843f946439a62a9f58725c99
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_-1.unity
     guid: 87a7ec6643fba4a418ade67bf966642a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-3.unity
     guid: 1cff11f360f329645a511a8f295ae5a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_0.unity
     guid: a67d867fdb960fd4ab55b0b9955c131f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-2.unity
     guid: f09e4c67af881de43bae7af366ae57a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-1.unity
     guid: 0c6bb8d44a4aab6499c70f15a1e62c42
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-4.unity
     guid: d2ba079af31eaf14d83aaaecbca7334c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_-3.unity
     guid: 1fc1bd6da07877e40a7fcb56e46d0c8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_-3.unity
     guid: fb72972c5da428740955fd29df0176df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_-1.unity
     guid: 5b22eac7e0f18fc48aecbdf6b69d2a93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_-2.unity
     guid: 534a5f4a9f9f4104a980bfeb36b8b5d4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_-3.unity
     guid: 4752727f27af4254aa418ed88301d605
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_-3.unity
     guid: 16dd20a1d1b1dbf4d896a3a286640248
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-3_-1.unity
     guid: 0999fe632e709164685602d2af174b11
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_-2.unity
     guid: e31ff4fbab7b8504e9bb16d27089b3db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_2.unity
     guid: 55b56ff454a16a84ababa595b42798a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_0.unity
     guid: 99f42e2b0d4797f4795bc01f8a5cca55
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_2.unity
     guid: 83f2e7f7c641c7d4b8922fca172c79fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_1.unity
     guid: e88adfdc38fb555419040c66a4390f7d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_1.unity
     guid: 9d9a3882d522c45479d6d3db22c877ae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_2.unity
     guid: e32c124ada4daba49860c546b1d59e4b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_3.unity
     guid: 12d93f604d5e09243a3c7f606e2f9bbb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_1.unity
     guid: 5a8ef7a3659cf04499687213d754cf5c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_3.unity
     guid: f1dd1bcae7ce2414ba75e92e2261c686
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_3.unity
     guid: 9f354bea1a8038b42b5da44be2527fe5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_0.unity
     guid: d61e9d584fd3de74986767b134a34230
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_2.unity
     guid: 37501c2479522ed468b2872f2e1c30cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_3.unity
     guid: db8422507b7066647ba37636dd6a2f33
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_3.unity
     guid: adc91bd5ce6745542bd095ce50bc3443
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_2.unity
     guid: ba38745c808a072468da116e44013fd5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_3.unity
     guid: 53a514838d7174648be99d6d96c4102a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_4_4.unity
     guid: 578b8a2f5b242144f8ddc740b72eee7d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_2.unity
     guid: d5269fb3ec29e15469d5e158489465f1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_3.unity
     guid: 975fec15d30a4114eb7f85c6c4e4d22c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_3.unity
     guid: 81f3968e910748141810ac1d633a7d73
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_-4.unity
     guid: 216ba4362e8ce30429e5d072728548be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_-4.unity
     guid: 12993af9d1d45c1429ca1034c07dcfbe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-4.unity
     guid: df5fde6f5386b0b42911f0ee3b6d4c45
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_1.unity
     guid: 7443497a6239e374992bd73d73f99d26
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_0.unity
     guid: 4400390cf95abd04997639e7f2f47c77
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_0.unity
     guid: 069fbeb01e053b9448d07d85cbf87e38
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_-1.unity
     guid: 98883ad52058d604fbcee70435f728ac
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_-2.unity
     guid: 2febf095e323f854e96dc19783579424
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_-2.unity
     guid: 21e6a20799f978245809d3f0cb2431e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_0.unity
     guid: 4ee805abe04937b47a78996044129b98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_-1.unity
     guid: 1741c02568406bb44b238b1a83e14121
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_-2.unity
     guid: 931990559ded17841bed085c7ec33bca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_1.unity
     guid: 59a86c23648a2a34a9705131007bfd6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_1.unity
     guid: 41f4cbfb4c866a54e9d4090b59e65ace
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_10_-1.unity
     guid: 9157f0112d82b9f419adf62d02e1d77b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_9_0.unity
     guid: fe257512657c37f478cf1ab50cc0285b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_9_-2.unity
     guid: f1eb3af0c1c14db45a7ecda2215ad6d6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_-1.unity
     guid: 3d445623c54e007439836154d90a7324
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_0_4.unity
     guid: d2b1ffcc3124d76468d60eec1f1a8def
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_3.unity
     guid: 4c8b5b6ebfdce0b47a23fc46b5be159b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_2.unity
     guid: 27b4d00ab06931844823f4e31c2721b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_3.unity
     guid: 8014d51ce632b5d4eb9006a859d608d7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_1.unity
     guid: 5cc68a02801e31f47ae736901d609fbd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_0.unity
     guid: 63bc794343420a74cba16f6771188e2e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-2_-1.unity
     guid: 50186cb8270388d4c80a19352791860e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_2.unity
     guid: 60e0a005d3b5e7a4b9d3a8f7ad8feb99
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_-1_4.unity
     guid: c177fefad945db149890da1178f1faae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_4.unity
     guid: 546c8b5a5cfd76e449be9b0a7b7b4b87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_3_1.unity
     guid: 6a4fea4387cbda64187be9765fcd0e49
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_4.unity
     guid: 5b2aad85697b00b4c9ccc1e5c0344104
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_-3.unity
     guid: 49b07c6ad56e6334e802b2b173751c65
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_7_-4.unity
     guid: dec1f0853cd94714ab06c0c2ffceb9ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_9_-3.unity
     guid: 0adec021ca5518943bf38feead62f24c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_5_-5.unity
     guid: 6527d3169c4d31b4da6f5a9227aeca1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_8_-4.unity
     guid: cd2426fe74ad9864180e6d21dbb5f77e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_-4.unity
     guid: acc38eaf746aafe40b96feffbbbe6677
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_6_-5.unity
     guid: ce39bc3e18a36f34abf34768d4d2ba44
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-7.unity
     guid: 0818d536b36b6e045856d7c1327a07f0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-5.unity
     guid: c69a55af86566d44292a6091292f90e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_1_-6.unity
     guid: bb3e3460e12168f48bdb3455562c659f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-5.unity
     guid: 456ebc0a76d9fd54d872c7ff54170651
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M5_LOD0_canyon_merged_2_-6.unity
     guid: 565c7b1cc7e057b448df99755c00bcdf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_0.unity
     guid: 049d9aac6cbe3a340bc7a7516ad1f08f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_-1.unity
     guid: dc71441839a243043b30bd5a5feb8820
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_-2.unity
     guid: 13dd6a18690202241bd69816b1d44d3a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_0.unity
     guid: 8db34e1e3a2033e4c98b90ae405426c4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_-1.unity
     guid: 12c3de61e1bf48d42a4685f366eb2c45
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_-2.unity
     guid: d98e580b900d47b4bb8bdaa36bfe5c2b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_-2.unity
     guid: c4ef3e3cae01d5444960ff868758d00f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_-1.unity
     guid: 940400b807df194409b1a510cc36021a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-1_-1.unity
     guid: 5eef461c536361243b8e1625d2324fb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-1_-2.unity
     guid: 62a68d088d4a51f469be3b31cccb69b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-2_-1.unity
     guid: 1a810ecc26c13164a9d9f33dafae7f51
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_1.unity
     guid: a7a4837401ac2d54bb91cb2d3d941581
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_0.unity
     guid: b2f94cbded2514c4294f8d9a25b8d231
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_1.unity
     guid: cadfdcbf31dadf441a0866d85fef21a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-1_0.unity
     guid: ab1b86f7606c66e46a84b6a4d642dfe7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_1.unity
     guid: 6b98e2aae43f32043b4c85db4b90d304
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_2.unity
     guid: bb2c9eecf859f5849a1e65c4b250b50b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_3_1.unity
     guid: e0d8f3248945ff940aa7cecdbcd8eeed
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_3_0.unity
     guid: c8a4dd329dc7844488e856b2967a9050
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_3_-1.unity
     guid: 7a558901fc440e64fbf6d760eb16f296
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_4_-1.unity
     guid: f7fca525db4b37540a6ddb032f7c5337
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_4_0.unity
     guid: bbf99e1acd1971c4db1009af898e6722
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_5_-1.unity
     guid: dc16a0e4be4c05146bd6e8e48d79222c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_2.unity
     guid: b64d19a43b0fc4740987aef6a54eedbf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-1_1.unity
     guid: 3a6198f30429d6a45b1d2277ec90e6b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_-1_2.unity
     guid: 69e885331d2040a42ac05e7789c67d93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_2.unity
     guid: fdf1204cbe71a9345abf7a3c97fc97fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_3_-2.unity
     guid: 31d3a42205f679944a396fc32d1066b4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_4_-2.unity
     guid: 89c377723a72eef409ff6fc0f0e69ebe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_2_-3.unity
     guid: cc18c6d90eec019449ad78d17605c5fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_3_-3.unity
     guid: dd91c33d51442004eac82cd44e998b80
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_-4.unity
     guid: d069d10e474616f488d700d198c7066c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_0_-3.unity
     guid: 3f9d8a2ef101afa46b840171f032dc8f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M5_LOD1_canyon_merged_1_-3.unity
     guid: 0be5354615d7fdd42a376ff3f3523ee5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_1_0.unity
     guid: 1123dabeddae5c14fa15522e8fe861df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_1_-1.unity
     guid: 28e2466c96728494b8157728d6b68714
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_0_-1.unity
     guid: 8d5e4279e508679488c764c147566253
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_0_0.unity
     guid: 7a61d1838ad19ef408526a0224442110
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_-1_-1.unity
     guid: 29760e8940df6844ab8488df2aacdea4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_-1_0.unity
     guid: 58d48f32f806a1d488a267b2997259bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_2_-1.unity
     guid: fd713b0a05235a84fa3fcab66a45d630
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_2_0.unity
     guid: 00589e101bec2ac448b6bc3cbdce3a01
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_0_1.unity
     guid: cfa58993040603142a961190bbb3b2c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_-1_1.unity
     guid: f1f4844a78496f140b0d707b58530537
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_1_-2.unity
     guid: f07eef640b9493b4a950425d08ec7f53
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M5_LOD2_canyon_merged_0_-2.unity
     guid: ce9dd856ea7c51f46b691aab1c970b11
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_1.unity
     guid: 2f395c9f4488bde49a4f95d1bdaae7ef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_2.unity
     guid: ec0198d05381f5d488f0f3e44e69f1e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-2.unity
     guid: 01e78587d156ff7418eb1315c2303cb0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-1.unity
     guid: ecec370c9e76bd641a3d2364e8aaeb89
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-1.unity
     guid: e61c4b0c81739e446a697c979f58dfbd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-3.unity
     guid: 46a767e209812b145a54e834241cf824
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_2.unity
     guid: dcbb05bc0d811af4386044abdeba084b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_0.unity
     guid: 903f157b12266f14084fab17d990f59b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-1.unity
     guid: b102fda976bfb8d4ca2e0ba1147a1fa5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-4.unity
     guid: 3e0255324d87ec64dbd61e4c27b3f11d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-3.unity
     guid: 91268f7bd0ec44845a5bb1b476563f31
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-2.unity
     guid: 6c3dd3b1f33c44942a04748b76b9c65f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_1.unity
     guid: a45b00903be8c76469d968244d8b2fd5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-1.unity
     guid: 75cd86c76a0f07448a1da23ed4ca9d4f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_2.unity
     guid: a3cb87b12d654994ca31b22c9b2ec6bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-4.unity
     guid: b71df9ce204ea2f4791bb468bbc77be4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_0.unity
     guid: dd4a5799b36f2264daa1004fe2846842
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_3.unity
     guid: 4c1fd7dbf32423542ab8e460acf561a8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_2.unity
     guid: 71fab4c41cd4b8f4fb5529f6669f795d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-3.unity
     guid: 3bd28c789b83db548b18039a58c33f76
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_0.unity
     guid: 7bc9a00aff4da39439d3d906ca506963
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-2.unity
     guid: b47559a73420e7c4b867f1c5493925bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_3.unity
     guid: bcd525beab829fe4bbb7d2bee61fd230
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_3.unity
     guid: f9e7a9a764edcd840b0fb16be0574712
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_3.unity
     guid: 60598db1f80f03c4093559d394e5d65a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_0.unity
     guid: 5818a4bb2c76d6545aacbdb821070c2c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_2.unity
     guid: d453c39ef3e02fd46997d12f4e09ea7f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-2.unity
     guid: 1348cf3a8ad19494ea6ac2a72c081fc3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-1.unity
     guid: a6b16b6c5d651b74a99646fb5643c396
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_-1.unity
     guid: 837c527822b60394cbd9f1f3bbb7862f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-1.unity
     guid: cb3944ce27551304e99c6ebe9bfb5f9f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_0.unity
     guid: a342b23c63bc5a441864e6b1be9f5a21
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_0.unity
     guid: a0c32c3f6babe73409ad41c48f1ee7cf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_0.unity
     guid: a867a91317184724c9987a44d87160ae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_1.unity
     guid: 7771f25eb7355fa4db5efff94545d9dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-2.unity
     guid: 238257473cf896b48906d0915f973db5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_0.unity
     guid: fa30502c603306a43a0f924240ccec66
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-2.unity
     guid: c027dd6a3099ef14e90087b89a1721bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-3.unity
     guid: 4635f954975fe3e44bf538dafb37cf31
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-3.unity
     guid: 01d9fd9d310b14148b5e73c88b88c13d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_1.unity
     guid: 7c1454d13df9349468a5d76492cb32f9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_1.unity
     guid: 3f1af8293f908884ab39bf4b9ff80167
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-1.unity
     guid: 03615f08b7c82314e8f98db0831da82c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-2.unity
     guid: 8cb2d65c0b00d6d45a61bf79369a8163
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-4.unity
     guid: e46a18b0a39e8ed49ada15bf78bedbc3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-4.unity
     guid: 899c6a731577f7340a90acf41527d190
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_-2.unity
     guid: 717a9783a9637fa47a7f2c96eafef645
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-4.unity
     guid: 17ce5f48626b4f84bb2b65e7469e0076
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-3.unity
     guid: 273920df25ba6be4c805b5fbcc7b37f6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_3.unity
     guid: 710bc495c3349784185eef9b73ac1485
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_2.unity
     guid: 755e8844e5d2cfa44be7652bad5e8d15
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_2.unity
     guid: 66615a83bcc19ea4c8530744ce4d83be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_1.unity
     guid: eab050e11e7133e4cb1004e1339fc1e5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-3.unity
     guid: 78478381fb9c4894dbcfab80681ce6b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_-2.unity
     guid: 8eb3f1a40fd7c1440852e5e555f5c062
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_-1.unity
     guid: a7ce32eccbc5d624892907b36113ce7a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_4.unity
     guid: 5e4fabaf9db80cf4698d8e149ed939a4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_4.unity
     guid: dc084345b9729db46b55b9ad9ddb823a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_3.unity
     guid: 4030607894beb3a42935a55e6bd5eefe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_6_-1.unity
     guid: 009389016a5958640bb818ad9d684481
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_5.unity
     guid: 5df42e7c8b733a8419ace799a243e8a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_6_0.unity
     guid: 279a2bedee7b3da4f9912144c6fd3d5d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_4.unity
     guid: 85ccafcba21d1fe4e9d688455481778f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_3.unity
     guid: 428cd6f6eca422b4eaeb6ec86fcfbf02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-4.unity
     guid: 8146f5cf6ca4ad24ea2fcae13f8eade7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_0.unity
     guid: d99cd5a6ffdace4498c018464e04f74f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_4.unity
     guid: 45ba56af751f7e24e8ef1b8f10422edd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_1.unity
     guid: e0998c7625672c24588c354bcec6b764
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-4_0.unity
     guid: c1e2c1fb5d0c1724f98bc7e1f7133e6c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_4.unity
     guid: 8b122abb6353fb84f9d27b0bb5a67242
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_0.unity
     guid: bf740222c7bad914aa6880c9509212cd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_1.unity
     guid: a792ee31ba7745a4ba00fb9787288a0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_-1.unity
     guid: aab0ddae2ceb4794ab8d46fd69a22cc9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_-2.unity
     guid: 1bd142d2bb0375243b4f6ab4bbebb92a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_1.unity
     guid: 10d824eb748ea4d4092d5d0ee071fa90
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_0.unity
     guid: aa067105ef503544d82f3c3497d7c44b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_-1.unity
     guid: f47d5bd64c0e7954ab12f33803838bdd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_-2.unity
     guid: 2c04fcd9b92bab140bc677bf1259bf36
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_-2.unity
     guid: 6c9b4ad2201d16c4a9dfc6b90126bd6d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_0.unity
     guid: ef971413816f0b1418af36003db05531
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_-1.unity
     guid: eeba0a4fd147db147b4265f1cd68c932
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_1.unity
     guid: 766a1ea18c4bda14e879cae124d36ce2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_-2.unity
     guid: 86e68b0e6091b3644b8588804a58db31
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_0.unity
     guid: 5f22319c27e2f3d429fe1faf7fa48f98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_-1.unity
     guid: f8d335194c12c5948ae89ac84f3ab402
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_1.unity
     guid: ae85e64a7ddba0047a60c4e0f14a15d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_-1.unity
     guid: 50461a067fad43a4e9d76965718a0492
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_2.unity
     guid: 578d825ed410c9e48ba01f32d823da96
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_2.unity
     guid: 83d654a77ab531e4d870ddba32a17066
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_3_-1.unity
     guid: 6b2da89fda77b7046a3d9d89a97fd37d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_3_0.unity
     guid: d1d5e5cdb505f5a458b9fc63ce711106
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_0.unity
     guid: bfae2a74305077f41b42999c50c028da
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_2.unity
     guid: 4f8692bc177a9e84bb2f2dddf6f26827
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_1_0.unity
     guid: 181fe21a0e0536243b110ee618165e10
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_-1.unity
     guid: 42b50c4b242445d4ab8a8fc8031b2452
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_-1.unity
     guid: e31f45c00f703dd43a9ae7398570f6e8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_1_-1.unity
     guid: ed823e409e2e33d4b8eafa476beec9cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_0.unity
     guid: 240fb52ea5dddbf4e998f55240438a79
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_0.unity
     guid: 46f4c165f487e0d418e0a8011f59e05c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_1.unity
     guid: 7d5cc50c65eeb574ca6e3f1357d86aa2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_1.unity
     guid: 976793a4551c12c4388eafb7b23c6466
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_-1.unity
     guid: 2b65849ce4ad0c64d9689a6e1d497476
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_2.unity
     guid: 5f672c2e461b71749a87142da1d03b46
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_1.unity
     guid: df663046e8e958246b8f2726d6239e62
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_0.unity
     guid: 38661168d4540234781bc46d78eed47e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_0.unity
     guid: a5f033c45b2cd6341849941841e489ed
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_-1.unity
     guid: a53ad37898b88f045bc479e34f1be59c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_-2.unity
     guid: 591b87a5a12e006478dd8dbcc72a7b5c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_-3.unity
     guid: 42473c4b2ba4377488a3556d122cee1f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_-2.unity
     guid: a28879d4277d57e4b88835a21604722f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_-3.unity
     guid: 9a48f921e79d2fb49b26a3ad97878f35
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_-1.unity
     guid: f1f2a330646c47441b7ddefdf5ae5b06
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_-2.unity
     guid: d276b9e16f98579458980243774ad0a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_1_0.unity
     guid: 49c387eef21a82d4ba29b7aba9e3a457
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_1.unity
     guid: c06372776678d4c47a8dfeef900766cf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_2.unity
     guid: 4e20958569187e9409216ac8ea927903
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_1.unity
     guid: dd39dc36e6117034da2821f383bccf80
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_1_-2.unity
     guid: 80832dd412457474dac70a243e175ee4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_-3.unity
     guid: 3069942995588cb46be1d0d09fdd7b3b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_-4.unity
     guid: 904cb36e5fafb6149b57ab7a878f092f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_-3.unity
     guid: 4fdc1746f3a7796418886dfe76c13911
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_1_1.unity
     guid: f0d7f14f3cd12d345a670e514be9ea91
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_1.unity
     guid: 1edfc91f59672634085b16f8ce3a473b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_0_0.unity
     guid: c3b331660615267429a2d49f5c03d54c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_1_-3.unity
     guid: 0b490640fa81f08429bcd03cb5b15c76
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_1_-1.unity
     guid: e51d9f5722104084889a69f219e8c6a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_-1.unity
     guid: dbfe05ae031182c47a22f20986f15588
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_-1.unity
     guid: c997c529c34beac44bfca33a629513ef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_-4.unity
     guid: 85fa1d073fb54c74d977b1102057e1bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_0.unity
     guid: b65ae4acce5caeb4dabaf5960983706d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_2.unity
     guid: b07eaaeb672c67844b716b7fa99d7249
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_-2.unity
     guid: 383efadc8ea6002499a3fcc8baff1d92
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_-3.unity
     guid: 1e77d3aee77d6ce4e8e30353fa5bcfea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_1.unity
     guid: cf488cbce92848c4093c9084fc7f0ee1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_2_-1.unity
     guid: 2397ec53e6574d245aabc981ad35bcaa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_3_-1.unity
     guid: f490f5b9d19fc9f4a80f3b36e012b4c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_-4.unity
     guid: 8015935ef372e36438e1180a3eb12ce5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-3_-4.unity
     guid: 885ca47cd7ab5ee4f99f6023e0d6192e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_2.unity
     guid: 5eed600b566ec9047ad0911bee83a395
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-2_2.unity
     guid: b3663e6f289c61941949997753425aba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-1_-2.unity
     guid: 2349b2cdf2dfd7f408d1945527f133c9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_2_-2.unity
     guid: 4d5319571c4dedc47920b84ac5e3330d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-4_0.unity
     guid: 541d488b25937ce4da22e7ea28416ce1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-5_0.unity
     guid: 18966dff4317b194da308023a9e5c055
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-6_-4.unity
     guid: ec92fe9418784c8438e327a24749fa97
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-6_-6.unity
     guid: 756c740eff6e670498145c1c49c846e3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-7_-5.unity
     guid: 696658ced43f87e4c869cce8426fd0ff
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-7_-3.unity
     guid: e187f1df63c6490489d36c55d91e698a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-5_-2.unity
     guid: 55bde99ebc62e3b4cb76f1787c666229
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-5_-5.unity
     guid: 3ba013981a0ec6543a46d0b0daf9313d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_-6_-5.unity
     guid: ec0a221a3d04dff44a1f0a7d2ec736fa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_2_-3.unity
     guid: 3be26be7ffbdffd41a5c4a66973f8a7d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_2_-4.unity
     guid: 03cc87a70f150ef448f664534a159f1e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_3_-5.unity
     guid: 67a2b7bac7aca7c42aabbda2ce18a30d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_4_-5.unity
     guid: e78d36a779dc81d4c926de753c6f0f17
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_5_-5.unity
     guid: 554719b844a9ccd41bbddf617972f3ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_6_-5.unity
     guid: b407cf1020ed8d1469a7a854cd9f3dd5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_3_-4.unity
     guid: ec83c87fa21a9224c8affd1d0d461d72
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_2_-5.unity
     guid: bd80e4f15685ca0469e33b403f15cdc4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_4_-4.unity
     guid: f04b0a6503f4e9e498c515833cff5899
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD0/M7_LOD0_townhub_merged_5_-4.unity
     guid: 5f8612ef112eef1439900fcf409e9924
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_0_-1.unity
     guid: ab261b359e4713447a1c2efcf0648929
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_0_1.unity
     guid: f8740117bed1bd84bb628d023b6c3187
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-2_0.unity
     guid: b1c0739959cb0d249be25ae5a39953a5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-1_0.unity
     guid: 258a0c5db912b7045bfe752d10df5e71
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-1_-1.unity
     guid: 601e9a96bcd390645a138246ccc8a6ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-1_-2.unity
     guid: 7b54e7605f5af604b8591b96e6d41461
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-2_-2.unity
     guid: 1fd995b32794f7640bf0356cd7085df2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_0_0.unity
     guid: 0354290743ffb6843a559b1ae229b2b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-2_1.unity
     guid: cfda19fb7b9782c408247a08a4a27b94
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_0_-2.unity
     guid: 8d7e0b60db670064197dad94ce834776
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-2_-1.unity
     guid: 8e95c8ba016ed1c4cb5114b28c4f9488
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-1_1.unity
     guid: 4f4521e46a6f9a04791062345d8a5f4f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_1_-1.unity
     guid: 4dd6b85b4f6a59f4c852100edd2a9edf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-3_0.unity
     guid: d20cbfd92f890df479b7df292defb6d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-3_-2.unity
     guid: 9d1ed11e2e63f22439a27e5913b4231b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-3_-3.unity
     guid: abd3bf5eedcb4874da0e8358ff549fd6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-4_-3.unity
     guid: 686f0c57a516822408aeb100ee4b3547
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-4_-2.unity
     guid: ef788efc868c17840b7cc04d8d64a32a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_-3_-1.unity
     guid: 0e3d160a9ac203547ac23d1c288159a8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_1_-2.unity
     guid: 07837e6ac42ac8b46b99010b3f6800e5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_1_-3.unity
     guid: cef33aa356a3e7d4f8bfcb7eced4f3ec
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_2_-3.unity
     guid: fdcce94f8027909478fc6e8a78e76200
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_3_-3.unity
     guid: adc207142cc9c7748a7fbb76e7b1e7c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD1/M7_LOD1_townhub_merged_2_-2.unity
     guid: 7e299d41a917b9e4fb921388c34bce9f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_-1_0.unity
     guid: f819189d09ff3114c949f509bcafa655
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_-1_-1.unity
     guid: a6d3e77a786eff1449da002e70d15d62
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_0_-1.unity
     guid: 574b0bf065a60b241b1919d0fbbd7d1d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_0_0.unity
     guid: cfc8fd7d6620c8c4582216787d4b0d69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_-2_0.unity
     guid: 9aa0016ba3840954fb181de93202e12c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_-2_-1.unity
     guid: 313c4d169f5043e4e8563e690d068aff
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_-2_-2.unity
     guid: 19b33078fb502244c87fd0c763d5c12b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_0_-2.unity
     guid: ba55d52e86bcb8b428a27c1fb527637b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_1_-2.unity
     guid: b9fd8196b1d431e46836bd9df2815a0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stripped/combined/scenes/LOD2/M7_LOD2_townhub_merged_1_-1.unity
     guid: 4d307ffe72721804bb60e9e1b28dd8fb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 66a744b415e5525418d6a641dff80985,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 1afa24f46ade6444cb9f2dcdf39a857a,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 234877be81b01244c9841233cb3d005f,
       type: 2}

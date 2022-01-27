@@ -17,3 +17,6 @@ The *Oculus Integration* package is released under the *[Oculus SDK License Agre
 In our implementation of the LOD Generator, we used a package from the Asset Store called [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017). We highly recommend using Mesh Baker to create texture atlases and combine your meshes. Alternatively, you could write your own or get a license for something like Simplygon.
 
 For Licenses reasons we didn't include [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017) in the project.
+
+# Conversion to use Addressables
+We detailed how we converted the original Asset Streaming project to use Unity Addressables system [here](./ConversionToAddressables.md).

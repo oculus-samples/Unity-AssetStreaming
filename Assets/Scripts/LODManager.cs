@@ -2,6 +2,9 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
+using UnityEngine.ResourceManagement.ResourceProviders;
 using UnityEngine.SceneManagement;
 
 // Serializes the lightmap information of meshes managed by the LOD manager.
@@ -34,28 +37,29 @@ public class LODManager : MonoBehaviour
     // Stores basic information about asynchrounes load or unload operations so the scheduling of these operations can be spread over multiple frames
     public class AsyncOperation
     {
-        public int sceneIndex;
+        public AssetReference sceneRef;
         public int lodLevel;
-        public Action<UnityEngine.AsyncOperation> onSceneLoadComplete;
+        public Action<AsyncOperationHandle<SceneInstance>> onSceneLoadComplete;
         public Scene scene;
-        public Action<UnityEngine.AsyncOperation> onSceneUnloadComplete;
-        public Action<UnityEngine.AsyncOperation> setAsyncOperation;
+        public AsyncOperationHandle<SceneInstance> sceneHandle;
+        public Action<AsyncOperationHandle<SceneInstance>> onSceneUnloadComplete;
+        public Action<AsyncOperationHandle<SceneInstance>> setAsyncOperationHandle;
 
         // Constructor for load operations
-        public AsyncOperation(int sceneIndex, int lodLevel, Action<UnityEngine.AsyncOperation> onSceneLoadComplete, Action<UnityEngine.AsyncOperation> setAsyncOperation)
+        public AsyncOperation(AssetReference sceneRef, int lodLevel, Action<AsyncOperationHandle<SceneInstance>> onSceneLoadComplete, Action<AsyncOperationHandle<SceneInstance>> setAsyncOperationHandle)
         {
-            this.sceneIndex = sceneIndex;
+            this.sceneRef = sceneRef;
             this.lodLevel = lodLevel;
             this.onSceneLoadComplete = onSceneLoadComplete;
-            this.setAsyncOperation = setAsyncOperation;
+            this.setAsyncOperationHandle = setAsyncOperationHandle;
         }
 
         // Constructor for unload operations
-        public AsyncOperation(Scene scene, Action<UnityEngine.AsyncOperation> onSceneUnloadComplete, Action<UnityEngine.AsyncOperation> setAsyncOperation)
+        public AsyncOperation(AsyncOperationHandle<SceneInstance> sceneHandle, Action<AsyncOperationHandle<SceneInstance>> onSceneUnloadComplete, Action<AsyncOperationHandle<SceneInstance>> setAsyncOperationHandle)
         {
-            this.scene = scene;
+            this.sceneHandle = sceneHandle;
             this.onSceneUnloadComplete = onSceneUnloadComplete;
-            this.setAsyncOperation = setAsyncOperation;
+            this.setAsyncOperationHandle = setAsyncOperationHandle;
         }
     }
 
@@ -108,16 +112,16 @@ public class LODManager : MonoBehaviour
             AsyncOperation ao = asyncOperations.Dequeue();
             if(ao.onSceneLoadComplete != null)
             {
-                UnityEngine.AsyncOperation asyncOperation = SceneManager.LoadSceneAsync(ao.sceneIndex, LoadSceneMode.Additive);
-                asyncOperation.priority = ao.lodLevel;
-                asyncOperation.completed += ao.onSceneLoadComplete;
-                ao.setAsyncOperation(asyncOperation);
+                AsyncOperationHandle<SceneInstance> asyncOperationHandle = ao.sceneRef.LoadSceneAsync(LoadSceneMode.Additive, priority:ao.lodLevel); // SceneManager.LoadSceneAsync(ao.sceneIndex, LoadSceneMode.Additive);
+                //asyncOperation.priority = ao.lodLevel;
+                asyncOperationHandle.Completed += ao.onSceneLoadComplete;
+                ao.setAsyncOperationHandle(asyncOperationHandle);
             }
             else
             {
-                UnityEngine.AsyncOperation asyncOperation = SceneManager.UnloadSceneAsync(ao.scene, UnloadSceneOptions.UnloadAllEmbeddedSceneObjects);
-                asyncOperation.completed += ao.onSceneUnloadComplete;
-                ao.setAsyncOperation(asyncOperation);
+                AsyncOperationHandle<SceneInstance> asyncOperationHandle = Addressables.UnloadSceneAsync(ao.sceneHandle);//SceneManager.UnloadSceneAsync(ao.scene, UnloadSceneOptions.UnloadAllEmbeddedSceneObjects);
+                asyncOperationHandle.Completed += ao.onSceneUnloadComplete;
+                ao.setAsyncOperationHandle(asyncOperationHandle);
             }
             UnityEngine.Profiling.Profiler.EndSample();
         }

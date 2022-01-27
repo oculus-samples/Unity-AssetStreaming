@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: shared
+  m_EditorClassIdentifier: 
+  m_GroupName: shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 886ffb9a896452942bab669f59b53c68
+  m_SerializeEntries:
+  - m_GUID: e3eb99e629f82ab469363f9d1ea8d436
+    m_Address: Assets/Shaders/Diffuse World ToD.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33a785f2cbe9ae943a30c83d987d915c
+    m_Address: Assets/Scenes/Stripped/combined/OcclusionCullingData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 359e3a4117cc79e45a9dec40ea000069, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d360ea0da4e56e044b3e8e1d1c4fa02b, type: 2}
+    - {fileID: 11400000, guid: 71ac302c39f72d64bb4454f45a38fcd2, type: 2}

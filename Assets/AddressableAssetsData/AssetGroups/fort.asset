@@ -1,0 +1,845 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: fort
+  m_EditorClassIdentifier: 
+  m_GroupName: fort
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 68efb9f0b6888934ebd539093ca5a22b
+  m_SerializeEntries:
+  - m_GUID: 976793a4551c12c4388eafb7b23c6466
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d5cc50c65eeb574ca6e3f1357d86aa2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46f4c165f487e0d418e0a8011f59e05c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 240fb52ea5dddbf4e998f55240438a79
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed823e409e2e33d4b8eafa476beec9cb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e31f45c00f703dd43a9ae7398570f6e8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42b50c4b242445d4ab8a8fc8031b2452
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 181fe21a0e0536243b110ee618165e10
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M6_LOD2_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f8692bc177a9e84bb2f2dddf6f26827
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfae2a74305077f41b42999c50c028da
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1d5e5cdb505f5a458b9fc63ce711106
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b2da89fda77b7046a3d9d89a97fd37d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83d654a77ab531e4d870ddba32a17066
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 578d825ed410c9e48ba01f32d823da96
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50461a067fad43a4e9d76965718a0492
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae85e64a7ddba0047a60c4e0f14a15d5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8d335194c12c5948ae89ac84f3ab402
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f22319c27e2f3d429fe1faf7fa48f98
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86e68b0e6091b3644b8588804a58db31
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 766a1ea18c4bda14e879cae124d36ce2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeba0a4fd147db147b4265f1cd68c932
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef971413816f0b1418af36003db05531
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c9b4ad2201d16c4a9dfc6b90126bd6d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c04fcd9b92bab140bc677bf1259bf36
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f47d5bd64c0e7954ab12f33803838bdd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa067105ef503544d82f3c3497d7c44b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10d824eb748ea4d4092d5d0ee071fa90
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bd142d2bb0375243b4f6ab4bbebb92a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aab0ddae2ceb4794ab8d46fd69a22cc9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a792ee31ba7745a4ba00fb9787288a0f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf740222c7bad914aa6880c9509212cd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M6_LOD1_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b122abb6353fb84f9d27b0bb5a67242
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1e2c1fb5d0c1724f98bc7e1f7133e6c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0998c7625672c24588c354bcec6b764
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45ba56af751f7e24e8ef1b8f10422edd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d99cd5a6ffdace4498c018464e04f74f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8146f5cf6ca4ad24ea2fcae13f8eade7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 428cd6f6eca422b4eaeb6ec86fcfbf02
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85ccafcba21d1fe4e9d688455481778f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 279a2bedee7b3da4f9912144c6fd3d5d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_6_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5df42e7c8b733a8419ace799a243e8a3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 009389016a5958640bb818ad9d684481
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_6_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4030607894beb3a42935a55e6bd5eefe
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc084345b9729db46b55b9ad9ddb823a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e4fabaf9db80cf4698d8e149ed939a4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7ce32eccbc5d624892907b36113ce7a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8eb3f1a40fd7c1440852e5e555f5c062
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78478381fb9c4894dbcfab80681ce6b5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eab050e11e7133e4cb1004e1339fc1e5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66615a83bcc19ea4c8530744ce4d83be
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 755e8844e5d2cfa44be7652bad5e8d15
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 710bc495c3349784185eef9b73ac1485
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 273920df25ba6be4c805b5fbcc7b37f6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17ce5f48626b4f84bb2b65e7469e0076
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 717a9783a9637fa47a7f2c96eafef645
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 899c6a731577f7340a90acf41527d190
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e46a18b0a39e8ed49ada15bf78bedbc3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8cb2d65c0b00d6d45a61bf79369a8163
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03615f08b7c82314e8f98db0831da82c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f1af8293f908884ab39bf4b9ff80167
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c1454d13df9349468a5d76492cb32f9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01d9fd9d310b14148b5e73c88b88c13d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4635f954975fe3e44bf538dafb37cf31
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c027dd6a3099ef14e90087b89a1721bb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa30502c603306a43a0f924240ccec66
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 238257473cf896b48906d0915f973db5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7771f25eb7355fa4db5efff94545d9dc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a867a91317184724c9987a44d87160ae
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0c32c3f6babe73409ad41c48f1ee7cf
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a342b23c63bc5a441864e6b1be9f5a21
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb3944ce27551304e99c6ebe9bfb5f9f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 837c527822b60394cbd9f1f3bbb7862f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6b16b6c5d651b74a99646fb5643c396
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1348cf3a8ad19494ea6ac2a72c081fc3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d453c39ef3e02fd46997d12f4e09ea7f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5818a4bb2c76d6545aacbdb821070c2c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60598db1f80f03c4093559d394e5d65a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9e7a9a764edcd840b0fb16be0574712
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcd525beab829fe4bbb7d2bee61fd230
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b47559a73420e7c4b867f1c5493925bd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bc9a00aff4da39439d3d906ca506963
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bd28c789b83db548b18039a58c33f76
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71fab4c41cd4b8f4fb5529f6669f795d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c1fd7dbf32423542ab8e460acf561a8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd4a5799b36f2264daa1004fe2846842
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_5_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b71df9ce204ea2f4791bb468bbc77be4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_0_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3cb87b12d654994ca31b22c9b2ec6bc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75cd86c76a0f07448a1da23ed4ca9d4f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a45b00903be8c76469d968244d8b2fd5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c3dd3b1f33c44942a04748b76b9c65f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91268f7bd0ec44845a5bb1b476563f31
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e0255324d87ec64dbd61e4c27b3f11d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b102fda976bfb8d4ca2e0ba1147a1fa5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 903f157b12266f14084fab17d990f59b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcbb05bc0d811af4386044abdeba084b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46a767e209812b145a54e834241cf824
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e61c4b0c81739e446a697c979f58dfbd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecec370c9e76bd641a3d2364e8aaeb89
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01e78587d156ff7418eb1315c2303cb0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec0198d05381f5d488f0f3e44e69f1e9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f395c9f4488bde49a4f95d1bdaae7ef
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M6_LOD0_fort_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1e5bcc3158cbdf4283ab6c9174b558a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67b89d846a892d64087b2458ebf035c0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff4aa20c1fe3152498e8f436b4ef2c91
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc8f83c9e1286f2409f77275d6f4507a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e4106fc5e6d01f4e90cee83b17eeec1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b16c3d5854f39714abc0afec663316f4
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad75463fc5286174da0b88414c83b11c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 852241fce90ba024f9d44c335d96b404
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD2/M4_LOD2_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cf46e2f62aa1b2429ddd543ce8ab7f0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72e271836ce547e418d74fc49399cbc6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b893ac9443bc68848a35c80ac9ad0dfb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71a69106dbea2394a8ec96e6269805a5
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d513d12d500205549a93b0352bb33dbc
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8016b336b4bdc2f46bfb7dcc9fcb04e2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8544c6e6a9fb5c64eb271ce45c0f4598
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e7e26dc58193eb448091fb3b0d34cb1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85c0a4ad041b72540a5c1f75df9e41a0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49c88c221be55934982e8e858eaa9935
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f314fec6aa7cf9f41adf82f7936ba930
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f60f6641d6aa6d41b31018c6607d459
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0be9cd07f9832d147bf4b4bb85dd781a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d200e5d7a37ac84f8cb84e6f06b0989
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 666102d3fe1be5d47ae78b1ba2ab26d7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2417ee15419bfa54b816542737305dd7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f18ceb51009b8c44aa66c899d6ee62c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 153d2c3e358615843b481a51dd74415c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8e61192cbe60884392599b872bac0d3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69bab7a91f3514f4f9c7e4e47428b44e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71cda8c48052dbd4fb550fb4c515b730
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 579f0ba78c44a044883c1cd4c181e199
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02843cc513b93b140b8b85a85c7924b7
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD1/M4_LOD1_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de180252cdb802f43a1b3687a3945b3b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d773ed1c0ac8d5c4b88c5dcd95884315
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7058ab426b0a6b48a6b885c7cd2fb6e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1712a48db1c0eb141af3f47427087509
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32949ad9783b5c34b904e6ccc5b8d2ba
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5decbab31e149fe4f9a4dd2141d699d1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61fa80cbca97e8544a392b1c1eec5d69
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 850876d479b379b489f1d4f21dbe69bb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad1489f07ae0b3f4a9d527fb7bdf5ced
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_6_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c61c20f8e7fc4f845a1605a9453092e3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7aabe16feb6fc74bac3509f416a39e1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_6_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0eae071a7c12b148835fd33f19ef265
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58a80af8e20e0724ab4e45b4e41fe5d8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71f8d25cc08374a448af9f3598432cfa
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc80696c847cc934d83599cd92366a2f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f823f04530d9ea419f723705d6d1d93
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16808f7e96a84bb48be0bbdf7a61b2d0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eed0153e6d02fd74f810eeeb4a0cf63a
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff2079cfbc931fe45a80f23fea5d442d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89ec1f0aac3e9bf44bd533080efbf0ed
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cae585f8707931041b2c2fb8df11fe24
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebec5e3dde20bb04ea118912c3fc6f07
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 992e825a1d7f07745851995b59ca9346
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2eea147fcd7341542a2ecf98cf1cecea
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b7815f97e4122c4ba1ca5e0d5b47d77
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce14f49bea9705d49a15826ee1ce9b87
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 546218bdd2c1278438c5871db0363465
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e583a4ad3c5a024f83bbdb7c2433c72
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a00debf9c2a83f34681e0ea2db794d1f
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49b687bb98aba8044972ffdc50162197
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f2bba063d59b5e4680abe4bd2dd366d
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5c449badd6407a4fbf9bb993758754b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb0bca9bf47503949ac55c574249f35e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e92f76e79723994094f4d42539f4b38
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45f4dd3456ed03b40b793f56a84205d2
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aef20d66d9e0acb428904be61c6113b1
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56ce7b937a11dcf49bd8fedcf269c5f6
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 846b8c302f3d09844b76ae9327a1beeb
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfd4485de0d7ba5419104474b0b42d9e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 253f9b896a5971b41a48270ff6d0ca20
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1686b9736857aa4daa5dda21bcffe21
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8ad9731bc1855e44879f82ac188d1ab
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb9de1b6ff5e05545af240b57866c0c0
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e18800edff1d6f4f8dfa2344f559535
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14bdc6e8d72e2aa42bbeaf26fb0c6b60
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a35490ff6dd8e2c4f8f694fd5f5213ee
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_2_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e48f367aec0beb74f9c7f905b6e810f3
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 225e63c0a2d1e1c4b90c918d105c2e51
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a745378c7a0d30646ba009cb9b569956
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0169e787be572b4bb2d0ee59b7c5d64
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3abb6effed15d6142959a8ab9066af07
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37d8dc1a9ea022a48a81600ed27b5bae
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4be44201e9d3fdd45b9bb9ed40eeff29
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 448abde14f0442b43a6dc94405836d75
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_5_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fd69967459bb324f8dbd879a53afd1b
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_0_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0668a9fcfd451a498acf1f0e1ffaee8
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f82f4f0be0312345aafbbb7889636dd
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66629892de4c2754d89774f2cde42457
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3da018e04f156444fb09cdcb63e63b93
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9fe0c9a8f2ce43428e2bb655dad018c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5072a2b3dd95b4e4fb20fc9562feab86
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dc3ddf7434de02458ad299fcf1c0058
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e7cc87a72bed2444864152a26836ae9
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_4_0.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5c446e0f36b5a341acd043baffcec3e
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_3_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 297d8d0cd4fadac4e9ee32386d5c3633
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_-3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c56326525fcfdde458bbe159bbaa5a81
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-2_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 761448b7e31a6da47a314a1c72e86545
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00044e98aa745484e8614533f7976f65
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_-2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b36f068a733715a49837168d10f2cb7c
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_-1_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1c788855b2bfd044bc05796e6595447
+    m_Address: Assets/Scenes/Stripped/combined/scenes/LOD0/M4_LOD0_fort_merged_1_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82d561bc5376caa4889a619dfdcf0b2f
+    m_Address: Assets/Scenes/Stripped/fort/materials/fort-mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aab475f22ae55054cbcd0ba5bbbde924
+    m_Address: Assets/Scenes/Stripped/fort/materials/fort_props-mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d89adf744ea16ea409ddd67924363c6b
+    m_Address: Assets/Scenes/Stripped/fort/materials/fort_arch-mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 359e3a4117cc79e45a9dec40ea000069, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9ab98c0242910084686e27bd835dff24, type: 2}
+    - {fileID: 11400000, guid: f91c3cf42b5824440bd67f13e37cb060, type: 2}
