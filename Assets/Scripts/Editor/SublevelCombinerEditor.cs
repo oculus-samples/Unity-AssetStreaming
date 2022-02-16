@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 using System.IO;
+using UnityEditor.AddressableAssets;
 using UnityEngine.SceneManagement;
 using UnityEditor.SceneManagement;
 
@@ -208,8 +209,8 @@ public class SublevelCombinerEditor : Editor
         // Create scenes from LOD meshes
         Directory.Delete(Path.Combine(outputPath, "scenes"), true);
         Directory.CreateDirectory(Path.Combine(outputPath, "scenes"));
-        List<EditorBuildSettingsScene> editorBuildSettingsScenes = new List<EditorBuildSettingsScene>(EditorBuildSettings.scenes);
-        editorBuildSettingsScenes.RemoveAll(x => !File.Exists(x.path));
+
+        var addressablesSettings = AddressableAssetSettingsDefaultObject.Settings;
 
         for (int manager = 0; manager < lodManagers.Length; ++manager)
         {
@@ -231,9 +232,9 @@ public class SublevelCombinerEditor : Editor
                     string sceneName = Path.Combine(lodOutputPath, "M" + manager + "_LOD" + node.lodLevel + "_" + node.mesh.name + ".unity");
                     EditorSceneManager.SaveScene(newScene, sceneName);
                     EditorSceneManager.SetActiveScene(activeScene);
-                    node.sceneIndex = editorBuildSettingsScenes.Count;
-
-                    editorBuildSettingsScenes.Add(new EditorBuildSettingsScene(newScene.path, true));
+                    // Adds the asset in default group of addressables and set the asset reference
+                    // Once done you can move the asset in the proper addressable group
+                    node.sceneRef = addressablesSettings.CreateAssetReference(AssetDatabase.AssetPathToGUID(newScene.path));
 
                     if (PrefabUtility.IsPartOfPrefabInstance(node.mesh))
                     {
@@ -246,7 +247,7 @@ public class SublevelCombinerEditor : Editor
             }
         }
 
-        EditorBuildSettings.scenes = editorBuildSettingsScenes.ToArray();
         EditorUtility.SetDirty(sublevelCombiner);
+        AssetDatabase.SaveAssets();
     }
 }

@@ -32,11 +32,6 @@ public class LODTreeNode
     public int lodLevel = -1;
     public int nodeIndex = -1;
     public GameObject mesh;
-    // NOTE athivierge: We still use the sceneIndex after the upgrade to adressable.
-    // it gives a reference to what scene in build settings it is suppose to refer to
-    // and there was logic related to this index that we didn't have to change to the new 
-    // AssetReference sceneRef. We could do those checks with sceneRef.RuntimeKeyIsValid(); probably
-    public int sceneIndex = -1;
     public AssetReference sceneRef = null;
     public NodeState nodeState;
     public Scene scene;
@@ -70,7 +65,7 @@ public class LODTreeNode
     public void Reset()
     {
         nodeState = NodeState.Unloaded;
-        if (sceneIndex != -1)
+        if (sceneRef.RuntimeKeyIsValid())
         {
             HideScene();
             if (scene.isLoaded && !asyncUnloadQueued)
@@ -183,7 +178,7 @@ public class LODTreeNode
     // Queue a asynchrounes load operation if neccessary
     public void Load()
     {
-        if (sceneIndex == -1)
+        if (!sceneRef.RuntimeKeyIsValid())
             return;
 
         if (loadOperations[1] != null && !loadOperations[1].load)
@@ -207,7 +202,7 @@ public class LODTreeNode
     // Queue asynchrounes unload operation if necessary
     public void Unload()
     {
-        if (sceneIndex == -1)
+        if (!sceneRef.RuntimeKeyIsValid())
             return;
 
         if (loadOperations[1] != null && loadOperations[1].load)
@@ -231,7 +226,7 @@ public class LODTreeNode
     // Toggle mesh visibility depending on the node state
     public void ApplyVisibility()
     {
-        if (sceneIndex != -1)
+        if (sceneRef.RuntimeKeyIsValid())
         {
             if (nodeState == NodeState.Unloaded)
             {
