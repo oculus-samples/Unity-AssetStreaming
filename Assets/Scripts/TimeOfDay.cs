@@ -8,5 +8,7 @@ public class TimeOfDay : MonoBehaviour
     {
         Shader.SetGlobalColor(Shader.PropertyToID("_TimeOfDayWorldTint"), Color.white);
         Shader.SetGlobalColor(Shader.PropertyToID("_TimeOfDayTerrainTint"), Color.white);
+        // Make sure we update the environment as we start to get the right skybox info
+        DynamicGI.UpdateEnvironment();
     }
 }
