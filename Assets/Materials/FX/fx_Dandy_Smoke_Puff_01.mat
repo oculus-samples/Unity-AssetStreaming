@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fx_Dandy_Smoke_Puff_01
+  m_Shader: {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DecalTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: a35f86bae73db3045b5ba5ef714189fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _metalmak
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: PixelSnap
+      second: 0
+    - first:
+        name: _Bias
+      second: 0
+    - first:
+        name: _BlinkingTimeOffsScale
+      second: 5
+    - first:
+        name: _ContractionAmount
+      second: 5
+    - first:
+        name: _FadeOutDistFar
+      second: 10000
+    - first:
+        name: _FadeOutDistNear
+      second: 10
+    - first:
+        name: _InvFade
+      second: 1
+    - first:
+        name: _MagnitudeX
+      second: 25
+    - first:
+        name: _MagnitudeY
+      second: 25
+    - first:
+        name: _MaxGrowSize
+      second: 2.5
+    - first:
+        name: _Multiplier
+      second: 1
+    - first:
+        name: _NoiseAmount
+      second: 0
+    - first:
+        name: _RimPower
+      second: 2.59
+    - first:
+        name: _Shininess
+      second: 0.7
+    - first:
+        name: _SizeGrowEndDist
+      second: 50
+    - first:
+        name: _SizeGrowStartDist
+      second: 5
+    - first:
+        name: _TimeOffDuration
+      second: 0.5
+    - first:
+        name: _TimeOnDuration
+      second: 0.5
+    - first:
+        name: _VerticalBillboarding
+      second: 1
+    - first:
+        name: _ViewerOffset
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Emission
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _RimColor
+      second: {r: 0.25, g: 0.2029412, b: 0.1433824, a: 1}
+    - first:
+        name: _Si
+      second: {r: 0.6323529, g: 0.6323529, b: 0.6323529, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 0.6911765, g: 0.6911765, b: 0.6911765, a: 0.484}

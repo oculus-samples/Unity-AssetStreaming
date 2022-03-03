@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 2ebd4c7dbe8818144badff0ede8da522
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Directional Light
+    100004: Texture Group
+    100006: ui_arrow_01
+    100008: //RootNode
+    100010: ui_arrow_01_text_01
+    100012: Texture Group (2)
+    100014: ui_arrow_02
+    100016: ui_arrow_02_text_01
+    100018: ui_reloaded
+    100020: ui_holster_ring
+    100022: ui_arrow_01 (2)
+    100024: ui_no
+    100026: ui_yes
+    100028: ui_arrow_01_left
+    100030: ui_arrow_02_right
+    100032: Texture Group (3)
+    100034: ui_backdrop_01
+    100036: ui_play
+    100038: ui_yes_glow
+    100040: ui_no_glow
+    100042: ui_grasp
+    100044: ui_2x
+    100046: Texture Group (4)
+    100048: ui_hand_point
+    100050: ui_arrow_straight
+    400000: Camera
+    400002: Directional Light
+    400004: Texture Group
+    400006: ui_arrow_01
+    400008: //RootNode
+    400010: ui_arrow_01_text_01
+    400012: Texture Group (2)
+    400014: ui_arrow_02
+    400016: ui_arrow_02_text_01
+    400018: ui_reloaded
+    400020: ui_holster_ring
+    400022: ui_arrow_01 (2)
+    400024: ui_no
+    400026: ui_yes
+    400028: ui_arrow_01_left
+    400030: ui_arrow_02_right
+    400032: Texture Group (3)
+    400034: ui_backdrop_01
+    400036: ui_play
+    400038: ui_yes_glow
+    400040: ui_no_glow
+    400042: ui_grasp
+    400044: ui_2x
+    400046: Texture Group (4)
+    400048: ui_hand_point
+    400050: ui_arrow_straight
+    2300000: ui_arrow_01
+    2300002: ui_arrow_01_text_01
+    2300004: ui_arrow_02
+    2300006: ui_arrow_02_text_01
+    2300008: ui_reloaded
+    2300010: ui_holster_ring
+    2300012: ui_arrow_01 (2)
+    2300014: ui_no
+    2300016: ui_yes
+    2300018: ui_arrow_01_left
+    2300020: ui_arrow_02_right
+    2300022: ui_backdrop_01
+    2300024: ui_play
+    2300026: ui_yes_glow
+    2300028: ui_no_glow
+    2300030: ui_grasp
+    2300032: ui_2x
+    2300034: ui_hand_point
+    2300036: ui_arrow_straight
+    3300000: ui_arrow_01
+    3300002: ui_arrow_01_text_01
+    3300004: ui_arrow_02
+    3300006: ui_arrow_02_text_01
+    3300008: ui_reloaded
+    3300010: ui_holster_ring
+    3300012: ui_arrow_01 (2)
+    3300014: ui_no
+    3300016: ui_yes
+    3300018: ui_arrow_01_left
+    3300020: ui_arrow_02_right
+    3300022: ui_backdrop_01
+    3300024: ui_play
+    3300026: ui_yes_glow
+    3300028: ui_no_glow
+    3300030: ui_grasp
+    3300032: ui_2x
+    3300034: ui_hand_point
+    3300036: ui_arrow_straight
+    4300000: ui_arrow_01
+    4300002: ui_arrow_01_text_01
+    4300004: ui_arrow_02
+    4300006: ui_arrow_02_text_01
+    4300008: ui_reloaded
+    4300010: ui_holster_ring
+    4300012: ui_arrow_01 (2)
+    4300014: ui_yes
+    4300016: ui_no
+    4300018: ui_arrow_01_left
+    4300020: ui_arrow_02_right
+    4300022: ui_backdrop_01
+    4300024: ui_play
+    4300026: ui_yes_glow
+    4300028: ui_no_glow
+    4300030: ui_grasp
+    4300032: ui_2x
+    4300034: ui_hand_point
+    4300036: ui_arrow_straight
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 25
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

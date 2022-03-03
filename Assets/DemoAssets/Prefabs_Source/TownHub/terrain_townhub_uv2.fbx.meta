@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 41356ff1500dde049a2c6791fc2f1cf4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: terrain_01
+    100002: //RootNode
+    100004: Texture Group
+    100006: terrain_02
+    100008: Mesh
+    100010: Texture Group (2)
+    100012: terrain_01_small
+    100014: Texture Group (3)
+    100016: Texture Group (4)
+    100018: Texture Group (5)
+    100020: Mesh (2)
+    100022: Texture Group (6)
+    100024: Texture Group (7)
+    100026: Texture Group (8)
+    100028: Camera
+    100030: Directional Light
+    100032: Texture Group (9)
+    100034: terrain_01_a
+    100036: terrain_01_b
+    100038: terrain_01_c
+    100040: Texture Group (10)
+    100042: terrain_01_d
+    100044: terrain_vista_01
+    100046: terrain_vista_02
+    100048: Texture Group (11)
+    100050: terrain_01_a (2)
+    100052: terrain_01_e
+    100054: Texture Group (12)
+    100056: terrain_01_f
+    100058: terrain_02_a
+    100060: terrain_03_a
+    100062: terrain_04_a
+    100064: terrain_vista_01_a
+    100066: terrain_vista_02_a
+    100068: Texture Group (13)
+    400000: terrain_01
+    400002: //RootNode
+    400004: Texture Group
+    400006: terrain_02
+    400008: Mesh
+    400010: Texture Group (2)
+    400012: terrain_01_small
+    400014: Texture Group (3)
+    400016: Texture Group (4)
+    400018: Texture Group (5)
+    400020: Mesh (2)
+    400022: Texture Group (6)
+    400024: Texture Group (7)
+    400026: Texture Group (8)
+    400028: Camera
+    400030: Directional Light
+    400032: Texture Group (9)
+    400034: terrain_01_a
+    400036: terrain_01_b
+    400038: terrain_01_c
+    400040: Texture Group (10)
+    400042: terrain_01_d
+    400044: terrain_vista_01
+    400046: terrain_vista_02
+    400048: Texture Group (11)
+    400050: terrain_01_a (2)
+    400052: terrain_01_e
+    400054: Texture Group (12)
+    400056: terrain_01_f
+    400058: terrain_02_a
+    400060: terrain_03_a
+    400062: terrain_04_a
+    400064: terrain_vista_01_a
+    400066: terrain_vista_02_a
+    400068: Texture Group (13)
+    2000000: Camera
+    2300000: terrain_01
+    2300002: terrain_02
+    2300004: Mesh
+    2300006: terrain_01_small
+    2300008: Mesh (2)
+    2300010: terrain_01_a
+    2300012: terrain_01_b
+    2300014: terrain_01_c
+    2300016: terrain_01_d
+    2300018: terrain_vista_01
+    2300020: terrain_vista_02
+    2300022: terrain_01_a (2)
+    2300024: terrain_01_e
+    2300026: terrain_01_f
+    2300028: terrain_02_a
+    2300030: terrain_03_a
+    2300032: terrain_04_a
+    2300034: terrain_vista_01_a
+    2300036: terrain_vista_02_a
+    3300000: terrain_01
+    3300002: terrain_02
+    3300004: Mesh
+    3300006: terrain_01_small
+    3300008: Mesh (2)
+    3300010: terrain_01_a
+    3300012: terrain_01_b
+    3300014: terrain_01_c
+    3300016: terrain_01_d
+    3300018: terrain_vista_01
+    3300020: terrain_vista_02
+    3300022: terrain_01_a (2)
+    3300024: terrain_01_e
+    3300026: terrain_01_f
+    3300028: terrain_02_a
+    3300030: terrain_03_a
+    3300032: terrain_04_a
+    3300034: terrain_vista_01_a
+    3300036: terrain_vista_02_a
+    4300000: terrain_01
+    4300002: terrain_02
+    4300004: Mesh
+    4300006: terrain_01_small
+    4300008: Mesh (2)
+    4300010: terrain_01_a
+    4300012: terrain_01_b
+    4300014: terrain_01_c
+    4300016: terrain_01_d
+    4300018: terrain_vista_01
+    4300020: terrain_vista_02
+    4300022: terrain_01_a (2)
+    4300024: terrain_01_e
+    4300026: terrain_01_f
+    4300028: terrain_03_a
+    4300030: terrain_02_a
+    4300032: terrain_04_a
+    4300034: terrain_vista_01_a
+    4300036: terrain_vista_02_a
+    9500000: //RootNode
+    10800000: Directional Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

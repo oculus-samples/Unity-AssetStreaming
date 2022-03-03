@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 8ae55fa60170ce848b226c02d17688ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fort_shooutout_player_collision
+    100004: fort_shooutout_world_collision_dirt
+    100006: fort_shooutout_world_collision_glass
+    100008: fort_shooutout_world_collision_metal
+    100010: fort_shooutout_world_collision_stone
+    100012: fort_shooutout_world_collision_wood
+    100014: stakes_fence_01__1_
+    100016: fort_shootout_before
+    400000: //RootNode
+    400002: fort_shooutout_player_collision
+    400004: fort_shooutout_world_collision_dirt
+    400006: fort_shooutout_world_collision_glass
+    400008: fort_shooutout_world_collision_metal
+    400010: fort_shooutout_world_collision_stone
+    400012: fort_shooutout_world_collision_wood
+    400014: stakes_fence_01__1_
+    400016: fort_shootout_before
+    2300000: fort_shooutout_player_collision
+    2300002: fort_shooutout_world_collision_dirt
+    2300004: fort_shooutout_world_collision_glass
+    2300006: fort_shooutout_world_collision_metal
+    2300008: fort_shooutout_world_collision_stone
+    2300010: fort_shooutout_world_collision_wood
+    2300012: stakes_fence_01__1_
+    2300014: //RootNode
+    2300016: fort_shootout_before
+    3300000: fort_shooutout_player_collision
+    3300002: fort_shooutout_world_collision_dirt
+    3300004: fort_shooutout_world_collision_glass
+    3300006: fort_shooutout_world_collision_metal
+    3300008: fort_shooutout_world_collision_stone
+    3300010: fort_shooutout_world_collision_wood
+    3300012: stakes_fence_01__1_
+    3300014: //RootNode
+    3300016: fort_shootout_before
+    4300000: fort_shooutout_world_collision_dirt
+    4300002: fort_shooutout_world_collision_glass
+    4300004: fort_shooutout_world_collision_stone
+    4300006: fort_shooutout_player_collision
+    4300008: fort_shooutout_world_collision_wood
+    4300010: fort_shooutout_world_collision_metal
+    4300012: stakes_fence_01__1_
+    4300014: fort_building_01
+    4300016: fort_shootout_before
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

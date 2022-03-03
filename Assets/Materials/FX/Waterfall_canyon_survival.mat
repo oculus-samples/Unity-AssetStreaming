@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Waterfall_canyon_survival
+  m_Shader: {fileID: 4800000, guid: a578f34a12168984bb2df87d968ceba0, type: 3}
+  m_ShaderKeywords: _ALPHABLEND_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2200
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Displacement:
+        m_Texture: {fileID: 2800000, guid: 90ba9fcb15a16794880cb002b09819e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0.7}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 80dc01a8c5ce3494b8ba04b5254a6b50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0.7}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Reflection:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondaryTexture:
+        m_Texture: {fileID: 2800000, guid: 2423e14ad0d0b934d98a2befe236a7d6, type: 3}
+        m_Scale: {x: 2, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 80dc01a8c5ce3494b8ba04b5254a6b50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: 80dc01a8c5ce3494b8ba04b5254a6b50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - __MainTex:
+        m_Texture: {fileID: 2800000, guid: 80dc01a8c5ce3494b8ba04b5254a6b50, type: 3}
+        m_Scale: {x: 1, y: 0.3}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bump1Speed: 0
+    - _Bump2Speed: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.728
+    - _DetailNormalMapScale: 1
+    - _Displ_Intensity: 0.232
+    - _DistortionPower: 0
+    - _DistortionSpeed: 0
+    - _DstBlend: 10
+    - _EmisisonIntensity: 0.152
+    - _Gloss: 0.3
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _MainTexSpeed: 1.17
+    - _Metallic: 0
+    - _Mode: 2
+    - _OcclusionStrength: 1
+    - _Opacity: 0.869
+    - _Parallax: 0.02
+    - _ReflectPower: 0
+    - _SecondaryTextureIntensity: 0.722
+    - _SecondaryTexture_Speed: 0.928
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 1
+    - _SpecularHighlights: 1
+    - _Speed: 1
+    - _SrcBlend: 5
+    - _Texture2Speed: 0.1
+    - _U: 1
+    - _UTile: 1
+    - _UVSec: 0
+    - _V: 0
+    - _VTile: 1
+    - _V_copy: 1
+    - _ZWrite: 0
+    - _sdfdsfds: 1
+    - _sdfsadsad: 0
+    m_Colors:
+    - _Color: {r: 0, g: 0.58, b: 0.34931085, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _node_1150: {r: -0.39, g: 0.51, b: -4.5, a: 0}

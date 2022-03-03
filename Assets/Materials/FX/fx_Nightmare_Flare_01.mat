@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fx_Nightmare_Flare_01
+  m_Shader: {fileID: 4800000, guid: 77cff09b787f1492db82167442434cbe, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _Reflection
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c29f874be5a18ff40acfa32c56efbc77, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap2
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Texture2
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Texture1
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap1
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DistortionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Specular
+        second: 1
+      data:
+        first:
+          name: _Gloss
+        second: 0.3
+      data:
+        first:
+          name: _Opacity
+        second: 0
+      data:
+        first:
+          name: _InvFade
+        second: 3
+      data:
+        first:
+          name: _MainTexSpeed
+        second: 0
+      data:
+        first:
+          name: _Bump1Speed
+        second: 0
+      data:
+        first:
+          name: _Texture2Speed
+        second: 0
+      data:
+        first:
+          name: _Bump2Speed
+        second: 0
+      data:
+        first:
+          name: _DistortionSpeed
+        second: 0
+      data:
+        first:
+          name: _DistortionPower
+        second: 0
+      data:
+        first:
+          name: _ReflectPower
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 0.44852942, g: 0.44852942, b: 0.44852942, a: 1}
+      data:
+        first:
+          name: _EmisColor
+        second: {r: 0.27450982, g: 0.27450982, b: 0.27450982, a: 0}
+      data:
+        first:
+          name: _Properties
+        second: {r: 0.005, g: 0.01, b: 1, a: 0}

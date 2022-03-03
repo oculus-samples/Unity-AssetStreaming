@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: a19659635ca7548419e7d94d531ef447
+timeCreated: 1438898283
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: score_00_a
+    100002: score_00_b
+    100004: score_01_a
+    100006: score_01_b
+    100008: score_02_a
+    100010: score_02_b
+    100012: score_03_a
+    100014: score_03_b
+    100016: score_04_a
+    100018: score_04_b
+    100020: score_05_a
+    100022: score_05_b
+    100024: score_06_a
+    100026: score_06_b
+    100028: score_07_a
+    100030: score_07_b
+    100032: score_08_a
+    100034: score_08_b
+    100036: score_09_a
+    100038: score_09_b
+    100040: //RootNode
+    100042: score_counter
+    100044: score_counter_rings
+    100046: Texture Group
+    100048: Texture Group (2)
+    400000: score_00_a
+    400002: score_00_b
+    400004: score_01_a
+    400006: score_01_b
+    400008: score_02_a
+    400010: score_02_b
+    400012: score_03_a
+    400014: score_03_b
+    400016: score_04_a
+    400018: score_04_b
+    400020: score_05_a
+    400022: score_05_b
+    400024: score_06_a
+    400026: score_06_b
+    400028: score_07_a
+    400030: score_07_b
+    400032: score_08_a
+    400034: score_08_b
+    400036: score_09_a
+    400038: score_09_b
+    400040: //RootNode
+    400042: score_counter
+    400044: score_counter_rings
+    400046: Texture Group
+    400048: Texture Group (2)
+    2300000: score_00_a
+    2300002: score_00_b
+    2300004: score_01_a
+    2300006: score_01_b
+    2300008: score_02_a
+    2300010: score_02_b
+    2300012: score_03_a
+    2300014: score_03_b
+    2300016: score_04_a
+    2300018: score_04_b
+    2300020: score_05_a
+    2300022: score_05_b
+    2300024: score_06_a
+    2300026: score_06_b
+    2300028: score_07_a
+    2300030: score_07_b
+    2300032: score_08_a
+    2300034: score_08_b
+    2300036: score_09_a
+    2300038: score_09_b
+    2300040: score_counter
+    2300042: score_counter_rings
+    3300000: score_00_a
+    3300002: score_00_b
+    3300004: score_01_a
+    3300006: score_01_b
+    3300008: score_02_a
+    3300010: score_02_b
+    3300012: score_03_a
+    3300014: score_03_b
+    3300016: score_04_a
+    3300018: score_04_b
+    3300020: score_05_a
+    3300022: score_05_b
+    3300024: score_06_a
+    3300026: score_06_b
+    3300028: score_07_a
+    3300030: score_07_b
+    3300032: score_08_a
+    3300034: score_08_b
+    3300036: score_09_a
+    3300038: score_09_b
+    3300040: score_counter
+    3300042: score_counter_rings
+    4300000: score_00_a
+    4300002: score_01_a
+    4300004: score_02_a
+    4300006: score_03_a
+    4300008: score_04_a
+    4300010: score_05_a
+    4300012: score_06_a
+    4300014: score_07_a
+    4300016: score_08_a
+    4300018: score_09_a
+    4300020: score_counter_rings
+    4300022: score_counter
+    4300024: score_05_b
+    4300026: score_02_b
+    4300028: score_03_b
+    4300030: score_00_b
+    4300032: score_06_b
+    4300034: score_01_b
+    4300036: score_07_b
+    4300038: score_09_b
+    4300040: score_08_b
+    4300042: score_04_b
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

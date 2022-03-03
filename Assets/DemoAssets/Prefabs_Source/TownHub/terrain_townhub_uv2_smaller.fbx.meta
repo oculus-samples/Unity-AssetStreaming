@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: 07ab0d1bd2e24f64386c93145f56030d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 734600695729163834
+    second: Texture Group|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -499539222637614577
+    second: Texture Group|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 1489333087479848957
+    second: Texture Group|terrain_02|Take 001|Layer 001
+  - first:
+      74: 1128161812042527941
+    second: Texture Group|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -7243596704639787635
+    second: Texture Group|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 7821145973203428751
+    second: Texture Group|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 8191274756611750137
+    second: Texture Group|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 2990609892179816291
+    second: Texture Group|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -4680849859105032271
+    second: Texture Group|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 2663957971728947038
+    second: Texture Group|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -7809779484913424868
+    second: Texture Group|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -4395364771321349451
+    second: Texture Group|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -5284561900891448007
+    second: Texture Group|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -2950365075452438886
+    second: Texture Group|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 7480403719121285460
+    second: Texture Group|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 5718633843601174729
+    second: Texture Group|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: 3268213727614536852
+    second: Texture Group|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -5692980469292478883
+    second: Texture Group|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 7725350405336837820
+    second: Texture Group|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 4942489634596724470
+    second: Texture Group|Texture Group|Take 001|Layer 001
+  - first:
+      74: -7383174148843762962
+    second: Texture Group (2)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -7272831576249680783
+    second: Texture Group (2)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -1097635622505125947
+    second: Texture Group (2)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 8715798796939003036
+    second: Texture Group (2)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -8952592947203974054
+    second: Texture Group (2)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 4842940697875116139
+    second: Texture Group (2)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -5130377958838745820
+    second: Texture Group (2)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -410770319115072883
+    second: Texture Group (2)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -6275656226388069942
+    second: Texture Group (2)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -3936185418555374463
+    second: Texture Group (2)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: 5618975313876932123
+    second: Texture Group (2)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 6373071338365549465
+    second: Texture Group (2)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 3462714084885181678
+    second: Texture Group (2)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 6366622115867829684
+    second: Texture Group (2)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 2340556064048583385
+    second: Texture Group (2)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -6884724386701618611
+    second: Texture Group (2)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -6628474709952066021
+    second: Texture Group (2)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -5931601369443592676
+    second: Texture Group (2)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -1805691840221168841
+    second: Texture Group (2)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 7018587695805548382
+    second: Texture Group (2)|Texture Group|Take 001|Layer 001
+  - first:
+      74: 6159222971305690936
+    second: Texture Group (3)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -3909725292318571846
+    second: Texture Group (3)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 492022633541729105
+    second: Texture Group (3)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 6775380734638959730
+    second: Texture Group (3)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -7510843179074669094
+    second: Texture Group (3)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -3921969101508512236
+    second: Texture Group (3)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -803400967023499704
+    second: Texture Group (3)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 5340690843965259775
+    second: Texture Group (3)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: 6293563135671757337
+    second: Texture Group (3)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 5737784451918041066
+    second: Texture Group (3)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: 5767802044374274869
+    second: Texture Group (3)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 7961807438449222833
+    second: Texture Group (3)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -5192413759801671003
+    second: Texture Group (3)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 1815790912088242339
+    second: Texture Group (3)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: -5652910922792265912
+    second: Texture Group (3)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 4387579181952768432
+    second: Texture Group (3)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -6922604709169529635
+    second: Texture Group (3)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -4301567671566563297
+    second: Texture Group (3)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -1018297695107700460
+    second: Texture Group (3)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: -7437473913767752635
+    second: Texture Group (3)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -7420604918566355002
+    second: Texture Group (4)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 7586764675334975907
+    second: Texture Group (4)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -3612751418157315010
+    second: Texture Group (4)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -6135039838920101676
+    second: Texture Group (4)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -6599059750872540102
+    second: Texture Group (4)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 3767579435879748199
+    second: Texture Group (4)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 3208116350951128154
+    second: Texture Group (4)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 4397104913697673717
+    second: Texture Group (4)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -141176935191363532
+    second: Texture Group (4)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -6045801852661677353
+    second: Texture Group (4)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -1779849508558687257
+    second: Texture Group (4)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 4487759584064382296
+    second: Texture Group (4)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 5543776757719317422
+    second: Texture Group (4)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -2627682976506106220
+    second: Texture Group (4)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: -5066134987809490138
+    second: Texture Group (4)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -5715481376495557069
+    second: Texture Group (4)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -7887261262040090294
+    second: Texture Group (4)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -116131768686382822
+    second: Texture Group (4)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -2017125670307253014
+    second: Texture Group (4)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: -5520653349684095973
+    second: Texture Group (4)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -834856403812130310
+    second: Texture Group (5)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 8096712746327512639
+    second: Texture Group (5)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 4811499177008361631
+    second: Texture Group (5)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -7999621686550970677
+    second: Texture Group (5)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -3592898826375995033
+    second: Texture Group (5)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -5479004511668322380
+    second: Texture Group (5)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -1080683154245322416
+    second: Texture Group (5)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -5322640634885814380
+    second: Texture Group (5)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -3245068111571963529
+    second: Texture Group (5)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 700140503876577955
+    second: Texture Group (5)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -2959039049638709842
+    second: Texture Group (5)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -5385148020037787431
+    second: Texture Group (5)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -7117399582500247565
+    second: Texture Group (5)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -6015214273263105292
+    second: Texture Group (5)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 1410568282691876132
+    second: Texture Group (5)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -4734791687229339930
+    second: Texture Group (5)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -9191974482648200838
+    second: Texture Group (5)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: 8592992319365784932
+    second: Texture Group (5)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -1968168873579442017
+    second: Texture Group (5)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 4562087506716092371
+    second: Texture Group (5)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -1138171255399293816
+    second: Texture Group (6)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 5214512560344339110
+    second: Texture Group (6)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 1481463621477959617
+    second: Texture Group (6)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -7668685472797309995
+    second: Texture Group (6)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 6174350261653605772
+    second: Texture Group (6)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -5235271979808049658
+    second: Texture Group (6)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 1545829945283891717
+    second: Texture Group (6)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -3551480967018064785
+    second: Texture Group (6)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -4238259451618309726
+    second: Texture Group (6)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 3361150592706959895
+    second: Texture Group (6)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -8079623538786810437
+    second: Texture Group (6)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -6997606310300543486
+    second: Texture Group (6)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -9002510646950071939
+    second: Texture Group (6)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -6864970965236295841
+    second: Texture Group (6)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 6623225604890081478
+    second: Texture Group (6)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 8861093764954793944
+    second: Texture Group (6)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -6096417780481613414
+    second: Texture Group (6)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: 8699285020786689290
+    second: Texture Group (6)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 2351487364116252293
+    second: Texture Group (6)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: -178863852554656288
+    second: Texture Group (6)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -7240433122903684667
+    second: Texture Group (7)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -609499278383210501
+    second: Texture Group (7)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 2896063151129444976
+    second: Texture Group (7)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -5498884528549541805
+    second: Texture Group (7)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 5152764308144079518
+    second: Texture Group (7)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 2581789087702548097
+    second: Texture Group (7)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -7196797783953839293
+    second: Texture Group (7)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 3214431389933904935
+    second: Texture Group (7)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -8846225443673924962
+    second: Texture Group (7)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -5856295160954611533
+    second: Texture Group (7)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -4943658304611059230
+    second: Texture Group (7)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 5436426259715014256
+    second: Texture Group (7)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -9204794379348226197
+    second: Texture Group (7)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -4369621527785819393
+    second: Texture Group (7)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 33612450655754589
+    second: Texture Group (7)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -7737563802989061243
+    second: Texture Group (7)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -7391752962680951114
+    second: Texture Group (7)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -6306428356458611710
+    second: Texture Group (7)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -2497391303568785206
+    second: Texture Group (7)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: -4415915306941779802
+    second: Texture Group (7)|Texture Group|Take 001|Layer 001
+  - first:
+      74: 2168442652794717089
+    second: Texture Group (8)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 3417164131300860023
+    second: Texture Group (8)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -4300839872774759652
+    second: Texture Group (8)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 8342345759932338711
+    second: Texture Group (8)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -6972232225465608594
+    second: Texture Group (8)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 3689405574110243773
+    second: Texture Group (8)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 5250687847387539341
+    second: Texture Group (8)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 4467686860056428593
+    second: Texture Group (8)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -3958982296840246699
+    second: Texture Group (8)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -8953551414553174966
+    second: Texture Group (8)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -1216389664094868673
+    second: Texture Group (8)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 2585269021876871719
+    second: Texture Group (8)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 7041260303460790010
+    second: Texture Group (8)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 5583185264668651673
+    second: Texture Group (8)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 444290560920456911
+    second: Texture Group (8)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 5879039700895042689
+    second: Texture Group (8)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: 8269090500592098817
+    second: Texture Group (8)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -6049476490850091524
+    second: Texture Group (8)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -7484264970194759584
+    second: Texture Group (8)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 504487700715685636
+    second: Texture Group (8)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -5872700767712612544
+    second: Texture Group (9)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -892424444846507929
+    second: Texture Group (9)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -2391124057371542759
+    second: Texture Group (9)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -3739929147814703424
+    second: Texture Group (9)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 1545321288650598052
+    second: Texture Group (9)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: 4281041693949488224
+    second: Texture Group (9)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -6741466006353740942
+    second: Texture Group (9)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 3575689717041636945
+    second: Texture Group (9)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: 5879790109266735455
+    second: Texture Group (9)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 1446725630559657132
+    second: Texture Group (9)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: 4885639541730303001
+    second: Texture Group (9)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 5318836928134864814
+    second: Texture Group (9)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 541998357919404969
+    second: Texture Group (9)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 807800382131313082
+    second: Texture Group (9)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 1739018253240555841
+    second: Texture Group (9)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 1489906829409108208
+    second: Texture Group (9)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: 1813854388453725706
+    second: Texture Group (9)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -4822804350351968589
+    second: Texture Group (9)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -2128621142681112052
+    second: Texture Group (9)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 7716957139687005941
+    second: Texture Group (9)|Texture Group|Take 001|Layer 001
+  - first:
+      74: 8078670029574536297
+    second: Texture Group (10)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: -4553255803604188291
+    second: Texture Group (10)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -3583815266212483351
+    second: Texture Group (10)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 2055959861614171583
+    second: Texture Group (10)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: -6510506222426212710
+    second: Texture Group (10)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -4807243298565276482
+    second: Texture Group (10)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -759779322570249376
+    second: Texture Group (10)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -4449512882248185048
+    second: Texture Group (10)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -1245941475798529600
+    second: Texture Group (10)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -5018226683133272450
+    second: Texture Group (10)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -6921760166556408456
+    second: Texture Group (10)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 7310662628707667170
+    second: Texture Group (10)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 5773603009292954109
+    second: Texture Group (10)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 1093557207301190629
+    second: Texture Group (10)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 7313239861617303926
+    second: Texture Group (10)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -1002072703230350347
+    second: Texture Group (10)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -1707490806807313472
+    second: Texture Group (10)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: 5055687940914595738
+    second: Texture Group (10)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 1098183438576790168
+    second: Texture Group (10)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 1263940762515033851
+    second: Texture Group (10)|Texture Group|Take 001|Layer 001
+  - first:
+      74: 2735421566369137683
+    second: Texture Group (11)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 999499533087865729
+    second: Texture Group (11)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 1251562410068776624
+    second: Texture Group (11)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 3128761696700550681
+    second: Texture Group (11)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 8898490241170314244
+    second: Texture Group (11)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -2220214036756857962
+    second: Texture Group (11)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 1903147224177643743
+    second: Texture Group (11)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -5825945901423458741
+    second: Texture Group (11)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -5443407706302407444
+    second: Texture Group (11)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 8310080555999539252
+    second: Texture Group (11)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -7955246177206179410
+    second: Texture Group (11)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -1145201987329774651
+    second: Texture Group (11)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -8655353055192836482
+    second: Texture Group (11)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -9015601574499993083
+    second: Texture Group (11)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 1364189511845112299
+    second: Texture Group (11)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 597621073062979473
+    second: Texture Group (11)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -3245059679734157283
+    second: Texture Group (11)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -1700008393036472254
+    second: Texture Group (11)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: -606616632308015573
+    second: Texture Group (11)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 680263328167460471
+    second: Texture Group (11)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -8523726255712514936
+    second: Texture Group (12)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 1401617703302895409
+    second: Texture Group (12)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 813339164162387232
+    second: Texture Group (12)|terrain_02|Take 001|Layer 001
+  - first:
+      74: 4295087519231397235
+    second: Texture Group (12)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 4540167049236829360
+    second: Texture Group (12)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -1969550725599261870
+    second: Texture Group (12)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: 7109949733250539193
+    second: Texture Group (12)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -8199604738316471525
+    second: Texture Group (12)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -8959395130331517782
+    second: Texture Group (12)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 6130154732269192077
+    second: Texture Group (12)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -385529262338703884
+    second: Texture Group (12)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -8220019919529009434
+    second: Texture Group (12)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -7834514174427930223
+    second: Texture Group (12)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -5139464801785693305
+    second: Texture Group (12)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: -3545413161728279036
+    second: Texture Group (12)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 5679661901090877308
+    second: Texture Group (12)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: 689263762281104469
+    second: Texture Group (12)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: 7556596744168257429
+    second: Texture Group (12)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 3626314602132543453
+    second: Texture Group (12)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 1245281271592142220
+    second: Texture Group (12)|Texture Group|Take 001|Layer 001
+  - first:
+      74: -9139768218638249047
+    second: Texture Group (13)|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 8285050006990715357
+    second: Texture Group (13)|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: -50959321224959098
+    second: Texture Group (13)|terrain_02|Take 001|Layer 001
+  - first:
+      74: -2676706297076144446
+    second: Texture Group (13)|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 7816946363312828443
+    second: Texture Group (13)|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -6504498346189570032
+    second: Texture Group (13)|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -9152021623254845361
+    second: Texture Group (13)|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: -7718037878453102508
+    second: Texture Group (13)|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -4915484722230159879
+    second: Texture Group (13)|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: -7918831686963347038
+    second: Texture Group (13)|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: 3735201214778050459
+    second: Texture Group (13)|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: 2131174611167959820
+    second: Texture Group (13)|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: -8330178624358629853
+    second: Texture Group (13)|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: 7607672548963749146
+    second: Texture Group (13)|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 8273126969866951461
+    second: Texture Group (13)|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: 518969152453924641
+    second: Texture Group (13)|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: -5019431394600087303
+    second: Texture Group (13)|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -908511850054339174
+    second: Texture Group (13)|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 8706120163620752591
+    second: Texture Group (13)|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: -8097121623871562804
+    second: Texture Group (13)|Texture Group|Take 001|Layer 001
+  - first:
+      74: 3518872702611108374
+    second: terrain_01_a|terrain_01_a|Take 001|Layer 001
+  - first:
+      74: 1149850986512915290
+    second: terrain_01_a|terrain_02_a|Take 001|Layer 001
+  - first:
+      74: 4541827355743625904
+    second: terrain_01_a|terrain_02|Take 001|Layer 001
+  - first:
+      74: 753405770664254001
+    second: terrain_01_a|terrain_03_a|Take 001|Layer 001
+  - first:
+      74: 8410676148801480142
+    second: terrain_01_a|terrain_04_a|Take 001|Layer 001
+  - first:
+      74: -3661673797923109209
+    second: terrain_01_a|terrain_vista_01_a|Take 001|Layer 001
+  - first:
+      74: -5352950293257642119
+    second: terrain_01_a|terrain_vista_02_a|Take 001|Layer 001
+  - first:
+      74: 5415362198175586561
+    second: terrain_01_a|Texture Group (10)|Take 001|Layer 001
+  - first:
+      74: -8756640324448665586
+    second: terrain_01_a|Texture Group (11)|Take 001|Layer 001
+  - first:
+      74: 1222352840680731363
+    second: terrain_01_a|Texture Group (12)|Take 001|Layer 001
+  - first:
+      74: -946356121376980782
+    second: terrain_01_a|Texture Group (13)|Take 001|Layer 001
+  - first:
+      74: -2213932366820104601
+    second: terrain_01_a|Texture Group (2)|Take 001|Layer 001
+  - first:
+      74: 5089785823482537467
+    second: terrain_01_a|Texture Group (3)|Take 001|Layer 001
+  - first:
+      74: -3661836160151660359
+    second: terrain_01_a|Texture Group (4)|Take 001|Layer 001
+  - first:
+      74: 3586911235640758994
+    second: terrain_01_a|Texture Group (5)|Take 001|Layer 001
+  - first:
+      74: -2797096666541004281
+    second: terrain_01_a|Texture Group (6)|Take 001|Layer 001
+  - first:
+      74: 9046655507503206384
+    second: terrain_01_a|Texture Group (7)|Take 001|Layer 001
+  - first:
+      74: -8021793930239657817
+    second: terrain_01_a|Texture Group (8)|Take 001|Layer 001
+  - first:
+      74: 8440825312532554817
+    second: terrain_01_a|Texture Group (9)|Take 001|Layer 001
+  - first:
+      74: 1288108120153400803
+    second: terrain_01_a|Texture Group|Take 001|Layer 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: b3e237ebb22445e4688066104686057a
+timeCreated: 1449256509
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: button_bg
+    100002: button_bg_glow
+    100004: button_cancel
+    100006: button_confirm
+    100008: button_leaderboard
+    100010: button_play
+    100012: button_replay
+    100014: button_worldmap
+    100016: icon_accuracy
+    100018: icon_cash
+    100020: icon_hit
+    100022: icon_lives
+    100024: keyboard_key
+    100026: keyboard_key_long
+    100028: keyboard_key_space
+    100030: keyboard_layout
+    100032: logo
+    100034: logo_source
+    100036: Mesh
+    100038: Texture Group
+    100040: Texture Group (2)
+    100042: Texture Group (3)
+    100044: //RootNode
+    100046: timer_clock
+    100048: timer_hand
+    100050: ui_image_01
+    100052: ui_panel_01
+    100054: ui_panel_02
+    100056: ui_panel_03
+    100058: ui_panel_04
+    100060: ui_panel_05
+    100062: Texture Group (4)
+    100064: Mesh (2)
+    400000: button_bg
+    400002: button_bg_glow
+    400004: button_cancel
+    400006: button_confirm
+    400008: button_leaderboard
+    400010: button_play
+    400012: button_replay
+    400014: button_worldmap
+    400016: icon_accuracy
+    400018: icon_cash
+    400020: icon_hit
+    400022: icon_lives
+    400024: keyboard_key
+    400026: keyboard_key_long
+    400028: keyboard_key_space
+    400030: keyboard_layout
+    400032: logo
+    400034: logo_source
+    400036: Mesh
+    400038: Texture Group
+    400040: Texture Group (2)
+    400042: Texture Group (3)
+    400044: //RootNode
+    400046: timer_clock
+    400048: timer_hand
+    400050: ui_image_01
+    400052: ui_panel_01
+    400054: ui_panel_02
+    400056: ui_panel_03
+    400058: ui_panel_04
+    400060: ui_panel_05
+    400062: Texture Group (4)
+    400064: Mesh (2)
+    2300000: button_bg
+    2300002: button_bg_glow
+    2300004: button_cancel
+    2300006: button_confirm
+    2300008: button_leaderboard
+    2300010: button_play
+    2300012: button_replay
+    2300014: button_worldmap
+    2300016: icon_accuracy
+    2300018: icon_cash
+    2300020: icon_hit
+    2300022: keyboard_key
+    2300024: keyboard_key_long
+    2300026: keyboard_key_space
+    2300028: keyboard_layout
+    2300030: logo
+    2300032: logo_source
+    2300034: Mesh
+    2300036: timer_clock
+    2300038: timer_hand
+    2300040: ui_image_01
+    2300042: ui_panel_01
+    2300044: ui_panel_02
+    2300046: ui_panel_03
+    2300048: ui_panel_04
+    2300050: ui_panel_05
+    2300052: Mesh (2)
+    3300000: button_bg
+    3300002: button_bg_glow
+    3300004: button_cancel
+    3300006: button_confirm
+    3300008: button_leaderboard
+    3300010: button_play
+    3300012: button_replay
+    3300014: button_worldmap
+    3300016: icon_accuracy
+    3300018: icon_cash
+    3300020: icon_hit
+    3300022: keyboard_key
+    3300024: keyboard_key_long
+    3300026: keyboard_key_space
+    3300028: keyboard_layout
+    3300030: logo
+    3300032: logo_source
+    3300034: Mesh
+    3300036: timer_clock
+    3300038: timer_hand
+    3300040: ui_image_01
+    3300042: ui_panel_01
+    3300044: ui_panel_02
+    3300046: ui_panel_03
+    3300048: ui_panel_04
+    3300050: ui_panel_05
+    3300052: Mesh (2)
+    4300000: button_leaderboard
+    4300002: button_replay
+    4300004: button_bg
+    4300006: button_worldmap
+    4300008: ui_panel_01
+    4300010: Mesh
+    4300012: ui_panel_02
+    4300014: icon_cash
+    4300016: ui_panel_03
+    4300018: icon_hit
+    4300020: icon_accuracy
+    4300022: ui_panel_04
+    4300024: button_bg_glow
+    4300026: icon_lives
+    4300028: logo
+    4300030: logo_source
+    4300032: ui_panel_05
+    4300034: button_play
+    4300036: button_confirm
+    4300038: button_cancel
+    4300040: ui_image_01
+    4300042: keyboard_key
+    4300044: keyboard_key_long
+    4300046: keyboard_layout
+    4300048: keyboard_key_space
+    4300050: timer_clock
+    4300052: timer_hand
+    4300054: Mesh (2)
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: icon_lives
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

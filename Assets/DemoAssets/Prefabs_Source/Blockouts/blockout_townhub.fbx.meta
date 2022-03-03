@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: fbe33f47978bbc84299cbd3d33246f96
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: corner_store_01
+    100004: Texture Group
+    100006: alley
+    100008: alley_building_01
+    100010: alley_building_02
+    100012: alley_building_03
+    100014: blockout
+    100016: building_01
+    100018: building_02
+    100020: building_03
+    100022: building_04
+    100024: building_05
+    100026: building_06
+    100028: building_07
+    100030: building_08
+    100032: building_09
+    100034: building_10
+    100036: building_11
+    100038: building_12
+    100040: building_13
+    100042: building_14
+    100044: building_15
+    100046: buildings
+    100048: corner_building_01
+    100050: courtyard
+    100052: doors
+    100054: gate_door_01
+    100056: jail
+    100058: jail_01
+    100060: jail_building_01
+    100062: props
+    100064: sheriff
+    100066: sheriff_building_01
+    100068: stone_post_01
+    100070: stone_post_02
+    100072: stone_steps_01
+    100074: stone_trim_01_a
+    100076: stone_wall_01_a
+    100078: stone_wall_01_b
+    100080: stone_wall_02_a
+    100082: stone_wall_02_b
+    100084: stone_wall_chunk_01_a
+    100086: terrain
+    100088: terrain_alley_01
+    100090: terrain_bank_01
+    100092: terrain_courtyard_01
+    100094: terrain_doors_01
+    100096: terrain_doors_02
+    100098: terrain_doors_03
+    100100: terrain_graveyard_01
+    100102: terrain_graveyard_02
+    100104: terrain_sheriff_01
+    100106: Texture Group (2)
+    100108: Texture Group (3)
+    100110: topdown
+    100112: undertaker_shack_01
+    100114: vault
+    100116: vault_01
+    100118: vista
+    100120: vista_group_01
+    100122: vista_group_02
+    100124: vista_group_03
+    100126: vista_group_04
+    100128: well_01
+    100130: wood_door_01
+    100132: interiors
+    100134: wood_walkway_2x3_a
+    100136: wood_walkway_3x3_a
+    100138: wood_fence_01_a
+    100140: wood_fence_post_a
+    100142: temp_door_scale
+    100144: door_small_01_a
+    100146: gunsmith_01
+    100148: _delete
+    100150: door_wide_01_a
+    100152: Mesh
+    100154: saloon_01
+    100156: Texture Group (4)
+    100158: temp
+    100160: generic_01
+    100162: rock_mesa_01
+    100164: watertower_01
+    100166: bank_01
+    100168: loading_dock_01
+    100170: shack_01
+    100172: spanish_01
+    100174: spanish_02
+    100176: trainstation_01
+    100178: church_01
+    100180: job_board
+    100182: livery_01
+    100184: arch_01
+    100186: telegraph_01
+    100188: wood_walkway_5x5_a
+    100190: wood_walkway_5x5_b
+    100192: Texture Group (5)
+    100194: tracks_01
+    100196: tracks_01_bend
+    100198: blockout_section_01
+    100200: Mesh (2)
+    100202: bell
+    100204: spanish_church
+    100206: Mesh (3)
+    100208: Mesh (4)
+    100210: building_16
+    100212: Texture Group (6)
+    100214: Mesh (5)
+    100216: blockout_section_02
+    100218: Mesh (6)
+    100220: Texture Group (7)
+    100222: Texture Group (8)
+    100224: Mesh (7)
+    100226: building_17
+    100228: Mesh (8)
+    100230: distillery_01
+    100232: Mesh (10)
+    100234: Mesh (9)
+    100236: Mesh (11)
+    100238: general_store_01
+    100240: building_04_destroyed
+    100242: blockout_section_03
+    100244: jail_work
+    100246: rock_tunnel_01
+    100248: wood_fence_02_a
+    100250: wood_gate_01_a
+    100252: gravestone_01_a
+    100254: gravestone_02_a
+    100256: gravestone_03_a
+    100258: gravestone_04_a
+    100260: mausoleum_01_a
+    100262: Texture Group (9)
+    100264: undertaker_01
+    100266: irongate
+    100268: saloon_01_interior
+    100270: Texture Group (10)
+    100272: saloon_01_exterior
+    100274: general_store_01_exterior
+    100276: general_store_01_interior
+    100278: door_usable
+    100280: door_usable_frame
+    100282: dresser
+    100284: dresser_drawer
+    100286: Texture Group (11)
+    100288: saloon_01_collision
+    400000: //RootNode
+    400002: corner_store_01
+    400004: Texture Group
+    400006: alley
+    400008: alley_building_01
+    400010: alley_building_02
+    400012: alley_building_03
+    400014: blockout
+    400016: building_01
+    400018: building_02
+    400020: building_03
+    400022: building_04
+    400024: building_05
+    400026: building_06
+    400028: building_07
+    400030: building_08
+    400032: building_09
+    400034: building_10
+    400036: building_11
+    400038: building_12
+    400040: building_13
+    400042: building_14
+    400044: building_15
+    400046: buildings
+    400048: corner_building_01
+    400050: courtyard
+    400052: doors
+    400054: gate_door_01
+    400056: jail
+    400058: jail_01
+    400060: jail_building_01
+    400062: props
+    400064: sheriff
+    400066: sheriff_building_01
+    400068: stone_post_01
+    400070: stone_post_02
+    400072: stone_steps_01
+    400074: stone_trim_01_a
+    400076: stone_wall_01_a
+    400078: stone_wall_01_b
+    400080: stone_wall_02_a
+    400082: stone_wall_02_b
+    400084: stone_wall_chunk_01_a
+    400086: terrain
+    400088: terrain_alley_01
+    400090: terrain_bank_01
+    400092: terrain_courtyard_01
+    400094: terrain_doors_01
+    400096: terrain_doors_02
+    400098: terrain_doors_03
+    400100: terrain_graveyard_01
+    400102: terrain_graveyard_02
+    400104: terrain_sheriff_01
+    400106: Texture Group (2)
+    400108: Texture Group (3)
+    400110: topdown
+    400112: undertaker_shack_01
+    400114: vault
+    400116: vault_01
+    400118: vista
+    400120: vista_group_01
+    400122: vista_group_02
+    400124: vista_group_03
+    400126: vista_group_04
+    400128: well_01
+    400130: wood_door_01
+    400132: interiors
+    400134: wood_walkway_2x3_a
+    400136: wood_walkway_3x3_a
+    400138: wood_fence_01_a
+    400140: wood_fence_post_a
+    400142: temp_door_scale
+    400144: door_small_01_a
+    400146: gunsmith_01
+    400148: _delete
+    400150: door_wide_01_a
+    400152: Mesh
+    400154: saloon_01
+    400156: Texture Group (4)
+    400158: temp
+    400160: generic_01
+    400162: rock_mesa_01
+    400164: watertower_01
+    400166: bank_01
+    400168: loading_dock_01
+    400170: shack_01
+    400172: spanish_01
+    400174: spanish_02
+    400176: trainstation_01
+    400178: church_01
+    400180: job_board
+    400182: livery_01
+    400184: arch_01
+    400186: telegraph_01
+    400188: wood_walkway_5x5_a
+    400190: wood_walkway_5x5_b
+    400192: Texture Group (5)
+    400194: tracks_01
+    400196: tracks_01_bend
+    400198: blockout_section_01
+    400200: Mesh (2)
+    400202: bell
+    400204: spanish_church
+    400206: Mesh (3)
+    400208: Mesh (4)
+    400210: building_16
+    400212: Texture Group (6)
+    400214: Mesh (5)
+    400216: blockout_section_02
+    400218: Mesh (6)
+    400220: Texture Group (7)
+    400222: Texture Group (8)
+    400224: Mesh (7)
+    400226: building_17
+    400228: Mesh (8)
+    400230: distillery_01
+    400232: Mesh (10)
+    400234: Mesh (9)
+    400236: Mesh (11)
+    400238: general_store_01
+    400240: building_04_destroyed
+    400242: blockout_section_03
+    400244: jail_work
+    400246: rock_tunnel_01
+    400248: wood_fence_02_a
+    400250: wood_gate_01_a
+    400252: gravestone_01_a
+    400254: gravestone_02_a
+    400256: gravestone_03_a
+    400258: gravestone_04_a
+    400260: mausoleum_01_a
+    400262: Texture Group (9)
+    400264: undertaker_01
+    400266: irongate
+    400268: saloon_01_interior
+    400270: Texture Group (10)
+    400272: saloon_01_exterior
+    400274: general_store_01_exterior
+    400276: general_store_01_interior
+    400278: door_usable
+    400280: door_usable_frame
+    400282: dresser
+    400284: dresser_drawer
+    400286: Texture Group (11)
+    400288: saloon_01_collision
+    2300000: //RootNode
+    2300002: corner_store_01
+    2300004: alley_building_01
+    2300006: alley_building_02
+    2300008: alley_building_03
+    2300010: blockout
+    2300012: building_01
+    2300014: building_02
+    2300016: building_03
+    2300018: building_04
+    2300020: building_05
+    2300022: building_06
+    2300024: building_07
+    2300026: building_08
+    2300028: building_09
+    2300030: building_10
+    2300032: building_11
+    2300034: building_12
+    2300036: building_13
+    2300038: building_14
+    2300040: building_15
+    2300042: corner_building_01
+    2300044: gate_door_01
+    2300046: jail_01
+    2300048: jail_building_01
+    2300050: sheriff_building_01
+    2300052: stone_post_01
+    2300054: stone_post_02
+    2300056: stone_steps_01
+    2300058: stone_trim_01_a
+    2300060: stone_wall_01_a
+    2300062: stone_wall_01_b
+    2300064: stone_wall_02_a
+    2300066: stone_wall_02_b
+    2300068: stone_wall_chunk_01_a
+    2300070: terrain_alley_01
+    2300072: terrain_bank_01
+    2300074: terrain_courtyard_01
+    2300076: terrain_doors_01
+    2300078: terrain_doors_02
+    2300080: terrain_doors_03
+    2300082: terrain_graveyard_01
+    2300084: terrain_graveyard_02
+    2300086: terrain_sheriff_01
+    2300088: topdown
+    2300090: undertaker_shack_01
+    2300092: vault_01
+    2300094: vista_group_01
+    2300096: vista_group_02
+    2300098: vista_group_03
+    2300100: vista_group_04
+    2300102: well_01
+    2300104: wood_door_01
+    2300106: wood_walkway_2x3_a
+    2300108: wood_walkway_3x3_a
+    2300110: wood_fence_01_a
+    2300112: wood_fence_post_a
+    2300114: temp_door_scale
+    2300116: door_small_01_a
+    2300118: gunsmith_01
+    2300120: _delete
+    2300122: door_wide_01_a
+    2300124: Mesh
+    2300126: saloon_01
+    2300128: temp
+    2300130: generic_01
+    2300132: rock_mesa_01
+    2300134: watertower_01
+    2300136: bank_01
+    2300138: loading_dock_01
+    2300140: shack_01
+    2300142: spanish_01
+    2300144: spanish_02
+    2300146: trainstation_01
+    2300148: church_01
+    2300150: job_board
+    2300152: livery_01
+    2300154: arch_01
+    2300156: telegraph_01
+    2300158: wood_walkway_5x5_a
+    2300160: wood_walkway_5x5_b
+    2300162: tracks_01
+    2300164: tracks_01_bend
+    2300166: blockout_section_01
+    2300168: Mesh (2)
+    2300170: bell
+    2300172: spanish_church
+    2300174: Mesh (3)
+    2300176: Mesh (4)
+    2300178: building_16
+    2300180: Mesh (5)
+    2300182: blockout_section_02
+    2300184: Mesh (6)
+    2300186: Mesh (7)
+    2300188: building_17
+    2300190: Mesh (8)
+    2300192: distillery_01
+    2300194: Mesh (10)
+    2300196: Mesh (9)
+    2300198: Mesh (11)
+    2300200: general_store_01
+    2300202: building_04_destroyed
+    2300204: blockout_section_03
+    2300206: jail_work
+    2300208: rock_tunnel_01
+    2300210: wood_fence_02_a
+    2300212: wood_gate_01_a
+    2300214: gravestone_01_a
+    2300216: gravestone_02_a
+    2300218: gravestone_03_a
+    2300220: gravestone_04_a
+    2300222: mausoleum_01_a
+    2300224: undertaker_01
+    2300226: irongate
+    2300228: saloon_01_interior
+    2300230: saloon_01_exterior
+    2300232: general_store_01_exterior
+    2300234: general_store_01_interior
+    2300236: door_usable
+    2300238: door_usable_frame
+    2300240: dresser
+    2300242: dresser_drawer
+    2300244: saloon_01_collision
+    3300000: //RootNode
+    3300002: corner_store_01
+    3300004: alley_building_01
+    3300006: alley_building_02
+    3300008: alley_building_03
+    3300010: blockout
+    3300012: building_01
+    3300014: building_02
+    3300016: building_03
+    3300018: building_04
+    3300020: building_05
+    3300022: building_06
+    3300024: building_07
+    3300026: building_08
+    3300028: building_09
+    3300030: building_10
+    3300032: building_11
+    3300034: building_12
+    3300036: building_13
+    3300038: building_14
+    3300040: building_15
+    3300042: corner_building_01
+    3300044: gate_door_01
+    3300046: jail_01
+    3300048: jail_building_01
+    3300050: sheriff_building_01
+    3300052: stone_post_01
+    3300054: stone_post_02
+    3300056: stone_steps_01
+    3300058: stone_trim_01_a
+    3300060: stone_wall_01_a
+    3300062: stone_wall_01_b
+    3300064: stone_wall_02_a
+    3300066: stone_wall_02_b
+    3300068: stone_wall_chunk_01_a
+    3300070: terrain_alley_01
+    3300072: terrain_bank_01
+    3300074: terrain_courtyard_01
+    3300076: terrain_doors_01
+    3300078: terrain_doors_02
+    3300080: terrain_doors_03
+    3300082: terrain_graveyard_01
+    3300084: terrain_graveyard_02
+    3300086: terrain_sheriff_01
+    3300088: topdown
+    3300090: undertaker_shack_01
+    3300092: vault_01
+    3300094: vista_group_01
+    3300096: vista_group_02
+    3300098: vista_group_03
+    3300100: vista_group_04
+    3300102: well_01
+    3300104: wood_door_01
+    3300106: wood_walkway_2x3_a
+    3300108: wood_walkway_3x3_a
+    3300110: wood_fence_01_a
+    3300112: wood_fence_post_a
+    3300114: temp_door_scale
+    3300116: door_small_01_a
+    3300118: gunsmith_01
+    3300120: _delete
+    3300122: door_wide_01_a
+    3300124: Mesh
+    3300126: saloon_01
+    3300128: temp
+    3300130: generic_01
+    3300132: rock_mesa_01
+    3300134: watertower_01
+    3300136: bank_01
+    3300138: loading_dock_01
+    3300140: shack_01
+    3300142: spanish_01
+    3300144: spanish_02
+    3300146: trainstation_01
+    3300148: church_01
+    3300150: job_board
+    3300152: livery_01
+    3300154: arch_01
+    3300156: telegraph_01
+    3300158: wood_walkway_5x5_a
+    3300160: wood_walkway_5x5_b
+    3300162: tracks_01
+    3300164: tracks_01_bend
+    3300166: blockout_section_01
+    3300168: Mesh (2)
+    3300170: bell
+    3300172: spanish_church
+    3300174: Mesh (3)
+    3300176: Mesh (4)
+    3300178: building_16
+    3300180: Mesh (5)
+    3300182: blockout_section_02
+    3300184: Mesh (6)
+    3300186: Mesh (7)
+    3300188: building_17
+    3300190: Mesh (8)
+    3300192: distillery_01
+    3300194: Mesh (10)
+    3300196: Mesh (9)
+    3300198: Mesh (11)
+    3300200: general_store_01
+    3300202: building_04_destroyed
+    3300204: blockout_section_03
+    3300206: jail_work
+    3300208: rock_tunnel_01
+    3300210: wood_fence_02_a
+    3300212: wood_gate_01_a
+    3300214: gravestone_01_a
+    3300216: gravestone_02_a
+    3300218: gravestone_03_a
+    3300220: gravestone_04_a
+    3300222: mausoleum_01_a
+    3300224: undertaker_01
+    3300226: irongate
+    3300228: saloon_01_interior
+    3300230: saloon_01_exterior
+    3300232: general_store_01_exterior
+    3300234: general_store_01_interior
+    3300236: door_usable
+    3300238: door_usable_frame
+    3300240: dresser
+    3300242: dresser_drawer
+    3300244: saloon_01_collision
+    4300000: corner_store_01
+    4300002: well_01
+    4300004: stone_steps_01
+    4300006: stone_post_01
+    4300008: stone_post_02
+    4300010: stone_wall_01_a
+    4300012: stone_wall_chunk_01_a
+    4300014: stone_wall_01_b
+    4300016: stone_wall_02_a
+    4300018: stone_wall_02_b
+    4300020: stone_trim_01_a
+    4300022: corner_building_01
+    4300024: building_15
+    4300026: building_14
+    4300028: building_13
+    4300030: building_12
+    4300032: building_11
+    4300034: building_10
+    4300036: building_09
+    4300038: building_08
+    4300040: building_07
+    4300042: building_06
+    4300044: building_05
+    4300046: building_04
+    4300048: building_03
+    4300050: building_02
+    4300052: building_01
+    4300054: alley_building_01
+    4300056: alley_building_02
+    4300058: alley_building_03
+    4300060: jail_building_01
+    4300062: sheriff_building_01
+    4300064: undertaker_shack_01
+    4300066: wood_door_01
+    4300068: gate_door_01
+    4300070: terrain_doors_01
+    4300072: terrain_doors_02
+    4300074: terrain_doors_03
+    4300076: terrain_graveyard_01
+    4300078: terrain_graveyard_02
+    4300080: terrain_alley_01
+    4300082: terrain_sheriff_01
+    4300084: terrain_bank_01
+    4300086: terrain_courtyard_01
+    4300088: jail_01
+    4300090: vault_01
+    4300092: vista_group_01
+    4300094: vista_group_02
+    4300096: vista_group_03
+    4300098: vista_group_04
+    4300100: topdown
+    4300102: blockout
+    4300104: wood_walkway_2x3_a
+    4300106: wood_walkway_3x3_a
+    4300108: wood_fence_01_a
+    4300110: wood_fence_post_a
+    4300112: temp_door_scale
+    4300114: door_small_01_a
+    4300116: gunsmith_01
+    4300118: _delete
+    4300120: door_wide_01_a
+    4300122: Mesh
+    4300124: saloon_01
+    4300126: temp
+    4300128: generic_01
+    4300130: watertower_01
+    4300132: rock_mesa_01
+    4300134: loading_dock_01
+    4300136: trainstation_01
+    4300138: shack_01
+    4300140: spanish_01
+    4300142: spanish_02
+    4300144: bank_01
+    4300146: church_01
+    4300148: job_board
+    4300150: livery_01
+    4300152: arch_01
+    4300154: telegraph_01
+    4300156: wood_walkway_5x5_a
+    4300158: wood_walkway_5x5_b
+    4300160: tracks_01
+    4300162: tracks_01_bend
+    4300164: Mesh (2)
+    4300166: blockout_section_01
+    4300168: bell
+    4300170: spanish_church
+    4300172: Mesh (3)
+    4300174: Mesh (4)
+    4300176: building_16
+    4300178: Mesh (5)
+    4300180: blockout_section_02
+    4300182: Mesh (6)
+    4300184: Mesh (7)
+    4300186: Mesh (8)
+    4300188: building_17
+    4300190: Mesh (10)
+    4300192: distillery_01
+    4300194: Mesh (9)
+    4300196: Mesh (11)
+    4300198: general_store_01
+    4300200: building_04_destroyed
+    4300202: blockout_section_03
+    4300204: jail_work
+    4300206: rock_tunnel_01
+    4300208: wood_fence_02_a
+    4300210: wood_gate_01_a
+    4300212: mausoleum_01_a
+    4300214: gravestone_01_a
+    4300216: gravestone_02_a
+    4300218: gravestone_03_a
+    4300220: gravestone_04_a
+    4300222: undertaker_01
+    4300224: irongate
+    4300226: saloon_01_interior
+    4300228: saloon_01_exterior
+    4300230: general_store_01_exterior
+    4300232: general_store_01_interior
+    4300234: door_usable_frame
+    4300236: door_usable
+    4300238: dresser
+    4300240: dresser_drawer
+    4300242: saloon_01_collision
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 40
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

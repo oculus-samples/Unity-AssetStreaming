@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 3c104dcb0dc3e254f859a491424e204f
+timeCreated: 1535356072
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _multipleCameraPositions
+    100002: //RootNode
+    100004: rock_merged_01
+    100006: rock_merged_02
+    100008: rock_merged_03
+    100010: rock_merged_04
+    100012: rock_merged_05
+    100014: rock_merged_06
+    100016: rock_merged_07
+    100018: rock_merged_08
+    100020: rock_merged_09
+    100022: rock_merged_10
+    100024: rock_merged_11
+    100026: rock_merged_12
+    100028: rock_merged_13
+    100030: rock_merged_14
+    100032: rock_merged_15
+    100034: Texture Group
+    400000: _multipleCameraPositions
+    400002: //RootNode
+    400004: rock_merged_01
+    400006: rock_merged_02
+    400008: rock_merged_03
+    400010: rock_merged_04
+    400012: rock_merged_05
+    400014: rock_merged_06
+    400016: rock_merged_07
+    400018: rock_merged_08
+    400020: rock_merged_09
+    400022: rock_merged_10
+    400024: rock_merged_11
+    400026: rock_merged_12
+    400028: rock_merged_13
+    400030: rock_merged_14
+    400032: rock_merged_15
+    400034: Texture Group
+    2300000: _multipleCameraPositions
+    2300002: rock_merged_01
+    2300004: rock_merged_02
+    2300006: rock_merged_03
+    2300008: rock_merged_04
+    2300010: rock_merged_05
+    2300012: rock_merged_06
+    2300014: rock_merged_07
+    2300016: rock_merged_08
+    2300018: rock_merged_09
+    2300020: rock_merged_10
+    2300022: rock_merged_11
+    2300024: rock_merged_12
+    2300026: rock_merged_13
+    2300028: rock_merged_14
+    2300030: rock_merged_15
+    3300000: _multipleCameraPositions
+    3300002: rock_merged_01
+    3300004: rock_merged_02
+    3300006: rock_merged_03
+    3300008: rock_merged_04
+    3300010: rock_merged_05
+    3300012: rock_merged_06
+    3300014: rock_merged_07
+    3300016: rock_merged_08
+    3300018: rock_merged_09
+    3300020: rock_merged_10
+    3300022: rock_merged_11
+    3300024: rock_merged_12
+    3300026: rock_merged_13
+    3300028: rock_merged_14
+    3300030: rock_merged_15
+    4300000: rock_merged_01
+    4300002: rock_merged_15
+    4300004: rock_merged_14
+    4300006: rock_merged_13
+    4300008: rock_merged_12
+    4300010: rock_merged_11
+    4300012: rock_merged_10
+    4300014: rock_merged_09
+    4300016: rock_merged_08
+    4300018: rock_merged_07
+    4300020: rock_merged_06
+    4300022: rock_merged_05
+    4300024: rock_merged_04
+    4300026: rock_merged_03
+    4300028: rock_merged_02
+    4300030: _multipleCameraPositions
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

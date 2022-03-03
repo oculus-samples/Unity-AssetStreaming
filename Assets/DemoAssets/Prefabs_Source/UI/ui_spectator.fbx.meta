@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: dcea6e752672c724daf50e5761fa6d42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _placement
+    100002: header_gamemode
+    100004: header_scoregoal
+    100006: header_time
+    100008: scoreboard
+    100010: silhouette_distillery
+    100012: Texture Group
+    100014: Texture Group (2)
+    100016: Texture Group (3)
+    100018: //RootNode
+    100020: join_button
+    100022: join_header
+    100024: Mesh
+    100026: Texture Group (4)
+    100028: Mesh (2)
+    100030: respawn_placement
+    100032: respawn_draw
+    100034: respawn_header_youdied
+    100036: respawn_killedby
+    100038: respawn_scoregoal
+    100040: respawn_scoreyours
+    100042: respawn_time
+    100044: respawn_timeremains
+    100046: scoreboard_horde
+    100048: scoreboard_shootout_team
+    100050: Texture Group (5)
+    100052: scoreboard_shootout_team_01
+    100054: scoreboard_shootout_team_02
+    100056: scoreboard_shootout_team_02_header
+    100058: checkbox_01
+    100060: checkmark_01
+    100062: settings_menu_01
+    100064: silhouette_newuser
+    100066: menu_button_01
+    100068: menu_button_01_glow
+    100070: menu_button_02
+    100072: menu_button_02_glow
+    100074: slider_01
+    100076: slider_line_01
+    100078: sounds_menu_01
+    100080: movement_menu_01
+    100082: movement_menu_02
+    100084: sounds_menu_02
+    100086: sounds_menu_03
+    100088: Camera
+    100090: Directional Light
+    100092: muteplayers_bg
+    100094: muteplayers_header
+    100096: arrow_01
+    100098: language_menu_01
+    100100: scoreboard_quickdraw
+    400000: _placement
+    400002: header_gamemode
+    400004: header_scoregoal
+    400006: header_time
+    400008: scoreboard
+    400010: silhouette_distillery
+    400012: Texture Group
+    400014: Texture Group (2)
+    400016: Texture Group (3)
+    400018: //RootNode
+    400020: join_button
+    400022: join_header
+    400024: Mesh
+    400026: Texture Group (4)
+    400028: Mesh (2)
+    400030: respawn_placement
+    400032: respawn_draw
+    400034: respawn_header_youdied
+    400036: respawn_killedby
+    400038: respawn_scoregoal
+    400040: respawn_scoreyours
+    400042: respawn_time
+    400044: respawn_timeremains
+    400046: scoreboard_horde
+    400048: scoreboard_shootout_team
+    400050: Texture Group (5)
+    400052: scoreboard_shootout_team_01
+    400054: scoreboard_shootout_team_02
+    400056: scoreboard_shootout_team_02_header
+    400058: checkbox_01
+    400060: checkmark_01
+    400062: settings_menu_01
+    400064: silhouette_newuser
+    400066: menu_button_01
+    400068: menu_button_01_glow
+    400070: menu_button_02
+    400072: menu_button_02_glow
+    400074: slider_01
+    400076: slider_line_01
+    400078: sounds_menu_01
+    400080: movement_menu_01
+    400082: movement_menu_02
+    400084: sounds_menu_02
+    400086: sounds_menu_03
+    400088: Camera
+    400090: Directional Light
+    400092: muteplayers_bg
+    400094: muteplayers_header
+    400096: arrow_01
+    400098: language_menu_01
+    400100: scoreboard_quickdraw
+    2000000: Camera
+    2300000: _placement
+    2300002: header_gamemode
+    2300004: header_scoregoal
+    2300006: header_time
+    2300008: scoreboard
+    2300010: silhouette_distillery
+    2300012: join_button
+    2300014: join_header
+    2300016: Mesh
+    2300018: Mesh (2)
+    2300020: respawn_placement
+    2300022: respawn_draw
+    2300024: respawn_header_youdied
+    2300026: respawn_killedby
+    2300028: respawn_scoregoal
+    2300030: respawn_scoreyours
+    2300032: respawn_time
+    2300034: respawn_timeremains
+    2300036: scoreboard_horde
+    2300038: scoreboard_shootout_team
+    2300040: scoreboard_shootout_team_01
+    2300042: scoreboard_shootout_team_02
+    2300044: scoreboard_shootout_team_02_header
+    2300046: checkbox_01
+    2300048: checkmark_01
+    2300050: settings_menu_01
+    2300052: silhouette_newuser
+    2300054: menu_button_01
+    2300056: menu_button_01_glow
+    2300058: menu_button_02
+    2300060: menu_button_02_glow
+    2300062: slider_01
+    2300064: slider_line_01
+    2300066: sounds_menu_01
+    2300068: movement_menu_01
+    2300070: movement_menu_02
+    2300072: sounds_menu_02
+    2300074: sounds_menu_03
+    2300076: muteplayers_bg
+    2300078: muteplayers_header
+    2300080: arrow_01
+    2300082: language_menu_01
+    2300084: scoreboard_quickdraw
+    3300000: _placement
+    3300002: header_gamemode
+    3300004: header_scoregoal
+    3300006: header_time
+    3300008: scoreboard
+    3300010: silhouette_distillery
+    3300012: join_button
+    3300014: join_header
+    3300016: Mesh
+    3300018: Mesh (2)
+    3300020: respawn_placement
+    3300022: respawn_draw
+    3300024: respawn_header_youdied
+    3300026: respawn_killedby
+    3300028: respawn_scoregoal
+    3300030: respawn_scoreyours
+    3300032: respawn_time
+    3300034: respawn_timeremains
+    3300036: scoreboard_horde
+    3300038: scoreboard_shootout_team
+    3300040: scoreboard_shootout_team_01
+    3300042: scoreboard_shootout_team_02
+    3300044: scoreboard_shootout_team_02_header
+    3300046: checkbox_01
+    3300048: checkmark_01
+    3300050: settings_menu_01
+    3300052: silhouette_newuser
+    3300054: menu_button_01
+    3300056: menu_button_01_glow
+    3300058: menu_button_02
+    3300060: menu_button_02_glow
+    3300062: slider_01
+    3300064: slider_line_01
+    3300066: sounds_menu_01
+    3300068: movement_menu_01
+    3300070: movement_menu_02
+    3300072: sounds_menu_02
+    3300074: sounds_menu_03
+    3300076: muteplayers_bg
+    3300078: muteplayers_header
+    3300080: arrow_01
+    3300082: language_menu_01
+    3300084: scoreboard_quickdraw
+    4300000: silhouette_distillery
+    4300002: scoreboard
+    4300004: header_gamemode
+    4300006: header_time
+    4300008: header_scoregoal
+    4300010: _placement
+    4300012: join_header
+    4300014: join_button
+    4300016: Mesh
+    4300018: respawn_placement
+    4300020: Mesh (2)
+    4300022: respawn_header_youdied
+    4300024: respawn_draw
+    4300026: respawn_killedby
+    4300028: respawn_scoreyours
+    4300030: respawn_scoregoal
+    4300032: respawn_timeremains
+    4300034: respawn_time
+    4300036: scoreboard_horde
+    4300038: scoreboard_shootout_team
+    4300040: scoreboard_shootout_team_01
+    4300042: scoreboard_shootout_team_02
+    4300044: scoreboard_shootout_team_02_header
+    4300046: checkbox_01
+    4300048: checkmark_01
+    4300050: settings_menu_01
+    4300052: silhouette_newuser
+    4300054: menu_button_01
+    4300056: menu_button_02
+    4300058: menu_button_01_glow
+    4300060: menu_button_02_glow
+    4300062: sounds_menu_01
+    4300064: slider_01
+    4300066: slider_line_01
+    4300068: movement_menu_01
+    4300070: movement_menu_02
+    4300072: sounds_menu_02
+    4300074: sounds_menu_03
+    4300076: muteplayers_bg
+    4300078: muteplayers_header
+    4300080: language_menu_01
+    4300082: arrow_01
+    4300084: scoreboard_quickdraw
+    9500000: //RootNode
+    10800000: Directional Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

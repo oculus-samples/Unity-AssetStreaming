@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 3fcf7d4ecad17854ea895b85225258c8
+timeCreated: 1534435726
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alpine_wood_boards_100
+    100002: alpine_wood_boards_100 1
+    100004: alpine_wood_boards_101
+    100006: alpine_wood_boards_101 1
+    100008: alpine_wood_boards_102
+    100010: alpine_wood_boards_102 1
+    100012: alpine_wood_boards_103
+    100014: alpine_wood_boards_103 1
+    100016: alpine_wood_boards_104
+    100018: alpine_wood_boards_104 1
+    100020: alpine_wood_boards_105
+    100022: alpine_wood_boards_105 1
+    100024: alpine_wood_boards_106
+    100026: alpine_wood_boards_106 1
+    100028: alpine_wood_boards_107
+    100030: alpine_wood_boards_107 1
+    100032: alpine_wood_boards_108
+    100034: alpine_wood_boards_108 1
+    100036: alpine_wood_boards_109
+    100038: alpine_wood_boards_109 1
+    100040: alpine_wood_boards_110
+    100042: alpine_wood_boards_110 1
+    100044: alpine_wood_boards_111
+    100046: alpine_wood_boards_111 1
+    100048: alpine_wood_boards_112
+    100050: alpine_wood_boards_112 1
+    100052: alpine_wood_boards_113
+    100054: alpine_wood_boards_113 1
+    100056: alpine_wood_boards_90
+    100058: alpine_wood_boards_90 1
+    100060: alpine_wood_boards_90 2
+    100062: alpine_wood_boards_91
+    100064: alpine_wood_boards_91 1
+    100066: alpine_wood_boards_91 2
+    100068: alpine_wood_boards_92
+    100070: alpine_wood_boards_92 1
+    100072: alpine_wood_boards_92 2
+    100074: alpine_wood_boards_93
+    100076: alpine_wood_boards_93 1
+    100078: alpine_wood_boards_93 2
+    100080: alpine_wood_boards_94
+    100082: alpine_wood_boards_94 1
+    100084: alpine_wood_boards_94 2
+    100086: alpine_wood_boards_95
+    100088: alpine_wood_boards_95 1
+    100090: alpine_wood_boards_95 2
+    100092: alpine_wood_boards_96
+    100094: alpine_wood_boards_96 1
+    100096: alpine_wood_boards_97
+    100098: alpine_wood_boards_97 1
+    100100: alpine_wood_boards_98
+    100102: alpine_wood_boards_98 1
+    100104: alpine_wood_boards_99
+    100106: alpine_wood_boards_99 1
+    100108: //RootNode
+    100110: group28
+    100112: group29
+    100114: group30
+    100116: pasted__alpine_railroad_tie_010
+    100118: pasted__alpine_railroad_tie_010 1
+    100120: pasted__alpine_railroad_tie_011
+    100122: pasted__alpine_railroad_tie_011 1
+    100124: pasted__alpine_railroad_tie_02
+    100126: pasted__alpine_railroad_tie_02 1
+    100128: pasted__alpine_railroad_tie_03
+    100130: pasted__alpine_railroad_tie_03 1
+    100132: pasted__alpine_railroad_tie_04
+    100134: pasted__alpine_railroad_tie_04 1
+    100136: pasted__alpine_railroad_tie_05
+    100138: pasted__alpine_railroad_tie_05 1
+    100140: pasted__alpine_railroad_tie_08
+    100142: pasted__alpine_railroad_tie_08 1
+    100144: pasted__alpine_railroad_tie_09
+    100146: pasted__alpine_railroad_tie_09 1
+    100148: pasted__alpine_railroad_track_0342
+    100150: pasted__alpine_railroad_track_0342 1
+    100152: pasted__alpine_railroad_track_0343
+    100154: pasted__alpine_railroad_track_0343 1
+    100156: polySurface6742
+    100158: polySurface6742 1
+    100160: polySurface6742 2
+    100162: polySurface6743
+    100164: polySurface6743 1
+    100166: polySurface6743 2
+    100168: polySurface6744
+    100170: polySurface6744 1
+    100172: polySurface6744 2
+    100174: polySurface6745
+    100176: polySurface6745 1
+    100178: polySurface6745 2
+    100180: polySurface6746
+    100182: polySurface6746 1
+    100184: polySurface6747
+    100186: polySurface6747 1
+    100188: polySurface6748
+    100190: polySurface6748 1
+    100192: polySurface6749
+    100194: polySurface6749 1
+    100196: polySurface6750
+    100198: polySurface6750 1
+    100200: polySurface6751
+    100202: polySurface6751 1
+    100204: polySurface6752
+    100206: polySurface6752 1
+    100208: polySurface6753
+    100210: polySurface6753 1
+    100212: polySurface6754
+    100214: polySurface6754 1
+    100216: polySurface6755
+    100218: polySurface6755 1
+    100220: polySurface6756
+    100222: polySurface6756 1
+    100224: polySurface6757
+    100226: polySurface6757 1
+    100228: alpine_wood_boards_066
+    100230: alpine_wood_boards_067
+    100232: alpine_wood_boards_068
+    100234: alpine_wood_boards_069
+    100236: alpine_wood_boards_070
+    100238: alpine_wood_boards_071
+    100240: alpine_wood_boards_072
+    100242: alpine_wood_boards_073
+    100244: alpine_wood_boards_114
+    100246: alpine_wood_boards_115
+    100248: alpine_wood_boards_116
+    100250: alpine_wood_boards_117
+    100252: alpine_wood_boards_118
+    100254: alpine_wood_boards_119
+    100256: alpine_wood_boards_120
+    100258: alpine_wood_boards_121
+    100260: alpine_wood_boards_122
+    100262: alpine_wood_boards_123
+    100264: alpine_wood_boards_124
+    100266: alpine_wood_boards_125
+    100268: alpine_wood_boards_126
+    100270: alpine_wood_boards_127
+    100272: alpine_wood_boards_128
+    100274: alpine_wood_boards_129
+    100276: alpine_wood_boards_130
+    100278: alpine_wood_boards_131
+    100280: group29_pasted__alpine_railroad_tie_02
+    100282: pasted__alpine_railroad_track_0344
+    100284: pasted__alpine_railroad_track_0345
+    100286: polySurface6758
+    100288: polySurface6759
+    100290: polySurface6760
+    100292: polySurface6761
+    100294: polySurface6762
+    100296: polySurface6763
+    100298: polySurface6764
+    100300: polySurface6765
+    100302: polySurface6766
+    100304: polySurface6767
+    100306: polySurface6768
+    100308: polySurface6769
+    100310: polySurface6770
+    100312: polySurface6771
+    100314: polySurface6772
+    100316: polySurface6773
+    100318: polySurface6774
+    100320: polySurface6775
+    100322: group29_pasted__alpine_railroad_tie_04
+    100324: polySurface6793
+    100326: polySurface6796
+    100328: minetracks_01
+    100330: Texture Group
+    400000: alpine_wood_boards_100
+    400002: alpine_wood_boards_100 1
+    400004: alpine_wood_boards_101
+    400006: alpine_wood_boards_101 1
+    400008: alpine_wood_boards_102
+    400010: alpine_wood_boards_102 1
+    400012: alpine_wood_boards_103
+    400014: alpine_wood_boards_103 1
+    400016: alpine_wood_boards_104
+    400018: alpine_wood_boards_104 1
+    400020: alpine_wood_boards_105
+    400022: alpine_wood_boards_105 1
+    400024: alpine_wood_boards_106
+    400026: alpine_wood_boards_106 1
+    400028: alpine_wood_boards_107
+    400030: alpine_wood_boards_107 1
+    400032: alpine_wood_boards_108
+    400034: alpine_wood_boards_108 1
+    400036: alpine_wood_boards_109
+    400038: alpine_wood_boards_109 1
+    400040: alpine_wood_boards_110
+    400042: alpine_wood_boards_110 1
+    400044: alpine_wood_boards_111
+    400046: alpine_wood_boards_111 1
+    400048: alpine_wood_boards_112
+    400050: alpine_wood_boards_112 1
+    400052: alpine_wood_boards_113
+    400054: alpine_wood_boards_113 1
+    400056: alpine_wood_boards_90
+    400058: alpine_wood_boards_90 1
+    400060: alpine_wood_boards_90 2
+    400062: alpine_wood_boards_91
+    400064: alpine_wood_boards_91 1
+    400066: alpine_wood_boards_91 2
+    400068: alpine_wood_boards_92
+    400070: alpine_wood_boards_92 1
+    400072: alpine_wood_boards_92 2
+    400074: alpine_wood_boards_93
+    400076: alpine_wood_boards_93 1
+    400078: alpine_wood_boards_93 2
+    400080: alpine_wood_boards_94
+    400082: alpine_wood_boards_94 1
+    400084: alpine_wood_boards_94 2
+    400086: alpine_wood_boards_95
+    400088: alpine_wood_boards_95 1
+    400090: alpine_wood_boards_95 2
+    400092: alpine_wood_boards_96
+    400094: alpine_wood_boards_96 1
+    400096: alpine_wood_boards_97
+    400098: alpine_wood_boards_97 1
+    400100: alpine_wood_boards_98
+    400102: alpine_wood_boards_98 1
+    400104: alpine_wood_boards_99
+    400106: alpine_wood_boards_99 1
+    400108: //RootNode
+    400110: group28
+    400112: group29
+    400114: group30
+    400116: pasted__alpine_railroad_tie_010
+    400118: pasted__alpine_railroad_tie_010 1
+    400120: pasted__alpine_railroad_tie_011
+    400122: pasted__alpine_railroad_tie_011 1
+    400124: pasted__alpine_railroad_tie_02
+    400126: pasted__alpine_railroad_tie_02 1
+    400128: pasted__alpine_railroad_tie_03
+    400130: pasted__alpine_railroad_tie_03 1
+    400132: pasted__alpine_railroad_tie_04
+    400134: pasted__alpine_railroad_tie_04 1
+    400136: pasted__alpine_railroad_tie_05
+    400138: pasted__alpine_railroad_tie_05 1
+    400140: pasted__alpine_railroad_tie_08
+    400142: pasted__alpine_railroad_tie_08 1
+    400144: pasted__alpine_railroad_tie_09
+    400146: pasted__alpine_railroad_tie_09 1
+    400148: pasted__alpine_railroad_track_0342
+    400150: pasted__alpine_railroad_track_0342 1
+    400152: pasted__alpine_railroad_track_0343
+    400154: pasted__alpine_railroad_track_0343 1
+    400156: polySurface6742
+    400158: polySurface6742 1
+    400160: polySurface6742 2
+    400162: polySurface6743
+    400164: polySurface6743 1
+    400166: polySurface6743 2
+    400168: polySurface6744
+    400170: polySurface6744 1
+    400172: polySurface6744 2
+    400174: polySurface6745
+    400176: polySurface6745 1
+    400178: polySurface6745 2
+    400180: polySurface6746
+    400182: polySurface6746 1
+    400184: polySurface6747
+    400186: polySurface6747 1
+    400188: polySurface6748
+    400190: polySurface6748 1
+    400192: polySurface6749
+    400194: polySurface6749 1
+    400196: polySurface6750
+    400198: polySurface6750 1
+    400200: polySurface6751
+    400202: polySurface6751 1
+    400204: polySurface6752
+    400206: polySurface6752 1
+    400208: polySurface6753
+    400210: polySurface6753 1
+    400212: polySurface6754
+    400214: polySurface6754 1
+    400216: polySurface6755
+    400218: polySurface6755 1
+    400220: polySurface6756
+    400222: polySurface6756 1
+    400224: polySurface6757
+    400226: polySurface6757 1
+    400228: alpine_wood_boards_066
+    400230: alpine_wood_boards_067
+    400232: alpine_wood_boards_068
+    400234: alpine_wood_boards_069
+    400236: alpine_wood_boards_070
+    400238: alpine_wood_boards_071
+    400240: alpine_wood_boards_072
+    400242: alpine_wood_boards_073
+    400244: alpine_wood_boards_114
+    400246: alpine_wood_boards_115
+    400248: alpine_wood_boards_116
+    400250: alpine_wood_boards_117
+    400252: alpine_wood_boards_118
+    400254: alpine_wood_boards_119
+    400256: alpine_wood_boards_120
+    400258: alpine_wood_boards_121
+    400260: alpine_wood_boards_122
+    400262: alpine_wood_boards_123
+    400264: alpine_wood_boards_124
+    400266: alpine_wood_boards_125
+    400268: alpine_wood_boards_126
+    400270: alpine_wood_boards_127
+    400272: alpine_wood_boards_128
+    400274: alpine_wood_boards_129
+    400276: alpine_wood_boards_130
+    400278: alpine_wood_boards_131
+    400280: group29_pasted__alpine_railroad_tie_02
+    400282: pasted__alpine_railroad_track_0344
+    400284: pasted__alpine_railroad_track_0345
+    400286: polySurface6758
+    400288: polySurface6759
+    400290: polySurface6760
+    400292: polySurface6761
+    400294: polySurface6762
+    400296: polySurface6763
+    400298: polySurface6764
+    400300: polySurface6765
+    400302: polySurface6766
+    400304: polySurface6767
+    400306: polySurface6768
+    400308: polySurface6769
+    400310: polySurface6770
+    400312: polySurface6771
+    400314: polySurface6772
+    400316: polySurface6773
+    400318: polySurface6774
+    400320: polySurface6775
+    400322: group29_pasted__alpine_railroad_tie_04
+    400324: polySurface6793
+    400326: polySurface6796
+    400328: minetracks_01
+    400330: Texture Group
+    2300000: alpine_wood_boards_100
+    2300002: alpine_wood_boards_100 1
+    2300004: alpine_wood_boards_101
+    2300006: alpine_wood_boards_101 1
+    2300008: alpine_wood_boards_102
+    2300010: alpine_wood_boards_102 1
+    2300012: alpine_wood_boards_103
+    2300014: alpine_wood_boards_103 1
+    2300016: alpine_wood_boards_104
+    2300018: alpine_wood_boards_104 1
+    2300020: alpine_wood_boards_105
+    2300022: alpine_wood_boards_105 1
+    2300024: alpine_wood_boards_106
+    2300026: alpine_wood_boards_106 1
+    2300028: alpine_wood_boards_107
+    2300030: alpine_wood_boards_107 1
+    2300032: alpine_wood_boards_108
+    2300034: alpine_wood_boards_108 1
+    2300036: alpine_wood_boards_109
+    2300038: alpine_wood_boards_109 1
+    2300040: alpine_wood_boards_110
+    2300042: alpine_wood_boards_110 1
+    2300044: alpine_wood_boards_111
+    2300046: alpine_wood_boards_111 1
+    2300048: alpine_wood_boards_112
+    2300050: alpine_wood_boards_112 1
+    2300052: alpine_wood_boards_113
+    2300054: alpine_wood_boards_113 1
+    2300056: alpine_wood_boards_90
+    2300058: alpine_wood_boards_90 1
+    2300060: alpine_wood_boards_90 2
+    2300062: alpine_wood_boards_91
+    2300064: alpine_wood_boards_91 1
+    2300066: alpine_wood_boards_91 2
+    2300068: alpine_wood_boards_92
+    2300070: alpine_wood_boards_92 1
+    2300072: alpine_wood_boards_92 2
+    2300074: alpine_wood_boards_93
+    2300076: alpine_wood_boards_93 1
+    2300078: alpine_wood_boards_93 2
+    2300080: alpine_wood_boards_94
+    2300082: alpine_wood_boards_94 1
+    2300084: alpine_wood_boards_94 2
+    2300086: alpine_wood_boards_95
+    2300088: alpine_wood_boards_95 1
+    2300090: alpine_wood_boards_95 2
+    2300092: alpine_wood_boards_96
+    2300094: alpine_wood_boards_96 1
+    2300096: alpine_wood_boards_97
+    2300098: alpine_wood_boards_97 1
+    2300100: alpine_wood_boards_98
+    2300102: alpine_wood_boards_98 1
+    2300104: alpine_wood_boards_99
+    2300106: alpine_wood_boards_99 1
+    2300108: pasted__alpine_railroad_tie_010
+    2300110: pasted__alpine_railroad_tie_010 1
+    2300112: pasted__alpine_railroad_tie_011
+    2300114: pasted__alpine_railroad_tie_011 1
+    2300116: pasted__alpine_railroad_tie_02
+    2300118: pasted__alpine_railroad_tie_02 1
+    2300120: pasted__alpine_railroad_tie_03
+    2300122: pasted__alpine_railroad_tie_03 1
+    2300124: pasted__alpine_railroad_tie_04
+    2300126: pasted__alpine_railroad_tie_04 1
+    2300128: pasted__alpine_railroad_tie_05
+    2300130: pasted__alpine_railroad_tie_05 1
+    2300132: pasted__alpine_railroad_tie_08
+    2300134: pasted__alpine_railroad_tie_08 1
+    2300136: pasted__alpine_railroad_tie_09
+    2300138: pasted__alpine_railroad_tie_09 1
+    2300140: pasted__alpine_railroad_track_0342
+    2300142: pasted__alpine_railroad_track_0342 1
+    2300144: pasted__alpine_railroad_track_0343
+    2300146: pasted__alpine_railroad_track_0343 1
+    2300148: polySurface6742
+    2300150: polySurface6742 1
+    2300152: polySurface6742 2
+    2300154: polySurface6743
+    2300156: polySurface6743 1
+    2300158: polySurface6743 2
+    2300160: polySurface6744
+    2300162: polySurface6744 1
+    2300164: polySurface6744 2
+    2300166: polySurface6745
+    2300168: polySurface6745 1
+    2300170: polySurface6745 2
+    2300172: polySurface6746
+    2300174: polySurface6746 1
+    2300176: polySurface6747
+    2300178: polySurface6747 1
+    2300180: polySurface6748
+    2300182: polySurface6748 1
+    2300184: polySurface6749
+    2300186: polySurface6749 1
+    2300188: polySurface6750
+    2300190: polySurface6750 1
+    2300192: polySurface6751
+    2300194: polySurface6751 1
+    2300196: polySurface6752
+    2300198: polySurface6752 1
+    2300200: polySurface6753
+    2300202: polySurface6753 1
+    2300204: polySurface6754
+    2300206: polySurface6754 1
+    2300208: polySurface6755
+    2300210: polySurface6755 1
+    2300212: polySurface6756
+    2300214: polySurface6756 1
+    2300216: polySurface6757
+    2300218: polySurface6757 1
+    2300220: alpine_wood_boards_066
+    2300222: alpine_wood_boards_067
+    2300224: alpine_wood_boards_068
+    2300226: alpine_wood_boards_069
+    2300228: alpine_wood_boards_070
+    2300230: alpine_wood_boards_071
+    2300232: alpine_wood_boards_072
+    2300234: alpine_wood_boards_073
+    2300236: alpine_wood_boards_114
+    2300238: alpine_wood_boards_115
+    2300240: alpine_wood_boards_116
+    2300242: alpine_wood_boards_117
+    2300244: alpine_wood_boards_118
+    2300246: alpine_wood_boards_119
+    2300248: alpine_wood_boards_120
+    2300250: alpine_wood_boards_121
+    2300252: alpine_wood_boards_122
+    2300254: alpine_wood_boards_123
+    2300256: alpine_wood_boards_124
+    2300258: alpine_wood_boards_125
+    2300260: alpine_wood_boards_126
+    2300262: alpine_wood_boards_127
+    2300264: alpine_wood_boards_128
+    2300266: alpine_wood_boards_129
+    2300268: alpine_wood_boards_130
+    2300270: alpine_wood_boards_131
+    2300272: group29_pasted__alpine_railroad_tie_02
+    2300274: pasted__alpine_railroad_track_0344
+    2300276: pasted__alpine_railroad_track_0345
+    2300278: polySurface6758
+    2300280: polySurface6759
+    2300282: polySurface6760
+    2300284: polySurface6761
+    2300286: polySurface6762
+    2300288: polySurface6763
+    2300290: polySurface6764
+    2300292: polySurface6765
+    2300294: polySurface6766
+    2300296: polySurface6767
+    2300298: polySurface6768
+    2300300: polySurface6769
+    2300302: polySurface6770
+    2300304: polySurface6771
+    2300306: polySurface6772
+    2300308: polySurface6773
+    2300310: polySurface6774
+    2300312: polySurface6775
+    2300314: group29_pasted__alpine_railroad_tie_04
+    2300316: polySurface6793
+    2300318: polySurface6796
+    2300320: //RootNode
+    2300322: minetracks_01
+    3300000: alpine_wood_boards_100
+    3300002: alpine_wood_boards_100 1
+    3300004: alpine_wood_boards_101
+    3300006: alpine_wood_boards_101 1
+    3300008: alpine_wood_boards_102
+    3300010: alpine_wood_boards_102 1
+    3300012: alpine_wood_boards_103
+    3300014: alpine_wood_boards_103 1
+    3300016: alpine_wood_boards_104
+    3300018: alpine_wood_boards_104 1
+    3300020: alpine_wood_boards_105
+    3300022: alpine_wood_boards_105 1
+    3300024: alpine_wood_boards_106
+    3300026: alpine_wood_boards_106 1
+    3300028: alpine_wood_boards_107
+    3300030: alpine_wood_boards_107 1
+    3300032: alpine_wood_boards_108
+    3300034: alpine_wood_boards_108 1
+    3300036: alpine_wood_boards_109
+    3300038: alpine_wood_boards_109 1
+    3300040: alpine_wood_boards_110
+    3300042: alpine_wood_boards_110 1
+    3300044: alpine_wood_boards_111
+    3300046: alpine_wood_boards_111 1
+    3300048: alpine_wood_boards_112
+    3300050: alpine_wood_boards_112 1
+    3300052: alpine_wood_boards_113
+    3300054: alpine_wood_boards_113 1
+    3300056: alpine_wood_boards_90
+    3300058: alpine_wood_boards_90 1
+    3300060: alpine_wood_boards_90 2
+    3300062: alpine_wood_boards_91
+    3300064: alpine_wood_boards_91 1
+    3300066: alpine_wood_boards_91 2
+    3300068: alpine_wood_boards_92
+    3300070: alpine_wood_boards_92 1
+    3300072: alpine_wood_boards_92 2
+    3300074: alpine_wood_boards_93
+    3300076: alpine_wood_boards_93 1
+    3300078: alpine_wood_boards_93 2
+    3300080: alpine_wood_boards_94
+    3300082: alpine_wood_boards_94 1
+    3300084: alpine_wood_boards_94 2
+    3300086: alpine_wood_boards_95
+    3300088: alpine_wood_boards_95 1
+    3300090: alpine_wood_boards_95 2
+    3300092: alpine_wood_boards_96
+    3300094: alpine_wood_boards_96 1
+    3300096: alpine_wood_boards_97
+    3300098: alpine_wood_boards_97 1
+    3300100: alpine_wood_boards_98
+    3300102: alpine_wood_boards_98 1
+    3300104: alpine_wood_boards_99
+    3300106: alpine_wood_boards_99 1
+    3300108: pasted__alpine_railroad_tie_010
+    3300110: pasted__alpine_railroad_tie_010 1
+    3300112: pasted__alpine_railroad_tie_011
+    3300114: pasted__alpine_railroad_tie_011 1
+    3300116: pasted__alpine_railroad_tie_02
+    3300118: pasted__alpine_railroad_tie_02 1
+    3300120: pasted__alpine_railroad_tie_03
+    3300122: pasted__alpine_railroad_tie_03 1
+    3300124: pasted__alpine_railroad_tie_04
+    3300126: pasted__alpine_railroad_tie_04 1
+    3300128: pasted__alpine_railroad_tie_05
+    3300130: pasted__alpine_railroad_tie_05 1
+    3300132: pasted__alpine_railroad_tie_08
+    3300134: pasted__alpine_railroad_tie_08 1
+    3300136: pasted__alpine_railroad_tie_09
+    3300138: pasted__alpine_railroad_tie_09 1
+    3300140: pasted__alpine_railroad_track_0342
+    3300142: pasted__alpine_railroad_track_0342 1
+    3300144: pasted__alpine_railroad_track_0343
+    3300146: pasted__alpine_railroad_track_0343 1
+    3300148: polySurface6742
+    3300150: polySurface6742 1
+    3300152: polySurface6742 2
+    3300154: polySurface6743
+    3300156: polySurface6743 1
+    3300158: polySurface6743 2
+    3300160: polySurface6744
+    3300162: polySurface6744 1
+    3300164: polySurface6744 2
+    3300166: polySurface6745
+    3300168: polySurface6745 1
+    3300170: polySurface6745 2
+    3300172: polySurface6746
+    3300174: polySurface6746 1
+    3300176: polySurface6747
+    3300178: polySurface6747 1
+    3300180: polySurface6748
+    3300182: polySurface6748 1
+    3300184: polySurface6749
+    3300186: polySurface6749 1
+    3300188: polySurface6750
+    3300190: polySurface6750 1
+    3300192: polySurface6751
+    3300194: polySurface6751 1
+    3300196: polySurface6752
+    3300198: polySurface6752 1
+    3300200: polySurface6753
+    3300202: polySurface6753 1
+    3300204: polySurface6754
+    3300206: polySurface6754 1
+    3300208: polySurface6755
+    3300210: polySurface6755 1
+    3300212: polySurface6756
+    3300214: polySurface6756 1
+    3300216: polySurface6757
+    3300218: polySurface6757 1
+    3300220: alpine_wood_boards_066
+    3300222: alpine_wood_boards_067
+    3300224: alpine_wood_boards_068
+    3300226: alpine_wood_boards_069
+    3300228: alpine_wood_boards_070
+    3300230: alpine_wood_boards_071
+    3300232: alpine_wood_boards_072
+    3300234: alpine_wood_boards_073
+    3300236: alpine_wood_boards_114
+    3300238: alpine_wood_boards_115
+    3300240: alpine_wood_boards_116
+    3300242: alpine_wood_boards_117
+    3300244: alpine_wood_boards_118
+    3300246: alpine_wood_boards_119
+    3300248: alpine_wood_boards_120
+    3300250: alpine_wood_boards_121
+    3300252: alpine_wood_boards_122
+    3300254: alpine_wood_boards_123
+    3300256: alpine_wood_boards_124
+    3300258: alpine_wood_boards_125
+    3300260: alpine_wood_boards_126
+    3300262: alpine_wood_boards_127
+    3300264: alpine_wood_boards_128
+    3300266: alpine_wood_boards_129
+    3300268: alpine_wood_boards_130
+    3300270: alpine_wood_boards_131
+    3300272: group29_pasted__alpine_railroad_tie_02
+    3300274: pasted__alpine_railroad_track_0344
+    3300276: pasted__alpine_railroad_track_0345
+    3300278: polySurface6758
+    3300280: polySurface6759
+    3300282: polySurface6760
+    3300284: polySurface6761
+    3300286: polySurface6762
+    3300288: polySurface6763
+    3300290: polySurface6764
+    3300292: polySurface6765
+    3300294: polySurface6766
+    3300296: polySurface6767
+    3300298: polySurface6768
+    3300300: polySurface6769
+    3300302: polySurface6770
+    3300304: polySurface6771
+    3300306: polySurface6772
+    3300308: polySurface6773
+    3300310: polySurface6774
+    3300312: polySurface6775
+    3300314: group29_pasted__alpine_railroad_tie_04
+    3300316: polySurface6793
+    3300318: polySurface6796
+    3300320: //RootNode
+    3300322: minetracks_01
+    4300000: polySurface6742
+    4300002: polySurface6743
+    4300004: polySurface6744
+    4300006: polySurface6745
+    4300008: alpine_wood_boards_90
+    4300010: alpine_wood_boards_91
+    4300012: alpine_wood_boards_92
+    4300014: alpine_wood_boards_93
+    4300016: alpine_wood_boards_94
+    4300018: alpine_wood_boards_95
+    4300020: polySurface6746
+    4300022: polySurface6747
+    4300024: polySurface6748
+    4300026: polySurface6749
+    4300028: alpine_wood_boards_96
+    4300030: alpine_wood_boards_97
+    4300032: alpine_wood_boards_98
+    4300034: alpine_wood_boards_99
+    4300036: alpine_wood_boards_100
+    4300038: alpine_wood_boards_101
+    4300040: pasted__alpine_railroad_tie_02
+    4300042: pasted__alpine_railroad_tie_03
+    4300044: pasted__alpine_railroad_tie_04
+    4300046: pasted__alpine_railroad_tie_05
+    4300048: pasted__alpine_railroad_tie_08
+    4300050: pasted__alpine_railroad_tie_09
+    4300052: pasted__alpine_railroad_tie_010
+    4300054: pasted__alpine_railroad_tie_011
+    4300056: polySurface6750
+    4300058: polySurface6751
+    4300060: polySurface6752
+    4300062: polySurface6753
+    4300064: alpine_wood_boards_102
+    4300066: alpine_wood_boards_103
+    4300068: alpine_wood_boards_104
+    4300070: alpine_wood_boards_105
+    4300072: alpine_wood_boards_106
+    4300074: alpine_wood_boards_107
+    4300076: polySurface6754
+    4300078: polySurface6755
+    4300080: polySurface6756
+    4300082: polySurface6757
+    4300084: alpine_wood_boards_108
+    4300086: alpine_wood_boards_109
+    4300088: alpine_wood_boards_110
+    4300090: alpine_wood_boards_111
+    4300092: alpine_wood_boards_112
+    4300094: alpine_wood_boards_113
+    4300096: pasted__alpine_railroad_track_0342
+    4300098: pasted__alpine_railroad_track_0343
+    4300100: polySurface6742
+    4300102: polySurface6743
+    4300104: polySurface6744
+    4300106: polySurface6745
+    4300108: alpine_wood_boards_90
+    4300110: alpine_wood_boards_91
+    4300112: alpine_wood_boards_92
+    4300114: alpine_wood_boards_93
+    4300116: alpine_wood_boards_94
+    4300118: alpine_wood_boards_95
+    4300120: polySurface6746
+    4300122: polySurface6747
+    4300124: polySurface6748
+    4300126: polySurface6749
+    4300128: alpine_wood_boards_96
+    4300130: alpine_wood_boards_97
+    4300132: alpine_wood_boards_98
+    4300134: alpine_wood_boards_99
+    4300136: alpine_wood_boards_100
+    4300138: alpine_wood_boards_101
+    4300140: pasted__alpine_railroad_tie_02
+    4300142: pasted__alpine_railroad_tie_03
+    4300144: pasted__alpine_railroad_tie_04
+    4300146: pasted__alpine_railroad_tie_05
+    4300148: pasted__alpine_railroad_tie_08
+    4300150: pasted__alpine_railroad_tie_09
+    4300152: pasted__alpine_railroad_tie_010
+    4300154: pasted__alpine_railroad_tie_011
+    4300156: polySurface6750
+    4300158: polySurface6751
+    4300160: polySurface6752
+    4300162: polySurface6753
+    4300164: alpine_wood_boards_102
+    4300166: alpine_wood_boards_103
+    4300168: alpine_wood_boards_104
+    4300170: alpine_wood_boards_105
+    4300172: alpine_wood_boards_106
+    4300174: alpine_wood_boards_107
+    4300176: polySurface6754
+    4300178: polySurface6755
+    4300180: polySurface6756
+    4300182: polySurface6757
+    4300184: alpine_wood_boards_108
+    4300186: alpine_wood_boards_109
+    4300188: alpine_wood_boards_110
+    4300190: alpine_wood_boards_111
+    4300192: alpine_wood_boards_112
+    4300194: alpine_wood_boards_113
+    4300196: pasted__alpine_railroad_track_0342
+    4300198: pasted__alpine_railroad_track_0343
+    4300200: polySurface6742
+    4300202: polySurface6743
+    4300204: polySurface6744
+    4300206: polySurface6745
+    4300208: alpine_wood_boards_90
+    4300210: alpine_wood_boards_91
+    4300212: alpine_wood_boards_92
+    4300214: alpine_wood_boards_93
+    4300216: alpine_wood_boards_94
+    4300218: alpine_wood_boards_95
+    4300220: polySurface6758
+    4300222: polySurface6759
+    4300224: group29_pasted__alpine_railroad_tie_02
+    4300226: alpine_wood_boards_066
+    4300228: alpine_wood_boards_067
+    4300230: alpine_wood_boards_068
+    4300232: alpine_wood_boards_069
+    4300234: alpine_wood_boards_070
+    4300236: alpine_wood_boards_071
+    4300238: alpine_wood_boards_072
+    4300240: alpine_wood_boards_073
+    4300242: polySurface6760
+    4300244: polySurface6761
+    4300246: polySurface6762
+    4300248: polySurface6763
+    4300250: alpine_wood_boards_114
+    4300252: alpine_wood_boards_115
+    4300254: alpine_wood_boards_116
+    4300256: alpine_wood_boards_117
+    4300258: alpine_wood_boards_118
+    4300260: alpine_wood_boards_119
+    4300262: polySurface6764
+    4300264: polySurface6765
+    4300266: polySurface6766
+    4300268: polySurface6767
+    4300270: alpine_wood_boards_120
+    4300272: alpine_wood_boards_121
+    4300274: alpine_wood_boards_122
+    4300276: alpine_wood_boards_123
+    4300278: alpine_wood_boards_124
+    4300280: alpine_wood_boards_125
+    4300282: polySurface6768
+    4300284: polySurface6769
+    4300286: polySurface6770
+    4300288: polySurface6771
+    4300290: polySurface6772
+    4300292: polySurface6773
+    4300294: alpine_wood_boards_126
+    4300296: alpine_wood_boards_127
+    4300298: alpine_wood_boards_128
+    4300300: alpine_wood_boards_129
+    4300302: alpine_wood_boards_130
+    4300304: alpine_wood_boards_131
+    4300306: polySurface6774
+    4300308: polySurface6775
+    4300310: pasted__alpine_railroad_track_0344
+    4300312: pasted__alpine_railroad_track_0345
+    4300314: polySurface6793
+    4300316: group29_pasted__alpine_railroad_tie_04
+    4300318: polySurface6796
+    4300320: minetracks_01
+    4300322: depot_minecart_pulley_02
+    4300324: depot_minetracks_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

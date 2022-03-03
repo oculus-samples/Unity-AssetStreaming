@@ -1,0 +1,10 @@
+Characters/*
+Materials/*
+Prefabs/*
+Prefab_Source/*
+Scenes/*
+Shaders/*
+TextMesh Pro/*
+Textures/*
+Props/*
+MeshBaker/*

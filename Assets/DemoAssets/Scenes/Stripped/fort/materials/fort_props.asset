@@ -1,0 +1,1558 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d41887b1546f5c44ab54e7e65aad3bc, type: 3}
+  m_Name: fort_props
+  m_EditorClassIdentifier: 
+  version: 3252
+  materialsAndUVRects:
+  - material: {fileID: 2100000, guid: 402de0b6ce0f41f429d332cf03cc3474, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87841797
+      y: 0.12890625
+      width: 0.061523438
+      height: 0.109375
+    srcObjName: depot_barrel_medium_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.012778997
+      y: 0.005051136
+      width: 0.98480153
+      height: 0.87608147
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 4c58b080d592d10408ba61ac09ca3ea3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.88842773
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.98717666
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 147f8abbd087328489a9c44984e87ec4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.8796387
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.98717666
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 839c7cb1343edd04d963a0c7a9af0ad0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.44262695
+      y: 0.8625488
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_crate_stack_05_red
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 4b86ed1682b7fcb43843915af8e4163b, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.44274902
+      y: 0.73461914
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_cover_tall
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 4722f16077a092f4997cd47c1d28e06a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.48120117
+      y: 0.6586914
+      width: 0.017333984
+      height: 0.061767578
+    srcObjName: depot_crate_03_uv2 (4)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.21809563
+      y: 0.50307435
+      width: 0.27794233
+      height: 0.49462414
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: c57271de5f8debb449373fdfe86370b7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.25341797
+      width: 0.12219238
+      height: 0.24438477
+    srcObjName: distillery_barrelrack_01 (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.016071
+      y: 0.011978
+      width: 0.97754997
+      height: 0.97795796
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8133545
+      y: 0.44335938
+      width: 0.060546875
+      height: 0.12158203
+    srcObjName: alpine_campfire_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.015690982
+      y: 0.013250589
+      width: 0.9701384
+      height: 0.9730866
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.38537598
+      y: 0.72998047
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: alpine_lantern_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0070794234
+      y: 0.005477082
+      width: 0.76678264
+      height: 0.44574034
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.44848633
+      y: 0.4819336
+      width: 0.04333496
+      height: 0.107666016
+    srcObjName: saloon_crate_04_base
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.31838605
+      y: 0.5329573
+      width: 0.17340103
+      height: 0.21537852
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: caf89e994b579a54c8170d09dc252bf9, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.81469727
+      y: 0.34887695
+      width: 0.061279297
+      height: 0.07836914
+    srcObjName: alpine_crate_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.011996508
+      y: 0.3666625
+      width: 0.9812908
+      height: 0.62807846
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2f1143f235e44f54394a3e7779818800, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.37878418
+      y: 0.8625488
+      width: 0.06188965
+      height: 0.123291016
+    srcObjName: depot_lantern_01_uv2 (6)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.006806612
+      y: 0.008940488
+      width: 0.9915651
+      height: 0.98780847
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 6362d3ab8eba79b42ac744691163dcfa, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.3831787
+      y: 0.72998047
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: depot_lantern_01_uv2 (6)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.007078886
+      y: 0.0054774284
+      width: 0.76678276
+      height: 0.4457407
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1c38998b1c3cc7d4d835bb20dc24e666, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75146484
+      y: 0.34887695
+      width: 0.061279297
+      height: 0.08203125
+    srcObjName: Jail_LanternHook_01 (6)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.23399635
+      y: 0.8304981
+      width: 0.24549393
+      height: 0.16437596
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 0c8cf8ef5a6fd0b4199bdc31fe998879, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2524414
+      y: 0.001953125
+      width: 0.24609375
+      height: 0.47607422
+    srcObjName: alpine_rock_04 (48)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.007613182
+      y: 0.02820599
+      width: 0.98477364
+      height: 0.952489
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8009c4bb0344f9740be8d1a9cf54ca9e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.5036621
+      width: 0.24768066
+      height: 0.49389648
+    srcObjName: alpine_rock_05 (47)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002814293
+      y: 0.0045536757
+      width: 0.9910483
+      height: 0.98788464
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 12d897a3df0d71f4a87f417cc29fa56d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9383545
+      y: 0.44335938
+      width: 0.060302734
+      height: 0.12133789
+    srcObjName: alpine_tree_large_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.014488
+      y: 0.015875
+      width: 0.965228
+      height: 0.97142804
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.44848633
+      y: 0.59350586
+      width: 0.033325195
+      height: 0.061279297
+    srcObjName: alpine_treecard_round_05
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.003942383
+      y: 0
+      width: 0.53472024
+      height: 0.4920963
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9746094
+      y: 0.001953125
+      width: 0.016601562
+      height: 0.05078125
+    srcObjName: alpine_treecard_06 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5537796
+      y: 0
+      width: 0.26743567
+      height: 0.40701044
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.97509766
+      y: 0.064453125
+      width: 0.009521484
+      height: 0.042236328
+    srcObjName: alpine_treecard_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.8333203
+      y: 0.4990657
+      width: 0.1528964
+      height: 0.3395726
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.48376465
+      y: 0.59350586
+      width: 0.013183594
+      height: 0.060791016
+    srcObjName: alpine_treecard_round_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.32633743
+      y: 0.4990657
+      width: 0.21203485
+      height: 0.48750627
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9604492
+      y: 0.064453125
+      width: 0.0126953125
+      height: 0.036621094
+    srcObjName: alpine_treecard_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5822073
+      y: 0.4990657
+      width: 0.20439184
+      height: 0.29380947
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.38098145
+      y: 0.72998047
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: alpine_lamp_02 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5587716
+      y: 0.711144
+      width: 0.2676463
+      height: 0.18609476
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 7cbf96bbafeecae4f9bcb801370ad5c3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.501709
+      width: 0.061279297
+      height: 0.123291016
+    srcObjName: alpine_lamp_01 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008333206
+      y: 0.006627083
+      width: 0.9812665
+      height: 0.9866657
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f4c6d12d1e6ad994aab8f9d7fd972d3d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.37878418
+      y: 0.72998047
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: distillery_lamp_02_uv2
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008333206
+      y: 0.006627083
+      width: 0.9812665
+      height: 0.9866657
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 370dc59b3e3e4e9439c65f5331a84269, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.81433105
+      y: 0.5698242
+      width: 0.123046875
+      height: 0.01171875
+    srcObjName: rope_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 015dcd6080363a34c89618b72c880bf4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.97424316
+      y: 0.25341797
+      width: 0.016723633
+      height: 0.16821289
+    srcObjName: rope_bunch_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.13511313
+      y: 0.29757765
+      width: 0.13418476
+      height: 0.67297876
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 3239675a7ae63a0488940d236962e07a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.25341797
+      width: 0.12487793
+      height: 0.18603516
+    srcObjName: fort_rug
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5
+      y: 0.6234106
+      width: 0.49964583
+      height: 0.37244612
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9420166
+      y: 0.001953125
+      width: 0.030639648
+      height: 0.05859375
+    srcObjName: saloon_sack_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.625439
+      y: 0.12504102
+      width: 0.12289351
+      height: 0.12533237
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 949fe19b68fe7f34ebf560c2e6d91393, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.62890625
+      width: 0.061279297
+      height: 0.12182617
+    srcObjName: town_Shovel_Mobile
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008961283
+      y: 0.01365249
+      width: 0.98195314
+      height: 0.97539026
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 959f05ae45c66e349a08623fc49ff6a2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75097656
+      y: 0.44335938
+      width: 0.060424805
+      height: 0.122558594
+    srcObjName: town_Pot_3_Mobile
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.019541293
+      y: 0.008514136
+      width: 0.96706414
+      height: 0.98098457
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 48007868ba5e5fa45b6ea76f748e72be, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87841797
+      y: 0.001953125
+      width: 0.061645508
+      height: 0.123046875
+    srcObjName: town_piano_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.007645799
+      y: 0.0086734025
+      width: 0.9874508
+      height: 0.9854725
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.94189453
+      y: 0.12890625
+      width: 0.02746582
+      height: 0.06201172
+    srcObjName: saloon_light_chandelier_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.751124
+      y: 0.00021249056
+      width: 0.11033332
+      height: 0.12433749
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 5321dc4c47db7f84090b5203bddc456e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.7546387
+      width: 0.061157227
+      height: 0.12109375
+    srcObjName: town_table_square_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.010475501
+      y: 0.016664237
+      width: 0.97955155
+      height: 0.9696394
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.44848633
+      y: 0.6586914
+      width: 0.030761719
+      height: 0.061523438
+    srcObjName: saloon_chair_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.50021005
+      y: 0.00042062998
+      width: 0.12337947
+      height: 0.12319261
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.37878418
+      y: 0.73461914
+      width: 0.06201172
+      height: 0.12402344
+    srcObjName: saloon_table_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.75107455
+      y: 0.50072324
+      width: 0.24825722
+      height: 0.24830878
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: dea32281e0bf9a241a1412cdbee7ce0d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75146484
+      y: 0.25341797
+      width: 0.18774414
+      height: 0.091552734
+    srcObjName: Book_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0013577305
+      y: 0.0011046736
+      width: 0.7514375
+      height: 0.18350413
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 43cc790050e719746a662f91b0a80479, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.68188477
+      width: 0.12438965
+      height: 0.103271484
+    srcObjName: distillery_oven_hero_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002
+      y: 0.584036
+      width: 0.99600005
+      height: 0.41396403
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 963c0dcf2ef36ba418f2f0b5e84dbddf, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2524414
+      y: 0.4819336
+      width: 0.12438965
+      height: 0.2487793
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002
+      y: 0.002
+      width: 0.99600005
+      height: 0.99600005
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1a6263c40b9fa664ca07c6b662e9a237, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.001953125
+      width: 0.12438965
+      height: 0.2475586
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002
+      y: 0.002
+      width: 0.99600005
+      height: 0.99085176
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 18b0333958362ee4791044a004dd8a0e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.37878418
+      y: 0.4819336
+      width: 0.06774902
+      height: 0.24414062
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.20877624
+      y: 0.011179209
+      width: 0.5422709
+      height: 0.9774784
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2a468cd77e557a94985dac0a112e47d2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9411621
+      y: 0.25341797
+      width: 0.03112793
+      height: 0.14868164
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.7421086
+      y: 0.1548322
+      width: 0.24925506
+      height: 0.5952385
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 75180845dcca6464eb53a125d2d4995d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5004883
+      y: 0.97998047
+      width: 0.060424805
+      height: 0.018066406
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.50086945
+      y: 0.6774756
+      width: 0.48411185
+      height: 0.07278335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 9aa89e163f8676d4f9ba6a9eed9d3568, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.57250977
+      width: 0.12438965
+      height: 0.10546875
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002
+      y: 0.35437495
+      width: 0.99600005
+      height: 0.42201585
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 80c0b62fafbb1494b9480ca505065fa0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.7890625
+      width: 0.12438965
+      height: 0.095458984
+    srcObjName: distillery_oven_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0020901223
+      y: 0.05357527
+      width: 0.9955434
+      height: 0.3819826
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 107c56c01545f0b4fb5972740ceb5ac7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75097656
+      y: 0.5698242
+      width: 0.061401367
+      height: 0.055664062
+    srcObjName: alpine_pulleyarm_ropeHook_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.009421349
+      y: 0.5470772
+      width: 0.9842262
+      height: 0.4459691
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: cdf733f2b0608ee489ddb9324e243ebc, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.62683105
+      y: 0.001953125
+      width: 0.12426758
+      height: 0.24731445
+    srcObjName: alpine_pulleyarm_ropeHook_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.004272672
+      y: 0.010140122
+      width: 0.9950378
+      height: 0.9898599
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: b0d7446962ec3584e869d00a18629f38, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75305176
+      y: 0.001953125
+      width: 0.123413086
+      height: 0.24414062
+    srcObjName: alpine_minecart_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0074954033
+      y: 0.012753248
+      width: 0.9876685
+      height: 0.97731256
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2d13b263d78e1464ba2ce138ccb6c6b0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6246338
+      y: 0.44335938
+      width: 0.12438965
+      height: 0.12524414
+    srcObjName: alpine_railroad_track_bend_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00238429
+      y: 0.278412
+      width: 0.9952314
+      height: 0.501117
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 50cfc0010d3af1340b5f32725ce3fa8a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8758545
+      y: 0.44335938
+      width: 0.060546875
+      height: 0.12109375
+    srcObjName: alpine_pine_log_02 (12)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 470762f71120fc149a1b6597431a266b, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.001953125
+      width: 0.24951172
+      height: 0.49780273
+    srcObjName: distillery_pipe_03 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0013770817
+      y: 0.0016715205
+      width: 0.9983905
+      height: 0.99605757
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 559b9695381aaee44ba85a293d0aa363, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2524414
+      y: 0.73461914
+      width: 0.12438965
+      height: 0.2487793
+    srcObjName: distillery_pipe_01_uv2 (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0019993596
+      y: 0.001994636
+      width: 0.9960007
+      height: 0.9960103
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9420166
+      y: 0.064453125
+      width: 0.016479492
+      height: 0.032226562
+    srcObjName: alpine_snow_nail_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.31706098
+      y: 0.2841262
+      width: 0.1326263
+      height: 0.12982282
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  resultMaterials:
+  - combinedMaterial: {fileID: 2100000, guid: aab475f22ae55054cbcd0ba5bbbde924, type: 2}
+    considerMeshUVs: 1
+    sourceMaterials:
+    - {fileID: 2100000, guid: 402de0b6ce0f41f429d332cf03cc3474, type: 2}
+    - {fileID: 2100000, guid: 4c58b080d592d10408ba61ac09ca3ea3, type: 2}
+    - {fileID: 2100000, guid: 147f8abbd087328489a9c44984e87ec4, type: 2}
+    - {fileID: 2100000, guid: 839c7cb1343edd04d963a0c7a9af0ad0, type: 2}
+    - {fileID: 2100000, guid: 4b86ed1682b7fcb43843915af8e4163b, type: 2}
+    - {fileID: 2100000, guid: 4722f16077a092f4997cd47c1d28e06a, type: 2}
+    - {fileID: 2100000, guid: c57271de5f8debb449373fdfe86370b7, type: 2}
+    - {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    - {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: caf89e994b579a54c8170d09dc252bf9, type: 2}
+    - {fileID: 2100000, guid: 2f1143f235e44f54394a3e7779818800, type: 2}
+    - {fileID: 2100000, guid: 6362d3ab8eba79b42ac744691163dcfa, type: 2}
+    - {fileID: 2100000, guid: 1c38998b1c3cc7d4d835bb20dc24e666, type: 2}
+    - {fileID: 2100000, guid: 0c8cf8ef5a6fd0b4199bdc31fe998879, type: 2}
+    - {fileID: 2100000, guid: 8009c4bb0344f9740be8d1a9cf54ca9e, type: 2}
+    - {fileID: 2100000, guid: 12d897a3df0d71f4a87f417cc29fa56d, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    - {fileID: 2100000, guid: 7cbf96bbafeecae4f9bcb801370ad5c3, type: 2}
+    - {fileID: 2100000, guid: f4c6d12d1e6ad994aab8f9d7fd972d3d, type: 2}
+    - {fileID: 2100000, guid: 370dc59b3e3e4e9439c65f5331a84269, type: 2}
+    - {fileID: 2100000, guid: 015dcd6080363a34c89618b72c880bf4, type: 2}
+    - {fileID: 2100000, guid: 3239675a7ae63a0488940d236962e07a, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: 949fe19b68fe7f34ebf560c2e6d91393, type: 2}
+    - {fileID: 2100000, guid: 959f05ae45c66e349a08623fc49ff6a2, type: 2}
+    - {fileID: 2100000, guid: 48007868ba5e5fa45b6ea76f748e72be, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: 5321dc4c47db7f84090b5203bddc456e, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: dea32281e0bf9a241a1412cdbee7ce0d, type: 2}
+    - {fileID: 2100000, guid: 43cc790050e719746a662f91b0a80479, type: 2}
+    - {fileID: 2100000, guid: 963c0dcf2ef36ba418f2f0b5e84dbddf, type: 2}
+    - {fileID: 2100000, guid: 1a6263c40b9fa664ca07c6b662e9a237, type: 2}
+    - {fileID: 2100000, guid: 18b0333958362ee4791044a004dd8a0e, type: 2}
+    - {fileID: 2100000, guid: 2a468cd77e557a94985dac0a112e47d2, type: 2}
+    - {fileID: 2100000, guid: 75180845dcca6464eb53a125d2d4995d, type: 2}
+    - {fileID: 2100000, guid: 9aa89e163f8676d4f9ba6a9eed9d3568, type: 2}
+    - {fileID: 2100000, guid: 80c0b62fafbb1494b9480ca505065fa0, type: 2}
+    - {fileID: 2100000, guid: 107c56c01545f0b4fb5972740ceb5ac7, type: 2}
+    - {fileID: 2100000, guid: cdf733f2b0608ee489ddb9324e243ebc, type: 2}
+    - {fileID: 2100000, guid: b0d7446962ec3584e869d00a18629f38, type: 2}
+    - {fileID: 2100000, guid: 2d13b263d78e1464ba2ce138ccb6c6b0, type: 2}
+    - {fileID: 2100000, guid: 50cfc0010d3af1340b5f32725ce3fa8a, type: 2}
+    - {fileID: 2100000, guid: 470762f71120fc149a1b6597431a266b, type: 2}
+    - {fileID: 2100000, guid: 559b9695381aaee44ba85a293d0aa363, type: 2}
+    - {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+  doMultiMaterial: 0

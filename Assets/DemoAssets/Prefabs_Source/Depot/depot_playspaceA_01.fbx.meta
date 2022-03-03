@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 18030fd302237a44e95bddbcf8d53112
+timeCreated: 1534444570
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pasted__pCube1
+    100004: pasted__pCube14
+    100006: pasted__pCube15
+    100008: pasted__pCube16
+    100010: pasted__pCube17
+    100012: pasted__pCube18
+    100014: pasted__pCube54
+    100016: pasted__pCube55
+    100018: pasted__pCube56
+    100020: pasted__pCube57
+    400000: //RootNode
+    400002: pasted__pCube1
+    400004: pasted__pCube14
+    400006: pasted__pCube15
+    400008: pasted__pCube16
+    400010: pasted__pCube17
+    400012: pasted__pCube18
+    400014: pasted__pCube54
+    400016: pasted__pCube55
+    400018: pasted__pCube56
+    400020: pasted__pCube57
+    2300000: pasted__pCube1
+    2300002: pasted__pCube14
+    2300004: pasted__pCube15
+    2300006: pasted__pCube16
+    2300008: pasted__pCube17
+    2300010: pasted__pCube18
+    2300012: pasted__pCube54
+    2300014: pasted__pCube55
+    2300016: pasted__pCube56
+    2300018: pasted__pCube57
+    2300020: //RootNode
+    3300000: pasted__pCube1
+    3300002: pasted__pCube14
+    3300004: pasted__pCube15
+    3300006: pasted__pCube16
+    3300008: pasted__pCube17
+    3300010: pasted__pCube18
+    3300012: pasted__pCube54
+    3300014: pasted__pCube55
+    3300016: pasted__pCube56
+    3300018: pasted__pCube57
+    3300020: //RootNode
+    4300000: pasted__pCube1
+    4300002: pasted__pCube14
+    4300004: pasted__pCube15
+    4300006: pasted__pCube16
+    4300008: pasted__pCube18
+    4300010: pasted__pCube17
+    4300012: pasted__pCube54
+    4300014: pasted__pCube55
+    4300016: pasted__pCube56
+    4300018: pasted__pCube57
+    4300020: depot_playspaceA_01
+    4300022: depot_playspaceA_02
+    4300024: depot_playspaceA_043
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

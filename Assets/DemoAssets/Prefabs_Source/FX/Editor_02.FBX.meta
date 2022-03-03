@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 5cb77fe8e13e3844fbbfc94fb3c0779b
+timeCreated: 1452816893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Directional Light
+    100006: shockwave_01
+    100008: laser_sight_01
+    100010: Texture Group
+    100012: decal_cylinder
+    100014: decal_cylinder_sign
+    100016: arrow
+    100018: spawn_arrow_01
+    100020: spawn_round_01
+    400000: //RootNode
+    400002: Camera
+    400004: Directional Light
+    400006: shockwave_01
+    400008: laser_sight_01
+    400010: Texture Group
+    400012: decal_cylinder
+    400014: decal_cylinder_sign
+    400016: arrow
+    400018: spawn_arrow_01
+    400020: spawn_round_01
+    2300000: //RootNode
+    2300002: shockwave_01
+    2300004: laser_sight_01
+    2300006: decal_cylinder
+    2300008: decal_cylinder_sign
+    2300010: arrow
+    2300012: spawn_arrow_01
+    2300014: spawn_round_01
+    3300000: //RootNode
+    3300002: shockwave_01
+    3300004: laser_sight_01
+    3300006: decal_cylinder
+    3300008: decal_cylinder_sign
+    3300010: arrow
+    3300012: spawn_arrow_01
+    3300014: spawn_round_01
+    4300000: simple plane
+    4300002: shockwave_01
+    4300004: laser_sight_01
+    4300006: decal_cylinder
+    4300008: decal_cylinder_sign
+    4300010: arrow
+    4300012: spawn_round_01
+    4300014: spawn_arrow_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 10
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

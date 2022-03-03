@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: e5bfd08520784954c9f0d7f0a238e18c
+timeCreated: 1501625746
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh
+    100004: Mesh (2)
+    100006: Mesh (3)
+    100008: Mesh (4)
+    100010: Mesh (5)
+    100012: Mesh (6)
+    100014: Mesh (7)
+    100016: Mesh (8)
+    100018: Mesh (9)
+    100020: Mesh (9)_MeshPart0
+    100022: Mesh (9)_MeshPart1
+    100024: Texture Group
+    100026: Mesh (10)
+    100028: Mesh (11)
+    100030: center
+    100032: Mesh (12)
+    100034: section1
+    100036: terrain_01
+    100038: Texture Group (2)
+    100040: buildings1
+    100042: terrain_wip
+    100044: terrain_rocks
+    100046: temp_props
+    100048: buildings2
+    100050: export
+    100052: Texture Group (3)
+    100054: Texture Group (4)
+    100056: _delete
+    100058: Texture Group (5)
+    100060: terrain_01_ground
+    100062: terrain_01_temp
+    100064: export_MeshPart0
+    100066: export_MeshPart1
+    100068: Texture Group (6)
+    100070: navmesh
+    100072: anims
+    100074: roomscale
+    100076: Texture Group (7)
+    100078: collider_ground
+    400000: //RootNode
+    400002: Mesh
+    400004: Mesh (2)
+    400006: Mesh (3)
+    400008: Mesh (4)
+    400010: Mesh (5)
+    400012: Mesh (6)
+    400014: Mesh (7)
+    400016: Mesh (8)
+    400018: Mesh (9)
+    400020: Mesh (9)_MeshPart0
+    400022: Mesh (9)_MeshPart1
+    400024: Texture Group
+    400026: Mesh (10)
+    400028: Mesh (11)
+    400030: center
+    400032: Mesh (12)
+    400034: section1
+    400036: terrain_01
+    400038: Texture Group (2)
+    400040: buildings1
+    400042: terrain_wip
+    400044: terrain_rocks
+    400046: temp_props
+    400048: buildings2
+    400050: export
+    400052: Texture Group (3)
+    400054: Texture Group (4)
+    400056: _delete
+    400058: Texture Group (5)
+    400060: terrain_01_ground
+    400062: terrain_01_temp
+    400064: export_MeshPart0
+    400066: export_MeshPart1
+    400068: Texture Group (6)
+    400070: navmesh
+    400072: anims
+    400074: roomscale
+    400076: Texture Group (7)
+    400078: collider_ground
+    2300000: Mesh
+    2300002: Mesh (2)
+    2300004: Mesh (3)
+    2300006: Mesh (4)
+    2300008: Mesh (5)
+    2300010: Mesh (6)
+    2300012: Mesh (7)
+    2300014: Mesh (8)
+    2300016: Mesh (9)_MeshPart0
+    2300018: Mesh (9)_MeshPart1
+    2300020: Mesh (10)
+    2300022: Mesh (11)
+    2300024: center
+    2300026: Mesh (12)
+    2300028: Mesh (9)
+    2300030: section1
+    2300032: terrain_01
+    2300034: buildings1
+    2300036: terrain_wip
+    2300038: terrain_rocks
+    2300040: temp_props
+    2300042: buildings2
+    2300044: export
+    2300046: _delete
+    2300048: terrain_01_ground
+    2300050: terrain_01_temp
+    2300052: export_MeshPart0
+    2300054: export_MeshPart1
+    2300056: navmesh
+    2300058: anims
+    2300060: roomscale
+    2300062: collider_ground
+    3300000: Mesh
+    3300002: Mesh (2)
+    3300004: Mesh (3)
+    3300006: Mesh (4)
+    3300008: Mesh (5)
+    3300010: Mesh (6)
+    3300012: Mesh (7)
+    3300014: Mesh (8)
+    3300016: Mesh (9)_MeshPart0
+    3300018: Mesh (9)_MeshPart1
+    3300020: Mesh (10)
+    3300022: Mesh (11)
+    3300024: center
+    3300026: Mesh (12)
+    3300028: Mesh (9)
+    3300030: section1
+    3300032: terrain_01
+    3300034: buildings1
+    3300036: terrain_wip
+    3300038: terrain_rocks
+    3300040: temp_props
+    3300042: buildings2
+    3300044: export
+    3300046: _delete
+    3300048: terrain_01_ground
+    3300050: terrain_01_temp
+    3300052: export_MeshPart0
+    3300054: export_MeshPart1
+    3300056: navmesh
+    3300058: anims
+    3300060: roomscale
+    3300062: collider_ground
+    4300000: Mesh
+    4300002: Mesh (2)
+    4300004: Mesh (3)
+    4300006: Mesh (4)
+    4300008: Mesh (5)
+    4300010: Mesh (6)
+    4300012: Mesh (7)
+    4300014: Mesh (8)
+    4300016: Mesh (9)_MeshPart0
+    4300018: Mesh (9)_MeshPart1
+    4300020: Mesh (10)
+    4300022: Mesh (11)
+    4300024: center
+    4300026: Mesh (9)
+    4300028: section1
+    4300030: Mesh (12)
+    4300032: terrain_01
+    4300034: buildings1
+    4300036: terrain_wip
+    4300038: terrain_rocks
+    4300040: temp_props
+    4300042: buildings2
+    4300044: export
+    4300046: _delete
+    4300048: terrain_01_ground
+    4300050: terrain_01_temp
+    4300052: export_MeshPart0
+    4300054: export_MeshPart1
+    4300056: navmesh
+    4300058: anims
+    4300060: roomscale
+    4300062: collider_ground
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 85
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

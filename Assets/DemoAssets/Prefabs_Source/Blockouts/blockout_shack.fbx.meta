@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 2891cbf8cbc6425419c2000e89e758f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh
+    100004: Texture Group
+    100006: terrain_01
+    100008: town
+    100010: terrain_distant_01
+    100012: elevator
+    100014: ground_mines_01_a
+    100016: Mesh_MeshPart0
+    100018: Mesh_MeshPart1
+    100020: Texture Group (2)
+    100022: Mesh_MeshPart2
+    100024: Texture Group (3)
+    100026: elevator_light
+    100028: elevator_platform
+    100030: elevator_shaft
+    100032: elevator_switch
+    100034: elevator_light_bulb
+    100036: elevator_boxes
+    400000: //RootNode
+    400002: Mesh
+    400004: Texture Group
+    400006: terrain_01
+    400008: town
+    400010: terrain_distant_01
+    400012: elevator
+    400014: ground_mines_01_a
+    400016: Mesh_MeshPart0
+    400018: Mesh_MeshPart1
+    400020: Texture Group (2)
+    400022: Mesh_MeshPart2
+    400024: Texture Group (3)
+    400026: elevator_light
+    400028: elevator_platform
+    400030: elevator_shaft
+    400032: elevator_switch
+    400034: elevator_light_bulb
+    400036: elevator_boxes
+    2300000: Mesh
+    2300002: terrain_01
+    2300004: town
+    2300006: terrain_distant_01
+    2300008: elevator
+    2300010: ground_mines_01_a
+    2300012: Mesh_MeshPart0
+    2300014: Mesh_MeshPart1
+    2300016: Mesh_MeshPart2
+    2300018: elevator_light
+    2300020: elevator_platform
+    2300022: elevator_shaft
+    2300024: elevator_switch
+    2300026: elevator_light_bulb
+    2300028: elevator_boxes
+    3300000: Mesh
+    3300002: terrain_01
+    3300004: town
+    3300006: terrain_distant_01
+    3300008: elevator
+    3300010: ground_mines_01_a
+    3300012: Mesh_MeshPart0
+    3300014: Mesh_MeshPart1
+    3300016: Mesh_MeshPart2
+    3300018: elevator_light
+    3300020: elevator_platform
+    3300022: elevator_shaft
+    3300024: elevator_switch
+    3300026: elevator_light_bulb
+    3300028: elevator_boxes
+    4300000: Mesh
+    4300002: town
+    4300004: terrain_01
+    4300006: terrain_distant_01
+    4300008: elevator
+    4300010: ground_mines_01_a
+    4300012: Mesh_MeshPart0
+    4300014: Mesh_MeshPart1
+    4300016: Mesh_MeshPart2
+    4300018: elevator_shaft
+    4300020: elevator_platform
+    4300022: elevator_light
+    4300024: elevator_switch
+    4300026: elevator_light_bulb
+    4300028: elevator_boxes
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1587 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d41887b1546f5c44ab54e7e65aad3bc, type: 3}
+  m_Name: alpine-props
+  m_EditorClassIdentifier: 
+  version: 3252
+  materialsAndUVRects:
+  - material: {fileID: 2100000, guid: 4f084d1712d41204f85aefe47c9402d8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7885742
+      y: 0.19921875
+      width: 0.043701172
+      height: 0.048095703
+    srcObjName: alpine_snow_crate_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008156873
+      y: 0.3771465
+      width: 0.7008035
+      height: 0.3856894
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 698365f985ffcad42a5ae433eb25d0b5, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.8901367
+      width: 0.061279297
+      height: 0.07836914
+    srcObjName: alpine_snow_crate_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.011996508
+      y: 0.3666625
+      width: 0.9812908
+      height: 0.62807846
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: d6cddded3b921194693dbe43d669c5cb, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6635742
+      y: 0.099121094
+      width: 0.061645508
+      height: 0.1237793
+    srcObjName: alpine_snow_crate_10
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.007308712
+      y: 0.003844043
+      width: 0.9879375
+      height: 0.9909032
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 749bd25206b756f45bf6fdb2d2c342be, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.72717285
+      y: 0.099121094
+      width: 0.055541992
+      height: 0.123535156
+    srcObjName: depot_cover_tall_03_uv2
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00912118
+      y: 0.006440878
+      width: 0.89059186
+      height: 0.989542
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7885742
+      y: 0.001953125
+      width: 0.1138916
+      height: 0.06616211
+    srcObjName: alpine_snow_saw_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.08299136
+      y: 0.005410135
+      width: 0.91156846
+      height: 0.26518148
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: ecd32da63aa31de43b9f3e8552e3f7c1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.37719727
+      y: 0.7438965
+      width: 0.11022949
+      height: 0.2421875
+    srcObjName: alpine_snow_barrel_large_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.010509968
+      y: 0.013684034
+      width: 0.88219905
+      height: 0.9689448
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: dbb28e5e614327d4dbb292786b7345cc, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.88183594
+      width: 0.060424805
+      height: 0.11279297
+    srcObjName: alpine_snow_barrel_small_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.014755726
+      y: 0.010292053
+      width: 0.96835375
+      height: 0.90284634
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: cc5bfa897e8fcbe499c437e7d76b4fa7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6661377
+      y: 0.25170898
+      width: 0.060791016
+      height: 0.12158203
+    srcObjName: alpine_snow_campfire_wood_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.015690982
+      y: 0.013250589
+      width: 0.9727281
+      height: 0.9730866
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 884a2691a6f0ee7428e2336e56195934, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50024414
+      y: 0.8005371
+      width: 0.06237793
+      height: 0.17895508
+    srcObjName: alpine_snow_metal_sheet_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0000035762787
+      y: 0.2833743
+      width: 0.49999404
+      height: 0.7166257
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 0bd7bb36291c27d46a850129bc055514, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.90441895
+      y: 0.12915039
+      width: 0.060913086
+      height: 0.1159668
+    srcObjName: alpine_snow_crate_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.014071
+      y: 0.06599039
+      width: 0.975079
+      height: 0.9281275
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: aed4c5b3abb8ca144b86bcd3d05f7a48, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.91674805
+      y: 0.25170898
+      width: 0.061523438
+      height: 0.109375
+    srcObjName: alpine_snow_barrel_medium_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.012778997
+      y: 0.005051136
+      width: 0.98480153
+      height: 0.87608147
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 819078e9bd5e3874b8eeabc1466ac7db, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.7897949
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_05_blue
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.98717666
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8fb2cc7f0cbc7564cb4c58a6e6b2a3e6, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6661377
+      y: 0.63061523
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_crate_stack_05_blue
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 98496cbe017aa5043b302361a5d910d5, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6661377
+      y: 0.50390625
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_crate_stack_05_blue
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1cb021c5aa6bd59479996a49a5d05304, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.6894531
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.9871764
+      height: 0.7717085
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 4c58b080d592d10408ba61ac09ca3ea3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7850342
+      y: 0.37719727
+      width: 0.061767578
+      height: 0.09667969
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.21720266
+      width: 0.9894469
+      height: 0.77454734
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 839c7cb1343edd04d963a0c7a9af0ad0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6661377
+      y: 0.37719727
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: a7cac2e4c3c81be4d8238b752257ac27, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.5891113
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.98717666
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 7bf67f8e7bd456f4fbf55b6b702b4477, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6661377
+      y: 0.7573242
+      width: 0.05444336
+      height: 0.122802734
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.022262812
+      y: 0.006476879
+      width: 0.8711846
+      height: 0.98421335
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 147f8abbd087328489a9c44984e87ec4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.48876953
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004116
+      width: 0.9871764
+      height: 0.77170885
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1525545b291ab3140bd7dbb2157f4340, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9123535
+      y: 0.37719727
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.9871764
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: c182624f2c2309b409b510518b8800ca, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8487549
+      y: 0.37719727
+      width: 0.061645508
+      height: 0.09643555
+    srcObjName: depot_crate_stack_07
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00024676323
+      y: 0.22004128
+      width: 0.98717666
+      height: 0.7717087
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 0bbf4ab84cf42634fa71904d72661d9f, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.001953125
+      width: 0.05908203
+      height: 0.24584961
+    srcObjName: depot_ladder_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.036213115
+      y: 0.008977905
+      width: 0.47272748
+      height: 0.9838192
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: be5aaee83b438db488125fc8b0b59657, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7225342
+      y: 0.37719727
+      width: 0.060546875
+      height: 0.107666016
+    srcObjName: alpine_snow_icicle_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.01742363
+      y: 0.12019348
+      width: 0.9692297
+      height: 0.86325836
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 99c67b060bbe43847b202430f89bc964, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.50561523
+      width: 0.24682617
+      height: 0.4777832
+    srcObjName: alpine_snow_mound_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.005666058
+      y: 0.024137288
+      width: 0.98765707
+      height: 0.95600927
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.24975586
+      y: 0.51000977
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: alpine_snow_lamp_01 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5587716
+      y: 0.711144
+      width: 0.2676463
+      height: 0.18609476
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f1a1db267e4b9ba4899f4da3476c4670, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.48937988
+      y: 0.87231445
+      width: 0.0036621094
+      height: 0.12451172
+    srcObjName: alpine_snow_wire_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.9209616
+      y: 0.5011983
+      width: 0.030254602
+      height: 0.4988017
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 32c0e61828de09a4d8acff89639495a8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7885742
+      y: 0.072021484
+      width: 0.061767578
+      height: 0.123291016
+    srcObjName: alpine_snow_lantern_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0068070847
+      y: 0.008940488
+      width: 0.98991275
+      height: 0.98780787
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.24975586
+      y: 0.50561523
+      width: 0.00024414062
+      height: 0.00048828125
+    srcObjName: alpine_snow_lantern_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0070794234
+      y: 0.005477082
+      width: 0.76678264
+      height: 0.44574034
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 21a0158f616e4904a8848060446f01e0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50024414
+      y: 0.31713867
+      width: 0.06530762
+      height: 0.24658203
+    srcObjName: alpine_snow_pulleyarm_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.4670195
+      y: 0.006537348
+      width: 0.5228489
+      height: 0.9866649
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: d4bbbb6763192384f86e6c9cc7613049, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.25170898
+      width: 0.061645508
+      height: 0.12231445
+    srcObjName: alpine_snow_pulleyarm_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0063146953
+      y: 0.013364792
+      width: 0.9873329
+      height: 0.9796815
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6635742
+      y: 0.001953125
+      width: 0.123046875
+      height: 0.09326172
+    srcObjName: alpine_snow_pulleyarm_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.011278391
+      y: 0.25698328
+      width: 0.98485845
+      height: 0.37358302
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f1a1db267e4b9ba4899f4da3476c4670, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.48937988
+      y: 0.7438965
+      width: 0.0040283203
+      height: 0.12451172
+    srcObjName: alpine_snow_pulleyarm_ropeHook_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.9668274
+      y: 0.5011983
+      width: 0.03285283
+      height: 0.4988017
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f07a9f8eddfaa4b4999f9b082e78ed50, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.90441895
+      y: 0.001953125
+      width: 0.061279297
+      height: 0.123291016
+    srcObjName: alpine_snow_lamp_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008333206
+      y: 0.006627083
+      width: 0.9812665
+      height: 0.9866657
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: f00e2cb4dedccb54ab2174cff31149a6, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.25219727
+      y: 0.001953125
+      width: 0.24609375
+      height: 0.47607422
+    srcObjName: alpine_snow_rock_04 (8)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.007613182
+      y: 0.02820599
+      width: 0.98477364
+      height: 0.952489
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.25219727
+      y: 0.4819336
+      width: 0.2442627
+      height: 0.25805664
+    srcObjName: alpine_snow_rock_01 (13)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.002814293
+      y: 0.4761705
+      width: 0.9775255
+      height: 0.5162678
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50024414
+      y: 0.56762695
+      width: 0.0703125
+      height: 0.2290039
+    srcObjName: alpine_snow_rock_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.7070675
+      y: 0.0093973875
+      width: 0.28165627
+      height: 0.4583801
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50024414
+      y: 0.001953125
+      width: 0.1003418
+      height: 0.3112793
+    srcObjName: alpine_snow_rock_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.011028767
+      y: 0.0045536757
+      width: 0.40157843
+      height: 0.6226021
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 7060e228675c3af45ba4fd6faf079392, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.5046387
+      width: 0.061035156
+      height: 0.122558594
+    srcObjName: town_Pick_Axe_Mobile
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.012919
+      y: 0.008728
+      width: 0.978235
+      height: 0.98221797
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 949fe19b68fe7f34ebf560c2e6d91393, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.6311035
+      width: 0.061279297
+      height: 0.12182617
+    srcObjName: town_Shovel_Mobile
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008961283
+      y: 0.01365249
+      width: 0.98195314
+      height: 0.97539026
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: a9449d046f8a5314ea67235201e78665, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.0009765625
+      y: 0.001953125
+      width: 0.24926758
+      height: 0.49975586
+    srcObjName: train_locomotive_01_a
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.00077236444
+      y: 0
+      width: 0.99754393
+      height: 0.9999702
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 7375d0dbbdbceac439874084dd725c7a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8544922
+      y: 0.25170898
+      width: 0.060302734
+      height: 0.12133789
+    srcObjName: alpine_snow_tree_small_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.014488
+      y: 0.015875
+      width: 0.965228
+      height: 0.97142804
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5675049
+      y: 0.46435547
+      width: 0.016601562
+      height: 0.05078125
+    srcObjName: alpine_snow_treecard_round_06
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.5537796
+      y: 0
+      width: 0.26743567
+      height: 0.40701044
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5645752
+      y: 0.8005371
+      width: 0.033325195
+      height: 0.061279297
+    srcObjName: alpine_snow_treecard_round_05
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.003942383
+      y: 0
+      width: 0.53472024
+      height: 0.4920963
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5675049
+      y: 0.3996582
+      width: 0.01965332
+      height: 0.060791016
+    srcObjName: alpine_snow_treecard_round_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0.4990657
+      width: 0.31598538
+      height: 0.48686153
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.57250977
+      y: 0.56762695
+      width: 0.013183594
+      height: 0.060791016
+    srcObjName: alpine_snow_treecard_round_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.32633743
+      y: 0.4990657
+      width: 0.21203485
+      height: 0.48750627
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: bd71db3b77849914eae86cb2736584be, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.72888184
+      y: 0.25170898
+      width: 0.061157227
+      height: 0.12084961
+    srcObjName: town_grainsack_01 (3)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.0136663085
+      y: 0.013833974
+      width: 0.9790074
+      height: 0.967625
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 02fdeaad64af4634dad3dcdceab7fb5e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.3779297
+      width: 0.061157227
+      height: 0.122802734
+    srcObjName: town_chair_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.012385011
+      y: 0.008520151
+      width: 0.97907335
+      height: 0.98259634
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 5321dc4c47db7f84090b5203bddc456e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.60253906
+      y: 0.75683594
+      width: 0.061157227
+      height: 0.12109375
+    srcObjName: town_table_square_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.010475501
+      y: 0.016664237
+      width: 0.97955155
+      height: 0.9696394
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: e8cc1a886c44bbf49ba66c9408746474, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.25219727
+      y: 0.7438965
+      width: 0.123046875
+      height: 0.24609375
+    srcObjName: alpine_snow_pine_log_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7919922
+      y: 0.25170898
+      width: 0.060546875
+      height: 0.12158203
+    srcObjName: alpine_campfire_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.015690982
+      y: 0.013250589
+      width: 0.9701384
+      height: 0.9730866
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 53032320f6f77e24ca01ac2d822d4318, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5891113
+      y: 0.3996582
+      width: 0.0057373047
+      height: 0.030029297
+    srcObjName: alpine_crate_04 (7)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.6652503
+      y: 0.14122224
+      width: 0.0918231
+      height: 0.2419338
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 72360580add7b914fb241ffef9952e4b, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5675049
+      y: 0.31713867
+      width: 0.032348633
+      height: 0.07861328
+    srcObjName: alpine_crate_04 (7)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.43885756
+      y: 0.20984575
+      width: 0.517884
+      height: 0.6304883
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  - material: {fileID: 2100000, guid: 08a39eae8ffcb5a44b9725ee3d47507a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8522949
+      y: 0.072021484
+      width: 0.043701172
+      height: 0.048095703
+    srcObjName: alpine_crate_04 (7)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0.008156873
+      y: 0.3771465
+      width: 0.7008035
+      height: 0.3856894
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 1
+  resultMaterials:
+  - combinedMaterial: {fileID: 2100000, guid: 9146588c1ec789246bcc49b0f1d8eb9a, type: 2}
+    considerMeshUVs: 1
+    sourceMaterials:
+    - {fileID: 2100000, guid: 4f084d1712d41204f85aefe47c9402d8, type: 2}
+    - {fileID: 2100000, guid: 698365f985ffcad42a5ae433eb25d0b5, type: 2}
+    - {fileID: 2100000, guid: d6cddded3b921194693dbe43d669c5cb, type: 2}
+    - {fileID: 2100000, guid: 749bd25206b756f45bf6fdb2d2c342be, type: 2}
+    - {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+    - {fileID: 2100000, guid: ecd32da63aa31de43b9f3e8552e3f7c1, type: 2}
+    - {fileID: 2100000, guid: dbb28e5e614327d4dbb292786b7345cc, type: 2}
+    - {fileID: 2100000, guid: cc5bfa897e8fcbe499c437e7d76b4fa7, type: 2}
+    - {fileID: 2100000, guid: 884a2691a6f0ee7428e2336e56195934, type: 2}
+    - {fileID: 2100000, guid: 0bd7bb36291c27d46a850129bc055514, type: 2}
+    - {fileID: 2100000, guid: aed4c5b3abb8ca144b86bcd3d05f7a48, type: 2}
+    - {fileID: 2100000, guid: 819078e9bd5e3874b8eeabc1466ac7db, type: 2}
+    - {fileID: 2100000, guid: 8fb2cc7f0cbc7564cb4c58a6e6b2a3e6, type: 2}
+    - {fileID: 2100000, guid: 98496cbe017aa5043b302361a5d910d5, type: 2}
+    - {fileID: 2100000, guid: 1cb021c5aa6bd59479996a49a5d05304, type: 2}
+    - {fileID: 2100000, guid: 4c58b080d592d10408ba61ac09ca3ea3, type: 2}
+    - {fileID: 2100000, guid: 839c7cb1343edd04d963a0c7a9af0ad0, type: 2}
+    - {fileID: 2100000, guid: a7cac2e4c3c81be4d8238b752257ac27, type: 2}
+    - {fileID: 2100000, guid: 7bf67f8e7bd456f4fbf55b6b702b4477, type: 2}
+    - {fileID: 2100000, guid: 147f8abbd087328489a9c44984e87ec4, type: 2}
+    - {fileID: 2100000, guid: 1525545b291ab3140bd7dbb2157f4340, type: 2}
+    - {fileID: 2100000, guid: c182624f2c2309b409b510518b8800ca, type: 2}
+    - {fileID: 2100000, guid: 0bbf4ab84cf42634fa71904d72661d9f, type: 2}
+    - {fileID: 2100000, guid: be5aaee83b438db488125fc8b0b59657, type: 2}
+    - {fileID: 2100000, guid: 99c67b060bbe43847b202430f89bc964, type: 2}
+    - {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    - {fileID: 2100000, guid: f1a1db267e4b9ba4899f4da3476c4670, type: 2}
+    - {fileID: 2100000, guid: 32c0e61828de09a4d8acff89639495a8, type: 2}
+    - {fileID: 2100000, guid: 2f5f9d7b7224979418e8d3cf57ec93e3, type: 2}
+    - {fileID: 2100000, guid: 21a0158f616e4904a8848060446f01e0, type: 2}
+    - {fileID: 2100000, guid: d4bbbb6763192384f86e6c9cc7613049, type: 2}
+    - {fileID: 2100000, guid: 8693e6875db3556438929e8c39585003, type: 2}
+    - {fileID: 2100000, guid: f1a1db267e4b9ba4899f4da3476c4670, type: 2}
+    - {fileID: 2100000, guid: f07a9f8eddfaa4b4999f9b082e78ed50, type: 2}
+    - {fileID: 2100000, guid: f00e2cb4dedccb54ab2174cff31149a6, type: 2}
+    - {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    - {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    - {fileID: 2100000, guid: 1d95fc1db3345614ab639eec700ea018, type: 2}
+    - {fileID: 2100000, guid: 7060e228675c3af45ba4fd6faf079392, type: 2}
+    - {fileID: 2100000, guid: 949fe19b68fe7f34ebf560c2e6d91393, type: 2}
+    - {fileID: 2100000, guid: a9449d046f8a5314ea67235201e78665, type: 2}
+    - {fileID: 2100000, guid: 7375d0dbbdbceac439874084dd725c7a, type: 2}
+    - {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    - {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    - {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    - {fileID: 2100000, guid: 436514a73bcce824ca0d3f53439e91f1, type: 2}
+    - {fileID: 2100000, guid: bd71db3b77849914eae86cb2736584be, type: 2}
+    - {fileID: 2100000, guid: 02fdeaad64af4634dad3dcdceab7fb5e, type: 2}
+    - {fileID: 2100000, guid: 5321dc4c47db7f84090b5203bddc456e, type: 2}
+    - {fileID: 2100000, guid: e8cc1a886c44bbf49ba66c9408746474, type: 2}
+    - {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    - {fileID: 2100000, guid: 53032320f6f77e24ca01ac2d822d4318, type: 2}
+    - {fileID: 2100000, guid: 72360580add7b914fb241ffef9952e4b, type: 2}
+    - {fileID: 2100000, guid: 08a39eae8ffcb5a44b9725ee3d47507a, type: 2}
+  doMultiMaterial: 0

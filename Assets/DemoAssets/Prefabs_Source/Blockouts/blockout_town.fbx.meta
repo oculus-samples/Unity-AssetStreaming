@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 2dd3864f1833da34888cce316f381460
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _ref
+    100002: blockout_fort
+    100004: blockout_fort_terrain
+    100006: blockout_town
+    100008: //RootNode
+    100010: Mesh
+    100012: temp
+    100014: terrain_01
+    100016: Texture Group (10)
+    100018: Texture Group
+    100020: blockout_town_terrain_01
+    100022: Mesh (2)
+    100024: canyon_rocks
+    100026: Texture Group (2)
+    100028: Mesh (3)
+    100030: Mesh (4)
+    100032: Texture Group (3)
+    100034: _temp
+    100036: _canyon_rocks
+    100038: blockout_town_01
+    100040: blockout_town_mountain
+    100042: Texture Group (4)
+    100044: Texture Group (5)
+    100046: water_stream
+    100048: Texture Group (6)
+    100050: Texture Group (7)
+    100052: blockout_town_stream
+    100054: bank
+    100056: blockout_town_terrain_02
+    100058: _bank
+    100060: blacksmith
+    100062: building_01
+    100064: building_02
+    100066: canyon_entrance
+    100068: church
+    100070: church_gates
+    100072: cliff_stairs
+    100074: distillery
+    100076: docks
+    100078: generalstore
+    100080: hotel
+    100082: jail
+    100084: mines_entrance
+    100086: saloon
+    100088: sheriff
+    100090: spanish_01
+    100092: spanish_02
+    100094: terrain_alpine_01
+    100096: terrain_alpine_02
+    100098: terrain_alpinepath_01
+    100100: terrain_bankpath_01
+    100102: terrain_canyon_01
+    100104: terrain_canyonpath_01
+    100106: terrain_cave_01
+    100108: terrain_cave_02
+    100110: terrain_cave_03
+    100112: terrain_cavefloor_01
+    100114: terrain_distillerypath_01
+    100116: terrain_fort_01
+    100118: terrain_fort_02
+    100120: terrain_fortpath_01
+    100122: terrain_graveyard_01
+    100124: terrain_homestead_01
+    100126: terrain_plateau_01
+    100128: terrain_river_01
+    100130: terrain_river_02
+    100132: terrain_rocks_01
+    100134: terrain_rocks_02
+    100136: terrain_rocks_03
+    100138: terrain_rocks_04
+    100140: terrain_saloonback_01
+    100142: terrain_shore_01
+    100144: terrain_streetpath_01
+    100146: terrain_tracks_01
+    100148: terrain_trainstation_01
+    100150: terrain_treepath_01
+    100152: terrain_vista_01
+    100154: terrain_wellpath_01
+    100156: Texture Group (8)
+    100158: town_stream
+    100160: town_terrain_01
+    100162: town_vista_02
+    100164: trainstation
+    100166: traintracks
+    100168: tree
+    100170: watertower
+    100172: well
+    100174: windmill
+    100176: terrain_vista_02
+    100178: terrain_area_01
+    100180: Texture Group (9)
+    400000: _ref
+    400002: blockout_fort
+    400004: blockout_fort_terrain
+    400006: //RootNode
+    400008: blockout_town
+    400010: Mesh
+    400012: temp
+    400014: terrain_01
+    400016: Texture Group (10)
+    400018: Texture Group
+    400020: blockout_town_terrain_01
+    400022: Mesh (2)
+    400024: canyon_rocks
+    400026: Texture Group (2)
+    400028: Mesh (3)
+    400030: Mesh (4)
+    400032: Texture Group (3)
+    400034: _temp
+    400036: _canyon_rocks
+    400038: blockout_town_01
+    400040: blockout_town_mountain
+    400042: Texture Group (4)
+    400044: Texture Group (5)
+    400046: water_stream
+    400048: Texture Group (6)
+    400050: Texture Group (7)
+    400052: blockout_town_stream
+    400054: bank
+    400056: blockout_town_terrain_02
+    400058: _bank
+    400060: blacksmith
+    400062: building_01
+    400064: building_02
+    400066: canyon_entrance
+    400068: church
+    400070: church_gates
+    400072: cliff_stairs
+    400074: distillery
+    400076: docks
+    400078: generalstore
+    400080: hotel
+    400082: jail
+    400084: mines_entrance
+    400086: saloon
+    400088: sheriff
+    400090: spanish_01
+    400092: spanish_02
+    400094: terrain_alpine_01
+    400096: terrain_alpine_02
+    400098: terrain_alpinepath_01
+    400100: terrain_bankpath_01
+    400102: terrain_canyon_01
+    400104: terrain_canyonpath_01
+    400106: terrain_cave_01
+    400108: terrain_cave_02
+    400110: terrain_cave_03
+    400112: terrain_cavefloor_01
+    400114: terrain_distillerypath_01
+    400116: terrain_fort_01
+    400118: terrain_fort_02
+    400120: terrain_fortpath_01
+    400122: terrain_graveyard_01
+    400124: terrain_homestead_01
+    400126: terrain_plateau_01
+    400128: terrain_river_01
+    400130: terrain_river_02
+    400132: terrain_rocks_01
+    400134: terrain_rocks_02
+    400136: terrain_rocks_03
+    400138: terrain_rocks_04
+    400140: terrain_saloonback_01
+    400142: terrain_shore_01
+    400144: terrain_streetpath_01
+    400146: terrain_tracks_01
+    400148: terrain_trainstation_01
+    400150: terrain_treepath_01
+    400152: terrain_vista_01
+    400154: terrain_wellpath_01
+    400156: Texture Group (8)
+    400158: town_stream
+    400160: town_terrain_01
+    400162: town_vista_02
+    400164: trainstation
+    400166: traintracks
+    400168: tree
+    400170: watertower
+    400172: well
+    400174: windmill
+    400176: terrain_vista_02
+    400178: terrain_area_01
+    400180: Texture Group (9)
+    2300000: _ref
+    2300002: blockout_fort
+    2300004: blockout_fort_terrain
+    2300006: blockout_town
+    2300008: Mesh
+    2300010: temp
+    2300012: terrain_01
+    2300014: blockout_town_terrain_01
+    2300016: Mesh (2)
+    2300018: canyon_rocks
+    2300020: Mesh (3)
+    2300022: _temp
+    2300024: _canyon_rocks
+    2300026: blockout_town_01
+    2300028: blockout_town_mountain
+    2300030: water_stream
+    2300032: blockout_town_stream
+    2300034: bank
+    2300036: blockout_town_terrain_02
+    2300038: _bank
+    2300040: blacksmith
+    2300042: building_01
+    2300044: building_02
+    2300046: canyon_entrance
+    2300048: church
+    2300050: church_gates
+    2300052: cliff_stairs
+    2300054: distillery
+    2300056: docks
+    2300058: generalstore
+    2300060: hotel
+    2300062: jail
+    2300064: mines_entrance
+    2300066: saloon
+    2300068: sheriff
+    2300070: spanish_01
+    2300072: spanish_02
+    2300074: terrain_alpine_01
+    2300076: terrain_alpine_02
+    2300078: terrain_alpinepath_01
+    2300080: terrain_bankpath_01
+    2300082: terrain_canyon_01
+    2300084: terrain_canyonpath_01
+    2300086: terrain_cave_01
+    2300088: terrain_cave_02
+    2300090: terrain_cave_03
+    2300092: terrain_cavefloor_01
+    2300094: terrain_distillerypath_01
+    2300096: terrain_fort_01
+    2300098: terrain_fort_02
+    2300100: terrain_fortpath_01
+    2300102: terrain_graveyard_01
+    2300104: terrain_homestead_01
+    2300106: terrain_plateau_01
+    2300108: terrain_river_01
+    2300110: terrain_river_02
+    2300112: terrain_rocks_01
+    2300114: terrain_rocks_02
+    2300116: terrain_rocks_03
+    2300118: terrain_rocks_04
+    2300120: terrain_saloonback_01
+    2300122: terrain_shore_01
+    2300124: terrain_streetpath_01
+    2300126: terrain_tracks_01
+    2300128: terrain_trainstation_01
+    2300130: terrain_treepath_01
+    2300132: terrain_vista_01
+    2300134: terrain_wellpath_01
+    2300136: town_stream
+    2300138: town_terrain_01
+    2300140: town_vista_02
+    2300142: trainstation
+    2300144: traintracks
+    2300146: tree
+    2300148: watertower
+    2300150: well
+    2300152: windmill
+    2300154: terrain_vista_02
+    2300156: terrain_area_01
+    3300000: _ref
+    3300002: blockout_fort
+    3300004: blockout_fort_terrain
+    3300006: blockout_town
+    3300008: Mesh
+    3300010: temp
+    3300012: terrain_01
+    3300014: blockout_town_terrain_01
+    3300016: Mesh (2)
+    3300018: canyon_rocks
+    3300020: Mesh (3)
+    3300022: _temp
+    3300024: _canyon_rocks
+    3300026: blockout_town_01
+    3300028: blockout_town_mountain
+    3300030: water_stream
+    3300032: blockout_town_stream
+    3300034: bank
+    3300036: blockout_town_terrain_02
+    3300038: _bank
+    3300040: blacksmith
+    3300042: building_01
+    3300044: building_02
+    3300046: canyon_entrance
+    3300048: church
+    3300050: church_gates
+    3300052: cliff_stairs
+    3300054: distillery
+    3300056: docks
+    3300058: generalstore
+    3300060: hotel
+    3300062: jail
+    3300064: mines_entrance
+    3300066: saloon
+    3300068: sheriff
+    3300070: spanish_01
+    3300072: spanish_02
+    3300074: terrain_alpine_01
+    3300076: terrain_alpine_02
+    3300078: terrain_alpinepath_01
+    3300080: terrain_bankpath_01
+    3300082: terrain_canyon_01
+    3300084: terrain_canyonpath_01
+    3300086: terrain_cave_01
+    3300088: terrain_cave_02
+    3300090: terrain_cave_03
+    3300092: terrain_cavefloor_01
+    3300094: terrain_distillerypath_01
+    3300096: terrain_fort_01
+    3300098: terrain_fort_02
+    3300100: terrain_fortpath_01
+    3300102: terrain_graveyard_01
+    3300104: terrain_homestead_01
+    3300106: terrain_plateau_01
+    3300108: terrain_river_01
+    3300110: terrain_river_02
+    3300112: terrain_rocks_01
+    3300114: terrain_rocks_02
+    3300116: terrain_rocks_03
+    3300118: terrain_rocks_04
+    3300120: terrain_saloonback_01
+    3300122: terrain_shore_01
+    3300124: terrain_streetpath_01
+    3300126: terrain_tracks_01
+    3300128: terrain_trainstation_01
+    3300130: terrain_treepath_01
+    3300132: terrain_vista_01
+    3300134: terrain_wellpath_01
+    3300136: town_stream
+    3300138: town_terrain_01
+    3300140: town_vista_02
+    3300142: trainstation
+    3300144: traintracks
+    3300146: tree
+    3300148: watertower
+    3300150: well
+    3300152: windmill
+    3300154: terrain_vista_02
+    3300156: terrain_area_01
+    4300000: blockout_fort
+    4300002: _ref
+    4300004: temp
+    4300006: blockout_fort_terrain
+    4300008: terrain_01
+    4300010: blockout_town
+    4300012: Mesh
+    4300014: blockout_town_terrain_01
+    4300016: Mesh (2)
+    4300018: canyon_rocks
+    4300020: Mesh (3)
+    4300022: _temp
+    4300024: blockout_town_01
+    4300026: _canyon_rocks
+    4300028: blockout_town_mountain
+    4300030: water_stream
+    4300032: blockout_town_stream
+    4300034: blockout_town_terrain_02
+    4300036: bank
+    4300038: _bank
+    4300040: town_terrain_01
+    4300042: town_stream
+    4300044: town_vista_02
+    4300046: terrain_vista_01
+    4300048: mines_entrance
+    4300050: watertower
+    4300052: canyon_entrance
+    4300054: spanish_02
+    4300056: spanish_01
+    4300058: blacksmith
+    4300060: hotel
+    4300062: saloon
+    4300064: jail
+    4300066: sheriff
+    4300068: generalstore
+    4300070: building_01
+    4300072: docks
+    4300074: cliff_stairs
+    4300076: well
+    4300078: trainstation
+    4300080: building_02
+    4300082: traintracks
+    4300084: distillery
+    4300086: windmill
+    4300088: tree
+    4300090: church_gates
+    4300092: church
+    4300094: terrain_canyon_01
+    4300096: terrain_cave_02
+    4300098: terrain_cave_01
+    4300100: terrain_alpine_02
+    4300102: terrain_alpine_01
+    4300104: terrain_river_02
+    4300106: terrain_river_01
+    4300108: terrain_fort_02
+    4300110: terrain_fort_01
+    4300112: terrain_rocks_02
+    4300114: terrain_rocks_01
+    4300116: terrain_cave_03
+    4300118: terrain_rocks_04
+    4300120: terrain_rocks_03
+    4300122: terrain_tracks_01
+    4300124: terrain_homestead_01
+    4300126: terrain_alpinepath_01
+    4300128: terrain_cavefloor_01
+    4300130: terrain_shore_01
+    4300132: terrain_plateau_01
+    4300134: terrain_treepath_01
+    4300136: terrain_fortpath_01
+    4300138: terrain_canyonpath_01
+    4300140: terrain_saloonback_01
+    4300142: terrain_graveyard_01
+    4300144: terrain_trainstation_01
+    4300146: terrain_streetpath_01
+    4300148: terrain_bankpath_01
+    4300150: terrain_wellpath_01
+    4300152: terrain_distillerypath_01
+    4300154: terrain_vista_02
+    4300156: terrain_area_01
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["building_01"],"padding":[6]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

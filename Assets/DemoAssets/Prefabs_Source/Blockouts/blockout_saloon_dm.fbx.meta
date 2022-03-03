@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: d31b9adef22778143b6213bf8586e070
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh_MeshPart0
+    100004: Mesh_MeshPart1
+    100006: saloon_dm_blockout
+    100008: saloon_mobile
+    100010: saloon_pc
+    100012: saloon_pc_MeshPart0
+    100014: saloon_pc_MeshPart1
+    100016: Texture Group
+    100018: blockout_saloon_dm
+    100020: level
+    100022: level_MeshPart0
+    100024: level_MeshPart1
+    100026: Texture Group (2)
+    100028: Mesh
+    100030: blockout
+    100032: exterior_01
+    100034: Mesh (2)
+    100036: Mesh (3)
+    100038: terrain_01
+    100040: level_old
+    100042: Mesh (4)
+    100044: Texture Group (3)
+    100046: blockout_noshadow
+    100048: collision
+    100050: collision_floors
+    100052: Texture Group (4)
+    100054: window_pane
+    100056: window_pane_glass
+    100058: saloon_window_glass
+    100060: saloon_window
+    100062: collision_bullets
+    100064: collision_ramps
+    100066: collision_walls
+    400000: //RootNode
+    400002: Mesh_MeshPart0
+    400004: Mesh_MeshPart1
+    400006: saloon_dm_blockout
+    400008: saloon_mobile
+    400010: saloon_pc
+    400012: saloon_pc_MeshPart0
+    400014: saloon_pc_MeshPart1
+    400016: Texture Group
+    400018: blockout_saloon_dm
+    400020: level
+    400022: level_MeshPart0
+    400024: level_MeshPart1
+    400026: Texture Group (2)
+    400028: Mesh
+    400030: blockout
+    400032: exterior_01
+    400034: Mesh (2)
+    400036: Mesh (3)
+    400038: terrain_01
+    400040: level_old
+    400042: Mesh (4)
+    400044: Texture Group (3)
+    400046: blockout_noshadow
+    400048: collision
+    400050: collision_floors
+    400052: Texture Group (4)
+    400054: window_pane
+    400056: window_pane_glass
+    400058: saloon_window_glass
+    400060: saloon_window
+    400062: collision_bullets
+    400064: collision_ramps
+    400066: collision_walls
+    2300000: Mesh_MeshPart0
+    2300002: Mesh_MeshPart1
+    2300004: saloon_mobile
+    2300006: saloon_pc_MeshPart0
+    2300008: saloon_pc_MeshPart1
+    2300010: blockout_saloon_dm
+    2300012: level_MeshPart0
+    2300014: level_MeshPart1
+    2300016: level
+    2300018: Mesh
+    2300020: blockout
+    2300022: exterior_01
+    2300024: Mesh (2)
+    2300026: Mesh (3)
+    2300028: terrain_01
+    2300030: level_old
+    2300032: Mesh (4)
+    2300034: blockout_noshadow
+    2300036: collision
+    2300038: collision_floors
+    2300040: window_pane
+    2300042: window_pane_glass
+    2300044: saloon_window_glass
+    2300046: saloon_window
+    2300048: collision_bullets
+    2300050: collision_ramps
+    2300052: collision_walls
+    3300000: Mesh_MeshPart0
+    3300002: Mesh_MeshPart1
+    3300004: saloon_mobile
+    3300006: saloon_pc_MeshPart0
+    3300008: saloon_pc_MeshPart1
+    3300010: blockout_saloon_dm
+    3300012: level_MeshPart0
+    3300014: level_MeshPart1
+    3300016: level
+    3300018: Mesh
+    3300020: blockout
+    3300022: exterior_01
+    3300024: Mesh (2)
+    3300026: Mesh (3)
+    3300028: terrain_01
+    3300030: level_old
+    3300032: Mesh (4)
+    3300034: blockout_noshadow
+    3300036: collision
+    3300038: collision_floors
+    3300040: window_pane
+    3300042: window_pane_glass
+    3300044: saloon_window_glass
+    3300046: saloon_window
+    3300048: collision_bullets
+    3300050: collision_ramps
+    3300052: collision_walls
+    4300000: Mesh_MeshPart0
+    4300002: Mesh_MeshPart1
+    4300004: saloon_pc_MeshPart0
+    4300006: saloon_pc_MeshPart1
+    4300008: saloon_mobile
+    4300010: level_MeshPart0
+    4300012: level_MeshPart1
+    4300014: blockout_saloon_dm
+    4300016: level
+    4300018: Mesh
+    4300020: blockout
+    4300022: exterior_01
+    4300024: Mesh (2)
+    4300026: terrain_01
+    4300028: Mesh (3)
+    4300030: level_old
+    4300032: Mesh (4)
+    4300034: blockout_noshadow
+    4300036: collision
+    4300038: collision_floors
+    4300040: window_pane
+    4300042: window_pane_glass
+    4300044: saloon_window_glass
+    4300046: saloon_window
+    4300048: collision_bullets
+    4300050: collision_walls
+    4300052: collision_ramps
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

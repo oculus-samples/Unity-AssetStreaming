@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d30fe71494b86e7479c94d651c05bea3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: temple_stone_01
+    100004: temple_stone_02
+    100006: temple_stone_03
+    100008: temple_stone_04
+    100010: temple_stone_05
+    100012: temple_stone_06
+    100014: temple_stone_07
+    100016: temple_stone_08
+    100018: temple_trim_01
+    100020: temple_trim_02
+    100022: Texture Group
+    100024: terrain_01
+    100026: gate_01
+    100028: Camera
+    100030: Directional Light
+    100032: gate_01_frame
+    100034: _pieces
+    100036: door_entrance
+    100038: Mesh
+    100040: temple_blockout
+    100042: Texture Group (2)
+    100044: Texture Group (3)
+    400000: //RootNode
+    400002: temple_stone_01
+    400004: temple_stone_02
+    400006: temple_stone_03
+    400008: temple_stone_04
+    400010: temple_stone_05
+    400012: temple_stone_06
+    400014: temple_stone_07
+    400016: temple_stone_08
+    400018: temple_trim_01
+    400020: temple_trim_02
+    400022: Texture Group
+    400024: terrain_01
+    400026: gate_01
+    400028: Camera
+    400030: Directional Light
+    400032: gate_01_frame
+    400034: _pieces
+    400036: door_entrance
+    400038: Mesh
+    400040: temple_blockout
+    400042: Texture Group (2)
+    400044: Texture Group (3)
+    2000000: Camera
+    2300000: temple_stone_01
+    2300002: temple_stone_02
+    2300004: temple_stone_03
+    2300006: temple_stone_04
+    2300008: temple_stone_05
+    2300010: temple_stone_06
+    2300012: temple_stone_07
+    2300014: temple_stone_08
+    2300016: temple_trim_01
+    2300018: temple_trim_02
+    2300020: terrain_01
+    2300022: gate_01
+    2300024: gate_01_frame
+    2300026: _pieces
+    2300028: door_entrance
+    2300030: Mesh
+    2300032: temple_blockout
+    3300000: temple_stone_01
+    3300002: temple_stone_02
+    3300004: temple_stone_03
+    3300006: temple_stone_04
+    3300008: temple_stone_05
+    3300010: temple_stone_06
+    3300012: temple_stone_07
+    3300014: temple_stone_08
+    3300016: temple_trim_01
+    3300018: temple_trim_02
+    3300020: terrain_01
+    3300022: gate_01
+    3300024: gate_01_frame
+    3300026: _pieces
+    3300028: door_entrance
+    3300030: Mesh
+    3300032: temple_blockout
+    4300000: temple_stone_01
+    4300002: temple_trim_01
+    4300004: temple_trim_02
+    4300006: temple_stone_02
+    4300008: temple_stone_03
+    4300010: temple_stone_04
+    4300012: temple_stone_05
+    4300014: temple_stone_06
+    4300016: temple_stone_07
+    4300018: temple_stone_08
+    4300020: terrain_01
+    4300022: gate_01
+    4300024: gate_01_frame
+    4300026: Mesh
+    4300028: temple_blockout
+    4300030: _pieces
+    4300032: door_entrance
+    9500000: //RootNode
+    10800000: Directional Light
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 100
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

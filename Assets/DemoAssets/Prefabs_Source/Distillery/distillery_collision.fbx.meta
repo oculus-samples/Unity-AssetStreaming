@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 11b0f9add7643024b962b0be9d06dad4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: geo
+    100004: navmesh
+    100006: player_collision
+    100008: Texture Group
+    100010: player_collision_props
+    100012: Texture Group (2)
+    100014: world_collision_metal
+    100016: world_collision_stone
+    100018: world_collision_wood
+    100020: player_collision_2
+    100022: player_collision_props_2
+    100024: Texture Group (3)
+    100026: Texture Group (4)
+    100028: Mesh
+    100030: Texture Group (5)
+    100032: occlusion_mesh
+    100034: player_collision_edges
+    100036: Texture Group (6)
+    100038: Texture Group (7)
+    100040: Texture Group (8)
+    100042: Texture Group (9)
+    400000: //RootNode
+    400002: geo
+    400004: navmesh
+    400006: player_collision
+    400008: Texture Group
+    400010: player_collision_props
+    400012: Texture Group (2)
+    400014: world_collision_metal
+    400016: world_collision_stone
+    400018: world_collision_wood
+    400020: player_collision_2
+    400022: player_collision_props_2
+    400024: Texture Group (3)
+    400026: Texture Group (4)
+    400028: Mesh
+    400030: Texture Group (5)
+    400032: occlusion_mesh
+    400034: player_collision_edges
+    400036: Texture Group (6)
+    400038: Texture Group (7)
+    400040: Texture Group (8)
+    400042: Texture Group (9)
+    2300000: navmesh
+    2300002: player_collision
+    2300004: player_collision_props
+    2300006: world_collision_metal
+    2300008: world_collision_stone
+    2300010: world_collision_wood
+    2300012: player_collision_2
+    2300014: player_collision_props_2
+    2300016: Mesh
+    2300018: occlusion_mesh
+    2300020: player_collision_edges
+    3300000: navmesh
+    3300002: player_collision
+    3300004: player_collision_props
+    3300006: world_collision_metal
+    3300008: world_collision_stone
+    3300010: world_collision_wood
+    3300012: player_collision_2
+    3300014: player_collision_props_2
+    3300016: Mesh
+    3300018: occlusion_mesh
+    3300020: player_collision_edges
+    4300000: player_collision
+    4300002: navmesh
+    4300004: player_collision_props
+    4300006: world_collision_stone
+    4300008: world_collision_metal
+    4300010: world_collision_wood
+    4300012: player_collision_2
+    4300014: player_collision_props_2
+    4300016: Mesh
+    4300018: player_collision_edges
+    4300020: occlusion_mesh
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

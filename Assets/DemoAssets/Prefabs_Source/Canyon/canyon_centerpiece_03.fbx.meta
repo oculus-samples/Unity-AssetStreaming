@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5e723148e2d6a8e47812f97b12f2d9ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: canyon_centerpiece_01
+    100002: canyon_centerpiece_02
+    100004: //RootNode
+    100006: canyon_centerpiece_03
+    100008: canyon_centerpiece_04
+    100010: canyon_centerpiece_05
+    100012: canyon_centerpiece_06
+    100014: canyon_centerpiece_07
+    100016: canyon_centerpiece_08
+    100018: canyon_centerpiece_09
+    100020: canyon_centerpiece_10
+    100022: canyon_centerpiece_11
+    100024: canyon_centerpiece_centerring
+    400000: canyon_centerpiece_01
+    400002: canyon_centerpiece_02
+    400004: //RootNode
+    400006: canyon_centerpiece_03
+    400008: canyon_centerpiece_04
+    400010: canyon_centerpiece_05
+    400012: canyon_centerpiece_06
+    400014: canyon_centerpiece_07
+    400016: canyon_centerpiece_08
+    400018: canyon_centerpiece_09
+    400020: canyon_centerpiece_10
+    400022: canyon_centerpiece_11
+    400024: canyon_centerpiece_centerring
+    2300000: canyon_centerpiece_01
+    2300002: canyon_centerpiece_02
+    2300004: canyon_centerpiece_03
+    2300006: canyon_centerpiece_04
+    2300008: canyon_centerpiece_05
+    2300010: canyon_centerpiece_06
+    2300012: canyon_centerpiece_07
+    2300014: canyon_centerpiece_08
+    2300016: canyon_centerpiece_09
+    2300018: canyon_centerpiece_10
+    2300020: canyon_centerpiece_11
+    2300022: canyon_centerpiece_centerring
+    3300000: canyon_centerpiece_01
+    3300002: canyon_centerpiece_02
+    3300004: canyon_centerpiece_03
+    3300006: canyon_centerpiece_04
+    3300008: canyon_centerpiece_05
+    3300010: canyon_centerpiece_06
+    3300012: canyon_centerpiece_07
+    3300014: canyon_centerpiece_08
+    3300016: canyon_centerpiece_09
+    3300018: canyon_centerpiece_10
+    3300020: canyon_centerpiece_11
+    3300022: canyon_centerpiece_centerring
+    4300000: canyon_centerpiece_centerring
+    4300002: canyon_centerpiece_01
+    4300004: canyon_centerpiece_11
+    4300006: canyon_centerpiece_08
+    4300008: canyon_centerpiece_09
+    4300010: canyon_centerpiece_07
+    4300012: canyon_centerpiece_06
+    4300014: canyon_centerpiece_10
+    4300016: canyon_centerpiece_04
+    4300018: canyon_centerpiece_03
+    4300020: canyon_centerpiece_02
+    4300022: canyon_centerpiece_05
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["canyon_centerpiece_01","canyon_centerpiece_02","canyon_centerpiece_03","canyon_centerpiece_04","canyon_centerpiece_05","canyon_centerpiece_06","canyon_centerpiece_07","canyon_centerpiece_08","canyon_centerpiece_09","canyon_centerpiece_10","canyon_centerpiece_11","canyon_centerpiece_centerring"],"padding":[45,79,94,73,79,86,105,89,114,91,110,145]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

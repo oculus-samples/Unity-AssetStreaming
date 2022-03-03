@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 4933f266fcdcde440a436e1e2308be2a
+timeCreated: 1534446390
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: depot_watertank_014
+    100004: depot_watertank_018
+    100006: depot_watertank_023
+    100008: depot_watertank_024
+    100010: depot_watertank_026
+    100012: depot_watertank_027
+    100014: depot_watertank_028
+    100016: depot_watertank_029
+    100018: depot_watertank_030
+    100020: depot_watertank_032
+    100022: depot_watertank_033
+    100024: depot_watertank_036
+    100026: depot_watertank_037
+    100028: depot_watertank_043
+    100030: depot_watertank_047
+    100032: depot_watertank_06zzz
+    100034: depot_watertank_07zzz
+    100036: depot_watertank_09
+    100038: polySurface6612
+    100040: zz
+    100042: depot_watertank_048
+    100044: depot_watertank_049
+    100046: depot_watertank_069
+    100048: depot_watertank_071
+    100050: depot_watertank_072
+    400000: //RootNode
+    400002: depot_watertank_014
+    400004: depot_watertank_018
+    400006: depot_watertank_023
+    400008: depot_watertank_024
+    400010: depot_watertank_026
+    400012: depot_watertank_027
+    400014: depot_watertank_028
+    400016: depot_watertank_029
+    400018: depot_watertank_030
+    400020: depot_watertank_032
+    400022: depot_watertank_033
+    400024: depot_watertank_036
+    400026: depot_watertank_037
+    400028: depot_watertank_043
+    400030: depot_watertank_047
+    400032: depot_watertank_06zzz
+    400034: depot_watertank_07zzz
+    400036: depot_watertank_09
+    400038: polySurface6612
+    400040: zz
+    400042: depot_watertank_048
+    400044: depot_watertank_049
+    400046: depot_watertank_069
+    400048: depot_watertank_071
+    400050: depot_watertank_072
+    2300000: depot_watertank_014
+    2300002: depot_watertank_018
+    2300004: depot_watertank_023
+    2300006: depot_watertank_024
+    2300008: depot_watertank_026
+    2300010: depot_watertank_027
+    2300012: depot_watertank_028
+    2300014: depot_watertank_029
+    2300016: depot_watertank_030
+    2300018: depot_watertank_032
+    2300020: depot_watertank_033
+    2300022: depot_watertank_036
+    2300024: depot_watertank_037
+    2300026: depot_watertank_043
+    2300028: depot_watertank_047
+    2300030: depot_watertank_06zzz
+    2300032: depot_watertank_07zzz
+    2300034: depot_watertank_09
+    2300036: polySurface6612
+    2300038: zz
+    2300040: depot_watertank_048
+    2300042: depot_watertank_049
+    2300044: depot_watertank_069
+    2300046: depot_watertank_071
+    2300048: depot_watertank_072
+    2300050: //RootNode
+    3300000: depot_watertank_014
+    3300002: depot_watertank_018
+    3300004: depot_watertank_023
+    3300006: depot_watertank_024
+    3300008: depot_watertank_026
+    3300010: depot_watertank_027
+    3300012: depot_watertank_028
+    3300014: depot_watertank_029
+    3300016: depot_watertank_030
+    3300018: depot_watertank_032
+    3300020: depot_watertank_033
+    3300022: depot_watertank_036
+    3300024: depot_watertank_037
+    3300026: depot_watertank_043
+    3300028: depot_watertank_047
+    3300030: depot_watertank_06zzz
+    3300032: depot_watertank_07zzz
+    3300034: depot_watertank_09
+    3300036: polySurface6612
+    3300038: zz
+    3300040: depot_watertank_048
+    3300042: depot_watertank_049
+    3300044: depot_watertank_069
+    3300046: depot_watertank_071
+    3300048: depot_watertank_072
+    3300050: //RootNode
+    4300000: depot_watertank_036
+    4300002: depot_watertank_037
+    4300004: polySurface6612
+    4300006: depot_watertank_014
+    4300008: depot_watertank_09
+    4300010: depot_watertank_07zzz
+    4300012: depot_watertank_06zzz
+    4300014: depot_watertank_030
+    4300016: depot_watertank_024
+    4300018: depot_watertank_026
+    4300020: depot_watertank_023
+    4300022: depot_watertank_028
+    4300024: depot_watertank_029
+    4300026: depot_watertank_027
+    4300028: depot_watertank_043
+    4300030: depot_watertank_018
+    4300032: depot_watertank_033
+    4300034: depot_watertank_032
+    4300036: depot_watertank_047
+    4300038: zz
+    4300040: depot_watertank_048
+    4300042: depot_watertank_049
+    4300044: depot_watertank_069
+    4300046: depot_watertank_072
+    4300048: depot_watertank_071
+    4300050: depot_building_main_048
+    4300052: depot_plant_pipes_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

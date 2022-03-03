@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 19171f04a6a56d845b80623abacf3ba5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beam_01_a
+    100002: beam_01_b
+    100004: //RootNode
+    100006: fortwall_01_a
+    100008: fortwall_01_b
+    100010: fortwall_01_c
+    100012: fortwall_02_a
+    100014: fortwall_02_b
+    100016: fortwall_02_c
+    100018: fortwall_03_a
+    100020: fortwall_03_b
+    100022: gate_door_01
+    100024: gate_doorway_01
+    100026: gate_doorway_02
+    100028: stakes_large_01
+    100030: stakes_large_02
+    100032: stakes_large_03
+    100034: stakes_large_single_01
+    100036: stakes_small_01
+    100038: tower_01
+    100040: watermill
+    100042: watermill_door_01
+    100044: Texture Group
+    100046: stakes_fence_01
+    100048: bridge
+    100050: building
+    100052: Mesh
+    100054: bridge_door_01
+    100056: cellar_entrance
+    100058: board_01_a
+    100060: stairs_01
+    100062: bridge_trench
+    100064: fort_floor_01_a
+    100066: tower_02
+    100068: building_01
+    100070: building_02
+    100072: building_03
+    100074: tower_large_01
+    100076: Texture Group (2)
+    100078: Mesh (2)
+    100080: Mesh (3)
+    100082: stakes_large_single_02
+    100084: beam_support_01_a
+    100086: stakes_wall_01
+    100088: beam_support_01_b
+    100090: stakes_wall_02
+    100092: beam_support_01_c
+    400000: beam_01_a
+    400002: beam_01_b
+    400004: //RootNode
+    400006: fortwall_01_a
+    400008: fortwall_01_b
+    400010: fortwall_01_c
+    400012: fortwall_02_a
+    400014: fortwall_02_b
+    400016: fortwall_02_c
+    400018: fortwall_03_a
+    400020: fortwall_03_b
+    400022: gate_door_01
+    400024: gate_doorway_01
+    400026: gate_doorway_02
+    400028: stakes_large_01
+    400030: stakes_large_02
+    400032: stakes_large_03
+    400034: stakes_large_single_01
+    400036: stakes_small_01
+    400038: tower_01
+    400040: watermill
+    400042: watermill_door_01
+    400044: Texture Group
+    400046: stakes_fence_01
+    400048: bridge
+    400050: building
+    400052: Mesh
+    400054: bridge_door_01
+    400056: cellar_entrance
+    400058: board_01_a
+    400060: stairs_01
+    400062: bridge_trench
+    400064: fort_floor_01_a
+    400066: tower_02
+    400068: building_01
+    400070: building_02
+    400072: building_03
+    400074: tower_large_01
+    400076: Texture Group (2)
+    400078: Mesh (2)
+    400080: Mesh (3)
+    400082: stakes_large_single_02
+    400084: beam_support_01_a
+    400086: stakes_wall_01
+    400088: beam_support_01_b
+    400090: stakes_wall_02
+    400092: beam_support_01_c
+    2300000: beam_01_a
+    2300002: beam_01_b
+    2300004: fortwall_01_a
+    2300006: fortwall_01_b
+    2300008: fortwall_01_c
+    2300010: fortwall_02_a
+    2300012: fortwall_02_b
+    2300014: fortwall_02_c
+    2300016: fortwall_03_a
+    2300018: fortwall_03_b
+    2300020: gate_door_01
+    2300022: gate_doorway_01
+    2300024: gate_doorway_02
+    2300026: stakes_large_01
+    2300028: stakes_large_02
+    2300030: stakes_large_03
+    2300032: stakes_large_single_01
+    2300034: stakes_small_01
+    2300036: tower_01
+    2300038: watermill
+    2300040: watermill_door_01
+    2300042: stakes_fence_01
+    2300044: bridge
+    2300046: building
+    2300048: Mesh
+    2300050: bridge_door_01
+    2300052: cellar_entrance
+    2300054: board_01_a
+    2300056: stairs_01
+    2300058: bridge_trench
+    2300060: fort_floor_01_a
+    2300062: tower_02
+    2300064: building_01
+    2300066: building_02
+    2300068: building_03
+    2300070: tower_large_01
+    2300072: Mesh (2)
+    2300074: Mesh (3)
+    2300076: stakes_large_single_02
+    2300078: beam_support_01_a
+    2300080: stakes_wall_01
+    2300082: beam_support_01_b
+    2300084: stakes_wall_02
+    2300086: beam_support_01_c
+    3300000: beam_01_a
+    3300002: beam_01_b
+    3300004: fortwall_01_a
+    3300006: fortwall_01_b
+    3300008: fortwall_01_c
+    3300010: fortwall_02_a
+    3300012: fortwall_02_b
+    3300014: fortwall_02_c
+    3300016: fortwall_03_a
+    3300018: fortwall_03_b
+    3300020: gate_door_01
+    3300022: gate_doorway_01
+    3300024: gate_doorway_02
+    3300026: stakes_large_01
+    3300028: stakes_large_02
+    3300030: stakes_large_03
+    3300032: stakes_large_single_01
+    3300034: stakes_small_01
+    3300036: tower_01
+    3300038: watermill
+    3300040: watermill_door_01
+    3300042: stakes_fence_01
+    3300044: bridge
+    3300046: building
+    3300048: Mesh
+    3300050: bridge_door_01
+    3300052: cellar_entrance
+    3300054: board_01_a
+    3300056: stairs_01
+    3300058: bridge_trench
+    3300060: fort_floor_01_a
+    3300062: tower_02
+    3300064: building_01
+    3300066: building_02
+    3300068: building_03
+    3300070: tower_large_01
+    3300072: Mesh (2)
+    3300074: Mesh (3)
+    3300076: stakes_large_single_02
+    3300078: beam_support_01_a
+    3300080: stakes_wall_01
+    3300082: beam_support_01_b
+    3300084: stakes_wall_02
+    3300086: beam_support_01_c
+    4300000: watermill
+    4300002: stakes_large_single_01
+    4300004: stakes_large_01
+    4300006: stakes_large_02
+    4300008: stakes_large_03
+    4300010: gate_doorway_01
+    4300012: tower_01
+    4300014: stakes_small_01
+    4300016: gate_doorway_02
+    4300018: beam_01_b
+    4300020: gate_door_01
+    4300022: beam_01_a
+    4300024: fortwall_03_b
+    4300026: fortwall_03_a
+    4300028: fortwall_02_a
+    4300030: fortwall_01_a
+    4300032: fortwall_01_b
+    4300034: fortwall_01_c
+    4300036: fortwall_02_b
+    4300038: fortwall_02_c
+    4300040: watermill_door_01
+    4300042: stakes_fence_01
+    4300044: bridge
+    4300046: building
+    4300048: Mesh
+    4300050: bridge_door_01
+    4300052: cellar_entrance
+    4300054: board_01_a
+    4300056: stairs_01
+    4300058: bridge_trench
+    4300060: fort_floor_01_a
+    4300062: tower_02
+    4300064: building_01
+    4300066: building_02
+    4300068: building_03
+    4300070: tower_large_01
+    4300072: Mesh (2)
+    4300074: Mesh (3)
+    4300076: stakes_large_single_02
+    4300078: beam_support_01_a
+    4300080: stakes_wall_01
+    4300082: beam_support_01_b
+    4300084: stakes_wall_02
+    4300086: beam_support_01_c
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

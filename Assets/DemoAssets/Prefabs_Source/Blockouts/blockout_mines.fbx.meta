@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 36fec07209765814a99322fd94bc58eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _topdown
+    100002: //RootNode
+    100004: blockout_mines
+    100006: Texture Group
+    100008: _delete
+    100010: blockout_mines (2)
+    100012: blockout_mines_full
+    100014: blockout_mines_collision
+    100016: mines_terrain_01
+    100018: Texture Group (2)
+    100020: Mesh
+    100022: Texture Group (3)
+    100024: mines_shadowhull
+    100026: Texture Group (4)
+    400000: _topdown
+    400002: //RootNode
+    400004: blockout_mines
+    400006: Texture Group
+    400008: _delete
+    400010: blockout_mines (2)
+    400012: blockout_mines_full
+    400014: blockout_mines_collision
+    400016: mines_terrain_01
+    400018: Texture Group (2)
+    400020: Mesh
+    400022: Texture Group (3)
+    400024: mines_shadowhull
+    400026: Texture Group (4)
+    2300000: _topdown
+    2300002: blockout_mines
+    2300004: _delete
+    2300006: blockout_mines (2)
+    2300008: blockout_mines_full
+    2300010: blockout_mines_collision
+    2300012: mines_terrain_01
+    2300014: Mesh
+    2300016: mines_shadowhull
+    3300000: _topdown
+    3300002: blockout_mines
+    3300004: _delete
+    3300006: blockout_mines (2)
+    3300008: blockout_mines_full
+    3300010: blockout_mines_collision
+    3300012: mines_terrain_01
+    3300014: Mesh
+    3300016: mines_shadowhull
+    4300000: blockout_mines
+    4300002: _topdown
+    4300004: _delete
+    4300006: blockout_mines (2)
+    4300008: blockout_mines_full
+    4300010: blockout_mines_collision
+    4300012: mines_terrain_01
+    4300014: Mesh
+    4300016: mines_shadowhull
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

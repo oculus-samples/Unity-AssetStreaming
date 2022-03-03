@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: d90ee1e693f8ada4f9db7326439860aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh
+    100004: snow_test
+    100006: Texture Group
+    100008: Texture Group (2)
+    100010: trench_wall_01_a
+    100012: Texture Group (3)
+    100014: trench_brace_01_a
+    100016: trench_floor_01_a
+    100018: trench_floor_02_a
+    100020: bridge
+    100022: river
+    100024: temp
+    100026: temp_MeshPart0
+    100028: temp_MeshPart1
+    100030: Texture Group (4)
+    100032: terrain_01_a
+    100034: wood_floor_01_a
+    100036: Texture Group (5)
+    100038: wood_floor_02_a
+    100040: mine_wall_01_a
+    100042: Mesh (2)
+    100044: Texture Group (6)
+    100046: scene
+    100048: scene_MeshPart0
+    100050: scene_MeshPart1
+    100052: scene_MeshPart2
+    100054: scene_MeshPart3
+    100056: Texture Group (7)
+    100058: scene_MeshPart4
+    100060: terrain_02_a
+    100062: terrain_01_b
+    100064: terrain_02_b
+    100066: terrain_01_a_collider
+    100068: Texture Group (8)
+    100070: spawns
+    100072: terrain_02_a_collider
+    100074: rocks_cover_a_collider
+    100076: rocks_cover_b_collider
+    100078: rocks_cover_c_collider
+    100080: blendtest_01
+    100082: river_01_a
+    100084: river_01_b
+    100086: Mesh (3)
+    100088: rocks
+    100090: rocks_optimized
+    100092: Texture Group (9)
+    100094: _multipleCameraPositions
+    100096: spawn_test
+    400000: //RootNode
+    400002: Mesh
+    400004: snow_test
+    400006: Texture Group
+    400008: Texture Group (2)
+    400010: trench_wall_01_a
+    400012: Texture Group (3)
+    400014: trench_brace_01_a
+    400016: trench_floor_01_a
+    400018: trench_floor_02_a
+    400020: bridge
+    400022: river
+    400024: temp
+    400026: temp_MeshPart0
+    400028: temp_MeshPart1
+    400030: Texture Group (4)
+    400032: terrain_01_a
+    400034: wood_floor_01_a
+    400036: Texture Group (5)
+    400038: wood_floor_02_a
+    400040: mine_wall_01_a
+    400042: Mesh (2)
+    400044: Texture Group (6)
+    400046: scene
+    400048: scene_MeshPart0
+    400050: scene_MeshPart1
+    400052: scene_MeshPart2
+    400054: scene_MeshPart3
+    400056: Texture Group (7)
+    400058: scene_MeshPart4
+    400060: terrain_02_a
+    400062: terrain_01_b
+    400064: terrain_02_b
+    400066: terrain_01_a_collider
+    400068: Texture Group (8)
+    400070: spawns
+    400072: terrain_02_a_collider
+    400074: rocks_cover_a_collider
+    400076: rocks_cover_b_collider
+    400078: rocks_cover_c_collider
+    400080: blendtest_01
+    400082: river_01_a
+    400084: river_01_b
+    400086: Mesh (3)
+    400088: rocks
+    400090: rocks_optimized
+    400092: Texture Group (9)
+    400094: _multipleCameraPositions
+    400096: spawn_test
+    2300000: Mesh
+    2300002: snow_test
+    2300004: trench_wall_01_a
+    2300006: trench_brace_01_a
+    2300008: trench_floor_01_a
+    2300010: trench_floor_02_a
+    2300012: bridge
+    2300014: river
+    2300016: temp_MeshPart0
+    2300018: temp_MeshPart1
+    2300020: terrain_01_a
+    2300022: wood_floor_01_a
+    2300024: wood_floor_02_a
+    2300026: mine_wall_01_a
+    2300028: Mesh (2)
+    2300030: scene_MeshPart0
+    2300032: scene_MeshPart1
+    2300034: scene_MeshPart2
+    2300036: scene_MeshPart3
+    2300038: temp
+    2300040: scene_MeshPart4
+    2300042: terrain_02_a
+    2300044: terrain_01_b
+    2300046: terrain_02_b
+    2300048: terrain_01_a_collider
+    2300050: spawns
+    2300052: terrain_02_a_collider
+    2300054: rocks_cover_a_collider
+    2300056: rocks_cover_b_collider
+    2300058: rocks_cover_c_collider
+    2300060: blendtest_01
+    2300062: river_01_a
+    2300064: river_01_b
+    2300066: rocks
+    2300068: rocks_optimized
+    2300070: _multipleCameraPositions
+    3300000: Mesh
+    3300002: snow_test
+    3300004: trench_wall_01_a
+    3300006: trench_brace_01_a
+    3300008: trench_floor_01_a
+    3300010: trench_floor_02_a
+    3300012: bridge
+    3300014: river
+    3300016: temp_MeshPart0
+    3300018: temp_MeshPart1
+    3300020: terrain_01_a
+    3300022: wood_floor_01_a
+    3300024: wood_floor_02_a
+    3300026: mine_wall_01_a
+    3300028: Mesh (2)
+    3300030: scene_MeshPart0
+    3300032: scene_MeshPart1
+    3300034: scene_MeshPart2
+    3300036: scene_MeshPart3
+    3300038: temp
+    3300040: scene_MeshPart4
+    3300042: terrain_02_a
+    3300044: terrain_01_b
+    3300046: terrain_02_b
+    3300048: terrain_01_a_collider
+    3300050: spawns
+    3300052: terrain_02_a_collider
+    3300054: rocks_cover_a_collider
+    3300056: rocks_cover_b_collider
+    3300058: rocks_cover_c_collider
+    3300060: blendtest_01
+    3300062: river_01_a
+    3300064: river_01_b
+    3300066: rocks
+    3300068: rocks_optimized
+    3300070: _multipleCameraPositions
+    4300000: Mesh
+    4300002: snow_test
+    4300004: trench_wall_01_a
+    4300006: trench_brace_01_a
+    4300008: trench_floor_01_a
+    4300010: trench_floor_02_a
+    4300012: temp_MeshPart0
+    4300014: temp_MeshPart1
+    4300016: river
+    4300018: bridge
+    4300020: terrain_01_a
+    4300022: wood_floor_01_a
+    4300024: wood_floor_02_a
+    4300026: mine_wall_01_a
+    4300028: Mesh (2)
+    4300030: scene_MeshPart0
+    4300032: scene_MeshPart1
+    4300034: scene_MeshPart2
+    4300036: scene_MeshPart3
+    4300038: temp
+    4300040: scene_MeshPart4
+    4300042: terrain_02_a
+    4300044: terrain_01_b
+    4300046: terrain_02_b
+    4300048: terrain_01_a_collider
+    4300050: spawns
+    4300052: terrain_02_a_collider
+    4300054: rocks_cover_c_collider
+    4300056: rocks_cover_b_collider
+    4300058: rocks_cover_a_collider
+    4300060: blendtest_01
+    4300062: river_01_a
+    4300064: river_01_b
+    4300066: rocks
+    4300068: rocks_optimized
+    4300070: _multipleCameraPositions
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

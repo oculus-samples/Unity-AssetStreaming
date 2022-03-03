@@ -1,0 +1,1587 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d41887b1546f5c44ab54e7e65aad3bc, type: 3}
+  m_Name: canyon
+  m_EditorClassIdentifier: 
+  version: 3252
+  materialsAndUVRects:
+  - material: {fileID: 2100000, guid: 4fe07a08d6a687444805b177d62c4297, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75
+      y: 0.89990234
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: canyon_flag_04 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1a72f458f57638249a79ff0895695102, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75
+      y: 0.89990234
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: canyon_flag_04 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 33479a527cdbab04bb11c33e312dcb44, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.19995117
+      y: 0.5996094
+      width: 0.19946289
+      height: 0.19946289
+    srcObjName: town_rock_02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 00a94083f9cb73d4c9493228bec1cd1e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.39990234
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: town_rock_01 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 64beb29ba48a32048ac8f866be3f935c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.39990234
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: town_rock_01 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a057cda955068264882bec4c6497958e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9499512
+      y: 0.69970703
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: canyon_plant_04 (30)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 3f69283b52fb6354dafc92c2671672fc, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.69970703
+      width: 0.099365234
+      height: 0.099609375
+    srcObjName: canyon_cover_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a906b5b0e163a0d499c6c6f9e005de00, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.8996582
+      width: 0.099365234
+      height: 0.099609375
+    srcObjName: canyon_cover_extender_03 (6)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f6582571de7978f40bbc91874f0084e7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.49975586
+      y: 0.5996094
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: canyon_waterwheel_building_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c17268639f3c10240aed2e31a2ef7ee1, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.49975586
+      y: 0.7998047
+      width: 0.099609375
+      height: 0.099365234
+    srcObjName: canyon_waterwheel_building_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 33263e32219ab8d458907971011b9c53, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5998535
+      y: 0.5996094
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: canyon_waterwheel_building_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 772a768a02863e645a80824f99b5ec24, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.69970703
+      width: 0.099365234
+      height: 0.099609375
+    srcObjName: canyon_waterwheel_bucket_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 2d13b263d78e1464ba2ce138ccb6c6b0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7998047
+      y: 0.69970703
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: canyon_wood_boards_12 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 884120f66e14bb44196be92a22d86c8d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.19995117
+      y: 0.79956055
+      width: 0.19946289
+      height: 0.19921875
+    srcObjName: Desert_Cactus_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1453bea4b9d158548abe0dd112202253, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5996094
+      y: 0.39990234
+      width: 0.19946289
+      height: 0.19921875
+    srcObjName: canyon_rock_05
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 52807bb553b875b499b0cbb9938d3fb8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.79956055
+      y: 0.19995117
+      width: 0.19921875
+      height: 0.19946289
+    srcObjName: town_rock_arch_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f13adf520a4a29a4c9c935d790500952, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.79956055
+      y: 0.39990234
+      width: 0.099365234
+      height: 0.099365234
+    srcObjName: GnarledTree_A_Root_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: ec4f8d4163a43244ca7b33e6b2e3611a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.89990234
+      y: 0.5996094
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: canyon_building_round_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: e7c27418786f349499530ff132b5783c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5996094
+      y: 0.19995117
+      width: 0.19946289
+      height: 0.19946289
+    srcObjName: GnarledTree_A_01 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8496094
+      y: 0.5437012
+      width: 0.04296875
+      height: 0.04345703
+    srcObjName: canyon_cave_entrace_01 (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 6362d3ab8eba79b42ac744691163dcfa, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.8496094
+      y: 0.5437012
+      width: 0.04296875
+      height: 0.04345703
+    srcObjName: canyon_cave_entrace_01 (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: e6726ae9cadeeaf418fede5af4671a26, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5998535
+      y: 0.8996582
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: canyon_statue_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 992a4916199cdd3488139c35a2aeece7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.19995117
+      width: 0.19921875
+      height: 0.19946289
+    srcObjName: stakes_small_01 (7)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 3ec7d0f0256651f47a4ac3e4895f83b9, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.7998047
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: stakes_small_01 (7)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: fc61cce4a90585d4aba18d4e96f3b066, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.19995117
+      y: 0.19995117
+      width: 0.19946289
+      height: 0.19946289
+    srcObjName: canyon_rock_04
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 92256b472d717184f9e12691cecb4aff, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.8498535
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: canyon_skull_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 0f8884af6f97dc54189c0ff57b36ada8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.89990234
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: canyon_torch_01 (11)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 015dcd6080363a34c89618b72c880bf4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5998535
+      y: 0.7998047
+      width: 0.099609375
+      height: 0.099365234
+    srcObjName: rope_bunch_02 (18)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.00024414062
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: saloon_rope_02 (15)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 2f1143f235e44f54394a3e7779818800, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.9499512
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: distillery_lantern_uv2 (15)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75
+      y: 0.7998047
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: alpine_campfire_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 945efec8c4b4287428caff27266b23fa, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.79956055
+      y: 0.5437012
+      width: 0.049560547
+      height: 0.049804688
+    srcObjName: canyon_pot_01 (5)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 370dc59b3e3e4e9439c65f5331a84269, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.79956055
+      y: 0.49975586
+      width: 0.099365234
+      height: 0.04345703
+    srcObjName: rope_02 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 7bbe10e9d62586946afe7028df42af8f, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6999512
+      y: 0.5996094
+      width: 0.099365234
+      height: 0.099609375
+    srcObjName: canyon_centerpiece (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1c38998b1c3cc7d4d835bb20dc24e666, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.79956055
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: Jail_LanternHook_01 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 690d54a7c064a6f4aaf93d9bcf3210f8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7998047
+      y: 0.5996094
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: alpine_metal_sheet_05
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a935208239904284e8d6026decdf87c6, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.49975586
+      y: 0.8996582
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: barrel_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1bf274a79fa4d3d40a84aeee8d82e362, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.5996094
+      width: 0.19921875
+      height: 0.19946289
+    srcObjName: fence_03_a
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d29bb196f587f4331b2e3315fc55f3fd, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.49975586
+      y: 0.69970703
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: crate_01_a (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 7e0821c4ac7bfcc4db06eab1d164265b, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.39990234
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: crate_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a5fc43b966d987c4da941fc510f9b256, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.19995117
+      width: 0.19921875
+      height: 0.19946289
+    srcObjName: crate_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: e4df2e0f749524f3baec8ce253633889, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.7998047
+      width: 0.099365234
+      height: 0.099365234
+    srcObjName: crate_02_a
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1136febdd35511645aae3279535cad80, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.79956055
+      y: 0.00024414062
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: alpine_railroad_tie_01 (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 3a7f20c3e21c8974cbb1485de61e94b8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5996094
+      y: 0.00024414062
+      width: 0.19946289
+      height: 0.19921875
+    srcObjName: alpine_wood_boards_09 (11)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: bd02478a0afeb3d46acebb5260e98356, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.5996094
+      width: 0.099365234
+      height: 0.099609375
+    srcObjName: alpine_wood_boards_06
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.75
+      y: 0.8498535
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: alpine_treecard_06 (8)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 50cfc0010d3af1340b5f32725ce3fa8a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.89990234
+      y: 0.69970703
+      width: 0.049560547
+      height: 0.049560547
+    srcObjName: alpine_tree_large_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 12d897a3df0d71f4a87f417cc29fa56d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.94970703
+      y: 0.49975586
+      width: 0.049560547
+      height: 0.049804688
+    srcObjName: alpine_tree_small_01 (1)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 1e7340721507a744995dfdaef7d17682, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.39990234
+      y: 0.00024414062
+      width: 0.19921875
+      height: 0.19921875
+    srcObjName: streets_windmill_01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 107c56c01545f0b4fb5972740ceb5ac7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.89941406
+      y: 0.49975586
+      width: 0.049804688
+      height: 0.049804688
+    srcObjName: alpine_pulleyarm_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: cdf733f2b0608ee489ddb9324e243ebc, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.89941406
+      y: 0.39990234
+      width: 0.099609375
+      height: 0.099365234
+    srcObjName: alpine_pulleyarm_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 0c8cf8ef5a6fd0b4199bdc31fe998879, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.19995117
+      y: 0.00024414062
+      width: 0.19946289
+      height: 0.19921875
+    srcObjName: alpine_rock_04 (196)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d188c2412590e144c900e64de34505e5, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5998535
+      y: 0.69970703
+      width: 0.099609375
+      height: 0.099609375
+    srcObjName: bridge_trench (2)
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 8009c4bb0344f9740be8d1a9cf54ca9e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.19995117
+      y: 0.39990234
+      width: 0.19946289
+      height: 0.19921875
+    srcObjName: alpine_rock_03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  resultMaterials:
+  - combinedMaterial: {fileID: 2100000, guid: a432c44f856d0b542ad7ebc05e599c6b, type: 2}
+    considerMeshUVs: 0
+    sourceMaterials:
+    - {fileID: 2100000, guid: 4fe07a08d6a687444805b177d62c4297, type: 2}
+    - {fileID: 2100000, guid: 1a72f458f57638249a79ff0895695102, type: 2}
+    - {fileID: 2100000, guid: 33479a527cdbab04bb11c33e312dcb44, type: 2}
+    - {fileID: 2100000, guid: 00a94083f9cb73d4c9493228bec1cd1e, type: 2}
+    - {fileID: 2100000, guid: 64beb29ba48a32048ac8f866be3f935c, type: 2}
+    - {fileID: 2100000, guid: a057cda955068264882bec4c6497958e, type: 2}
+    - {fileID: 2100000, guid: 3f69283b52fb6354dafc92c2671672fc, type: 2}
+    - {fileID: 2100000, guid: a906b5b0e163a0d499c6c6f9e005de00, type: 2}
+    - {fileID: 2100000, guid: f6582571de7978f40bbc91874f0084e7, type: 2}
+    - {fileID: 2100000, guid: c17268639f3c10240aed2e31a2ef7ee1, type: 2}
+    - {fileID: 2100000, guid: 33263e32219ab8d458907971011b9c53, type: 2}
+    - {fileID: 2100000, guid: 772a768a02863e645a80824f99b5ec24, type: 2}
+    - {fileID: 2100000, guid: 2d13b263d78e1464ba2ce138ccb6c6b0, type: 2}
+    - {fileID: 2100000, guid: 884120f66e14bb44196be92a22d86c8d, type: 2}
+    - {fileID: 2100000, guid: 1453bea4b9d158548abe0dd112202253, type: 2}
+    - {fileID: 2100000, guid: 52807bb553b875b499b0cbb9938d3fb8, type: 2}
+    - {fileID: 2100000, guid: f13adf520a4a29a4c9c935d790500952, type: 2}
+    - {fileID: 2100000, guid: ec4f8d4163a43244ca7b33e6b2e3611a, type: 2}
+    - {fileID: 2100000, guid: e7c27418786f349499530ff132b5783c, type: 2}
+    - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 2100000, guid: 6362d3ab8eba79b42ac744691163dcfa, type: 2}
+    - {fileID: 2100000, guid: e6726ae9cadeeaf418fede5af4671a26, type: 2}
+    - {fileID: 2100000, guid: 992a4916199cdd3488139c35a2aeece7, type: 2}
+    - {fileID: 2100000, guid: 3ec7d0f0256651f47a4ac3e4895f83b9, type: 2}
+    - {fileID: 2100000, guid: fc61cce4a90585d4aba18d4e96f3b066, type: 2}
+    - {fileID: 2100000, guid: 92256b472d717184f9e12691cecb4aff, type: 2}
+    - {fileID: 2100000, guid: 0f8884af6f97dc54189c0ff57b36ada8, type: 2}
+    - {fileID: 2100000, guid: 015dcd6080363a34c89618b72c880bf4, type: 2}
+    - {fileID: 2100000, guid: f81a5aab099897549809308e78156db0, type: 2}
+    - {fileID: 2100000, guid: 2f1143f235e44f54394a3e7779818800, type: 2}
+    - {fileID: 2100000, guid: 8864681d33527d84680878ad20c2ca7e, type: 2}
+    - {fileID: 2100000, guid: 945efec8c4b4287428caff27266b23fa, type: 2}
+    - {fileID: 2100000, guid: 370dc59b3e3e4e9439c65f5331a84269, type: 2}
+    - {fileID: 2100000, guid: 7bbe10e9d62586946afe7028df42af8f, type: 2}
+    - {fileID: 2100000, guid: 1c38998b1c3cc7d4d835bb20dc24e666, type: 2}
+    - {fileID: 2100000, guid: 690d54a7c064a6f4aaf93d9bcf3210f8, type: 2}
+    - {fileID: 2100000, guid: a935208239904284e8d6026decdf87c6, type: 2}
+    - {fileID: 2100000, guid: 1bf274a79fa4d3d40a84aeee8d82e362, type: 2}
+    - {fileID: 2100000, guid: d29bb196f587f4331b2e3315fc55f3fd, type: 2}
+    - {fileID: 2100000, guid: 7e0821c4ac7bfcc4db06eab1d164265b, type: 2}
+    - {fileID: 2100000, guid: a5fc43b966d987c4da941fc510f9b256, type: 2}
+    - {fileID: 2100000, guid: e4df2e0f749524f3baec8ce253633889, type: 2}
+    - {fileID: 2100000, guid: 1136febdd35511645aae3279535cad80, type: 2}
+    - {fileID: 2100000, guid: 3a7f20c3e21c8974cbb1485de61e94b8, type: 2}
+    - {fileID: 2100000, guid: bd02478a0afeb3d46acebb5260e98356, type: 2}
+    - {fileID: 2100000, guid: af3670045d7d5c54eb65a9348404913c, type: 2}
+    - {fileID: 2100000, guid: 50cfc0010d3af1340b5f32725ce3fa8a, type: 2}
+    - {fileID: 2100000, guid: 12d897a3df0d71f4a87f417cc29fa56d, type: 2}
+    - {fileID: 2100000, guid: 1e7340721507a744995dfdaef7d17682, type: 2}
+    - {fileID: 2100000, guid: 107c56c01545f0b4fb5972740ceb5ac7, type: 2}
+    - {fileID: 2100000, guid: cdf733f2b0608ee489ddb9324e243ebc, type: 2}
+    - {fileID: 2100000, guid: 0c8cf8ef5a6fd0b4199bdc31fe998879, type: 2}
+    - {fileID: 2100000, guid: d188c2412590e144c900e64de34505e5, type: 2}
+    - {fileID: 2100000, guid: 8009c4bb0344f9740be8d1a9cf54ca9e, type: 2}
+  doMultiMaterial: 0

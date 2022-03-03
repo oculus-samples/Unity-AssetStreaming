@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 42da1336decf5415f98e3f4f6a8289ef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: heart_object
+    100002: nest_object
+    100004: //RootNode
+    100006: Texture Group
+    100008: egg_object
+    100010: 'Texture Group '
+    100012: TextureGroup
+    100014: Texture Group  1
+    100016: sky_dome
+    100018: sun_plane
+    100020: Texture Group  2
+    100022: star_dome
+    100024: horizon
+    100026: Texture Group  (2)
+    100028: Texture Group  (3)
+    100030: star_dome_old
+    100032: Texture Group (2)
+    100034: moon_plane
+    100036: horizon_2
+    100038: horizon_3
+    100040: Texture Group (3)
+    100042: horizon_4
+    100044: skybox
+    100046: skyplane
+    100048: sky_distillery
+    400000: heart_object
+    400002: nest_object
+    400004: //RootNode
+    400006: Texture Group
+    400008: egg_object
+    400010: 'Texture Group '
+    400012: TextureGroup
+    400014: Texture Group  1
+    400016: sky_dome
+    400018: sun_plane
+    400020: Texture Group  2
+    400022: star_dome
+    400024: horizon
+    400026: Texture Group  (2)
+    400028: Texture Group  (3)
+    400030: star_dome_old
+    400032: Texture Group (2)
+    400034: moon_plane
+    400036: horizon_2
+    400038: horizon_3
+    400040: Texture Group (3)
+    400042: horizon_4
+    400044: skybox
+    400046: skyplane
+    400048: sky_distillery
+    2300000: heart_object
+    2300002: nest_object
+    2300004: egg_object
+    2300006: sky_dome
+    2300008: sun_plane
+    2300010: star_dome
+    2300012: horizon
+    2300014: star_dome_old
+    2300016: moon_plane
+    2300018: horizon_2
+    2300020: horizon_3
+    2300022: horizon_4
+    2300024: skybox
+    2300026: skyplane
+    2300028: sky_distillery
+    3300000: heart_object
+    3300002: nest_object
+    3300004: egg_object
+    3300006: sky_dome
+    3300008: sun_plane
+    3300010: star_dome
+    3300012: horizon
+    3300014: star_dome_old
+    3300016: moon_plane
+    3300018: horizon_2
+    3300020: horizon_3
+    3300022: horizon_4
+    3300024: skybox
+    3300026: skyplane
+    3300028: sky_distillery
+    4300000: nest_object
+    4300002: heart_object
+    4300004: egg_object
+    4300006: sky_dome
+    4300008: sun_plane
+    4300010: star_dome
+    4300012: horizon
+    4300014: star_dome_old
+    4300016: moon_plane
+    4300018: horizon_2
+    4300020: horizon_3
+    4300022: horizon_4
+    4300024: skybox
+    4300026: skyplane
+    4300028: sky_distillery
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

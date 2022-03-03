@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 84d0a1aa2014fc242a8cd03fe3b0d652
+timeCreated: 1534446391
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pasted__pCube19
+    100004: pasted__pCube20
+    100006: pasted__pCube21
+    100008: pasted__pCube22
+    100010: pasted__pCube23
+    100012: pasted__pCube24
+    100014: pasted__pCube25
+    100016: pasted__pCube30
+    100018: pasted__pCube51
+    100020: pasted__pCube52
+    100022: pasted__pCube53
+    100024: pasted__pCube58
+    100026: pasted__pCube59
+    100028: pasted__pCube60
+    100030: pasted__pCube61
+    400000: //RootNode
+    400002: pasted__pCube19
+    400004: pasted__pCube20
+    400006: pasted__pCube21
+    400008: pasted__pCube22
+    400010: pasted__pCube23
+    400012: pasted__pCube24
+    400014: pasted__pCube25
+    400016: pasted__pCube30
+    400018: pasted__pCube51
+    400020: pasted__pCube52
+    400022: pasted__pCube53
+    400024: pasted__pCube58
+    400026: pasted__pCube59
+    400028: pasted__pCube60
+    400030: pasted__pCube61
+    2300000: pasted__pCube19
+    2300002: pasted__pCube20
+    2300004: pasted__pCube21
+    2300006: pasted__pCube22
+    2300008: pasted__pCube23
+    2300010: pasted__pCube24
+    2300012: pasted__pCube25
+    2300014: pasted__pCube30
+    2300016: pasted__pCube51
+    2300018: pasted__pCube52
+    2300020: pasted__pCube53
+    2300022: pasted__pCube58
+    2300024: pasted__pCube59
+    2300026: pasted__pCube60
+    2300028: pasted__pCube61
+    2300030: //RootNode
+    3300000: pasted__pCube19
+    3300002: pasted__pCube20
+    3300004: pasted__pCube21
+    3300006: pasted__pCube22
+    3300008: pasted__pCube23
+    3300010: pasted__pCube24
+    3300012: pasted__pCube25
+    3300014: pasted__pCube30
+    3300016: pasted__pCube51
+    3300018: pasted__pCube52
+    3300020: pasted__pCube53
+    3300022: pasted__pCube58
+    3300024: pasted__pCube59
+    3300026: pasted__pCube60
+    3300028: pasted__pCube61
+    3300030: //RootNode
+    4300000: pasted__pCube52
+    4300002: pasted__pCube53
+    4300004: pasted__pCube51
+    4300006: pasted__pCube30
+    4300008: pasted__pCube19
+    4300010: pasted__pCube20
+    4300012: pasted__pCube21
+    4300014: pasted__pCube22
+    4300016: pasted__pCube23
+    4300018: pasted__pCube24
+    4300020: pasted__pCube25
+    4300022: pasted__pCube58
+    4300024: pasted__pCube59
+    4300026: pasted__pCube60
+    4300028: pasted__pCube61
+    4300030: depot_wood_deck_01
+    4300032: depot_wood_deck_03
+    4300034: depot_wood_deck_05
+    4300036: depot_wood_deck_02
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
