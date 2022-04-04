@@ -12,12 +12,12 @@ More information about Unity Addressables can be found in their [documentation](
 
 The way the project works is that each LOD (level of details) chunk is a scene which is added in the Build Settings of the project and they each have a scene index. The first scene (0) being the one Unity will load at startup, the others can be referenced to be loaded when needed.
 
-![image7](https://media.ghe.oculus-rep.com/user/4007/files/d17a7730-530c-4d33-b704-83f9388838c9)
+![image1](./Media/ConversionToAddressables/image1.png)
 
 
 In the main scene (named combined, at index 0) we have multiple gameObjects with the LODManager component. In these components we have a list of nodes (LODTreeNode), they contain the data of what to load including the scene index from the Build Settings.
 
-![image1](https://media.ghe.oculus-rep.com/user/4007/files/22923d3b-5784-4c89-a95c-a226a59cf477)
+![image2](./Media/ConversionToAddressables/image2.png)
 
 The LODManager will use that information to load the scene asynchronously in the hierarchy using SceneManager.LoadSceneAsync.
 
@@ -44,7 +44,7 @@ Now that we know what we want to use, let's see what we need to do. We want to r
 
 Go to Window->Package Manager
 
-![image2](https://media.ghe.oculus-rep.com/user/4007/files/240cec15-2790-4973-a795-35f5cff84c04)
+![image3](./Media/ConversionToAddressables/image3.png)
 
 
 Install the Addressables package from the Unity Registry.
@@ -53,7 +53,7 @@ Now that it's added to our project we can set it up, open the Addressables Group
 
 Click Create Addressables Settings
 
-![image4](https://media.ghe.oculus-rep.com/user/4007/files/2fcec8c5-1fe2-44ee-bf3a-d42b4c5e6617)
+![image4](./Media/ConversionToAddressables/image4.png)
 
 This will create basic settings. You will now see 2 groups:
 
@@ -102,16 +102,16 @@ if (node.sceneIndex != -1)
 
 Here is what the node data looks like with the reference
 
-![image8](https://media.ghe.oculus-rep.com/user/4007/files/b67f4be2-10eb-40b3-b6ee-066052a6968b)
+![image5](./Media/ConversionToAddressables/image5.png)
 
 
 And the scene is now set as addressable with a specific address which is the scene GUID. That address could be used to load the asset from the address as mentioned earlier instead of using the AssetReference.
 
-![image5](https://media.ghe.oculus-rep.com/user/4007/files/b3fd5c05-ca91-44ad-8141-b484fc68a3ca)
+![image6](./Media/ConversionToAddressables/image6.png)
 
 When a scene is marked as addressable it generously does the work of disabling it from the Build Settings for us. So our build settings should now look like this:
 
-![image6](https://media.ghe.oculus-rep.com/user/4007/files/826b5a24-03f4-4e9c-939a-b45d786eb935)
+![image7](./Media/ConversionToAddressables/image7.png)
 
 
 All runtime scenes are disabled since we don't want them built with the executable.
@@ -125,7 +125,7 @@ The last thing is to save the main scene (you might have to do a small change to
 
 In order to make faster iteration when modifying a certain location, we separated the assets in groups based on location so that only the modified group would need to be rebuilt. We also created a group for shared assets so that some reused assets are not part of each group.
 
-![image3](https://media.ghe.oculus-rep.com/user/4007/files/94a496e2-ce01-4f4b-bbfc-e0861cb4abf3)
+![image8](./Media/ConversionToAddressables/image8.png)
 
 ### Load Scenes from Addressable
 
