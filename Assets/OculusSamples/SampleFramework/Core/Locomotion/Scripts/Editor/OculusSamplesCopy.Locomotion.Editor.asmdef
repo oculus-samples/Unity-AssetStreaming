@@ -1,0 +1,17 @@
+{
+    "name": "OculusSamplesCopy.Locomotion.Editor",
+    "references": [
+        "GUID:05cfb3258ba1df14897334fa7c639d5a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
