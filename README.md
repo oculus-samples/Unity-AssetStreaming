@@ -24,8 +24,18 @@ Then, clone this repo using the "Code" button above, or this command:
 ```sh
 git clone https://github.com/oculus-samples/Unity-AssetStreaming.git
 ```
-
 To run the sample, open the project folder in *Unity 2019.4.34f1* or newer. Load the [Assets/Scenes/Startup](Assets/Scenes/Startup.unity) scene.
+
+### Build
+In order to build to device we need 2 steps. First we need to build the addressables assets, then we can build the apk. 
+
+You can use the traditional route to build addressables from the groups menu (Window->Asset Management->Addressables->Groups). Then open Build Settings and click Build.
+
+We also added an utility menu. Under AssetStreaming menu on the menu bar, you can do different builds:
+* Build Addressables and Apk: build the addressables and the apk
+* Build Addressables: Build's only the addressables
+* Build Apk: Build's only the apk (usefull when only changing code)
+
 ## Oculus Integration Package
 In order to keep the project simple, we kept only the required features from [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022). We kept [VR](Assets/Oculus/VR) and [Platform](Assets/Oculus/Platform). To update it, import the updated Asset Store package, and select only VR and Platform.
 
