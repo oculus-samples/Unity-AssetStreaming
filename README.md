@@ -46,3 +46,8 @@ For Licenses reasons we didn't include [Mesh Baker](https://assetstore.unity.com
 
 # Conversion to use Addressables
 We detailed how we converted the original Asset Streaming project to use Unity Addressables system [here](./ConversionToAddressables.md).
+
+# AppLab
+You can find the build version on AppLab:
+
+https://www.oculus.com/experiences/quest/7167535919987284/
