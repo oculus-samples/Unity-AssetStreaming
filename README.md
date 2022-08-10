@@ -9,9 +9,11 @@ This codebase is availabale as a reference to help you setup your own asset stre
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## Licenses
+The [Oculus License](LICENSE) applies to the SDK and supporting material.
+
 The *[Demo Assets](./Assets/DemoAssets/)* used in this project are released under the *[Oculus Examples License](./Assets/DemoAssets/LICENSE.txt)*.
 
-The *Oculus Integration* package is released under the *[Oculus SDK License Agreement](./Assets/Oculus/LICENSE.txt)*.
+The MIT License applies to only certain, clearly marked documents. If an individual file does not indicate which license it is subject to, then the Oculus License applies.
 
 ## Getting started
 
