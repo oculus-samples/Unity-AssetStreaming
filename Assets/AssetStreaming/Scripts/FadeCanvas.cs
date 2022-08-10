@@ -1,4 +1,7 @@
 ﻿// Copyright (c) Meta Platforms, Inc. and affiliates.
+// Use of the material below is subject to the terms of the MIT License
+// https://github.com/oculus-samples/Unity-AssetStreaming/tree/main/Assets/AssetStreaming/LICENSE
+
 using UnityEngine;
 
 // Shows canvas on startup or when the player presses a button.
