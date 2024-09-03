@@ -9,11 +9,9 @@ This codebase is availabale as a reference to help you setup your own asset stre
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## Licenses
-The [Oculus License](LICENSE) applies to the SDK and supporting material.
-
-The *[Demo Assets](./Assets/DemoAssets/)* used in this project are released under the *[Oculus Examples License](./Assets/DemoAssets/LICENSE.txt)*.
-
-The MIT License applies to only certain, clearly marked documents. If an individual file does not indicate which license it is subject to, then the Oculus License applies.
+The majority of Asset Streaming is licensed under [MIT LICENSE](LICENSE), however files listed below are licensed under their respective licensing terms.
+* [TextMeshPro](./Assets/TextMesh Pro) - [Unity Companion License](http://www.unity3d.com/legal/licenses/Unity_Companion_License)
+* [Demo Assets](./Assets/DemoAssets/) - [Meta Platforms Technologies Examples License](./Assets/DemoAssets/LICENSE.txt)
 
 ## Getting started
 
@@ -38,9 +36,6 @@ We also added an utility menu. Under AssetStreaming menu on the menu bar, you ca
 * Build Addressables: Build's only the addressables
 * Build Apk: Build's only the apk (usefull when only changing code)
 
-## Oculus Integration Package
-In order to keep the project simple, we kept only the required features from [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022). We kept [VR](Assets/Oculus/VR) and [Platform](Assets/Oculus/Platform). To update it, import the updated Asset Store package, and select only VR and Platform.
-
 ## Third-Party Libraries
 In our implementation of the LOD Generator, we used a package from the Asset Store called [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017). We highly recommend using Mesh Baker to create texture atlases and combine your meshes. Alternatively, you could write your own or get a license for something like Simplygon.
 
@@ -49,7 +44,5 @@ For Licenses reasons we didn't include [Mesh Baker](https://assetstore.unity.com
 # Conversion to use Addressables
 We detailed how we converted the original Asset Streaming project to use Unity Addressables system [here](./ConversionToAddressables.md).
 
-# AppLab
-You can find the build version on AppLab:
-
-https://www.oculus.com/experiences/quest/7325963400811201/
+# Quest Store App
+You can find the build version on the [Quest Store](https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/)
