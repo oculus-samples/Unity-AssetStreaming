@@ -1,75 +1,203 @@
 fileFormatVersion: 2
 guid: a06160c7c3ac471469140398799a0daf
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: canyon_centerpiece_01
-    100004: canyon_centerpiece_02
-    100006: canyon_centerpiece_03
-    100008: canyon_centerpiece_04
-    100010: canyon_centerpiece_05
-    100012: canyon_centerpiece_06
-    100014: canyon_centerpiece_07
-    100016: canyon_centerpiece_08
-    100018: canyon_centerpiece_09
-    100020: canyon_centerpiece_10
-    100022: canyon_centerpiece_11
-    100024: canyon_centerpiece_centerring
-    400000: //RootNode
-    400002: canyon_centerpiece_01
-    400004: canyon_centerpiece_02
-    400006: canyon_centerpiece_03
-    400008: canyon_centerpiece_04
-    400010: canyon_centerpiece_05
-    400012: canyon_centerpiece_06
-    400014: canyon_centerpiece_07
-    400016: canyon_centerpiece_08
-    400018: canyon_centerpiece_09
-    400020: canyon_centerpiece_10
-    400022: canyon_centerpiece_11
-    400024: canyon_centerpiece_centerring
-    2300000: //RootNode
-    2300002: canyon_centerpiece_01
-    2300004: canyon_centerpiece_02
-    2300006: canyon_centerpiece_03
-    2300008: canyon_centerpiece_04
-    2300010: canyon_centerpiece_05
-    2300012: canyon_centerpiece_06
-    2300014: canyon_centerpiece_07
-    2300016: canyon_centerpiece_08
-    2300018: canyon_centerpiece_09
-    2300020: canyon_centerpiece_10
-    2300022: canyon_centerpiece_11
-    2300024: canyon_centerpiece_centerring
-    3300000: //RootNode
-    3300002: canyon_centerpiece_01
-    3300004: canyon_centerpiece_02
-    3300006: canyon_centerpiece_03
-    3300008: canyon_centerpiece_04
-    3300010: canyon_centerpiece_05
-    3300012: canyon_centerpiece_06
-    3300014: canyon_centerpiece_07
-    3300016: canyon_centerpiece_08
-    3300018: canyon_centerpiece_09
-    3300020: canyon_centerpiece_10
-    3300022: canyon_centerpiece_11
-    3300024: canyon_centerpiece_centerring
-    4300000: canyon_centerpiece_02
-    4300002: canyon_centerpiece_centerring
-    4300004: canyon_centerpiece_01
-    4300006: canyon_centerpiece_11
-    4300008: canyon_centerpiece_08
-    4300010: canyon_centerpiece_09
-    4300012: canyon_centerpiece_07
-    4300014: canyon_centerpiece_06
-    4300016: canyon_centerpiece_10
-    4300018: canyon_centerpiece_04
-    4300020: canyon_centerpiece_03
-    4300022: canyon_centerpiece_05
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: canyon_centerpiece_01
+  - first:
+      1: 100004
+    second: canyon_centerpiece_02
+  - first:
+      1: 100006
+    second: canyon_centerpiece_03
+  - first:
+      1: 100008
+    second: canyon_centerpiece_04
+  - first:
+      1: 100010
+    second: canyon_centerpiece_05
+  - first:
+      1: 100012
+    second: canyon_centerpiece_06
+  - first:
+      1: 100014
+    second: canyon_centerpiece_07
+  - first:
+      1: 100016
+    second: canyon_centerpiece_08
+  - first:
+      1: 100018
+    second: canyon_centerpiece_09
+  - first:
+      1: 100020
+    second: canyon_centerpiece_10
+  - first:
+      1: 100022
+    second: canyon_centerpiece_11
+  - first:
+      1: 100024
+    second: canyon_centerpiece_centerring
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: canyon_centerpiece_01
+  - first:
+      4: 400004
+    second: canyon_centerpiece_02
+  - first:
+      4: 400006
+    second: canyon_centerpiece_03
+  - first:
+      4: 400008
+    second: canyon_centerpiece_04
+  - first:
+      4: 400010
+    second: canyon_centerpiece_05
+  - first:
+      4: 400012
+    second: canyon_centerpiece_06
+  - first:
+      4: 400014
+    second: canyon_centerpiece_07
+  - first:
+      4: 400016
+    second: canyon_centerpiece_08
+  - first:
+      4: 400018
+    second: canyon_centerpiece_09
+  - first:
+      4: 400020
+    second: canyon_centerpiece_10
+  - first:
+      4: 400022
+    second: canyon_centerpiece_11
+  - first:
+      4: 400024
+    second: canyon_centerpiece_centerring
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: canyon_centerpiece_01
+  - first:
+      23: 2300004
+    second: canyon_centerpiece_02
+  - first:
+      23: 2300006
+    second: canyon_centerpiece_03
+  - first:
+      23: 2300008
+    second: canyon_centerpiece_04
+  - first:
+      23: 2300010
+    second: canyon_centerpiece_05
+  - first:
+      23: 2300012
+    second: canyon_centerpiece_06
+  - first:
+      23: 2300014
+    second: canyon_centerpiece_07
+  - first:
+      23: 2300016
+    second: canyon_centerpiece_08
+  - first:
+      23: 2300018
+    second: canyon_centerpiece_09
+  - first:
+      23: 2300020
+    second: canyon_centerpiece_10
+  - first:
+      23: 2300022
+    second: canyon_centerpiece_11
+  - first:
+      23: 2300024
+    second: canyon_centerpiece_centerring
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: canyon_centerpiece_01
+  - first:
+      33: 3300004
+    second: canyon_centerpiece_02
+  - first:
+      33: 3300006
+    second: canyon_centerpiece_03
+  - first:
+      33: 3300008
+    second: canyon_centerpiece_04
+  - first:
+      33: 3300010
+    second: canyon_centerpiece_05
+  - first:
+      33: 3300012
+    second: canyon_centerpiece_06
+  - first:
+      33: 3300014
+    second: canyon_centerpiece_07
+  - first:
+      33: 3300016
+    second: canyon_centerpiece_08
+  - first:
+      33: 3300018
+    second: canyon_centerpiece_09
+  - first:
+      33: 3300020
+    second: canyon_centerpiece_10
+  - first:
+      33: 3300022
+    second: canyon_centerpiece_11
+  - first:
+      33: 3300024
+    second: canyon_centerpiece_centerring
+  - first:
+      43: 4300000
+    second: canyon_centerpiece_02
+  - first:
+      43: 4300002
+    second: canyon_centerpiece_centerring
+  - first:
+      43: 4300004
+    second: canyon_centerpiece_01
+  - first:
+      43: 4300006
+    second: canyon_centerpiece_11
+  - first:
+      43: 4300008
+    second: canyon_centerpiece_08
+  - first:
+      43: 4300010
+    second: canyon_centerpiece_09
+  - first:
+      43: 4300012
+    second: canyon_centerpiece_07
+  - first:
+      43: 4300014
+    second: canyon_centerpiece_06
+  - first:
+      43: 4300016
+    second: canyon_centerpiece_10
+  - first:
+      43: 4300018
+    second: canyon_centerpiece_04
+  - first:
+      43: 4300020
+    second: canyon_centerpiece_03
+  - first:
+      43: 4300022
+    second: canyon_centerpiece_05
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -78,6 +206,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -86,6 +215,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -101,32 +231,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -136,14 +283,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

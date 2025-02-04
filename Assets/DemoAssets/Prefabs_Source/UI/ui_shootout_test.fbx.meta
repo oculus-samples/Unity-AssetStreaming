@@ -1,48 +1,122 @@
 fileFormatVersion: 2
 guid: be5159258f8c2ab4faac3eaffa2c5b3b
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Mesh
-    100002: Mesh (2)
-    100004: silhouette_alpine
-    100006: Texture Group
-    100008: //RootNode
-    100010: Mesh (3)
-    100012: Texture Group (2)
-    100014: silhouette_distillery
-    100016: silhouette_pause
-    400000: Mesh
-    400002: Mesh (2)
-    400004: silhouette_alpine
-    400006: Texture Group
-    400008: //RootNode
-    400010: Mesh (3)
-    400012: Texture Group (2)
-    400014: silhouette_distillery
-    400016: silhouette_pause
-    2300000: Mesh
-    2300002: Mesh (2)
-    2300004: silhouette_alpine
-    2300006: Mesh (3)
-    2300008: silhouette_distillery
-    2300010: silhouette_pause
-    3300000: Mesh
-    3300002: Mesh (2)
-    3300004: silhouette_alpine
-    3300006: Mesh (3)
-    3300008: silhouette_distillery
-    3300010: silhouette_pause
-    4300000: Mesh
-    4300002: Mesh (2)
-    4300004: silhouette_alpine
-    4300006: Mesh (3)
-    4300008: silhouette_distillery
-    4300010: silhouette_pause
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Mesh
+  - first:
+      1: 100002
+    second: Mesh (2)
+  - first:
+      1: 100004
+    second: silhouette_alpine
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: Mesh (3)
+  - first:
+      1: 100012
+    second: Texture Group (2)
+  - first:
+      1: 100014
+    second: silhouette_distillery
+  - first:
+      1: 100016
+    second: silhouette_pause
+  - first:
+      4: 400000
+    second: Mesh
+  - first:
+      4: 400002
+    second: Mesh (2)
+  - first:
+      4: 400004
+    second: silhouette_alpine
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: Mesh (3)
+  - first:
+      4: 400012
+    second: Texture Group (2)
+  - first:
+      4: 400014
+    second: silhouette_distillery
+  - first:
+      4: 400016
+    second: silhouette_pause
+  - first:
+      23: 2300000
+    second: Mesh
+  - first:
+      23: 2300002
+    second: Mesh (2)
+  - first:
+      23: 2300004
+    second: silhouette_alpine
+  - first:
+      23: 2300006
+    second: Mesh (3)
+  - first:
+      23: 2300008
+    second: silhouette_distillery
+  - first:
+      23: 2300010
+    second: silhouette_pause
+  - first:
+      33: 3300000
+    second: Mesh
+  - first:
+      33: 3300002
+    second: Mesh (2)
+  - first:
+      33: 3300004
+    second: silhouette_alpine
+  - first:
+      33: 3300006
+    second: Mesh (3)
+  - first:
+      33: 3300008
+    second: silhouette_distillery
+  - first:
+      33: 3300010
+    second: silhouette_pause
+  - first:
+      43: 4300000
+    second: Mesh
+  - first:
+      43: 4300002
+    second: Mesh (2)
+  - first:
+      43: 4300004
+    second: silhouette_alpine
+  - first:
+      43: 4300006
+    second: Mesh (3)
+  - first:
+      43: 4300008
+    second: silhouette_distillery
+  - first:
+      43: 4300010
+    second: silhouette_pause
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -51,6 +125,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -74,34 +149,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -111,13 +201,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

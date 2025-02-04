@@ -1,90 +1,248 @@
 fileFormatVersion: 2
 guid: 11b0f9add7643024b962b0be9d06dad4
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: geo
-    100004: navmesh
-    100006: player_collision
-    100008: Texture Group
-    100010: player_collision_props
-    100012: Texture Group (2)
-    100014: world_collision_metal
-    100016: world_collision_stone
-    100018: world_collision_wood
-    100020: player_collision_2
-    100022: player_collision_props_2
-    100024: Texture Group (3)
-    100026: Texture Group (4)
-    100028: Mesh
-    100030: Texture Group (5)
-    100032: occlusion_mesh
-    100034: player_collision_edges
-    100036: Texture Group (6)
-    100038: Texture Group (7)
-    100040: Texture Group (8)
-    100042: Texture Group (9)
-    400000: //RootNode
-    400002: geo
-    400004: navmesh
-    400006: player_collision
-    400008: Texture Group
-    400010: player_collision_props
-    400012: Texture Group (2)
-    400014: world_collision_metal
-    400016: world_collision_stone
-    400018: world_collision_wood
-    400020: player_collision_2
-    400022: player_collision_props_2
-    400024: Texture Group (3)
-    400026: Texture Group (4)
-    400028: Mesh
-    400030: Texture Group (5)
-    400032: occlusion_mesh
-    400034: player_collision_edges
-    400036: Texture Group (6)
-    400038: Texture Group (7)
-    400040: Texture Group (8)
-    400042: Texture Group (9)
-    2300000: navmesh
-    2300002: player_collision
-    2300004: player_collision_props
-    2300006: world_collision_metal
-    2300008: world_collision_stone
-    2300010: world_collision_wood
-    2300012: player_collision_2
-    2300014: player_collision_props_2
-    2300016: Mesh
-    2300018: occlusion_mesh
-    2300020: player_collision_edges
-    3300000: navmesh
-    3300002: player_collision
-    3300004: player_collision_props
-    3300006: world_collision_metal
-    3300008: world_collision_stone
-    3300010: world_collision_wood
-    3300012: player_collision_2
-    3300014: player_collision_props_2
-    3300016: Mesh
-    3300018: occlusion_mesh
-    3300020: player_collision_edges
-    4300000: player_collision
-    4300002: navmesh
-    4300004: player_collision_props
-    4300006: world_collision_stone
-    4300008: world_collision_metal
-    4300010: world_collision_wood
-    4300012: player_collision_2
-    4300014: player_collision_props_2
-    4300016: Mesh
-    4300018: player_collision_edges
-    4300020: occlusion_mesh
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: geo
+  - first:
+      1: 100004
+    second: navmesh
+  - first:
+      1: 100006
+    second: player_collision
+  - first:
+      1: 100008
+    second: Texture Group
+  - first:
+      1: 100010
+    second: player_collision_props
+  - first:
+      1: 100012
+    second: Texture Group (2)
+  - first:
+      1: 100014
+    second: world_collision_metal
+  - first:
+      1: 100016
+    second: world_collision_stone
+  - first:
+      1: 100018
+    second: world_collision_wood
+  - first:
+      1: 100020
+    second: player_collision_2
+  - first:
+      1: 100022
+    second: player_collision_props_2
+  - first:
+      1: 100024
+    second: Texture Group (3)
+  - first:
+      1: 100026
+    second: Texture Group (4)
+  - first:
+      1: 100028
+    second: Mesh
+  - first:
+      1: 100030
+    second: Texture Group (5)
+  - first:
+      1: 100032
+    second: occlusion_mesh
+  - first:
+      1: 100034
+    second: player_collision_edges
+  - first:
+      1: 100036
+    second: Texture Group (6)
+  - first:
+      1: 100038
+    second: Texture Group (7)
+  - first:
+      1: 100040
+    second: Texture Group (8)
+  - first:
+      1: 100042
+    second: Texture Group (9)
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: geo
+  - first:
+      4: 400004
+    second: navmesh
+  - first:
+      4: 400006
+    second: player_collision
+  - first:
+      4: 400008
+    second: Texture Group
+  - first:
+      4: 400010
+    second: player_collision_props
+  - first:
+      4: 400012
+    second: Texture Group (2)
+  - first:
+      4: 400014
+    second: world_collision_metal
+  - first:
+      4: 400016
+    second: world_collision_stone
+  - first:
+      4: 400018
+    second: world_collision_wood
+  - first:
+      4: 400020
+    second: player_collision_2
+  - first:
+      4: 400022
+    second: player_collision_props_2
+  - first:
+      4: 400024
+    second: Texture Group (3)
+  - first:
+      4: 400026
+    second: Texture Group (4)
+  - first:
+      4: 400028
+    second: Mesh
+  - first:
+      4: 400030
+    second: Texture Group (5)
+  - first:
+      4: 400032
+    second: occlusion_mesh
+  - first:
+      4: 400034
+    second: player_collision_edges
+  - first:
+      4: 400036
+    second: Texture Group (6)
+  - first:
+      4: 400038
+    second: Texture Group (7)
+  - first:
+      4: 400040
+    second: Texture Group (8)
+  - first:
+      4: 400042
+    second: Texture Group (9)
+  - first:
+      23: 2300000
+    second: navmesh
+  - first:
+      23: 2300002
+    second: player_collision
+  - first:
+      23: 2300004
+    second: player_collision_props
+  - first:
+      23: 2300006
+    second: world_collision_metal
+  - first:
+      23: 2300008
+    second: world_collision_stone
+  - first:
+      23: 2300010
+    second: world_collision_wood
+  - first:
+      23: 2300012
+    second: player_collision_2
+  - first:
+      23: 2300014
+    second: player_collision_props_2
+  - first:
+      23: 2300016
+    second: Mesh
+  - first:
+      23: 2300018
+    second: occlusion_mesh
+  - first:
+      23: 2300020
+    second: player_collision_edges
+  - first:
+      33: 3300000
+    second: navmesh
+  - first:
+      33: 3300002
+    second: player_collision
+  - first:
+      33: 3300004
+    second: player_collision_props
+  - first:
+      33: 3300006
+    second: world_collision_metal
+  - first:
+      33: 3300008
+    second: world_collision_stone
+  - first:
+      33: 3300010
+    second: world_collision_wood
+  - first:
+      33: 3300012
+    second: player_collision_2
+  - first:
+      33: 3300014
+    second: player_collision_props_2
+  - first:
+      33: 3300016
+    second: Mesh
+  - first:
+      33: 3300018
+    second: occlusion_mesh
+  - first:
+      33: 3300020
+    second: player_collision_edges
+  - first:
+      43: 4300000
+    second: player_collision
+  - first:
+      43: 4300002
+    second: navmesh
+  - first:
+      43: 4300004
+    second: player_collision_props
+  - first:
+      43: 4300006
+    second: world_collision_stone
+  - first:
+      43: 4300008
+    second: world_collision_metal
+  - first:
+      43: 4300010
+    second: world_collision_wood
+  - first:
+      43: 4300012
+    second: player_collision_2
+  - first:
+      43: 4300014
+    second: player_collision_props_2
+  - first:
+      43: 4300016
+    second: Mesh
+  - first:
+      43: 4300018
+    second: player_collision_edges
+  - first:
+      43: 4300020
+    second: occlusion_mesh
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -93,6 +251,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -117,25 +276,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -144,10 +314,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -157,13 +327,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

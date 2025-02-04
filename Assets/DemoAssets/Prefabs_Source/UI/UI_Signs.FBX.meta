@@ -1,101 +1,266 @@
 fileFormatVersion: 2
 guid: 8fc8909129f7a444e905884859febfe0
-timeCreated: 1472750429
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: MainMenu_UI_Sign_A_01
-    100002: MainMenu_UI_Sign_A_02
-    100004: MainMenu_UI_Sign_B_01
-    100006: MainMenu_UI_Sign_B_02
-    100008: MainMenu_UI_Sign_C_01
-    100010: MainMenu_UI_Sign_C_02
-    100012: MainMenu_UI_Sign_D_01
-    100014: MainMenu_UI_Sign_D_01_ButtonLEFT
-    100016: MainMenu_UI_Sign_D_01_ButtonRight
-    100018: MainMenu_UI_Signpost_A
-    100020: //RootNode
-    100022: MainMenu_UI_Sign_A_02_Floaties_01
-    100024: MainMenu_UI_Sign_B_02_Floaties_01
-    100026: MainMenu_UI_Sign_C_02_Floaties_01
-    100028: MainMenu_UI_Signpost_A_Floatie_01
-    100030: MainMenu_UI_Signpost_A_Floatie_02
-    100032: MainMenu_UI_Signpost_A_Floatie_03
-    400000: MainMenu_UI_Sign_A_01
-    400002: MainMenu_UI_Sign_A_02
-    400004: MainMenu_UI_Sign_B_01
-    400006: MainMenu_UI_Sign_B_02
-    400008: MainMenu_UI_Sign_C_01
-    400010: MainMenu_UI_Sign_C_02
-    400012: MainMenu_UI_Sign_D_01
-    400014: MainMenu_UI_Sign_D_01_ButtonLEFT
-    400016: MainMenu_UI_Sign_D_01_ButtonRight
-    400018: MainMenu_UI_Signpost_A
-    400020: //RootNode
-    400022: MainMenu_UI_Sign_A_02_Floaties_01
-    400024: MainMenu_UI_Sign_B_02_Floaties_01
-    400026: MainMenu_UI_Sign_C_02_Floaties_01
-    400028: MainMenu_UI_Signpost_A_Floatie_01
-    400030: MainMenu_UI_Signpost_A_Floatie_02
-    400032: MainMenu_UI_Signpost_A_Floatie_03
-    2300000: MainMenu_UI_Sign_A_01
-    2300002: MainMenu_UI_Sign_A_02
-    2300004: MainMenu_UI_Sign_B_01
-    2300006: MainMenu_UI_Sign_B_02
-    2300008: MainMenu_UI_Sign_C_01
-    2300010: MainMenu_UI_Sign_C_02
-    2300012: MainMenu_UI_Sign_D_01
-    2300014: MainMenu_UI_Sign_D_01_ButtonLEFT
-    2300016: MainMenu_UI_Sign_D_01_ButtonRight
-    2300018: MainMenu_UI_Signpost_A
-    2300020: MainMenu_UI_Sign_A_02_Floaties_01
-    2300022: MainMenu_UI_Sign_B_02_Floaties_01
-    2300024: MainMenu_UI_Sign_C_02_Floaties_01
-    2300026: MainMenu_UI_Signpost_A_Floatie_01
-    2300028: MainMenu_UI_Signpost_A_Floatie_02
-    2300030: MainMenu_UI_Signpost_A_Floatie_03
-    3300000: MainMenu_UI_Sign_A_01
-    3300002: MainMenu_UI_Sign_A_02
-    3300004: MainMenu_UI_Sign_B_01
-    3300006: MainMenu_UI_Sign_B_02
-    3300008: MainMenu_UI_Sign_C_01
-    3300010: MainMenu_UI_Sign_C_02
-    3300012: MainMenu_UI_Sign_D_01
-    3300014: MainMenu_UI_Sign_D_01_ButtonLEFT
-    3300016: MainMenu_UI_Sign_D_01_ButtonRight
-    3300018: MainMenu_UI_Signpost_A
-    3300020: MainMenu_UI_Sign_A_02_Floaties_01
-    3300022: MainMenu_UI_Sign_B_02_Floaties_01
-    3300024: MainMenu_UI_Sign_C_02_Floaties_01
-    3300026: MainMenu_UI_Signpost_A_Floatie_01
-    3300028: MainMenu_UI_Signpost_A_Floatie_02
-    3300030: MainMenu_UI_Signpost_A_Floatie_03
-    4300000: MainMenu_UI_Signpost_A
-    4300002: MainMenu_UI_Sign_D_01_ButtonRight
-    4300004: MainMenu_UI_Sign_C_01
-    4300006: MainMenu_UI_Sign_B_01
-    4300008: MainMenu_UI_Sign_A_01
-    4300010: MainMenu_UI_Sign_D_01
-    4300012: MainMenu_UI_Sign_D_01_ButtonLEFT
-    4300014: MainMenu_UI_Sign_A_02
-    4300016: MainMenu_UI_Sign_C_02
-    4300018: MainMenu_UI_Sign_B_02
-    4300020: MainMenu_UI_Signpost_A_Floatie_01
-    4300022: MainMenu_UI_Signpost_A_Floatie_02
-    4300024: MainMenu_UI_Signpost_A_Floatie_03
-    4300026: MainMenu_UI_Sign_B_02_Floaties_01
-    4300028: MainMenu_UI_Sign_A_02_Floaties_01
-    4300030: MainMenu_UI_Sign_C_02_Floaties_01
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: MainMenu_UI_Sign_A_01
+  - first:
+      1: 100002
+    second: MainMenu_UI_Sign_A_02
+  - first:
+      1: 100004
+    second: MainMenu_UI_Sign_B_01
+  - first:
+      1: 100006
+    second: MainMenu_UI_Sign_B_02
+  - first:
+      1: 100008
+    second: MainMenu_UI_Sign_C_01
+  - first:
+      1: 100010
+    second: MainMenu_UI_Sign_C_02
+  - first:
+      1: 100012
+    second: MainMenu_UI_Sign_D_01
+  - first:
+      1: 100014
+    second: MainMenu_UI_Sign_D_01_ButtonLEFT
+  - first:
+      1: 100016
+    second: MainMenu_UI_Sign_D_01_ButtonRight
+  - first:
+      1: 100018
+    second: MainMenu_UI_Signpost_A
+  - first:
+      1: 100020
+    second: //RootNode
+  - first:
+      1: 100022
+    second: MainMenu_UI_Sign_A_02_Floaties_01
+  - first:
+      1: 100024
+    second: MainMenu_UI_Sign_B_02_Floaties_01
+  - first:
+      1: 100026
+    second: MainMenu_UI_Sign_C_02_Floaties_01
+  - first:
+      1: 100028
+    second: MainMenu_UI_Signpost_A_Floatie_01
+  - first:
+      1: 100030
+    second: MainMenu_UI_Signpost_A_Floatie_02
+  - first:
+      1: 100032
+    second: MainMenu_UI_Signpost_A_Floatie_03
+  - first:
+      4: 400000
+    second: MainMenu_UI_Sign_A_01
+  - first:
+      4: 400002
+    second: MainMenu_UI_Sign_A_02
+  - first:
+      4: 400004
+    second: MainMenu_UI_Sign_B_01
+  - first:
+      4: 400006
+    second: MainMenu_UI_Sign_B_02
+  - first:
+      4: 400008
+    second: MainMenu_UI_Sign_C_01
+  - first:
+      4: 400010
+    second: MainMenu_UI_Sign_C_02
+  - first:
+      4: 400012
+    second: MainMenu_UI_Sign_D_01
+  - first:
+      4: 400014
+    second: MainMenu_UI_Sign_D_01_ButtonLEFT
+  - first:
+      4: 400016
+    second: MainMenu_UI_Sign_D_01_ButtonRight
+  - first:
+      4: 400018
+    second: MainMenu_UI_Signpost_A
+  - first:
+      4: 400020
+    second: //RootNode
+  - first:
+      4: 400022
+    second: MainMenu_UI_Sign_A_02_Floaties_01
+  - first:
+      4: 400024
+    second: MainMenu_UI_Sign_B_02_Floaties_01
+  - first:
+      4: 400026
+    second: MainMenu_UI_Sign_C_02_Floaties_01
+  - first:
+      4: 400028
+    second: MainMenu_UI_Signpost_A_Floatie_01
+  - first:
+      4: 400030
+    second: MainMenu_UI_Signpost_A_Floatie_02
+  - first:
+      4: 400032
+    second: MainMenu_UI_Signpost_A_Floatie_03
+  - first:
+      23: 2300000
+    second: MainMenu_UI_Sign_A_01
+  - first:
+      23: 2300002
+    second: MainMenu_UI_Sign_A_02
+  - first:
+      23: 2300004
+    second: MainMenu_UI_Sign_B_01
+  - first:
+      23: 2300006
+    second: MainMenu_UI_Sign_B_02
+  - first:
+      23: 2300008
+    second: MainMenu_UI_Sign_C_01
+  - first:
+      23: 2300010
+    second: MainMenu_UI_Sign_C_02
+  - first:
+      23: 2300012
+    second: MainMenu_UI_Sign_D_01
+  - first:
+      23: 2300014
+    second: MainMenu_UI_Sign_D_01_ButtonLEFT
+  - first:
+      23: 2300016
+    second: MainMenu_UI_Sign_D_01_ButtonRight
+  - first:
+      23: 2300018
+    second: MainMenu_UI_Signpost_A
+  - first:
+      23: 2300020
+    second: MainMenu_UI_Sign_A_02_Floaties_01
+  - first:
+      23: 2300022
+    second: MainMenu_UI_Sign_B_02_Floaties_01
+  - first:
+      23: 2300024
+    second: MainMenu_UI_Sign_C_02_Floaties_01
+  - first:
+      23: 2300026
+    second: MainMenu_UI_Signpost_A_Floatie_01
+  - first:
+      23: 2300028
+    second: MainMenu_UI_Signpost_A_Floatie_02
+  - first:
+      23: 2300030
+    second: MainMenu_UI_Signpost_A_Floatie_03
+  - first:
+      33: 3300000
+    second: MainMenu_UI_Sign_A_01
+  - first:
+      33: 3300002
+    second: MainMenu_UI_Sign_A_02
+  - first:
+      33: 3300004
+    second: MainMenu_UI_Sign_B_01
+  - first:
+      33: 3300006
+    second: MainMenu_UI_Sign_B_02
+  - first:
+      33: 3300008
+    second: MainMenu_UI_Sign_C_01
+  - first:
+      33: 3300010
+    second: MainMenu_UI_Sign_C_02
+  - first:
+      33: 3300012
+    second: MainMenu_UI_Sign_D_01
+  - first:
+      33: 3300014
+    second: MainMenu_UI_Sign_D_01_ButtonLEFT
+  - first:
+      33: 3300016
+    second: MainMenu_UI_Sign_D_01_ButtonRight
+  - first:
+      33: 3300018
+    second: MainMenu_UI_Signpost_A
+  - first:
+      33: 3300020
+    second: MainMenu_UI_Sign_A_02_Floaties_01
+  - first:
+      33: 3300022
+    second: MainMenu_UI_Sign_B_02_Floaties_01
+  - first:
+      33: 3300024
+    second: MainMenu_UI_Sign_C_02_Floaties_01
+  - first:
+      33: 3300026
+    second: MainMenu_UI_Signpost_A_Floatie_01
+  - first:
+      33: 3300028
+    second: MainMenu_UI_Signpost_A_Floatie_02
+  - first:
+      33: 3300030
+    second: MainMenu_UI_Signpost_A_Floatie_03
+  - first:
+      43: 4300000
+    second: MainMenu_UI_Signpost_A
+  - first:
+      43: 4300002
+    second: MainMenu_UI_Sign_D_01_ButtonRight
+  - first:
+      43: 4300004
+    second: MainMenu_UI_Sign_C_01
+  - first:
+      43: 4300006
+    second: MainMenu_UI_Sign_B_01
+  - first:
+      43: 4300008
+    second: MainMenu_UI_Sign_A_01
+  - first:
+      43: 4300010
+    second: MainMenu_UI_Sign_D_01
+  - first:
+      43: 4300012
+    second: MainMenu_UI_Sign_D_01_ButtonLEFT
+  - first:
+      43: 4300014
+    second: MainMenu_UI_Sign_A_02
+  - first:
+      43: 4300016
+    second: MainMenu_UI_Sign_C_02
+  - first:
+      43: 4300018
+    second: MainMenu_UI_Sign_B_02
+  - first:
+      43: 4300020
+    second: MainMenu_UI_Signpost_A_Floatie_01
+  - first:
+      43: 4300022
+    second: MainMenu_UI_Signpost_A_Floatie_02
+  - first:
+      43: 4300024
+    second: MainMenu_UI_Signpost_A_Floatie_03
+  - first:
+      43: 4300026
+    second: MainMenu_UI_Sign_B_02_Floaties_01
+  - first:
+      43: 4300028
+    second: MainMenu_UI_Sign_A_02_Floaties_01
+  - first:
+      43: 4300030
+    second: MainMenu_UI_Sign_C_02_Floaties_01
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -103,12 +268,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -116,26 +284,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -145,14 +336,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

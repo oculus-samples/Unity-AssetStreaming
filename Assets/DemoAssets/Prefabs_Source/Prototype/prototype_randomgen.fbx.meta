@@ -1,83 +1,227 @@
 fileFormatVersion: 2
 guid: b61d429f7dc8d324d912f10cffbc6213
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Camera
-    100002: Directional Light
-    100004: pillar_01_a
-    100006: pillar_01_b
-    100008: pillar_01_c
-    100010: //RootNode
-    100012: floor_01_a
-    100014: arch_01_a
-    100016: wall_01_a
-    100018: ceiling_01_a
-    100020: pillar_02_a
-    100022: trim_01_a
-    100024: arch_01_b
-    100026: wall_01_b
-    100028: _shadowhull_01
-    100030: Texture Group
-    400000: Camera
-    400002: Directional Light
-    400004: pillar_01_a
-    400006: pillar_01_b
-    400008: pillar_01_c
-    400010: //RootNode
-    400012: floor_01_a
-    400014: arch_01_a
-    400016: wall_01_a
-    400018: ceiling_01_a
-    400020: pillar_02_a
-    400022: trim_01_a
-    400024: arch_01_b
-    400026: wall_01_b
-    400028: _shadowhull_01
-    400030: Texture Group
-    2000000: Camera
-    2300000: pillar_01_a
-    2300002: pillar_01_b
-    2300004: pillar_01_c
-    2300006: floor_01_a
-    2300008: arch_01_a
-    2300010: wall_01_a
-    2300012: ceiling_01_a
-    2300014: pillar_02_a
-    2300016: trim_01_a
-    2300018: arch_01_b
-    2300020: wall_01_b
-    2300022: _shadowhull_01
-    3300000: pillar_01_a
-    3300002: pillar_01_b
-    3300004: pillar_01_c
-    3300006: floor_01_a
-    3300008: arch_01_a
-    3300010: wall_01_a
-    3300012: ceiling_01_a
-    3300014: pillar_02_a
-    3300016: trim_01_a
-    3300018: arch_01_b
-    3300020: wall_01_b
-    3300022: _shadowhull_01
-    4300000: pillar_01_a
-    4300002: pillar_01_b
-    4300004: pillar_01_c
-    4300006: floor_01_a
-    4300008: arch_01_a
-    4300010: wall_01_a
-    4300012: ceiling_01_a
-    4300014: trim_01_a
-    4300016: pillar_02_a
-    4300018: arch_01_b
-    4300020: wall_01_b
-    4300022: _shadowhull_01
-    9500000: //RootNode
-    10800000: Directional Light
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Camera
+  - first:
+      1: 100002
+    second: Directional Light
+  - first:
+      1: 100004
+    second: pillar_01_a
+  - first:
+      1: 100006
+    second: pillar_01_b
+  - first:
+      1: 100008
+    second: pillar_01_c
+  - first:
+      1: 100010
+    second: //RootNode
+  - first:
+      1: 100012
+    second: floor_01_a
+  - first:
+      1: 100014
+    second: arch_01_a
+  - first:
+      1: 100016
+    second: wall_01_a
+  - first:
+      1: 100018
+    second: ceiling_01_a
+  - first:
+      1: 100020
+    second: pillar_02_a
+  - first:
+      1: 100022
+    second: trim_01_a
+  - first:
+      1: 100024
+    second: arch_01_b
+  - first:
+      1: 100026
+    second: wall_01_b
+  - first:
+      1: 100028
+    second: _shadowhull_01
+  - first:
+      1: 100030
+    second: Texture Group
+  - first:
+      4: 400000
+    second: Camera
+  - first:
+      4: 400002
+    second: Directional Light
+  - first:
+      4: 400004
+    second: pillar_01_a
+  - first:
+      4: 400006
+    second: pillar_01_b
+  - first:
+      4: 400008
+    second: pillar_01_c
+  - first:
+      4: 400010
+    second: //RootNode
+  - first:
+      4: 400012
+    second: floor_01_a
+  - first:
+      4: 400014
+    second: arch_01_a
+  - first:
+      4: 400016
+    second: wall_01_a
+  - first:
+      4: 400018
+    second: ceiling_01_a
+  - first:
+      4: 400020
+    second: pillar_02_a
+  - first:
+      4: 400022
+    second: trim_01_a
+  - first:
+      4: 400024
+    second: arch_01_b
+  - first:
+      4: 400026
+    second: wall_01_b
+  - first:
+      4: 400028
+    second: _shadowhull_01
+  - first:
+      4: 400030
+    second: Texture Group
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      23: 2300000
+    second: pillar_01_a
+  - first:
+      23: 2300002
+    second: pillar_01_b
+  - first:
+      23: 2300004
+    second: pillar_01_c
+  - first:
+      23: 2300006
+    second: floor_01_a
+  - first:
+      23: 2300008
+    second: arch_01_a
+  - first:
+      23: 2300010
+    second: wall_01_a
+  - first:
+      23: 2300012
+    second: ceiling_01_a
+  - first:
+      23: 2300014
+    second: pillar_02_a
+  - first:
+      23: 2300016
+    second: trim_01_a
+  - first:
+      23: 2300018
+    second: arch_01_b
+  - first:
+      23: 2300020
+    second: wall_01_b
+  - first:
+      23: 2300022
+    second: _shadowhull_01
+  - first:
+      33: 3300000
+    second: pillar_01_a
+  - first:
+      33: 3300002
+    second: pillar_01_b
+  - first:
+      33: 3300004
+    second: pillar_01_c
+  - first:
+      33: 3300006
+    second: floor_01_a
+  - first:
+      33: 3300008
+    second: arch_01_a
+  - first:
+      33: 3300010
+    second: wall_01_a
+  - first:
+      33: 3300012
+    second: ceiling_01_a
+  - first:
+      33: 3300014
+    second: pillar_02_a
+  - first:
+      33: 3300016
+    second: trim_01_a
+  - first:
+      33: 3300018
+    second: arch_01_b
+  - first:
+      33: 3300020
+    second: wall_01_b
+  - first:
+      33: 3300022
+    second: _shadowhull_01
+  - first:
+      43: 4300000
+    second: pillar_01_a
+  - first:
+      43: 4300002
+    second: pillar_01_b
+  - first:
+      43: 4300004
+    second: pillar_01_c
+  - first:
+      43: 4300006
+    second: floor_01_a
+  - first:
+      43: 4300008
+    second: arch_01_a
+  - first:
+      43: 4300010
+    second: wall_01_a
+  - first:
+      43: 4300012
+    second: ceiling_01_a
+  - first:
+      43: 4300014
+    second: trim_01_a
+  - first:
+      43: 4300016
+    second: pillar_02_a
+  - first:
+      43: 4300018
+    second: arch_01_b
+  - first:
+      43: 4300020
+    second: wall_01_b
+  - first:
+      43: 4300022
+    second: _shadowhull_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Directional Light
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -86,6 +230,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -110,25 +255,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -137,10 +293,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -150,13 +306,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

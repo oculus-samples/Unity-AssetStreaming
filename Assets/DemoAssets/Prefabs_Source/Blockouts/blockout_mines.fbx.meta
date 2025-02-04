@@ -1,68 +1,182 @@
 fileFormatVersion: 2
 guid: 36fec07209765814a99322fd94bc58eb
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: _topdown
-    100002: //RootNode
-    100004: blockout_mines
-    100006: Texture Group
-    100008: _delete
-    100010: blockout_mines (2)
-    100012: blockout_mines_full
-    100014: blockout_mines_collision
-    100016: mines_terrain_01
-    100018: Texture Group (2)
-    100020: Mesh
-    100022: Texture Group (3)
-    100024: mines_shadowhull
-    100026: Texture Group (4)
-    400000: _topdown
-    400002: //RootNode
-    400004: blockout_mines
-    400006: Texture Group
-    400008: _delete
-    400010: blockout_mines (2)
-    400012: blockout_mines_full
-    400014: blockout_mines_collision
-    400016: mines_terrain_01
-    400018: Texture Group (2)
-    400020: Mesh
-    400022: Texture Group (3)
-    400024: mines_shadowhull
-    400026: Texture Group (4)
-    2300000: _topdown
-    2300002: blockout_mines
-    2300004: _delete
-    2300006: blockout_mines (2)
-    2300008: blockout_mines_full
-    2300010: blockout_mines_collision
-    2300012: mines_terrain_01
-    2300014: Mesh
-    2300016: mines_shadowhull
-    3300000: _topdown
-    3300002: blockout_mines
-    3300004: _delete
-    3300006: blockout_mines (2)
-    3300008: blockout_mines_full
-    3300010: blockout_mines_collision
-    3300012: mines_terrain_01
-    3300014: Mesh
-    3300016: mines_shadowhull
-    4300000: blockout_mines
-    4300002: _topdown
-    4300004: _delete
-    4300006: blockout_mines (2)
-    4300008: blockout_mines_full
-    4300010: blockout_mines_collision
-    4300012: mines_terrain_01
-    4300014: Mesh
-    4300016: mines_shadowhull
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _topdown
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: blockout_mines
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: _delete
+  - first:
+      1: 100010
+    second: blockout_mines (2)
+  - first:
+      1: 100012
+    second: blockout_mines_full
+  - first:
+      1: 100014
+    second: blockout_mines_collision
+  - first:
+      1: 100016
+    second: mines_terrain_01
+  - first:
+      1: 100018
+    second: Texture Group (2)
+  - first:
+      1: 100020
+    second: Mesh
+  - first:
+      1: 100022
+    second: Texture Group (3)
+  - first:
+      1: 100024
+    second: mines_shadowhull
+  - first:
+      1: 100026
+    second: Texture Group (4)
+  - first:
+      4: 400000
+    second: _topdown
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: blockout_mines
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: _delete
+  - first:
+      4: 400010
+    second: blockout_mines (2)
+  - first:
+      4: 400012
+    second: blockout_mines_full
+  - first:
+      4: 400014
+    second: blockout_mines_collision
+  - first:
+      4: 400016
+    second: mines_terrain_01
+  - first:
+      4: 400018
+    second: Texture Group (2)
+  - first:
+      4: 400020
+    second: Mesh
+  - first:
+      4: 400022
+    second: Texture Group (3)
+  - first:
+      4: 400024
+    second: mines_shadowhull
+  - first:
+      4: 400026
+    second: Texture Group (4)
+  - first:
+      23: 2300000
+    second: _topdown
+  - first:
+      23: 2300002
+    second: blockout_mines
+  - first:
+      23: 2300004
+    second: _delete
+  - first:
+      23: 2300006
+    second: blockout_mines (2)
+  - first:
+      23: 2300008
+    second: blockout_mines_full
+  - first:
+      23: 2300010
+    second: blockout_mines_collision
+  - first:
+      23: 2300012
+    second: mines_terrain_01
+  - first:
+      23: 2300014
+    second: Mesh
+  - first:
+      23: 2300016
+    second: mines_shadowhull
+  - first:
+      33: 3300000
+    second: _topdown
+  - first:
+      33: 3300002
+    second: blockout_mines
+  - first:
+      33: 3300004
+    second: _delete
+  - first:
+      33: 3300006
+    second: blockout_mines (2)
+  - first:
+      33: 3300008
+    second: blockout_mines_full
+  - first:
+      33: 3300010
+    second: blockout_mines_collision
+  - first:
+      33: 3300012
+    second: mines_terrain_01
+  - first:
+      33: 3300014
+    second: Mesh
+  - first:
+      33: 3300016
+    second: mines_shadowhull
+  - first:
+      43: 4300000
+    second: blockout_mines
+  - first:
+      43: 4300002
+    second: _topdown
+  - first:
+      43: 4300004
+    second: _delete
+  - first:
+      43: 4300006
+    second: blockout_mines (2)
+  - first:
+      43: 4300008
+    second: blockout_mines_full
+  - first:
+      43: 4300010
+    second: blockout_mines_collision
+  - first:
+      43: 4300012
+    second: mines_terrain_01
+  - first:
+      43: 4300014
+    second: Mesh
+  - first:
+      43: 4300016
+    second: mines_shadowhull
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -71,6 +185,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -94,34 +209,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -131,13 +261,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

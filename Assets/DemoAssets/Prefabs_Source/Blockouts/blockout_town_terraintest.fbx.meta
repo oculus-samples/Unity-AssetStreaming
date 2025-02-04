@@ -1,46 +1,116 @@
 fileFormatVersion: 2
 guid: 47c0125847161a448ae15fa4f212f693
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Mesh (4)
-    100004: terrain_area_01
-    100006: Texture Group
-    100008: Texture Group (10)
-    100010: Texture Group (2)
-    100012: Texture Group (3)
-    100014: Texture Group (4)
-    100016: Texture Group (5)
-    100018: Texture Group (6)
-    100020: Texture Group (7)
-    100022: Texture Group (8)
-    100024: Texture Group (9)
-    100026: terrain_area_01_source
-    400000: //RootNode
-    400002: Mesh (4)
-    400004: terrain_area_01
-    400006: Texture Group
-    400008: Texture Group (10)
-    400010: Texture Group (2)
-    400012: Texture Group (3)
-    400014: Texture Group (4)
-    400016: Texture Group (5)
-    400018: Texture Group (6)
-    400020: Texture Group (7)
-    400022: Texture Group (8)
-    400024: Texture Group (9)
-    400026: terrain_area_01_source
-    2300000: terrain_area_01
-    2300002: terrain_area_01_source
-    3300000: terrain_area_01
-    3300002: terrain_area_01_source
-    4300000: terrain_area_01
-    4300002: terrain_area_01_source
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Mesh (4)
+  - first:
+      1: 100004
+    second: terrain_area_01
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: Texture Group (10)
+  - first:
+      1: 100010
+    second: Texture Group (2)
+  - first:
+      1: 100012
+    second: Texture Group (3)
+  - first:
+      1: 100014
+    second: Texture Group (4)
+  - first:
+      1: 100016
+    second: Texture Group (5)
+  - first:
+      1: 100018
+    second: Texture Group (6)
+  - first:
+      1: 100020
+    second: Texture Group (7)
+  - first:
+      1: 100022
+    second: Texture Group (8)
+  - first:
+      1: 100024
+    second: Texture Group (9)
+  - first:
+      1: 100026
+    second: terrain_area_01_source
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Mesh (4)
+  - first:
+      4: 400004
+    second: terrain_area_01
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: Texture Group (10)
+  - first:
+      4: 400010
+    second: Texture Group (2)
+  - first:
+      4: 400012
+    second: Texture Group (3)
+  - first:
+      4: 400014
+    second: Texture Group (4)
+  - first:
+      4: 400016
+    second: Texture Group (5)
+  - first:
+      4: 400018
+    second: Texture Group (6)
+  - first:
+      4: 400020
+    second: Texture Group (7)
+  - first:
+      4: 400022
+    second: Texture Group (8)
+  - first:
+      4: 400024
+    second: Texture Group (9)
+  - first:
+      4: 400026
+    second: terrain_area_01_source
+  - first:
+      23: 2300000
+    second: terrain_area_01
+  - first:
+      23: 2300002
+    second: terrain_area_01_source
+  - first:
+      33: 3300000
+    second: terrain_area_01
+  - first:
+      33: 3300002
+    second: terrain_area_01_source
+  - first:
+      43: 4300000
+    second: terrain_area_01
+  - first:
+      43: 4300002
+    second: terrain_area_01_source
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -49,6 +119,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -57,6 +128,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -71,32 +143,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -106,14 +195,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,148 +1,390 @@
 fileFormatVersion: 2
 guid: a19659635ca7548419e7d94d531ef447
-timeCreated: 1438898283
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: score_00_a
-    100002: score_00_b
-    100004: score_01_a
-    100006: score_01_b
-    100008: score_02_a
-    100010: score_02_b
-    100012: score_03_a
-    100014: score_03_b
-    100016: score_04_a
-    100018: score_04_b
-    100020: score_05_a
-    100022: score_05_b
-    100024: score_06_a
-    100026: score_06_b
-    100028: score_07_a
-    100030: score_07_b
-    100032: score_08_a
-    100034: score_08_b
-    100036: score_09_a
-    100038: score_09_b
-    100040: //RootNode
-    100042: score_counter
-    100044: score_counter_rings
-    100046: Texture Group
-    100048: Texture Group (2)
-    400000: score_00_a
-    400002: score_00_b
-    400004: score_01_a
-    400006: score_01_b
-    400008: score_02_a
-    400010: score_02_b
-    400012: score_03_a
-    400014: score_03_b
-    400016: score_04_a
-    400018: score_04_b
-    400020: score_05_a
-    400022: score_05_b
-    400024: score_06_a
-    400026: score_06_b
-    400028: score_07_a
-    400030: score_07_b
-    400032: score_08_a
-    400034: score_08_b
-    400036: score_09_a
-    400038: score_09_b
-    400040: //RootNode
-    400042: score_counter
-    400044: score_counter_rings
-    400046: Texture Group
-    400048: Texture Group (2)
-    2300000: score_00_a
-    2300002: score_00_b
-    2300004: score_01_a
-    2300006: score_01_b
-    2300008: score_02_a
-    2300010: score_02_b
-    2300012: score_03_a
-    2300014: score_03_b
-    2300016: score_04_a
-    2300018: score_04_b
-    2300020: score_05_a
-    2300022: score_05_b
-    2300024: score_06_a
-    2300026: score_06_b
-    2300028: score_07_a
-    2300030: score_07_b
-    2300032: score_08_a
-    2300034: score_08_b
-    2300036: score_09_a
-    2300038: score_09_b
-    2300040: score_counter
-    2300042: score_counter_rings
-    3300000: score_00_a
-    3300002: score_00_b
-    3300004: score_01_a
-    3300006: score_01_b
-    3300008: score_02_a
-    3300010: score_02_b
-    3300012: score_03_a
-    3300014: score_03_b
-    3300016: score_04_a
-    3300018: score_04_b
-    3300020: score_05_a
-    3300022: score_05_b
-    3300024: score_06_a
-    3300026: score_06_b
-    3300028: score_07_a
-    3300030: score_07_b
-    3300032: score_08_a
-    3300034: score_08_b
-    3300036: score_09_a
-    3300038: score_09_b
-    3300040: score_counter
-    3300042: score_counter_rings
-    4300000: score_00_a
-    4300002: score_01_a
-    4300004: score_02_a
-    4300006: score_03_a
-    4300008: score_04_a
-    4300010: score_05_a
-    4300012: score_06_a
-    4300014: score_07_a
-    4300016: score_08_a
-    4300018: score_09_a
-    4300020: score_counter_rings
-    4300022: score_counter
-    4300024: score_05_b
-    4300026: score_02_b
-    4300028: score_03_b
-    4300030: score_00_b
-    4300032: score_06_b
-    4300034: score_01_b
-    4300036: score_07_b
-    4300038: score_09_b
-    4300040: score_08_b
-    4300042: score_04_b
-    7400000: Take 001
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: score_00_a
+  - first:
+      1: 100002
+    second: score_00_b
+  - first:
+      1: 100004
+    second: score_01_a
+  - first:
+      1: 100006
+    second: score_01_b
+  - first:
+      1: 100008
+    second: score_02_a
+  - first:
+      1: 100010
+    second: score_02_b
+  - first:
+      1: 100012
+    second: score_03_a
+  - first:
+      1: 100014
+    second: score_03_b
+  - first:
+      1: 100016
+    second: score_04_a
+  - first:
+      1: 100018
+    second: score_04_b
+  - first:
+      1: 100020
+    second: score_05_a
+  - first:
+      1: 100022
+    second: score_05_b
+  - first:
+      1: 100024
+    second: score_06_a
+  - first:
+      1: 100026
+    second: score_06_b
+  - first:
+      1: 100028
+    second: score_07_a
+  - first:
+      1: 100030
+    second: score_07_b
+  - first:
+      1: 100032
+    second: score_08_a
+  - first:
+      1: 100034
+    second: score_08_b
+  - first:
+      1: 100036
+    second: score_09_a
+  - first:
+      1: 100038
+    second: score_09_b
+  - first:
+      1: 100040
+    second: //RootNode
+  - first:
+      1: 100042
+    second: score_counter
+  - first:
+      1: 100044
+    second: score_counter_rings
+  - first:
+      1: 100046
+    second: Texture Group
+  - first:
+      1: 100048
+    second: Texture Group (2)
+  - first:
+      4: 400000
+    second: score_00_a
+  - first:
+      4: 400002
+    second: score_00_b
+  - first:
+      4: 400004
+    second: score_01_a
+  - first:
+      4: 400006
+    second: score_01_b
+  - first:
+      4: 400008
+    second: score_02_a
+  - first:
+      4: 400010
+    second: score_02_b
+  - first:
+      4: 400012
+    second: score_03_a
+  - first:
+      4: 400014
+    second: score_03_b
+  - first:
+      4: 400016
+    second: score_04_a
+  - first:
+      4: 400018
+    second: score_04_b
+  - first:
+      4: 400020
+    second: score_05_a
+  - first:
+      4: 400022
+    second: score_05_b
+  - first:
+      4: 400024
+    second: score_06_a
+  - first:
+      4: 400026
+    second: score_06_b
+  - first:
+      4: 400028
+    second: score_07_a
+  - first:
+      4: 400030
+    second: score_07_b
+  - first:
+      4: 400032
+    second: score_08_a
+  - first:
+      4: 400034
+    second: score_08_b
+  - first:
+      4: 400036
+    second: score_09_a
+  - first:
+      4: 400038
+    second: score_09_b
+  - first:
+      4: 400040
+    second: //RootNode
+  - first:
+      4: 400042
+    second: score_counter
+  - first:
+      4: 400044
+    second: score_counter_rings
+  - first:
+      4: 400046
+    second: Texture Group
+  - first:
+      4: 400048
+    second: Texture Group (2)
+  - first:
+      23: 2300000
+    second: score_00_a
+  - first:
+      23: 2300002
+    second: score_00_b
+  - first:
+      23: 2300004
+    second: score_01_a
+  - first:
+      23: 2300006
+    second: score_01_b
+  - first:
+      23: 2300008
+    second: score_02_a
+  - first:
+      23: 2300010
+    second: score_02_b
+  - first:
+      23: 2300012
+    second: score_03_a
+  - first:
+      23: 2300014
+    second: score_03_b
+  - first:
+      23: 2300016
+    second: score_04_a
+  - first:
+      23: 2300018
+    second: score_04_b
+  - first:
+      23: 2300020
+    second: score_05_a
+  - first:
+      23: 2300022
+    second: score_05_b
+  - first:
+      23: 2300024
+    second: score_06_a
+  - first:
+      23: 2300026
+    second: score_06_b
+  - first:
+      23: 2300028
+    second: score_07_a
+  - first:
+      23: 2300030
+    second: score_07_b
+  - first:
+      23: 2300032
+    second: score_08_a
+  - first:
+      23: 2300034
+    second: score_08_b
+  - first:
+      23: 2300036
+    second: score_09_a
+  - first:
+      23: 2300038
+    second: score_09_b
+  - first:
+      23: 2300040
+    second: score_counter
+  - first:
+      23: 2300042
+    second: score_counter_rings
+  - first:
+      33: 3300000
+    second: score_00_a
+  - first:
+      33: 3300002
+    second: score_00_b
+  - first:
+      33: 3300004
+    second: score_01_a
+  - first:
+      33: 3300006
+    second: score_01_b
+  - first:
+      33: 3300008
+    second: score_02_a
+  - first:
+      33: 3300010
+    second: score_02_b
+  - first:
+      33: 3300012
+    second: score_03_a
+  - first:
+      33: 3300014
+    second: score_03_b
+  - first:
+      33: 3300016
+    second: score_04_a
+  - first:
+      33: 3300018
+    second: score_04_b
+  - first:
+      33: 3300020
+    second: score_05_a
+  - first:
+      33: 3300022
+    second: score_05_b
+  - first:
+      33: 3300024
+    second: score_06_a
+  - first:
+      33: 3300026
+    second: score_06_b
+  - first:
+      33: 3300028
+    second: score_07_a
+  - first:
+      33: 3300030
+    second: score_07_b
+  - first:
+      33: 3300032
+    second: score_08_a
+  - first:
+      33: 3300034
+    second: score_08_b
+  - first:
+      33: 3300036
+    second: score_09_a
+  - first:
+      33: 3300038
+    second: score_09_b
+  - first:
+      33: 3300040
+    second: score_counter
+  - first:
+      33: 3300042
+    second: score_counter_rings
+  - first:
+      43: 4300000
+    second: score_00_a
+  - first:
+      43: 4300002
+    second: score_01_a
+  - first:
+      43: 4300004
+    second: score_02_a
+  - first:
+      43: 4300006
+    second: score_03_a
+  - first:
+      43: 4300008
+    second: score_04_a
+  - first:
+      43: 4300010
+    second: score_05_a
+  - first:
+      43: 4300012
+    second: score_06_a
+  - first:
+      43: 4300014
+    second: score_07_a
+  - first:
+      43: 4300016
+    second: score_08_a
+  - first:
+      43: 4300018
+    second: score_09_a
+  - first:
+      43: 4300020
+    second: score_counter_rings
+  - first:
+      43: 4300022
+    second: score_counter
+  - first:
+      43: 4300024
+    second: score_05_b
+  - first:
+      43: 4300026
+    second: score_02_b
+  - first:
+      43: 4300028
+    second: score_03_b
+  - first:
+      43: 4300030
+    second: score_00_b
+  - first:
+      43: 4300032
+    second: score_06_b
+  - first:
+      43: 4300034
+    second: score_01_b
+  - first:
+      43: 4300036
+    second: score_07_b
+  - first:
+      43: 4300038
+    second: score_09_b
+  - first:
+      43: 4300040
+    second: score_08_b
+  - first:
+      43: 4300042
+    second: score_04_b
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -150,25 +392,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -178,11 +444,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

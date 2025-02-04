@@ -2,13 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: laser_sight
   m_Shader: {fileID: 4800000, guid: f9b26924e77364c4398365d75ef41f06, type: 3}
-  m_ShaderKeywords: _ALPHABLEND_ON _EMISSION
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  - _EMISSION
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -16,6 +22,7 @@ Material:
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -67,6 +74,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 96b36f41d624a4b4ba9f178704bf6681, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Alpha: 1.6
     - _BumpScale: 1
@@ -90,3 +98,4 @@ Material:
     - _EmissionColor: {r: 0.38823533, g: 0.59537494, b: 1.2, a: 1}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
     - _TintColor: {r: 0.33996537, g: 0.80849236, b: 0.9632353, a: 1}
+  m_BuildTextureStacks: []

@@ -3,15 +3,17 @@
 --- !u!43 &4300000
 Mesh:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: grass_04
-  serializedVersion: 8
+  serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
     indexCount: 18
     topology: 0
+    baseVertex: 0
     firstVertex: 0
     vertexCount: 12
     localAABB:
@@ -25,14 +27,17 @@ Mesh:
   m_BindPose: []
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 1
   m_KeepIndices: 1
+  m_IndexFormat: 0
   m_IndexBuffer: 000001000200000002000300040005000600040006000700080009000a0008000a000b00
-  m_Skin: []
   m_VertexData:
-    m_CurrentChannels: 155
+    serializedVersion: 3
     m_VertexCount: 12
     m_Channels:
     - stream: 0
@@ -43,6 +48,10 @@ Mesh:
       offset: 12
       format: 0
       dimension: 3
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 4
     - stream: 0
       offset: 0
       format: 0
@@ -64,9 +73,29 @@ Mesh:
       format: 0
       dimension: 0
     - stream: 0
-      offset: 40
+      offset: 0
       format: 0
-      dimension: 4
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
     m_DataSize: 672
     _typelessdata: 7c80e0406cc770bd26ec383ff20d7fbf12eda63d4165ddbce5b0363eeb29543b3d1efa3ef4d96a3f7fa9d03cb441a4bc8fdd7fbf000080bf9f4ce3405171803f9309343ff20d7fbf12eda63d4165ddbce5b0363ece7c163e0000803bf2d96a3f7fa9d03cb441a4bc8fdd7fbf000080bf4d49e340cd05313f1cfb63bef20d7fbf12eda63d4165ddbc8ba89b3effb4db3d7a020d3e29dafc3e7fa9d03cb441a4bc8fdd7fbf000080bf9246e1405a7893bda4ef55bef20d7fbf12eda63d4165ddbc8ba89b3e3647823be3d7f83e29dafc3e7fa9d03cb441a4bc8fdd7fbf000080bf3f4ba2c0f375443c81c33f3fc0f872bf3ea9a03e0a64ddbce5b0363eeb29543bfa5d0f3f29dafa3e001ea43c17c4d0bc8edd7fbf000080bf5cfd95c04c28963f60283a3fc0f872bf3ea9a03e0a64ddbce5b0363ece7c163e0000803b28dafa3e001ea43c17c4d0bc8edd7fbf000080bf92b398c06045533fb8b5abbec0f872bf3ea9a03e0a64ddbc8ba89b3effb4db3d9a3a213e0000803b001ea43c17c4d0bc8edd7fbf000080bf988ba1c0253418bcaea6a3bec0f872bf3ea9a03e0a64ddbc8ba89b3e3647823bb7a20e3f0000803b001ea43c17c4d0bc8edd7fbf000080bf6772fdbff521853dc008b9bbbdf872bf3ca9a03e0864ddbce5b0363eeb29543b3d1e7a3ff1d96a3fff1da43c17c4d0bc8edd7fbf000080bf228fd2bfb6d4893f9094cabcbdf872bf3ca9a03e0864ddbce5b0363ece7c163e3d1efc3ef0d96a3fff1da43c17c4d0bc8edd7fbf000080bfe002dcbf9b11463ffa5c73bfbdf872bf3ca9a03e0864ddbc8ba89b3effb4db3dbd4f203f29dafc3eff1da43c17c4d0bc8edd7fbf000080bf62d6fabffb4e3e3d1cda6fbfbdf872bf3ca9a03e0864ddbc8ba89b3e3647823b117b793f29dafc3eff1da43c17c4d0bc8edd7fbf000080bf
   m_CompressedMesh:
@@ -125,6 +154,14 @@ Mesh:
     m_Center: {x: 1.0157089, y: 0.5505489, z: -0.10078028}
     m_Extent: {x: 6.087394, y: 0.62255585, z: 0.8498572}
   m_MeshUsageFlags: 0
+  m_CookingOptions: 30
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
-  m_MeshOptimized: 0
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: -1
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 

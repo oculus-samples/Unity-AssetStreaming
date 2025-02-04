@@ -2,150 +2,70 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: fx_smoke_03
   m_Shader: {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
   stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TexEnvs:
-      data:
-        first:
-          name: _MainTex
-        second:
-          m_Texture: {fileID: 2800000, guid: a1a27489d1ecc154e87de625de7e84a9, type: 3}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
-          name: _DecalTex
-        second:
-          m_Texture: {fileID: 0}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
-          name: _Cube
-        second:
-          m_Texture: {fileID: 0}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
-          name: _metalmak
-        second:
-          m_Texture: {fileID: 0}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DecalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a1a27489d1ecc154e87de625de7e84a9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _metalmak:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
-      data:
-        first:
-          name: _Shininess
-        second: 0.7
-      data:
-        first:
-          name: PixelSnap
-        second: 0
-      data:
-        first:
-          name: _InvFade
-        second: 0.58
-      data:
-        first:
-          name: _MagnitudeX
-        second: 25
-      data:
-        first:
-          name: _MagnitudeY
-        second: 25
-      data:
-        first:
-          name: _RimPower
-        second: 2.59
-      data:
-        first:
-          name: _FadeOutDistNear
-        second: 10
-      data:
-        first:
-          name: _FadeOutDistFar
-        second: 10000
-      data:
-        first:
-          name: _Multiplier
-        second: 1
-      data:
-        first:
-          name: _Bias
-        second: 0
-      data:
-        first:
-          name: _TimeOnDuration
-        second: 0.5
-      data:
-        first:
-          name: _TimeOffDuration
-        second: 0.5
-      data:
-        first:
-          name: _BlinkingTimeOffsScale
-        second: 5
-      data:
-        first:
-          name: _SizeGrowStartDist
-        second: 5
-      data:
-        first:
-          name: _SizeGrowEndDist
-        second: 50
-      data:
-        first:
-          name: _MaxGrowSize
-        second: 2.5
-      data:
-        first:
-          name: _NoiseAmount
-        second: 0
-      data:
-        first:
-          name: _VerticalBillboarding
-        second: 1
-      data:
-        first:
-          name: _ViewerOffset
-        second: 0
-      data:
-        first:
-          name: _ContractionAmount
-        second: 5
+    - PixelSnap: 0
+    - _Bias: 0
+    - _BlinkingTimeOffsScale: 5
+    - _ContractionAmount: 5
+    - _FadeOutDistFar: 10000
+    - _FadeOutDistNear: 10
+    - _InvFade: 0.58
+    - _MagnitudeX: 25
+    - _MagnitudeY: 25
+    - _MaxGrowSize: 2.5
+    - _Multiplier: 1
+    - _NoiseAmount: 0
+    - _RimPower: 2.59
+    - _Shininess: 0.7
+    - _SizeGrowEndDist: 50
+    - _SizeGrowStartDist: 5
+    - _TimeOffDuration: 0.5
+    - _TimeOnDuration: 0.5
+    - _VerticalBillboarding: 1
+    - _ViewerOffset: 0
     m_Colors:
-      data:
-        first:
-          name: _Color
-        second: {r: 1, g: 1, b: 1, a: 1}
-      data:
-        first:
-          name: _SpecColor
-        second: {r: 1, g: 1, b: 1, a: 1}
-      data:
-        first:
-          name: _Emission
-        second: {r: 0, g: 0, b: 0, a: 0}
-      data:
-        first:
-          name: _TintColor
-        second: {r: 0.8161765, g: 0.8161765, b: 0.8161765, a: 0.484}
-      data:
-        first:
-          name: _RimColor
-        second: {r: 0.25, g: 0.2029412, b: 0.1433824, a: 1}
-      data:
-        first:
-          name: _Si
-        second: {r: 0.6323529, g: 0.6323529, b: 0.6323529, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0.25, g: 0.2029412, b: 0.1433824, a: 1}
+    - _Si: {r: 0.6323529, g: 0.6323529, b: 0.6323529, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.8161765, g: 0.8161765, b: 0.8161765, a: 0.484}
+  m_BuildTextureStacks: []

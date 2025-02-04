@@ -1,142 +1,404 @@
 fileFormatVersion: 2
 guid: 41356ff1500dde049a2c6791fc2f1cf4
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: terrain_01
-    100002: //RootNode
-    100004: Texture Group
-    100006: terrain_02
-    100008: Mesh
-    100010: Texture Group (2)
-    100012: terrain_01_small
-    100014: Texture Group (3)
-    100016: Texture Group (4)
-    100018: Texture Group (5)
-    100020: Mesh (2)
-    100022: Texture Group (6)
-    100024: Texture Group (7)
-    100026: Texture Group (8)
-    100028: Camera
-    100030: Directional Light
-    100032: Texture Group (9)
-    100034: terrain_01_a
-    100036: terrain_01_b
-    100038: terrain_01_c
-    100040: Texture Group (10)
-    100042: terrain_01_d
-    100044: terrain_vista_01
-    100046: terrain_vista_02
-    100048: Texture Group (11)
-    100050: terrain_01_a (2)
-    100052: terrain_01_e
-    100054: Texture Group (12)
-    100056: terrain_01_f
-    100058: terrain_02_a
-    100060: terrain_03_a
-    100062: terrain_04_a
-    100064: terrain_vista_01_a
-    100066: terrain_vista_02_a
-    100068: Texture Group (13)
-    400000: terrain_01
-    400002: //RootNode
-    400004: Texture Group
-    400006: terrain_02
-    400008: Mesh
-    400010: Texture Group (2)
-    400012: terrain_01_small
-    400014: Texture Group (3)
-    400016: Texture Group (4)
-    400018: Texture Group (5)
-    400020: Mesh (2)
-    400022: Texture Group (6)
-    400024: Texture Group (7)
-    400026: Texture Group (8)
-    400028: Camera
-    400030: Directional Light
-    400032: Texture Group (9)
-    400034: terrain_01_a
-    400036: terrain_01_b
-    400038: terrain_01_c
-    400040: Texture Group (10)
-    400042: terrain_01_d
-    400044: terrain_vista_01
-    400046: terrain_vista_02
-    400048: Texture Group (11)
-    400050: terrain_01_a (2)
-    400052: terrain_01_e
-    400054: Texture Group (12)
-    400056: terrain_01_f
-    400058: terrain_02_a
-    400060: terrain_03_a
-    400062: terrain_04_a
-    400064: terrain_vista_01_a
-    400066: terrain_vista_02_a
-    400068: Texture Group (13)
-    2000000: Camera
-    2300000: terrain_01
-    2300002: terrain_02
-    2300004: Mesh
-    2300006: terrain_01_small
-    2300008: Mesh (2)
-    2300010: terrain_01_a
-    2300012: terrain_01_b
-    2300014: terrain_01_c
-    2300016: terrain_01_d
-    2300018: terrain_vista_01
-    2300020: terrain_vista_02
-    2300022: terrain_01_a (2)
-    2300024: terrain_01_e
-    2300026: terrain_01_f
-    2300028: terrain_02_a
-    2300030: terrain_03_a
-    2300032: terrain_04_a
-    2300034: terrain_vista_01_a
-    2300036: terrain_vista_02_a
-    3300000: terrain_01
-    3300002: terrain_02
-    3300004: Mesh
-    3300006: terrain_01_small
-    3300008: Mesh (2)
-    3300010: terrain_01_a
-    3300012: terrain_01_b
-    3300014: terrain_01_c
-    3300016: terrain_01_d
-    3300018: terrain_vista_01
-    3300020: terrain_vista_02
-    3300022: terrain_01_a (2)
-    3300024: terrain_01_e
-    3300026: terrain_01_f
-    3300028: terrain_02_a
-    3300030: terrain_03_a
-    3300032: terrain_04_a
-    3300034: terrain_vista_01_a
-    3300036: terrain_vista_02_a
-    4300000: terrain_01
-    4300002: terrain_02
-    4300004: Mesh
-    4300006: terrain_01_small
-    4300008: Mesh (2)
-    4300010: terrain_01_a
-    4300012: terrain_01_b
-    4300014: terrain_01_c
-    4300016: terrain_01_d
-    4300018: terrain_vista_01
-    4300020: terrain_vista_02
-    4300022: terrain_01_a (2)
-    4300024: terrain_01_e
-    4300026: terrain_01_f
-    4300028: terrain_03_a
-    4300030: terrain_02_a
-    4300032: terrain_04_a
-    4300034: terrain_vista_01_a
-    4300036: terrain_vista_02_a
-    9500000: //RootNode
-    10800000: Directional Light
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: terrain_01
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Texture Group
+  - first:
+      1: 100006
+    second: terrain_02
+  - first:
+      1: 100008
+    second: Mesh
+  - first:
+      1: 100010
+    second: Texture Group (2)
+  - first:
+      1: 100012
+    second: terrain_01_small
+  - first:
+      1: 100014
+    second: Texture Group (3)
+  - first:
+      1: 100016
+    second: Texture Group (4)
+  - first:
+      1: 100018
+    second: Texture Group (5)
+  - first:
+      1: 100020
+    second: Mesh (2)
+  - first:
+      1: 100022
+    second: Texture Group (6)
+  - first:
+      1: 100024
+    second: Texture Group (7)
+  - first:
+      1: 100026
+    second: Texture Group (8)
+  - first:
+      1: 100028
+    second: Camera
+  - first:
+      1: 100030
+    second: Directional Light
+  - first:
+      1: 100032
+    second: Texture Group (9)
+  - first:
+      1: 100034
+    second: terrain_01_a
+  - first:
+      1: 100036
+    second: terrain_01_b
+  - first:
+      1: 100038
+    second: terrain_01_c
+  - first:
+      1: 100040
+    second: Texture Group (10)
+  - first:
+      1: 100042
+    second: terrain_01_d
+  - first:
+      1: 100044
+    second: terrain_vista_01
+  - first:
+      1: 100046
+    second: terrain_vista_02
+  - first:
+      1: 100048
+    second: Texture Group (11)
+  - first:
+      1: 100050
+    second: terrain_01_a (2)
+  - first:
+      1: 100052
+    second: terrain_01_e
+  - first:
+      1: 100054
+    second: Texture Group (12)
+  - first:
+      1: 100056
+    second: terrain_01_f
+  - first:
+      1: 100058
+    second: terrain_02_a
+  - first:
+      1: 100060
+    second: terrain_03_a
+  - first:
+      1: 100062
+    second: terrain_04_a
+  - first:
+      1: 100064
+    second: terrain_vista_01_a
+  - first:
+      1: 100066
+    second: terrain_vista_02_a
+  - first:
+      1: 100068
+    second: Texture Group (13)
+  - first:
+      4: 400000
+    second: terrain_01
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Texture Group
+  - first:
+      4: 400006
+    second: terrain_02
+  - first:
+      4: 400008
+    second: Mesh
+  - first:
+      4: 400010
+    second: Texture Group (2)
+  - first:
+      4: 400012
+    second: terrain_01_small
+  - first:
+      4: 400014
+    second: Texture Group (3)
+  - first:
+      4: 400016
+    second: Texture Group (4)
+  - first:
+      4: 400018
+    second: Texture Group (5)
+  - first:
+      4: 400020
+    second: Mesh (2)
+  - first:
+      4: 400022
+    second: Texture Group (6)
+  - first:
+      4: 400024
+    second: Texture Group (7)
+  - first:
+      4: 400026
+    second: Texture Group (8)
+  - first:
+      4: 400028
+    second: Camera
+  - first:
+      4: 400030
+    second: Directional Light
+  - first:
+      4: 400032
+    second: Texture Group (9)
+  - first:
+      4: 400034
+    second: terrain_01_a
+  - first:
+      4: 400036
+    second: terrain_01_b
+  - first:
+      4: 400038
+    second: terrain_01_c
+  - first:
+      4: 400040
+    second: Texture Group (10)
+  - first:
+      4: 400042
+    second: terrain_01_d
+  - first:
+      4: 400044
+    second: terrain_vista_01
+  - first:
+      4: 400046
+    second: terrain_vista_02
+  - first:
+      4: 400048
+    second: Texture Group (11)
+  - first:
+      4: 400050
+    second: terrain_01_a (2)
+  - first:
+      4: 400052
+    second: terrain_01_e
+  - first:
+      4: 400054
+    second: Texture Group (12)
+  - first:
+      4: 400056
+    second: terrain_01_f
+  - first:
+      4: 400058
+    second: terrain_02_a
+  - first:
+      4: 400060
+    second: terrain_03_a
+  - first:
+      4: 400062
+    second: terrain_04_a
+  - first:
+      4: 400064
+    second: terrain_vista_01_a
+  - first:
+      4: 400066
+    second: terrain_vista_02_a
+  - first:
+      4: 400068
+    second: Texture Group (13)
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      23: 2300000
+    second: terrain_01
+  - first:
+      23: 2300002
+    second: terrain_02
+  - first:
+      23: 2300004
+    second: Mesh
+  - first:
+      23: 2300006
+    second: terrain_01_small
+  - first:
+      23: 2300008
+    second: Mesh (2)
+  - first:
+      23: 2300010
+    second: terrain_01_a
+  - first:
+      23: 2300012
+    second: terrain_01_b
+  - first:
+      23: 2300014
+    second: terrain_01_c
+  - first:
+      23: 2300016
+    second: terrain_01_d
+  - first:
+      23: 2300018
+    second: terrain_vista_01
+  - first:
+      23: 2300020
+    second: terrain_vista_02
+  - first:
+      23: 2300022
+    second: terrain_01_a (2)
+  - first:
+      23: 2300024
+    second: terrain_01_e
+  - first:
+      23: 2300026
+    second: terrain_01_f
+  - first:
+      23: 2300028
+    second: terrain_02_a
+  - first:
+      23: 2300030
+    second: terrain_03_a
+  - first:
+      23: 2300032
+    second: terrain_04_a
+  - first:
+      23: 2300034
+    second: terrain_vista_01_a
+  - first:
+      23: 2300036
+    second: terrain_vista_02_a
+  - first:
+      33: 3300000
+    second: terrain_01
+  - first:
+      33: 3300002
+    second: terrain_02
+  - first:
+      33: 3300004
+    second: Mesh
+  - first:
+      33: 3300006
+    second: terrain_01_small
+  - first:
+      33: 3300008
+    second: Mesh (2)
+  - first:
+      33: 3300010
+    second: terrain_01_a
+  - first:
+      33: 3300012
+    second: terrain_01_b
+  - first:
+      33: 3300014
+    second: terrain_01_c
+  - first:
+      33: 3300016
+    second: terrain_01_d
+  - first:
+      33: 3300018
+    second: terrain_vista_01
+  - first:
+      33: 3300020
+    second: terrain_vista_02
+  - first:
+      33: 3300022
+    second: terrain_01_a (2)
+  - first:
+      33: 3300024
+    second: terrain_01_e
+  - first:
+      33: 3300026
+    second: terrain_01_f
+  - first:
+      33: 3300028
+    second: terrain_02_a
+  - first:
+      33: 3300030
+    second: terrain_03_a
+  - first:
+      33: 3300032
+    second: terrain_04_a
+  - first:
+      33: 3300034
+    second: terrain_vista_01_a
+  - first:
+      33: 3300036
+    second: terrain_vista_02_a
+  - first:
+      43: 4300000
+    second: terrain_01
+  - first:
+      43: 4300002
+    second: terrain_02
+  - first:
+      43: 4300004
+    second: Mesh
+  - first:
+      43: 4300006
+    second: terrain_01_small
+  - first:
+      43: 4300008
+    second: Mesh (2)
+  - first:
+      43: 4300010
+    second: terrain_01_a
+  - first:
+      43: 4300012
+    second: terrain_01_b
+  - first:
+      43: 4300014
+    second: terrain_01_c
+  - first:
+      43: 4300016
+    second: terrain_01_d
+  - first:
+      43: 4300018
+    second: terrain_vista_01
+  - first:
+      43: 4300020
+    second: terrain_vista_02
+  - first:
+      43: 4300022
+    second: terrain_01_a (2)
+  - first:
+      43: 4300024
+    second: terrain_01_e
+  - first:
+      43: 4300026
+    second: terrain_01_f
+  - first:
+      43: 4300028
+    second: terrain_03_a
+  - first:
+      43: 4300030
+    second: terrain_02_a
+  - first:
+      43: 4300032
+    second: terrain_04_a
+  - first:
+      43: 4300034
+    second: terrain_vista_01_a
+  - first:
+      43: 4300036
+    second: terrain_vista_02_a
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Directional Light
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -145,6 +407,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -169,25 +432,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -196,10 +470,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -209,13 +483,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

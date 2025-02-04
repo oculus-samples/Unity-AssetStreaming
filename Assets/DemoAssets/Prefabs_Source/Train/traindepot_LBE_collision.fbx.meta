@@ -1,50 +1,128 @@
 fileFormatVersion: 2
 guid: d0e99ecbae5d488428ceba028021dc6c
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: traindepot_LBE_collision
-    100004: traindepot_LBE_player_collision
-    100006: traindepot_LBE_occlusion
-    100008: traindepot_LBE_world_collision_dirt
-    100010: traindepot_LBE_world_collision_glass
-    100012: traindepot_LBE_world_collision_metal
-    100014: traindepot_LBE_world_collision_stone
-    100016: traindepot_LBE_world_collision_wood
-    400000: //RootNode
-    400002: traindepot_LBE_collision
-    400004: traindepot_LBE_player_collision
-    400006: traindepot_LBE_occlusion
-    400008: traindepot_LBE_world_collision_dirt
-    400010: traindepot_LBE_world_collision_glass
-    400012: traindepot_LBE_world_collision_metal
-    400014: traindepot_LBE_world_collision_stone
-    400016: traindepot_LBE_world_collision_wood
-    2300000: traindepot_LBE_player_collision
-    2300002: traindepot_LBE_occlusion
-    2300004: traindepot_LBE_world_collision_dirt
-    2300006: traindepot_LBE_world_collision_glass
-    2300008: traindepot_LBE_world_collision_metal
-    2300010: traindepot_LBE_world_collision_stone
-    2300012: traindepot_LBE_world_collision_wood
-    3300000: traindepot_LBE_player_collision
-    3300002: traindepot_LBE_occlusion
-    3300004: traindepot_LBE_world_collision_dirt
-    3300006: traindepot_LBE_world_collision_glass
-    3300008: traindepot_LBE_world_collision_metal
-    3300010: traindepot_LBE_world_collision_stone
-    3300012: traindepot_LBE_world_collision_wood
-    4300000: traindepot_LBE_player_collision
-    4300002: traindepot_LBE_world_collision_wood
-    4300004: traindepot_LBE_world_collision_dirt
-    4300006: traindepot_LBE_world_collision_glass
-    4300008: traindepot_LBE_world_collision_metal
-    4300010: traindepot_LBE_world_collision_stone
-    4300012: traindepot_LBE_occlusion
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: traindepot_LBE_collision
+  - first:
+      1: 100004
+    second: traindepot_LBE_player_collision
+  - first:
+      1: 100006
+    second: traindepot_LBE_occlusion
+  - first:
+      1: 100008
+    second: traindepot_LBE_world_collision_dirt
+  - first:
+      1: 100010
+    second: traindepot_LBE_world_collision_glass
+  - first:
+      1: 100012
+    second: traindepot_LBE_world_collision_metal
+  - first:
+      1: 100014
+    second: traindepot_LBE_world_collision_stone
+  - first:
+      1: 100016
+    second: traindepot_LBE_world_collision_wood
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: traindepot_LBE_collision
+  - first:
+      4: 400004
+    second: traindepot_LBE_player_collision
+  - first:
+      4: 400006
+    second: traindepot_LBE_occlusion
+  - first:
+      4: 400008
+    second: traindepot_LBE_world_collision_dirt
+  - first:
+      4: 400010
+    second: traindepot_LBE_world_collision_glass
+  - first:
+      4: 400012
+    second: traindepot_LBE_world_collision_metal
+  - first:
+      4: 400014
+    second: traindepot_LBE_world_collision_stone
+  - first:
+      4: 400016
+    second: traindepot_LBE_world_collision_wood
+  - first:
+      23: 2300000
+    second: traindepot_LBE_player_collision
+  - first:
+      23: 2300002
+    second: traindepot_LBE_occlusion
+  - first:
+      23: 2300004
+    second: traindepot_LBE_world_collision_dirt
+  - first:
+      23: 2300006
+    second: traindepot_LBE_world_collision_glass
+  - first:
+      23: 2300008
+    second: traindepot_LBE_world_collision_metal
+  - first:
+      23: 2300010
+    second: traindepot_LBE_world_collision_stone
+  - first:
+      23: 2300012
+    second: traindepot_LBE_world_collision_wood
+  - first:
+      33: 3300000
+    second: traindepot_LBE_player_collision
+  - first:
+      33: 3300002
+    second: traindepot_LBE_occlusion
+  - first:
+      33: 3300004
+    second: traindepot_LBE_world_collision_dirt
+  - first:
+      33: 3300006
+    second: traindepot_LBE_world_collision_glass
+  - first:
+      33: 3300008
+    second: traindepot_LBE_world_collision_metal
+  - first:
+      33: 3300010
+    second: traindepot_LBE_world_collision_stone
+  - first:
+      33: 3300012
+    second: traindepot_LBE_world_collision_wood
+  - first:
+      43: 4300000
+    second: traindepot_LBE_player_collision
+  - first:
+      43: 4300002
+    second: traindepot_LBE_world_collision_wood
+  - first:
+      43: 4300004
+    second: traindepot_LBE_world_collision_dirt
+  - first:
+      43: 4300006
+    second: traindepot_LBE_world_collision_glass
+  - first:
+      43: 4300008
+    second: traindepot_LBE_world_collision_metal
+  - first:
+      43: 4300010
+    second: traindepot_LBE_world_collision_stone
+  - first:
+      43: 4300012
+    second: traindepot_LBE_occlusion
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -53,6 +131,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -77,25 +156,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -104,10 +194,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -117,13 +207,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

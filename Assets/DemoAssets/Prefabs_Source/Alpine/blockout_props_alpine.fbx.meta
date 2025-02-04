@@ -1,104 +1,290 @@
 fileFormatVersion: 2
 guid: da7ea4a231045f64f8b524ddc8bcee9d
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Mesh
-    100004: snow_test
-    100006: Texture Group
-    100008: Texture Group (2)
-    100010: trench_wall_01_a
-    100012: Texture Group (3)
-    100014: trench_brace_01_a
-    100016: trench_floor_01_a
-    100018: trench_floor_02_a
-    100020: bridge
-    100022: river
-    100024: temp
-    100026: temp_MeshPart0
-    100028: temp_MeshPart1
-    100030: Texture Group (4)
-    100032: terrain_01_a
-    100034: wood_floor_01_a
-    100036: Texture Group (5)
-    100038: wood_floor_02_a
-    100040: mine_wall_01_a
-    100042: Mesh (2)
-    100044: Texture Group (6)
-    400000: //RootNode
-    400002: Mesh
-    400004: snow_test
-    400006: Texture Group
-    400008: Texture Group (2)
-    400010: trench_wall_01_a
-    400012: Texture Group (3)
-    400014: trench_brace_01_a
-    400016: trench_floor_01_a
-    400018: trench_floor_02_a
-    400020: bridge
-    400022: river
-    400024: temp
-    400026: temp_MeshPart0
-    400028: temp_MeshPart1
-    400030: Texture Group (4)
-    400032: terrain_01_a
-    400034: wood_floor_01_a
-    400036: Texture Group (5)
-    400038: wood_floor_02_a
-    400040: mine_wall_01_a
-    400042: Mesh (2)
-    400044: Texture Group (6)
-    2300000: Mesh
-    2300002: snow_test
-    2300004: trench_wall_01_a
-    2300006: trench_brace_01_a
-    2300008: trench_floor_01_a
-    2300010: trench_floor_02_a
-    2300012: bridge
-    2300014: river
-    2300016: temp_MeshPart0
-    2300018: temp_MeshPart1
-    2300020: terrain_01_a
-    2300022: wood_floor_01_a
-    2300024: wood_floor_02_a
-    2300026: mine_wall_01_a
-    2300028: Mesh (2)
-    3300000: Mesh
-    3300002: snow_test
-    3300004: trench_wall_01_a
-    3300006: trench_brace_01_a
-    3300008: trench_floor_01_a
-    3300010: trench_floor_02_a
-    3300012: bridge
-    3300014: river
-    3300016: temp_MeshPart0
-    3300018: temp_MeshPart1
-    3300020: terrain_01_a
-    3300022: wood_floor_01_a
-    3300024: wood_floor_02_a
-    3300026: mine_wall_01_a
-    3300028: Mesh (2)
-    4300000: Mesh
-    4300002: snow_test
-    4300004: trench_wall_01_a
-    4300006: trench_brace_01_a
-    4300008: trench_floor_01_a
-    4300010: trench_floor_02_a
-    4300012: temp_MeshPart0
-    4300014: temp_MeshPart1
-    4300016: river
-    4300018: bridge
-    4300020: terrain_01_a
-    4300022: wood_floor_01_a
-    4300024: wood_floor_02_a
-    4300026: mine_wall_01_a
-    4300028: Mesh (2)
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Mesh
+  - first:
+      1: 100004
+    second: snow_test
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: Texture Group (2)
+  - first:
+      1: 100010
+    second: trench_wall_01_a
+  - first:
+      1: 100012
+    second: Texture Group (3)
+  - first:
+      1: 100014
+    second: trench_brace_01_a
+  - first:
+      1: 100016
+    second: trench_floor_01_a
+  - first:
+      1: 100018
+    second: trench_floor_02_a
+  - first:
+      1: 100020
+    second: bridge
+  - first:
+      1: 100022
+    second: river
+  - first:
+      1: 100024
+    second: temp
+  - first:
+      1: 100026
+    second: temp_MeshPart0
+  - first:
+      1: 100028
+    second: temp_MeshPart1
+  - first:
+      1: 100030
+    second: Texture Group (4)
+  - first:
+      1: 100032
+    second: terrain_01_a
+  - first:
+      1: 100034
+    second: wood_floor_01_a
+  - first:
+      1: 100036
+    second: Texture Group (5)
+  - first:
+      1: 100038
+    second: wood_floor_02_a
+  - first:
+      1: 100040
+    second: mine_wall_01_a
+  - first:
+      1: 100042
+    second: Mesh (2)
+  - first:
+      1: 100044
+    second: Texture Group (6)
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Mesh
+  - first:
+      4: 400004
+    second: snow_test
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: Texture Group (2)
+  - first:
+      4: 400010
+    second: trench_wall_01_a
+  - first:
+      4: 400012
+    second: Texture Group (3)
+  - first:
+      4: 400014
+    second: trench_brace_01_a
+  - first:
+      4: 400016
+    second: trench_floor_01_a
+  - first:
+      4: 400018
+    second: trench_floor_02_a
+  - first:
+      4: 400020
+    second: bridge
+  - first:
+      4: 400022
+    second: river
+  - first:
+      4: 400024
+    second: temp
+  - first:
+      4: 400026
+    second: temp_MeshPart0
+  - first:
+      4: 400028
+    second: temp_MeshPart1
+  - first:
+      4: 400030
+    second: Texture Group (4)
+  - first:
+      4: 400032
+    second: terrain_01_a
+  - first:
+      4: 400034
+    second: wood_floor_01_a
+  - first:
+      4: 400036
+    second: Texture Group (5)
+  - first:
+      4: 400038
+    second: wood_floor_02_a
+  - first:
+      4: 400040
+    second: mine_wall_01_a
+  - first:
+      4: 400042
+    second: Mesh (2)
+  - first:
+      4: 400044
+    second: Texture Group (6)
+  - first:
+      23: 2300000
+    second: Mesh
+  - first:
+      23: 2300002
+    second: snow_test
+  - first:
+      23: 2300004
+    second: trench_wall_01_a
+  - first:
+      23: 2300006
+    second: trench_brace_01_a
+  - first:
+      23: 2300008
+    second: trench_floor_01_a
+  - first:
+      23: 2300010
+    second: trench_floor_02_a
+  - first:
+      23: 2300012
+    second: bridge
+  - first:
+      23: 2300014
+    second: river
+  - first:
+      23: 2300016
+    second: temp_MeshPart0
+  - first:
+      23: 2300018
+    second: temp_MeshPart1
+  - first:
+      23: 2300020
+    second: terrain_01_a
+  - first:
+      23: 2300022
+    second: wood_floor_01_a
+  - first:
+      23: 2300024
+    second: wood_floor_02_a
+  - first:
+      23: 2300026
+    second: mine_wall_01_a
+  - first:
+      23: 2300028
+    second: Mesh (2)
+  - first:
+      33: 3300000
+    second: Mesh
+  - first:
+      33: 3300002
+    second: snow_test
+  - first:
+      33: 3300004
+    second: trench_wall_01_a
+  - first:
+      33: 3300006
+    second: trench_brace_01_a
+  - first:
+      33: 3300008
+    second: trench_floor_01_a
+  - first:
+      33: 3300010
+    second: trench_floor_02_a
+  - first:
+      33: 3300012
+    second: bridge
+  - first:
+      33: 3300014
+    second: river
+  - first:
+      33: 3300016
+    second: temp_MeshPart0
+  - first:
+      33: 3300018
+    second: temp_MeshPart1
+  - first:
+      33: 3300020
+    second: terrain_01_a
+  - first:
+      33: 3300022
+    second: wood_floor_01_a
+  - first:
+      33: 3300024
+    second: wood_floor_02_a
+  - first:
+      33: 3300026
+    second: mine_wall_01_a
+  - first:
+      33: 3300028
+    second: Mesh (2)
+  - first:
+      43: 4300000
+    second: Mesh
+  - first:
+      43: 4300002
+    second: snow_test
+  - first:
+      43: 4300004
+    second: trench_wall_01_a
+  - first:
+      43: 4300006
+    second: trench_brace_01_a
+  - first:
+      43: 4300008
+    second: trench_floor_01_a
+  - first:
+      43: 4300010
+    second: trench_floor_02_a
+  - first:
+      43: 4300012
+    second: temp_MeshPart0
+  - first:
+      43: 4300014
+    second: temp_MeshPart1
+  - first:
+      43: 4300016
+    second: river
+  - first:
+      43: 4300018
+    second: bridge
+  - first:
+      43: 4300020
+    second: terrain_01_a
+  - first:
+      43: 4300022
+    second: wood_floor_01_a
+  - first:
+      43: 4300024
+    second: wood_floor_02_a
+  - first:
+      43: 4300026
+    second: mine_wall_01_a
+  - first:
+      43: 4300028
+    second: Mesh (2)
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -107,6 +293,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -130,34 +317,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -167,13 +369,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,59 +1,155 @@
 fileFormatVersion: 2
 guid: 429bfdc6408fef64ab3732105075523c
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Texture Group
-    100004: Texture Group (2)
-    100006: train_boxcar_01_a
-    100008: train_boxcar_door
-    100010: train_boxcar_interior
-    100012: train_caboose_01_a
-    100014: train_flatbed_01_a
-    100016: train_locomotive_01_a
-    100018: train_luggage_01_a
-    100020: train_sleeper_01_a
-    400000: //RootNode
-    400002: Texture Group
-    400004: Texture Group (2)
-    400006: train_boxcar_01_a
-    400008: train_boxcar_door
-    400010: train_boxcar_interior
-    400012: train_caboose_01_a
-    400014: train_flatbed_01_a
-    400016: train_locomotive_01_a
-    400018: train_luggage_01_a
-    400020: train_sleeper_01_a
-    2300000: train_boxcar_01_a
-    2300002: train_boxcar_door
-    2300004: train_boxcar_interior
-    2300006: train_caboose_01_a
-    2300008: train_flatbed_01_a
-    2300010: train_locomotive_01_a
-    2300012: train_luggage_01_a
-    2300014: train_sleeper_01_a
-    3300000: train_boxcar_01_a
-    3300002: train_boxcar_door
-    3300004: train_boxcar_interior
-    3300006: train_caboose_01_a
-    3300008: train_flatbed_01_a
-    3300010: train_locomotive_01_a
-    3300012: train_luggage_01_a
-    3300014: train_sleeper_01_a
-    4300000: train_boxcar_01_a
-    4300002: train_luggage_01_a
-    4300004: train_caboose_01_a
-    4300006: train_flatbed_01_a
-    4300008: train_sleeper_01_a
-    4300010: train_locomotive_01_a
-    4300012: train_boxcar_interior
-    4300014: train_boxcar_door
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Texture Group
+  - first:
+      1: 100004
+    second: Texture Group (2)
+  - first:
+      1: 100006
+    second: train_boxcar_01_a
+  - first:
+      1: 100008
+    second: train_boxcar_door
+  - first:
+      1: 100010
+    second: train_boxcar_interior
+  - first:
+      1: 100012
+    second: train_caboose_01_a
+  - first:
+      1: 100014
+    second: train_flatbed_01_a
+  - first:
+      1: 100016
+    second: train_locomotive_01_a
+  - first:
+      1: 100018
+    second: train_luggage_01_a
+  - first:
+      1: 100020
+    second: train_sleeper_01_a
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Texture Group
+  - first:
+      4: 400004
+    second: Texture Group (2)
+  - first:
+      4: 400006
+    second: train_boxcar_01_a
+  - first:
+      4: 400008
+    second: train_boxcar_door
+  - first:
+      4: 400010
+    second: train_boxcar_interior
+  - first:
+      4: 400012
+    second: train_caboose_01_a
+  - first:
+      4: 400014
+    second: train_flatbed_01_a
+  - first:
+      4: 400016
+    second: train_locomotive_01_a
+  - first:
+      4: 400018
+    second: train_luggage_01_a
+  - first:
+      4: 400020
+    second: train_sleeper_01_a
+  - first:
+      23: 2300000
+    second: train_boxcar_01_a
+  - first:
+      23: 2300002
+    second: train_boxcar_door
+  - first:
+      23: 2300004
+    second: train_boxcar_interior
+  - first:
+      23: 2300006
+    second: train_caboose_01_a
+  - first:
+      23: 2300008
+    second: train_flatbed_01_a
+  - first:
+      23: 2300010
+    second: train_locomotive_01_a
+  - first:
+      23: 2300012
+    second: train_luggage_01_a
+  - first:
+      23: 2300014
+    second: train_sleeper_01_a
+  - first:
+      33: 3300000
+    second: train_boxcar_01_a
+  - first:
+      33: 3300002
+    second: train_boxcar_door
+  - first:
+      33: 3300004
+    second: train_boxcar_interior
+  - first:
+      33: 3300006
+    second: train_caboose_01_a
+  - first:
+      33: 3300008
+    second: train_flatbed_01_a
+  - first:
+      33: 3300010
+    second: train_locomotive_01_a
+  - first:
+      33: 3300012
+    second: train_luggage_01_a
+  - first:
+      33: 3300014
+    second: train_sleeper_01_a
+  - first:
+      43: 4300000
+    second: train_boxcar_01_a
+  - first:
+      43: 4300002
+    second: train_luggage_01_a
+  - first:
+      43: 4300004
+    second: train_caboose_01_a
+  - first:
+      43: 4300006
+    second: train_flatbed_01_a
+  - first:
+      43: 4300008
+    second: train_sleeper_01_a
+  - first:
+      43: 4300010
+    second: train_locomotive_01_a
+  - first:
+      43: 4300012
+    second: train_boxcar_interior
+  - first:
+      43: 4300014
+    second: train_boxcar_door
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -62,6 +158,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -85,34 +182,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -122,13 +234,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

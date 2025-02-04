@@ -1,54 +1,140 @@
 fileFormatVersion: 2
 guid: f33a36a302264de4b8be99065b947406
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Camera
-    100004: Directional Light
-    100006: shockwave_01
-    100008: laser_sight_01
-    100010: Texture Group
-    100012: decal_cylinder
-    100014: decal_cylinder_sign
-    100016: arrow
-    100018: botgem
-    400000: //RootNode
-    400002: Camera
-    400004: Directional Light
-    400006: shockwave_01
-    400008: laser_sight_01
-    400010: Texture Group
-    400012: decal_cylinder
-    400014: decal_cylinder_sign
-    400016: arrow
-    400018: botgem
-    2300000: //RootNode
-    2300002: shockwave_01
-    2300004: laser_sight_01
-    2300006: decal_cylinder
-    2300008: decal_cylinder_sign
-    2300010: arrow
-    2300012: botgem
-    3300000: //RootNode
-    3300002: shockwave_01
-    3300004: laser_sight_01
-    3300006: decal_cylinder
-    3300008: decal_cylinder_sign
-    3300010: arrow
-    3300012: botgem
-    4300000: simple plane
-    4300002: shockwave_01
-    4300004: laser_sight_01
-    4300006: decal_cylinder
-    4300008: decal_cylinder_sign
-    4300010: arrow
-    4300012: botgem
-    7400000: Take 001
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Camera
+  - first:
+      1: 100004
+    second: Directional Light
+  - first:
+      1: 100006
+    second: shockwave_01
+  - first:
+      1: 100008
+    second: laser_sight_01
+  - first:
+      1: 100010
+    second: Texture Group
+  - first:
+      1: 100012
+    second: decal_cylinder
+  - first:
+      1: 100014
+    second: decal_cylinder_sign
+  - first:
+      1: 100016
+    second: arrow
+  - first:
+      1: 100018
+    second: botgem
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Camera
+  - first:
+      4: 400004
+    second: Directional Light
+  - first:
+      4: 400006
+    second: shockwave_01
+  - first:
+      4: 400008
+    second: laser_sight_01
+  - first:
+      4: 400010
+    second: Texture Group
+  - first:
+      4: 400012
+    second: decal_cylinder
+  - first:
+      4: 400014
+    second: decal_cylinder_sign
+  - first:
+      4: 400016
+    second: arrow
+  - first:
+      4: 400018
+    second: botgem
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: shockwave_01
+  - first:
+      23: 2300004
+    second: laser_sight_01
+  - first:
+      23: 2300006
+    second: decal_cylinder
+  - first:
+      23: 2300008
+    second: decal_cylinder_sign
+  - first:
+      23: 2300010
+    second: arrow
+  - first:
+      23: 2300012
+    second: botgem
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: shockwave_01
+  - first:
+      33: 3300004
+    second: laser_sight_01
+  - first:
+      33: 3300006
+    second: decal_cylinder
+  - first:
+      33: 3300008
+    second: decal_cylinder_sign
+  - first:
+      33: 3300010
+    second: arrow
+  - first:
+      33: 3300012
+    second: botgem
+  - first:
+      43: 4300000
+    second: simple plane
+  - first:
+      43: 4300002
+    second: shockwave_01
+  - first:
+      43: 4300004
+    second: laser_sight_01
+  - first:
+      43: 4300006
+    second: decal_cylinder
+  - first:
+      43: 4300008
+    second: decal_cylinder_sign
+  - first:
+      43: 4300010
+    second: arrow
+  - first:
+      43: 4300012
+    second: botgem
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -57,6 +143,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -80,34 +167,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 10
     normalImportMode: 1
     tangentImportMode: 4
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -117,13 +219,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

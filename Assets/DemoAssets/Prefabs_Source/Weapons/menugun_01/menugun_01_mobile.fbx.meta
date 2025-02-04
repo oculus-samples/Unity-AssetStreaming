@@ -1,87 +1,207 @@
 fileFormatVersion: 2
 guid: 628e267c96de9ed49b988c92de0ea7ce
-timeCreated: 1496781509
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: menugun_01
-    100002: menugun_01_chamber
-    100004: menugun_01_hammer
-    100006: //RootNode
-    100008: menugun_01_trigger
-    100010: Web
-    100012: Bone-Back_1
-    100014: Bone-Back_2
-    100016: Bone-Back_3
-    100018: Bone-Back_4
-    100020: Bone-Back_tip
-    100022: Bone-Front_1
-    100024: Bone-Front_2
-    100026: Bone-Front_3
-    100028: Bone-Front_4
-    100030: Bone-Front_tip
-    100032: Main
-    100034: Trigger
-    100036: Bone-Front_5
-    100038: Bone-Front_6
-    400000: menugun_01
-    400002: menugun_01_chamber
-    400004: menugun_01_hammer
-    400006: //RootNode
-    400008: menugun_01_trigger
-    400010: Web
-    400012: Bone-Back_1
-    400014: Bone-Back_2
-    400016: Bone-Back_3
-    400018: Bone-Back_4
-    400020: Bone-Back_tip
-    400022: Bone-Front_1
-    400024: Bone-Front_2
-    400026: Bone-Front_3
-    400028: Bone-Front_4
-    400030: Bone-Front_tip
-    400032: Main
-    400034: Trigger
-    400036: Bone-Front_5
-    400038: Bone-Front_6
-    2300000: menugun_01
-    2300002: menugun_01_chamber
-    2300004: menugun_01_hammer
-    2300006: menugun_01_trigger
-    2300008: Web
-    3300000: menugun_01
-    3300002: menugun_01_chamber
-    3300004: menugun_01_hammer
-    3300006: menugun_01_trigger
-    3300008: Web
-    4300000: menugun_01_hammer
-    4300002: menugun_01_trigger
-    4300004: menugun_01_chamber
-    4300006: Web
-    4300008: menugun_01
-    9500000: //RootNode
-    13700000: Web
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: menugun_01
+  - first:
+      1: 100002
+    second: menugun_01_chamber
+  - first:
+      1: 100004
+    second: menugun_01_hammer
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      1: 100008
+    second: menugun_01_trigger
+  - first:
+      1: 100010
+    second: Web
+  - first:
+      1: 100012
+    second: Bone-Back_1
+  - first:
+      1: 100014
+    second: Bone-Back_2
+  - first:
+      1: 100016
+    second: Bone-Back_3
+  - first:
+      1: 100018
+    second: Bone-Back_4
+  - first:
+      1: 100020
+    second: Bone-Back_tip
+  - first:
+      1: 100022
+    second: Bone-Front_1
+  - first:
+      1: 100024
+    second: Bone-Front_2
+  - first:
+      1: 100026
+    second: Bone-Front_3
+  - first:
+      1: 100028
+    second: Bone-Front_4
+  - first:
+      1: 100030
+    second: Bone-Front_tip
+  - first:
+      1: 100032
+    second: Main
+  - first:
+      1: 100034
+    second: Trigger
+  - first:
+      1: 100036
+    second: Bone-Front_5
+  - first:
+      1: 100038
+    second: Bone-Front_6
+  - first:
+      4: 400000
+    second: menugun_01
+  - first:
+      4: 400002
+    second: menugun_01_chamber
+  - first:
+      4: 400004
+    second: menugun_01_hammer
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      4: 400008
+    second: menugun_01_trigger
+  - first:
+      4: 400010
+    second: Web
+  - first:
+      4: 400012
+    second: Bone-Back_1
+  - first:
+      4: 400014
+    second: Bone-Back_2
+  - first:
+      4: 400016
+    second: Bone-Back_3
+  - first:
+      4: 400018
+    second: Bone-Back_4
+  - first:
+      4: 400020
+    second: Bone-Back_tip
+  - first:
+      4: 400022
+    second: Bone-Front_1
+  - first:
+      4: 400024
+    second: Bone-Front_2
+  - first:
+      4: 400026
+    second: Bone-Front_3
+  - first:
+      4: 400028
+    second: Bone-Front_4
+  - first:
+      4: 400030
+    second: Bone-Front_tip
+  - first:
+      4: 400032
+    second: Main
+  - first:
+      4: 400034
+    second: Trigger
+  - first:
+      4: 400036
+    second: Bone-Front_5
+  - first:
+      4: 400038
+    second: Bone-Front_6
+  - first:
+      23: 2300000
+    second: menugun_01
+  - first:
+      23: 2300002
+    second: menugun_01_chamber
+  - first:
+      23: 2300004
+    second: menugun_01_hammer
+  - first:
+      23: 2300006
+    second: menugun_01_trigger
+  - first:
+      23: 2300008
+    second: Web
+  - first:
+      33: 3300000
+    second: menugun_01
+  - first:
+      33: 3300002
+    second: menugun_01_chamber
+  - first:
+      33: 3300004
+    second: menugun_01_hammer
+  - first:
+      33: 3300006
+    second: menugun_01_trigger
+  - first:
+      33: 3300008
+    second: Web
+  - first:
+      43: 4300000
+    second: menugun_01_hammer
+  - first:
+      43: 4300002
+    second: menugun_01_trigger
+  - first:
+      43: 4300004
+    second: menugun_01_chamber
+  - first:
+      43: 4300006
+    second: Web
+  - first:
+      43: 4300008
+    second: menugun_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Web
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -89,25 +209,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -117,11 +261,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

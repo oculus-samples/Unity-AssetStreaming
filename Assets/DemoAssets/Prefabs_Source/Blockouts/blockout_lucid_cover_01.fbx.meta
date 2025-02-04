@@ -1,141 +1,386 @@
 fileFormatVersion: 2
 guid: e39b03a6ed7a4754983a9ad44a099549
-timeCreated: 1533146521
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: pCube1
-    100004: pCube10
-    100006: pCube11
-    100008: pCube12
-    100010: pCube13
-    100012: pCube14
-    100014: pCube15
-    100016: pCube16
-    100018: pCube17
-    100020: pCube18
-    100022: pCube19
-    100024: pCube20
-    100026: pCube21
-    100028: pCube22
-    100030: pCube23
-    100032: pCube24
-    100034: pCube25
-    100036: pCube26
-    100038: pCube27
-    100040: pCube3
-    100042: pCube5
-    100044: pCube9
-    100046: pCylinder1
-    100048: pCylinder2
-    400000: //RootNode
-    400002: pCube1
-    400004: pCube10
-    400006: pCube11
-    400008: pCube12
-    400010: pCube13
-    400012: pCube14
-    400014: pCube15
-    400016: pCube16
-    400018: pCube17
-    400020: pCube18
-    400022: pCube19
-    400024: pCube20
-    400026: pCube21
-    400028: pCube22
-    400030: pCube23
-    400032: pCube24
-    400034: pCube25
-    400036: pCube26
-    400038: pCube27
-    400040: pCube3
-    400042: pCube5
-    400044: pCube9
-    400046: pCylinder1
-    400048: pCylinder2
-    2300000: pCube1
-    2300002: pCube10
-    2300004: pCube11
-    2300006: pCube12
-    2300008: pCube13
-    2300010: pCube14
-    2300012: pCube15
-    2300014: pCube16
-    2300016: pCube17
-    2300018: pCube18
-    2300020: pCube19
-    2300022: pCube20
-    2300024: pCube21
-    2300026: pCube22
-    2300028: pCube23
-    2300030: pCube24
-    2300032: pCube25
-    2300034: pCube26
-    2300036: pCube27
-    2300038: pCube3
-    2300040: pCube5
-    2300042: pCube9
-    2300044: pCylinder1
-    2300046: pCylinder2
-    3300000: pCube1
-    3300002: pCube10
-    3300004: pCube11
-    3300006: pCube12
-    3300008: pCube13
-    3300010: pCube14
-    3300012: pCube15
-    3300014: pCube16
-    3300016: pCube17
-    3300018: pCube18
-    3300020: pCube19
-    3300022: pCube20
-    3300024: pCube21
-    3300026: pCube22
-    3300028: pCube23
-    3300030: pCube24
-    3300032: pCube25
-    3300034: pCube26
-    3300036: pCube27
-    3300038: pCube3
-    3300040: pCube5
-    3300042: pCube9
-    3300044: pCylinder1
-    3300046: pCylinder2
-    4300000: pCube1
-    4300002: pCube3
-    4300004: pCube5
-    4300006: pCube9
-    4300008: pCube10
-    4300010: pCube11
-    4300012: pCube12
-    4300014: pCube13
-    4300016: pCube14
-    4300018: pCube15
-    4300020: pCube16
-    4300022: pCube17
-    4300024: pCylinder1
-    4300026: pCylinder2
-    4300028: pCube18
-    4300030: pCube19
-    4300032: pCube20
-    4300034: pCube21
-    4300036: pCube22
-    4300038: pCube23
-    4300040: pCube24
-    4300042: pCube25
-    4300044: pCube26
-    4300046: pCube27
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: pCube1
+  - first:
+      1: 100004
+    second: pCube10
+  - first:
+      1: 100006
+    second: pCube11
+  - first:
+      1: 100008
+    second: pCube12
+  - first:
+      1: 100010
+    second: pCube13
+  - first:
+      1: 100012
+    second: pCube14
+  - first:
+      1: 100014
+    second: pCube15
+  - first:
+      1: 100016
+    second: pCube16
+  - first:
+      1: 100018
+    second: pCube17
+  - first:
+      1: 100020
+    second: pCube18
+  - first:
+      1: 100022
+    second: pCube19
+  - first:
+      1: 100024
+    second: pCube20
+  - first:
+      1: 100026
+    second: pCube21
+  - first:
+      1: 100028
+    second: pCube22
+  - first:
+      1: 100030
+    second: pCube23
+  - first:
+      1: 100032
+    second: pCube24
+  - first:
+      1: 100034
+    second: pCube25
+  - first:
+      1: 100036
+    second: pCube26
+  - first:
+      1: 100038
+    second: pCube27
+  - first:
+      1: 100040
+    second: pCube3
+  - first:
+      1: 100042
+    second: pCube5
+  - first:
+      1: 100044
+    second: pCube9
+  - first:
+      1: 100046
+    second: pCylinder1
+  - first:
+      1: 100048
+    second: pCylinder2
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: pCube1
+  - first:
+      4: 400004
+    second: pCube10
+  - first:
+      4: 400006
+    second: pCube11
+  - first:
+      4: 400008
+    second: pCube12
+  - first:
+      4: 400010
+    second: pCube13
+  - first:
+      4: 400012
+    second: pCube14
+  - first:
+      4: 400014
+    second: pCube15
+  - first:
+      4: 400016
+    second: pCube16
+  - first:
+      4: 400018
+    second: pCube17
+  - first:
+      4: 400020
+    second: pCube18
+  - first:
+      4: 400022
+    second: pCube19
+  - first:
+      4: 400024
+    second: pCube20
+  - first:
+      4: 400026
+    second: pCube21
+  - first:
+      4: 400028
+    second: pCube22
+  - first:
+      4: 400030
+    second: pCube23
+  - first:
+      4: 400032
+    second: pCube24
+  - first:
+      4: 400034
+    second: pCube25
+  - first:
+      4: 400036
+    second: pCube26
+  - first:
+      4: 400038
+    second: pCube27
+  - first:
+      4: 400040
+    second: pCube3
+  - first:
+      4: 400042
+    second: pCube5
+  - first:
+      4: 400044
+    second: pCube9
+  - first:
+      4: 400046
+    second: pCylinder1
+  - first:
+      4: 400048
+    second: pCylinder2
+  - first:
+      23: 2300000
+    second: pCube1
+  - first:
+      23: 2300002
+    second: pCube10
+  - first:
+      23: 2300004
+    second: pCube11
+  - first:
+      23: 2300006
+    second: pCube12
+  - first:
+      23: 2300008
+    second: pCube13
+  - first:
+      23: 2300010
+    second: pCube14
+  - first:
+      23: 2300012
+    second: pCube15
+  - first:
+      23: 2300014
+    second: pCube16
+  - first:
+      23: 2300016
+    second: pCube17
+  - first:
+      23: 2300018
+    second: pCube18
+  - first:
+      23: 2300020
+    second: pCube19
+  - first:
+      23: 2300022
+    second: pCube20
+  - first:
+      23: 2300024
+    second: pCube21
+  - first:
+      23: 2300026
+    second: pCube22
+  - first:
+      23: 2300028
+    second: pCube23
+  - first:
+      23: 2300030
+    second: pCube24
+  - first:
+      23: 2300032
+    second: pCube25
+  - first:
+      23: 2300034
+    second: pCube26
+  - first:
+      23: 2300036
+    second: pCube27
+  - first:
+      23: 2300038
+    second: pCube3
+  - first:
+      23: 2300040
+    second: pCube5
+  - first:
+      23: 2300042
+    second: pCube9
+  - first:
+      23: 2300044
+    second: pCylinder1
+  - first:
+      23: 2300046
+    second: pCylinder2
+  - first:
+      33: 3300000
+    second: pCube1
+  - first:
+      33: 3300002
+    second: pCube10
+  - first:
+      33: 3300004
+    second: pCube11
+  - first:
+      33: 3300006
+    second: pCube12
+  - first:
+      33: 3300008
+    second: pCube13
+  - first:
+      33: 3300010
+    second: pCube14
+  - first:
+      33: 3300012
+    second: pCube15
+  - first:
+      33: 3300014
+    second: pCube16
+  - first:
+      33: 3300016
+    second: pCube17
+  - first:
+      33: 3300018
+    second: pCube18
+  - first:
+      33: 3300020
+    second: pCube19
+  - first:
+      33: 3300022
+    second: pCube20
+  - first:
+      33: 3300024
+    second: pCube21
+  - first:
+      33: 3300026
+    second: pCube22
+  - first:
+      33: 3300028
+    second: pCube23
+  - first:
+      33: 3300030
+    second: pCube24
+  - first:
+      33: 3300032
+    second: pCube25
+  - first:
+      33: 3300034
+    second: pCube26
+  - first:
+      33: 3300036
+    second: pCube27
+  - first:
+      33: 3300038
+    second: pCube3
+  - first:
+      33: 3300040
+    second: pCube5
+  - first:
+      33: 3300042
+    second: pCube9
+  - first:
+      33: 3300044
+    second: pCylinder1
+  - first:
+      33: 3300046
+    second: pCylinder2
+  - first:
+      43: 4300000
+    second: pCube1
+  - first:
+      43: 4300002
+    second: pCube3
+  - first:
+      43: 4300004
+    second: pCube5
+  - first:
+      43: 4300006
+    second: pCube9
+  - first:
+      43: 4300008
+    second: pCube10
+  - first:
+      43: 4300010
+    second: pCube11
+  - first:
+      43: 4300012
+    second: pCube12
+  - first:
+      43: 4300014
+    second: pCube13
+  - first:
+      43: 4300016
+    second: pCube14
+  - first:
+      43: 4300018
+    second: pCube15
+  - first:
+      43: 4300020
+    second: pCube16
+  - first:
+      43: 4300022
+    second: pCube17
+  - first:
+      43: 4300024
+    second: pCylinder1
+  - first:
+      43: 4300026
+    second: pCylinder2
+  - first:
+      43: 4300028
+    second: pCube18
+  - first:
+      43: 4300030
+    second: pCube19
+  - first:
+      43: 4300032
+    second: pCube20
+  - first:
+      43: 4300034
+    second: pCube21
+  - first:
+      43: 4300036
+    second: pCube22
+  - first:
+      43: 4300038
+    second: pCube23
+  - first:
+      43: 4300040
+    second: pCube24
+  - first:
+      43: 4300042
+    second: pCube25
+  - first:
+      43: 4300044
+    second: pCube26
+  - first:
+      43: 4300046
+    second: pCube27
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -143,12 +388,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -156,26 +404,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -185,14 +456,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

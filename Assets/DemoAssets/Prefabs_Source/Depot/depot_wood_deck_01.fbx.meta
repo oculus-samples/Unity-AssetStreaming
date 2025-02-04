@@ -1,102 +1,269 @@
 fileFormatVersion: 2
 guid: 84d0a1aa2014fc242a8cd03fe3b0d652
-timeCreated: 1534446391
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: pasted__pCube19
-    100004: pasted__pCube20
-    100006: pasted__pCube21
-    100008: pasted__pCube22
-    100010: pasted__pCube23
-    100012: pasted__pCube24
-    100014: pasted__pCube25
-    100016: pasted__pCube30
-    100018: pasted__pCube51
-    100020: pasted__pCube52
-    100022: pasted__pCube53
-    100024: pasted__pCube58
-    100026: pasted__pCube59
-    100028: pasted__pCube60
-    100030: pasted__pCube61
-    400000: //RootNode
-    400002: pasted__pCube19
-    400004: pasted__pCube20
-    400006: pasted__pCube21
-    400008: pasted__pCube22
-    400010: pasted__pCube23
-    400012: pasted__pCube24
-    400014: pasted__pCube25
-    400016: pasted__pCube30
-    400018: pasted__pCube51
-    400020: pasted__pCube52
-    400022: pasted__pCube53
-    400024: pasted__pCube58
-    400026: pasted__pCube59
-    400028: pasted__pCube60
-    400030: pasted__pCube61
-    2300000: pasted__pCube19
-    2300002: pasted__pCube20
-    2300004: pasted__pCube21
-    2300006: pasted__pCube22
-    2300008: pasted__pCube23
-    2300010: pasted__pCube24
-    2300012: pasted__pCube25
-    2300014: pasted__pCube30
-    2300016: pasted__pCube51
-    2300018: pasted__pCube52
-    2300020: pasted__pCube53
-    2300022: pasted__pCube58
-    2300024: pasted__pCube59
-    2300026: pasted__pCube60
-    2300028: pasted__pCube61
-    2300030: //RootNode
-    3300000: pasted__pCube19
-    3300002: pasted__pCube20
-    3300004: pasted__pCube21
-    3300006: pasted__pCube22
-    3300008: pasted__pCube23
-    3300010: pasted__pCube24
-    3300012: pasted__pCube25
-    3300014: pasted__pCube30
-    3300016: pasted__pCube51
-    3300018: pasted__pCube52
-    3300020: pasted__pCube53
-    3300022: pasted__pCube58
-    3300024: pasted__pCube59
-    3300026: pasted__pCube60
-    3300028: pasted__pCube61
-    3300030: //RootNode
-    4300000: pasted__pCube52
-    4300002: pasted__pCube53
-    4300004: pasted__pCube51
-    4300006: pasted__pCube30
-    4300008: pasted__pCube19
-    4300010: pasted__pCube20
-    4300012: pasted__pCube21
-    4300014: pasted__pCube22
-    4300016: pasted__pCube23
-    4300018: pasted__pCube24
-    4300020: pasted__pCube25
-    4300022: pasted__pCube58
-    4300024: pasted__pCube59
-    4300026: pasted__pCube60
-    4300028: pasted__pCube61
-    4300030: depot_wood_deck_01
-    4300032: depot_wood_deck_03
-    4300034: depot_wood_deck_05
-    4300036: depot_wood_deck_02
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: pasted__pCube19
+  - first:
+      1: 100004
+    second: pasted__pCube20
+  - first:
+      1: 100006
+    second: pasted__pCube21
+  - first:
+      1: 100008
+    second: pasted__pCube22
+  - first:
+      1: 100010
+    second: pasted__pCube23
+  - first:
+      1: 100012
+    second: pasted__pCube24
+  - first:
+      1: 100014
+    second: pasted__pCube25
+  - first:
+      1: 100016
+    second: pasted__pCube30
+  - first:
+      1: 100018
+    second: pasted__pCube51
+  - first:
+      1: 100020
+    second: pasted__pCube52
+  - first:
+      1: 100022
+    second: pasted__pCube53
+  - first:
+      1: 100024
+    second: pasted__pCube58
+  - first:
+      1: 100026
+    second: pasted__pCube59
+  - first:
+      1: 100028
+    second: pasted__pCube60
+  - first:
+      1: 100030
+    second: pasted__pCube61
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: pasted__pCube19
+  - first:
+      4: 400004
+    second: pasted__pCube20
+  - first:
+      4: 400006
+    second: pasted__pCube21
+  - first:
+      4: 400008
+    second: pasted__pCube22
+  - first:
+      4: 400010
+    second: pasted__pCube23
+  - first:
+      4: 400012
+    second: pasted__pCube24
+  - first:
+      4: 400014
+    second: pasted__pCube25
+  - first:
+      4: 400016
+    second: pasted__pCube30
+  - first:
+      4: 400018
+    second: pasted__pCube51
+  - first:
+      4: 400020
+    second: pasted__pCube52
+  - first:
+      4: 400022
+    second: pasted__pCube53
+  - first:
+      4: 400024
+    second: pasted__pCube58
+  - first:
+      4: 400026
+    second: pasted__pCube59
+  - first:
+      4: 400028
+    second: pasted__pCube60
+  - first:
+      4: 400030
+    second: pasted__pCube61
+  - first:
+      23: 2300000
+    second: pasted__pCube19
+  - first:
+      23: 2300002
+    second: pasted__pCube20
+  - first:
+      23: 2300004
+    second: pasted__pCube21
+  - first:
+      23: 2300006
+    second: pasted__pCube22
+  - first:
+      23: 2300008
+    second: pasted__pCube23
+  - first:
+      23: 2300010
+    second: pasted__pCube24
+  - first:
+      23: 2300012
+    second: pasted__pCube25
+  - first:
+      23: 2300014
+    second: pasted__pCube30
+  - first:
+      23: 2300016
+    second: pasted__pCube51
+  - first:
+      23: 2300018
+    second: pasted__pCube52
+  - first:
+      23: 2300020
+    second: pasted__pCube53
+  - first:
+      23: 2300022
+    second: pasted__pCube58
+  - first:
+      23: 2300024
+    second: pasted__pCube59
+  - first:
+      23: 2300026
+    second: pasted__pCube60
+  - first:
+      23: 2300028
+    second: pasted__pCube61
+  - first:
+      23: 2300030
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: pasted__pCube19
+  - first:
+      33: 3300002
+    second: pasted__pCube20
+  - first:
+      33: 3300004
+    second: pasted__pCube21
+  - first:
+      33: 3300006
+    second: pasted__pCube22
+  - first:
+      33: 3300008
+    second: pasted__pCube23
+  - first:
+      33: 3300010
+    second: pasted__pCube24
+  - first:
+      33: 3300012
+    second: pasted__pCube25
+  - first:
+      33: 3300014
+    second: pasted__pCube30
+  - first:
+      33: 3300016
+    second: pasted__pCube51
+  - first:
+      33: 3300018
+    second: pasted__pCube52
+  - first:
+      33: 3300020
+    second: pasted__pCube53
+  - first:
+      33: 3300022
+    second: pasted__pCube58
+  - first:
+      33: 3300024
+    second: pasted__pCube59
+  - first:
+      33: 3300026
+    second: pasted__pCube60
+  - first:
+      33: 3300028
+    second: pasted__pCube61
+  - first:
+      33: 3300030
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: pasted__pCube52
+  - first:
+      43: 4300002
+    second: pasted__pCube53
+  - first:
+      43: 4300004
+    second: pasted__pCube51
+  - first:
+      43: 4300006
+    second: pasted__pCube30
+  - first:
+      43: 4300008
+    second: pasted__pCube19
+  - first:
+      43: 4300010
+    second: pasted__pCube20
+  - first:
+      43: 4300012
+    second: pasted__pCube21
+  - first:
+      43: 4300014
+    second: pasted__pCube22
+  - first:
+      43: 4300016
+    second: pasted__pCube23
+  - first:
+      43: 4300018
+    second: pasted__pCube24
+  - first:
+      43: 4300020
+    second: pasted__pCube25
+  - first:
+      43: 4300022
+    second: pasted__pCube58
+  - first:
+      43: 4300024
+    second: pasted__pCube59
+  - first:
+      43: 4300026
+    second: pasted__pCube60
+  - first:
+      43: 4300028
+    second: pasted__pCube61
+  - first:
+      43: 4300030
+    second: depot_wood_deck_01
+  - first:
+      43: 4300032
+    second: depot_wood_deck_03
+  - first:
+      43: 4300034
+    second: depot_wood_deck_05
+  - first:
+      43: 4300036
+    second: depot_wood_deck_02
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -104,12 +271,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 0
   meshes:
@@ -117,26 +287,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -146,14 +339,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

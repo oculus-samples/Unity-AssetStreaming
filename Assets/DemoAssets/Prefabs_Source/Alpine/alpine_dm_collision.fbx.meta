@@ -1,78 +1,212 @@
 fileFormatVersion: 2
 guid: 8436d2823cab0a44cbc933894afb9bfa
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: alpine_dm_player_collision
-    100004: alpine_dm_world_collision_stone
-    100006: alpine_dm_world_collision_wood1
-    100008: alpine_dm_world_collision_wood2
-    100010: alpine_dm_world_collision_wood3
-    100012: alpine_dm_world_collision_wood4
-    100014: alpine_dm_world_collision_wood5
-    100016: alpine_dm_world_collision_wood6
-    100018: alpine_dm_world_collision_wood7
-    100020: alpine_dm_world_collision_dirt
-    100022: alpine_dm_collision
-    100024: alpine_dm_occlusion_mesh
-    100026: alpine_dm_world_collision_metal
-    400000: //RootNode
-    400002: alpine_dm_player_collision
-    400004: alpine_dm_world_collision_stone
-    400006: alpine_dm_world_collision_wood1
-    400008: alpine_dm_world_collision_wood2
-    400010: alpine_dm_world_collision_wood3
-    400012: alpine_dm_world_collision_wood4
-    400014: alpine_dm_world_collision_wood5
-    400016: alpine_dm_world_collision_wood6
-    400018: alpine_dm_world_collision_wood7
-    400020: alpine_dm_world_collision_dirt
-    400022: alpine_dm_collision
-    400024: alpine_dm_occlusion_mesh
-    400026: alpine_dm_world_collision_metal
-    2300000: alpine_dm_player_collision
-    2300002: alpine_dm_world_collision_stone
-    2300004: alpine_dm_world_collision_wood1
-    2300006: alpine_dm_world_collision_wood2
-    2300008: alpine_dm_world_collision_wood3
-    2300010: alpine_dm_world_collision_wood4
-    2300012: alpine_dm_world_collision_wood5
-    2300014: alpine_dm_world_collision_wood6
-    2300016: alpine_dm_world_collision_wood7
-    2300018: alpine_dm_world_collision_dirt
-    2300020: alpine_dm_occlusion_mesh
-    2300022: alpine_dm_world_collision_metal
-    2300024: //RootNode
-    3300000: alpine_dm_player_collision
-    3300002: alpine_dm_world_collision_stone
-    3300004: alpine_dm_world_collision_wood1
-    3300006: alpine_dm_world_collision_wood2
-    3300008: alpine_dm_world_collision_wood3
-    3300010: alpine_dm_world_collision_wood4
-    3300012: alpine_dm_world_collision_wood5
-    3300014: alpine_dm_world_collision_wood6
-    3300016: alpine_dm_world_collision_wood7
-    3300018: alpine_dm_world_collision_dirt
-    3300020: alpine_dm_occlusion_mesh
-    3300022: alpine_dm_world_collision_metal
-    3300024: //RootNode
-    4300000: alpine_dm_world_collision_stone
-    4300002: alpine_dm_world_collision_wood1
-    4300004: alpine_dm_world_collision_wood2
-    4300006: alpine_dm_world_collision_wood3
-    4300008: alpine_dm_world_collision_wood4
-    4300010: alpine_dm_world_collision_wood5
-    4300012: alpine_dm_world_collision_wood6
-    4300014: alpine_dm_world_collision_wood7
-    4300016: alpine_dm_player_collision
-    4300018: alpine_dm_world_collision_dirt
-    4300020: alpine_dm_occlusion_mesh
-    4300022: alpine_dm_world_collision_metal
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: alpine_dm_player_collision
+  - first:
+      1: 100004
+    second: alpine_dm_world_collision_stone
+  - first:
+      1: 100006
+    second: alpine_dm_world_collision_wood1
+  - first:
+      1: 100008
+    second: alpine_dm_world_collision_wood2
+  - first:
+      1: 100010
+    second: alpine_dm_world_collision_wood3
+  - first:
+      1: 100012
+    second: alpine_dm_world_collision_wood4
+  - first:
+      1: 100014
+    second: alpine_dm_world_collision_wood5
+  - first:
+      1: 100016
+    second: alpine_dm_world_collision_wood6
+  - first:
+      1: 100018
+    second: alpine_dm_world_collision_wood7
+  - first:
+      1: 100020
+    second: alpine_dm_world_collision_dirt
+  - first:
+      1: 100022
+    second: alpine_dm_collision
+  - first:
+      1: 100024
+    second: alpine_dm_occlusion_mesh
+  - first:
+      1: 100026
+    second: alpine_dm_world_collision_metal
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: alpine_dm_player_collision
+  - first:
+      4: 400004
+    second: alpine_dm_world_collision_stone
+  - first:
+      4: 400006
+    second: alpine_dm_world_collision_wood1
+  - first:
+      4: 400008
+    second: alpine_dm_world_collision_wood2
+  - first:
+      4: 400010
+    second: alpine_dm_world_collision_wood3
+  - first:
+      4: 400012
+    second: alpine_dm_world_collision_wood4
+  - first:
+      4: 400014
+    second: alpine_dm_world_collision_wood5
+  - first:
+      4: 400016
+    second: alpine_dm_world_collision_wood6
+  - first:
+      4: 400018
+    second: alpine_dm_world_collision_wood7
+  - first:
+      4: 400020
+    second: alpine_dm_world_collision_dirt
+  - first:
+      4: 400022
+    second: alpine_dm_collision
+  - first:
+      4: 400024
+    second: alpine_dm_occlusion_mesh
+  - first:
+      4: 400026
+    second: alpine_dm_world_collision_metal
+  - first:
+      23: 2300000
+    second: alpine_dm_player_collision
+  - first:
+      23: 2300002
+    second: alpine_dm_world_collision_stone
+  - first:
+      23: 2300004
+    second: alpine_dm_world_collision_wood1
+  - first:
+      23: 2300006
+    second: alpine_dm_world_collision_wood2
+  - first:
+      23: 2300008
+    second: alpine_dm_world_collision_wood3
+  - first:
+      23: 2300010
+    second: alpine_dm_world_collision_wood4
+  - first:
+      23: 2300012
+    second: alpine_dm_world_collision_wood5
+  - first:
+      23: 2300014
+    second: alpine_dm_world_collision_wood6
+  - first:
+      23: 2300016
+    second: alpine_dm_world_collision_wood7
+  - first:
+      23: 2300018
+    second: alpine_dm_world_collision_dirt
+  - first:
+      23: 2300020
+    second: alpine_dm_occlusion_mesh
+  - first:
+      23: 2300022
+    second: alpine_dm_world_collision_metal
+  - first:
+      23: 2300024
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: alpine_dm_player_collision
+  - first:
+      33: 3300002
+    second: alpine_dm_world_collision_stone
+  - first:
+      33: 3300004
+    second: alpine_dm_world_collision_wood1
+  - first:
+      33: 3300006
+    second: alpine_dm_world_collision_wood2
+  - first:
+      33: 3300008
+    second: alpine_dm_world_collision_wood3
+  - first:
+      33: 3300010
+    second: alpine_dm_world_collision_wood4
+  - first:
+      33: 3300012
+    second: alpine_dm_world_collision_wood5
+  - first:
+      33: 3300014
+    second: alpine_dm_world_collision_wood6
+  - first:
+      33: 3300016
+    second: alpine_dm_world_collision_wood7
+  - first:
+      33: 3300018
+    second: alpine_dm_world_collision_dirt
+  - first:
+      33: 3300020
+    second: alpine_dm_occlusion_mesh
+  - first:
+      33: 3300022
+    second: alpine_dm_world_collision_metal
+  - first:
+      33: 3300024
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: alpine_dm_world_collision_stone
+  - first:
+      43: 4300002
+    second: alpine_dm_world_collision_wood1
+  - first:
+      43: 4300004
+    second: alpine_dm_world_collision_wood2
+  - first:
+      43: 4300006
+    second: alpine_dm_world_collision_wood3
+  - first:
+      43: 4300008
+    second: alpine_dm_world_collision_wood4
+  - first:
+      43: 4300010
+    second: alpine_dm_world_collision_wood5
+  - first:
+      43: 4300012
+    second: alpine_dm_world_collision_wood6
+  - first:
+      43: 4300014
+    second: alpine_dm_world_collision_wood7
+  - first:
+      43: 4300016
+    second: alpine_dm_player_collision
+  - first:
+      43: 4300018
+    second: alpine_dm_world_collision_dirt
+  - first:
+      43: 4300020
+    second: alpine_dm_occlusion_mesh
+  - first:
+      43: 4300022
+    second: alpine_dm_world_collision_metal
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -81,6 +215,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -105,25 +240,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -132,10 +278,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -145,13 +291,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

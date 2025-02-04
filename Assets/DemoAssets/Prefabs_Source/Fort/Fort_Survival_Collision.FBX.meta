@@ -1,115 +1,323 @@
 fileFormatVersion: 2
 guid: e32d05fd875bcaa4e86a37682765a981
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Fort_Survival_Occluder
-    100004: Fort_Survival_Player_Collision
-    100006: Fort_Survival_World_Collision_Dirt
-    100008: Fort_Survival_World_Collision_Glass
-    100010: Fort_Survival_World_Collision_Metal
-    100012: Fort_Survival_World_Collision_Stone
-    100014: Fort_Survival_World_Collision_Wood
-    100016: Canyon_Survival_01_terrain
-    100018: Canyon_Survival_02_terrain
-    100020: Canyon_Survival_02a_terrain
-    100022: Canyon_Survival_03_terrain
-    100024: Canyon_Survival_04_side_terrain
-    100026: Canyon_Survival_04_terrain
-    100028: Canyon_Survival_05_terrain
-    100030: Canyon_Survival_06_terrain
-    100032: Canyon_Survival_06a_terrain
-    100034: Canyon_Survival_07_terrain
-    100036: Canyon_Survival_07a_terrain
-    100038: depot_lantern_01_uv2
-    100040: Fort_Survival_Navmesh
-    400000: //RootNode
-    400002: Fort_Survival_Occluder
-    400004: Fort_Survival_Player_Collision
-    400006: Fort_Survival_World_Collision_Dirt
-    400008: Fort_Survival_World_Collision_Glass
-    400010: Fort_Survival_World_Collision_Metal
-    400012: Fort_Survival_World_Collision_Stone
-    400014: Fort_Survival_World_Collision_Wood
-    400016: Canyon_Survival_01_terrain
-    400018: Canyon_Survival_02_terrain
-    400020: Canyon_Survival_02a_terrain
-    400022: Canyon_Survival_03_terrain
-    400024: Canyon_Survival_04_side_terrain
-    400026: Canyon_Survival_04_terrain
-    400028: Canyon_Survival_05_terrain
-    400030: Canyon_Survival_06_terrain
-    400032: Canyon_Survival_06a_terrain
-    400034: Canyon_Survival_07_terrain
-    400036: Canyon_Survival_07a_terrain
-    400038: depot_lantern_01_uv2
-    400040: Fort_Survival_Navmesh
-    2300000: Fort_Survival_Occluder
-    2300002: Fort_Survival_Player_Collision
-    2300004: Fort_Survival_World_Collision_Dirt
-    2300006: Fort_Survival_World_Collision_Glass
-    2300008: Fort_Survival_World_Collision_Metal
-    2300010: Fort_Survival_World_Collision_Stone
-    2300012: Fort_Survival_World_Collision_Wood
-    2300014: Canyon_Survival_01_terrain
-    2300016: Canyon_Survival_02_terrain
-    2300018: Canyon_Survival_02a_terrain
-    2300020: Canyon_Survival_03_terrain
-    2300022: Canyon_Survival_04_side_terrain
-    2300024: Canyon_Survival_04_terrain
-    2300026: Canyon_Survival_05_terrain
-    2300028: Canyon_Survival_06_terrain
-    2300030: Canyon_Survival_06a_terrain
-    2300032: Canyon_Survival_07_terrain
-    2300034: Canyon_Survival_07a_terrain
-    2300036: depot_lantern_01_uv2
-    2300038: //RootNode
-    2300040: Fort_Survival_Navmesh
-    3300000: Fort_Survival_Occluder
-    3300002: Fort_Survival_Player_Collision
-    3300004: Fort_Survival_World_Collision_Dirt
-    3300006: Fort_Survival_World_Collision_Glass
-    3300008: Fort_Survival_World_Collision_Metal
-    3300010: Fort_Survival_World_Collision_Stone
-    3300012: Fort_Survival_World_Collision_Wood
-    3300014: Canyon_Survival_01_terrain
-    3300016: Canyon_Survival_02_terrain
-    3300018: Canyon_Survival_02a_terrain
-    3300020: Canyon_Survival_03_terrain
-    3300022: Canyon_Survival_04_side_terrain
-    3300024: Canyon_Survival_04_terrain
-    3300026: Canyon_Survival_05_terrain
-    3300028: Canyon_Survival_06_terrain
-    3300030: Canyon_Survival_06a_terrain
-    3300032: Canyon_Survival_07_terrain
-    3300034: Canyon_Survival_07a_terrain
-    3300036: depot_lantern_01_uv2
-    3300038: //RootNode
-    3300040: Fort_Survival_Navmesh
-    4300000: Fort_Survival_Player_Collision
-    4300002: Fort_Survival_World_Collision_Dirt
-    4300004: Fort_Survival_Occluder
-    4300006: Fort_Survival_World_Collision_Wood
-    4300008: Fort_Survival_World_Collision_Stone
-    4300010: Fort_Survival_World_Collision_Metal
-    4300012: Fort_Survival_World_Collision_Glass
-    4300014: Canyon_Survival_01_terrain
-    4300016: Canyon_Survival_02a_terrain
-    4300018: Canyon_Survival_03_terrain
-    4300020: Canyon_Survival_04_terrain
-    4300022: Canyon_Survival_04_side_terrain
-    4300024: Canyon_Survival_05_terrain
-    4300026: Canyon_Survival_06_terrain
-    4300028: Canyon_Survival_06a_terrain
-    4300030: Canyon_Survival_07_terrain
-    4300032: Canyon_Survival_07a_terrain
-    4300034: Canyon_Survival_02_terrain
-    4300036: depot_lantern_01_uv2
-    4300038: Fort_Survival_Navmesh
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Fort_Survival_Occluder
+  - first:
+      1: 100004
+    second: Fort_Survival_Player_Collision
+  - first:
+      1: 100006
+    second: Fort_Survival_World_Collision_Dirt
+  - first:
+      1: 100008
+    second: Fort_Survival_World_Collision_Glass
+  - first:
+      1: 100010
+    second: Fort_Survival_World_Collision_Metal
+  - first:
+      1: 100012
+    second: Fort_Survival_World_Collision_Stone
+  - first:
+      1: 100014
+    second: Fort_Survival_World_Collision_Wood
+  - first:
+      1: 100016
+    second: Canyon_Survival_01_terrain
+  - first:
+      1: 100018
+    second: Canyon_Survival_02_terrain
+  - first:
+      1: 100020
+    second: Canyon_Survival_02a_terrain
+  - first:
+      1: 100022
+    second: Canyon_Survival_03_terrain
+  - first:
+      1: 100024
+    second: Canyon_Survival_04_side_terrain
+  - first:
+      1: 100026
+    second: Canyon_Survival_04_terrain
+  - first:
+      1: 100028
+    second: Canyon_Survival_05_terrain
+  - first:
+      1: 100030
+    second: Canyon_Survival_06_terrain
+  - first:
+      1: 100032
+    second: Canyon_Survival_06a_terrain
+  - first:
+      1: 100034
+    second: Canyon_Survival_07_terrain
+  - first:
+      1: 100036
+    second: Canyon_Survival_07a_terrain
+  - first:
+      1: 100038
+    second: depot_lantern_01_uv2
+  - first:
+      1: 100040
+    second: Fort_Survival_Navmesh
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Fort_Survival_Occluder
+  - first:
+      4: 400004
+    second: Fort_Survival_Player_Collision
+  - first:
+      4: 400006
+    second: Fort_Survival_World_Collision_Dirt
+  - first:
+      4: 400008
+    second: Fort_Survival_World_Collision_Glass
+  - first:
+      4: 400010
+    second: Fort_Survival_World_Collision_Metal
+  - first:
+      4: 400012
+    second: Fort_Survival_World_Collision_Stone
+  - first:
+      4: 400014
+    second: Fort_Survival_World_Collision_Wood
+  - first:
+      4: 400016
+    second: Canyon_Survival_01_terrain
+  - first:
+      4: 400018
+    second: Canyon_Survival_02_terrain
+  - first:
+      4: 400020
+    second: Canyon_Survival_02a_terrain
+  - first:
+      4: 400022
+    second: Canyon_Survival_03_terrain
+  - first:
+      4: 400024
+    second: Canyon_Survival_04_side_terrain
+  - first:
+      4: 400026
+    second: Canyon_Survival_04_terrain
+  - first:
+      4: 400028
+    second: Canyon_Survival_05_terrain
+  - first:
+      4: 400030
+    second: Canyon_Survival_06_terrain
+  - first:
+      4: 400032
+    second: Canyon_Survival_06a_terrain
+  - first:
+      4: 400034
+    second: Canyon_Survival_07_terrain
+  - first:
+      4: 400036
+    second: Canyon_Survival_07a_terrain
+  - first:
+      4: 400038
+    second: depot_lantern_01_uv2
+  - first:
+      4: 400040
+    second: Fort_Survival_Navmesh
+  - first:
+      23: 2300000
+    second: Fort_Survival_Occluder
+  - first:
+      23: 2300002
+    second: Fort_Survival_Player_Collision
+  - first:
+      23: 2300004
+    second: Fort_Survival_World_Collision_Dirt
+  - first:
+      23: 2300006
+    second: Fort_Survival_World_Collision_Glass
+  - first:
+      23: 2300008
+    second: Fort_Survival_World_Collision_Metal
+  - first:
+      23: 2300010
+    second: Fort_Survival_World_Collision_Stone
+  - first:
+      23: 2300012
+    second: Fort_Survival_World_Collision_Wood
+  - first:
+      23: 2300014
+    second: Canyon_Survival_01_terrain
+  - first:
+      23: 2300016
+    second: Canyon_Survival_02_terrain
+  - first:
+      23: 2300018
+    second: Canyon_Survival_02a_terrain
+  - first:
+      23: 2300020
+    second: Canyon_Survival_03_terrain
+  - first:
+      23: 2300022
+    second: Canyon_Survival_04_side_terrain
+  - first:
+      23: 2300024
+    second: Canyon_Survival_04_terrain
+  - first:
+      23: 2300026
+    second: Canyon_Survival_05_terrain
+  - first:
+      23: 2300028
+    second: Canyon_Survival_06_terrain
+  - first:
+      23: 2300030
+    second: Canyon_Survival_06a_terrain
+  - first:
+      23: 2300032
+    second: Canyon_Survival_07_terrain
+  - first:
+      23: 2300034
+    second: Canyon_Survival_07a_terrain
+  - first:
+      23: 2300036
+    second: depot_lantern_01_uv2
+  - first:
+      23: 2300038
+    second: //RootNode
+  - first:
+      23: 2300040
+    second: Fort_Survival_Navmesh
+  - first:
+      33: 3300000
+    second: Fort_Survival_Occluder
+  - first:
+      33: 3300002
+    second: Fort_Survival_Player_Collision
+  - first:
+      33: 3300004
+    second: Fort_Survival_World_Collision_Dirt
+  - first:
+      33: 3300006
+    second: Fort_Survival_World_Collision_Glass
+  - first:
+      33: 3300008
+    second: Fort_Survival_World_Collision_Metal
+  - first:
+      33: 3300010
+    second: Fort_Survival_World_Collision_Stone
+  - first:
+      33: 3300012
+    second: Fort_Survival_World_Collision_Wood
+  - first:
+      33: 3300014
+    second: Canyon_Survival_01_terrain
+  - first:
+      33: 3300016
+    second: Canyon_Survival_02_terrain
+  - first:
+      33: 3300018
+    second: Canyon_Survival_02a_terrain
+  - first:
+      33: 3300020
+    second: Canyon_Survival_03_terrain
+  - first:
+      33: 3300022
+    second: Canyon_Survival_04_side_terrain
+  - first:
+      33: 3300024
+    second: Canyon_Survival_04_terrain
+  - first:
+      33: 3300026
+    second: Canyon_Survival_05_terrain
+  - first:
+      33: 3300028
+    second: Canyon_Survival_06_terrain
+  - first:
+      33: 3300030
+    second: Canyon_Survival_06a_terrain
+  - first:
+      33: 3300032
+    second: Canyon_Survival_07_terrain
+  - first:
+      33: 3300034
+    second: Canyon_Survival_07a_terrain
+  - first:
+      33: 3300036
+    second: depot_lantern_01_uv2
+  - first:
+      33: 3300038
+    second: //RootNode
+  - first:
+      33: 3300040
+    second: Fort_Survival_Navmesh
+  - first:
+      43: 4300000
+    second: Fort_Survival_Player_Collision
+  - first:
+      43: 4300002
+    second: Fort_Survival_World_Collision_Dirt
+  - first:
+      43: 4300004
+    second: Fort_Survival_Occluder
+  - first:
+      43: 4300006
+    second: Fort_Survival_World_Collision_Wood
+  - first:
+      43: 4300008
+    second: Fort_Survival_World_Collision_Stone
+  - first:
+      43: 4300010
+    second: Fort_Survival_World_Collision_Metal
+  - first:
+      43: 4300012
+    second: Fort_Survival_World_Collision_Glass
+  - first:
+      43: 4300014
+    second: Canyon_Survival_01_terrain
+  - first:
+      43: 4300016
+    second: Canyon_Survival_02a_terrain
+  - first:
+      43: 4300018
+    second: Canyon_Survival_03_terrain
+  - first:
+      43: 4300020
+    second: Canyon_Survival_04_terrain
+  - first:
+      43: 4300022
+    second: Canyon_Survival_04_side_terrain
+  - first:
+      43: 4300024
+    second: Canyon_Survival_05_terrain
+  - first:
+      43: 4300026
+    second: Canyon_Survival_06_terrain
+  - first:
+      43: 4300028
+    second: Canyon_Survival_06a_terrain
+  - first:
+      43: 4300030
+    second: Canyon_Survival_07_terrain
+  - first:
+      43: 4300032
+    second: Canyon_Survival_07a_terrain
+  - first:
+      43: 4300034
+    second: Canyon_Survival_02_terrain
+  - first:
+      43: 4300036
+    second: depot_lantern_01_uv2
+  - first:
+      43: 4300038
+    second: Fort_Survival_Navmesh
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -118,6 +326,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -142,25 +351,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -169,10 +389,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -182,13 +402,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

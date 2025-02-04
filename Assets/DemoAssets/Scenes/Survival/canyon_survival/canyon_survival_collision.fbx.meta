@@ -1,63 +1,167 @@
 fileFormatVersion: 2
 guid: acddd26a95b343c44acb24221b3efa0d
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: canyon_survival_collision_player
-    100004: canyon_survival_collision_world_dirt
-    100006: canyon_survival_collision_world_glass
-    100008: canyon_survival_collision_world_metal
-    100010: canyon_survival_collision_world_rock
-    100012: canyon_survival_collision_world_wood
-    100014: canyon_survival_occluder
-    100016: canyon_survival_Navmesh
-    400000: //RootNode
-    400002: canyon_survival_collision_player
-    400004: canyon_survival_collision_world_dirt
-    400006: canyon_survival_collision_world_glass
-    400008: canyon_survival_collision_world_metal
-    400010: canyon_survival_collision_world_rock
-    400012: canyon_survival_collision_world_wood
-    400014: canyon_survival_occluder
-    400016: canyon_survival_Navmesh
-    2100000: Default
-    2100002: 'Material #13263'
-    2100004: 'Material #13261'
-    2100006: canyon_rockwall_03
-    2100008: 'Material #13262'
-    2100010: canyon_rockwall_03 (1)
-    2100012: canyon_rockwall_03 (2)
-    2300000: canyon_survival_collision_player
-    2300002: //RootNode
-    2300004: canyon_survival_collision_world_dirt
-    2300006: canyon_survival_collision_world_glass
-    2300008: canyon_survival_collision_world_metal
-    2300010: canyon_survival_collision_world_rock
-    2300012: canyon_survival_collision_world_wood
-    2300014: canyon_survival_occluder
-    2300016: canyon_survival_Navmesh
-    3300000: canyon_survival_collision_player
-    3300002: //RootNode
-    3300004: canyon_survival_collision_world_dirt
-    3300006: canyon_survival_collision_world_glass
-    3300008: canyon_survival_collision_world_metal
-    3300010: canyon_survival_collision_world_rock
-    3300012: canyon_survival_collision_world_wood
-    3300014: canyon_survival_occluder
-    3300016: canyon_survival_Navmesh
-    4300000: canyon_survival_collision_player
-    4300002: canyon_survival_collision_world_glass
-    4300004: canyon_survival_collision_world_rock
-    4300006: canyon_survival_collision_world_wood
-    4300008: canyon_survival_collision_world_dirt
-    4300010: canyon_survival_collision_world_metal
-    4300012: canyon_survival_occluder
-    4300014: canyon_survival_Navmesh
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: canyon_survival_collision_player
+  - first:
+      1: 100004
+    second: canyon_survival_collision_world_dirt
+  - first:
+      1: 100006
+    second: canyon_survival_collision_world_glass
+  - first:
+      1: 100008
+    second: canyon_survival_collision_world_metal
+  - first:
+      1: 100010
+    second: canyon_survival_collision_world_rock
+  - first:
+      1: 100012
+    second: canyon_survival_collision_world_wood
+  - first:
+      1: 100014
+    second: canyon_survival_occluder
+  - first:
+      1: 100016
+    second: canyon_survival_Navmesh
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: canyon_survival_collision_player
+  - first:
+      4: 400004
+    second: canyon_survival_collision_world_dirt
+  - first:
+      4: 400006
+    second: canyon_survival_collision_world_glass
+  - first:
+      4: 400008
+    second: canyon_survival_collision_world_metal
+  - first:
+      4: 400010
+    second: canyon_survival_collision_world_rock
+  - first:
+      4: 400012
+    second: canyon_survival_collision_world_wood
+  - first:
+      4: 400014
+    second: canyon_survival_occluder
+  - first:
+      4: 400016
+    second: canyon_survival_Navmesh
+  - first:
+      21: 2100000
+    second: Default
+  - first:
+      21: 2100002
+    second: Material #13263
+  - first:
+      21: 2100004
+    second: Material #13261
+  - first:
+      21: 2100006
+    second: canyon_rockwall_03
+  - first:
+      21: 2100008
+    second: Material #13262
+  - first:
+      21: 2100010
+    second: canyon_rockwall_03 (1)
+  - first:
+      21: 2100012
+    second: canyon_rockwall_03 (2)
+  - first:
+      23: 2300000
+    second: canyon_survival_collision_player
+  - first:
+      23: 2300002
+    second: //RootNode
+  - first:
+      23: 2300004
+    second: canyon_survival_collision_world_dirt
+  - first:
+      23: 2300006
+    second: canyon_survival_collision_world_glass
+  - first:
+      23: 2300008
+    second: canyon_survival_collision_world_metal
+  - first:
+      23: 2300010
+    second: canyon_survival_collision_world_rock
+  - first:
+      23: 2300012
+    second: canyon_survival_collision_world_wood
+  - first:
+      23: 2300014
+    second: canyon_survival_occluder
+  - first:
+      23: 2300016
+    second: canyon_survival_Navmesh
+  - first:
+      33: 3300000
+    second: canyon_survival_collision_player
+  - first:
+      33: 3300002
+    second: //RootNode
+  - first:
+      33: 3300004
+    second: canyon_survival_collision_world_dirt
+  - first:
+      33: 3300006
+    second: canyon_survival_collision_world_glass
+  - first:
+      33: 3300008
+    second: canyon_survival_collision_world_metal
+  - first:
+      33: 3300010
+    second: canyon_survival_collision_world_rock
+  - first:
+      33: 3300012
+    second: canyon_survival_collision_world_wood
+  - first:
+      33: 3300014
+    second: canyon_survival_occluder
+  - first:
+      33: 3300016
+    second: canyon_survival_Navmesh
+  - first:
+      43: 4300000
+    second: canyon_survival_collision_player
+  - first:
+      43: 4300002
+    second: canyon_survival_collision_world_glass
+  - first:
+      43: 4300004
+    second: canyon_survival_collision_world_rock
+  - first:
+      43: 4300006
+    second: canyon_survival_collision_world_wood
+  - first:
+      43: 4300008
+    second: canyon_survival_collision_world_dirt
+  - first:
+      43: 4300010
+    second: canyon_survival_collision_world_metal
+  - first:
+      43: 4300012
+    second: canyon_survival_occluder
+  - first:
+      43: 4300014
+    second: canyon_survival_Navmesh
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -66,6 +170,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -90,25 +195,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -117,10 +233,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -130,13 +246,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

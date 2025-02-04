@@ -1,57 +1,149 @@
 fileFormatVersion: 2
 guid: ea664d6432f44a44c8c64fe94d54e779
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Camera
-    100002: Directional Light
-    100004: sign_01
-    100006: Texture Group
-    100008: //RootNode
-    100010: sign_02
-    100012: sign_03
-    100014: sign_04
-    100016: sign_05
-    100018: sign_06
-    100020: sign_07
-    400000: Camera
-    400002: Directional Light
-    400004: sign_01
-    400006: Texture Group
-    400008: //RootNode
-    400010: sign_02
-    400012: sign_03
-    400014: sign_04
-    400016: sign_05
-    400018: sign_06
-    400020: sign_07
-    2000000: Camera
-    2300000: sign_01
-    2300002: sign_02
-    2300004: sign_03
-    2300006: sign_04
-    2300008: sign_05
-    2300010: sign_06
-    2300012: sign_07
-    3300000: sign_01
-    3300002: sign_02
-    3300004: sign_03
-    3300006: sign_04
-    3300008: sign_05
-    3300010: sign_06
-    3300012: sign_07
-    4300000: sign_01
-    4300002: sign_07
-    4300004: sign_06
-    4300006: sign_05
-    4300008: sign_04
-    4300010: sign_03
-    4300012: sign_02
-    9500000: //RootNode
-    10800000: Directional Light
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Camera
+  - first:
+      1: 100002
+    second: Directional Light
+  - first:
+      1: 100004
+    second: sign_01
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: sign_02
+  - first:
+      1: 100012
+    second: sign_03
+  - first:
+      1: 100014
+    second: sign_04
+  - first:
+      1: 100016
+    second: sign_05
+  - first:
+      1: 100018
+    second: sign_06
+  - first:
+      1: 100020
+    second: sign_07
+  - first:
+      4: 400000
+    second: Camera
+  - first:
+      4: 400002
+    second: Directional Light
+  - first:
+      4: 400004
+    second: sign_01
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: sign_02
+  - first:
+      4: 400012
+    second: sign_03
+  - first:
+      4: 400014
+    second: sign_04
+  - first:
+      4: 400016
+    second: sign_05
+  - first:
+      4: 400018
+    second: sign_06
+  - first:
+      4: 400020
+    second: sign_07
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      23: 2300000
+    second: sign_01
+  - first:
+      23: 2300002
+    second: sign_02
+  - first:
+      23: 2300004
+    second: sign_03
+  - first:
+      23: 2300006
+    second: sign_04
+  - first:
+      23: 2300008
+    second: sign_05
+  - first:
+      23: 2300010
+    second: sign_06
+  - first:
+      23: 2300012
+    second: sign_07
+  - first:
+      33: 3300000
+    second: sign_01
+  - first:
+      33: 3300002
+    second: sign_02
+  - first:
+      33: 3300004
+    second: sign_03
+  - first:
+      33: 3300006
+    second: sign_04
+  - first:
+      33: 3300008
+    second: sign_05
+  - first:
+      33: 3300010
+    second: sign_06
+  - first:
+      33: 3300012
+    second: sign_07
+  - first:
+      43: 4300000
+    second: sign_01
+  - first:
+      43: 4300002
+    second: sign_07
+  - first:
+      43: 4300004
+    second: sign_06
+  - first:
+      43: 4300006
+    second: sign_05
+  - first:
+      43: 4300008
+    second: sign_04
+  - first:
+      43: 4300010
+    second: sign_03
+  - first:
+      43: 4300012
+    second: sign_02
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Directional Light
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -60,6 +152,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -84,25 +177,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -111,10 +215,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -124,13 +228,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

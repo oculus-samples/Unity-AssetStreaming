@@ -1,118 +1,332 @@
 fileFormatVersion: 2
 guid: aa6a31f7e0299b649b6181bfeca41b60
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: _placement
-    100002: header_gamemode
-    100004: header_scoregoal
-    100006: header_time
-    100008: scoreboard
-    100010: silhouette_distillery
-    100012: Texture Group
-    100014: Texture Group (2)
-    100016: Texture Group (3)
-    100018: //RootNode
-    100020: join_button
-    100022: join_header
-    100024: Mesh
-    100026: Texture Group (4)
-    100028: Mesh (2)
-    100030: respawn_placement
-    100032: respawn_draw
-    100034: respawn_header_youdied
-    100036: respawn_killedby
-    100038: respawn_scoregoal
-    100040: respawn_scoreyours
-    100042: respawn_time
-    100044: respawn_timeremains
-    100046: header_level
-    400000: _placement
-    400002: header_gamemode
-    400004: header_scoregoal
-    400006: header_time
-    400008: scoreboard
-    400010: silhouette_distillery
-    400012: Texture Group
-    400014: Texture Group (2)
-    400016: Texture Group (3)
-    400018: //RootNode
-    400020: join_button
-    400022: join_header
-    400024: Mesh
-    400026: Texture Group (4)
-    400028: Mesh (2)
-    400030: respawn_placement
-    400032: respawn_draw
-    400034: respawn_header_youdied
-    400036: respawn_killedby
-    400038: respawn_scoregoal
-    400040: respawn_scoreyours
-    400042: respawn_time
-    400044: respawn_timeremains
-    400046: header_level
-    2300000: _placement
-    2300002: header_gamemode
-    2300004: header_scoregoal
-    2300006: header_time
-    2300008: scoreboard
-    2300010: silhouette_distillery
-    2300012: join_button
-    2300014: join_header
-    2300016: Mesh
-    2300018: Mesh (2)
-    2300020: respawn_placement
-    2300022: respawn_draw
-    2300024: respawn_header_youdied
-    2300026: respawn_killedby
-    2300028: respawn_scoregoal
-    2300030: respawn_scoreyours
-    2300032: respawn_time
-    2300034: respawn_timeremains
-    2300036: header_level
-    3300000: _placement
-    3300002: header_gamemode
-    3300004: header_scoregoal
-    3300006: header_time
-    3300008: scoreboard
-    3300010: silhouette_distillery
-    3300012: join_button
-    3300014: join_header
-    3300016: Mesh
-    3300018: Mesh (2)
-    3300020: respawn_placement
-    3300022: respawn_draw
-    3300024: respawn_header_youdied
-    3300026: respawn_killedby
-    3300028: respawn_scoregoal
-    3300030: respawn_scoreyours
-    3300032: respawn_time
-    3300034: respawn_timeremains
-    3300036: header_level
-    4300000: silhouette_distillery
-    4300002: scoreboard
-    4300004: header_gamemode
-    4300006: header_time
-    4300008: header_scoregoal
-    4300010: _placement
-    4300012: join_header
-    4300014: join_button
-    4300016: Mesh
-    4300018: respawn_placement
-    4300020: Mesh (2)
-    4300022: respawn_header_youdied
-    4300024: respawn_draw
-    4300026: respawn_killedby
-    4300028: respawn_scoreyours
-    4300030: respawn_scoregoal
-    4300032: respawn_timeremains
-    4300034: respawn_time
-    4300036: header_level
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _placement
+  - first:
+      1: 100002
+    second: header_gamemode
+  - first:
+      1: 100004
+    second: header_scoregoal
+  - first:
+      1: 100006
+    second: header_time
+  - first:
+      1: 100008
+    second: scoreboard
+  - first:
+      1: 100010
+    second: silhouette_distillery
+  - first:
+      1: 100012
+    second: Texture Group
+  - first:
+      1: 100014
+    second: Texture Group (2)
+  - first:
+      1: 100016
+    second: Texture Group (3)
+  - first:
+      1: 100018
+    second: //RootNode
+  - first:
+      1: 100020
+    second: join_button
+  - first:
+      1: 100022
+    second: join_header
+  - first:
+      1: 100024
+    second: Mesh
+  - first:
+      1: 100026
+    second: Texture Group (4)
+  - first:
+      1: 100028
+    second: Mesh (2)
+  - first:
+      1: 100030
+    second: respawn_placement
+  - first:
+      1: 100032
+    second: respawn_draw
+  - first:
+      1: 100034
+    second: respawn_header_youdied
+  - first:
+      1: 100036
+    second: respawn_killedby
+  - first:
+      1: 100038
+    second: respawn_scoregoal
+  - first:
+      1: 100040
+    second: respawn_scoreyours
+  - first:
+      1: 100042
+    second: respawn_time
+  - first:
+      1: 100044
+    second: respawn_timeremains
+  - first:
+      1: 100046
+    second: header_level
+  - first:
+      4: 400000
+    second: _placement
+  - first:
+      4: 400002
+    second: header_gamemode
+  - first:
+      4: 400004
+    second: header_scoregoal
+  - first:
+      4: 400006
+    second: header_time
+  - first:
+      4: 400008
+    second: scoreboard
+  - first:
+      4: 400010
+    second: silhouette_distillery
+  - first:
+      4: 400012
+    second: Texture Group
+  - first:
+      4: 400014
+    second: Texture Group (2)
+  - first:
+      4: 400016
+    second: Texture Group (3)
+  - first:
+      4: 400018
+    second: //RootNode
+  - first:
+      4: 400020
+    second: join_button
+  - first:
+      4: 400022
+    second: join_header
+  - first:
+      4: 400024
+    second: Mesh
+  - first:
+      4: 400026
+    second: Texture Group (4)
+  - first:
+      4: 400028
+    second: Mesh (2)
+  - first:
+      4: 400030
+    second: respawn_placement
+  - first:
+      4: 400032
+    second: respawn_draw
+  - first:
+      4: 400034
+    second: respawn_header_youdied
+  - first:
+      4: 400036
+    second: respawn_killedby
+  - first:
+      4: 400038
+    second: respawn_scoregoal
+  - first:
+      4: 400040
+    second: respawn_scoreyours
+  - first:
+      4: 400042
+    second: respawn_time
+  - first:
+      4: 400044
+    second: respawn_timeremains
+  - first:
+      4: 400046
+    second: header_level
+  - first:
+      23: 2300000
+    second: _placement
+  - first:
+      23: 2300002
+    second: header_gamemode
+  - first:
+      23: 2300004
+    second: header_scoregoal
+  - first:
+      23: 2300006
+    second: header_time
+  - first:
+      23: 2300008
+    second: scoreboard
+  - first:
+      23: 2300010
+    second: silhouette_distillery
+  - first:
+      23: 2300012
+    second: join_button
+  - first:
+      23: 2300014
+    second: join_header
+  - first:
+      23: 2300016
+    second: Mesh
+  - first:
+      23: 2300018
+    second: Mesh (2)
+  - first:
+      23: 2300020
+    second: respawn_placement
+  - first:
+      23: 2300022
+    second: respawn_draw
+  - first:
+      23: 2300024
+    second: respawn_header_youdied
+  - first:
+      23: 2300026
+    second: respawn_killedby
+  - first:
+      23: 2300028
+    second: respawn_scoregoal
+  - first:
+      23: 2300030
+    second: respawn_scoreyours
+  - first:
+      23: 2300032
+    second: respawn_time
+  - first:
+      23: 2300034
+    second: respawn_timeremains
+  - first:
+      23: 2300036
+    second: header_level
+  - first:
+      33: 3300000
+    second: _placement
+  - first:
+      33: 3300002
+    second: header_gamemode
+  - first:
+      33: 3300004
+    second: header_scoregoal
+  - first:
+      33: 3300006
+    second: header_time
+  - first:
+      33: 3300008
+    second: scoreboard
+  - first:
+      33: 3300010
+    second: silhouette_distillery
+  - first:
+      33: 3300012
+    second: join_button
+  - first:
+      33: 3300014
+    second: join_header
+  - first:
+      33: 3300016
+    second: Mesh
+  - first:
+      33: 3300018
+    second: Mesh (2)
+  - first:
+      33: 3300020
+    second: respawn_placement
+  - first:
+      33: 3300022
+    second: respawn_draw
+  - first:
+      33: 3300024
+    second: respawn_header_youdied
+  - first:
+      33: 3300026
+    second: respawn_killedby
+  - first:
+      33: 3300028
+    second: respawn_scoregoal
+  - first:
+      33: 3300030
+    second: respawn_scoreyours
+  - first:
+      33: 3300032
+    second: respawn_time
+  - first:
+      33: 3300034
+    second: respawn_timeremains
+  - first:
+      33: 3300036
+    second: header_level
+  - first:
+      43: 4300000
+    second: silhouette_distillery
+  - first:
+      43: 4300002
+    second: scoreboard
+  - first:
+      43: 4300004
+    second: header_gamemode
+  - first:
+      43: 4300006
+    second: header_time
+  - first:
+      43: 4300008
+    second: header_scoregoal
+  - first:
+      43: 4300010
+    second: _placement
+  - first:
+      43: 4300012
+    second: join_header
+  - first:
+      43: 4300014
+    second: join_button
+  - first:
+      43: 4300016
+    second: Mesh
+  - first:
+      43: 4300018
+    second: respawn_placement
+  - first:
+      43: 4300020
+    second: Mesh (2)
+  - first:
+      43: 4300022
+    second: respawn_header_youdied
+  - first:
+      43: 4300024
+    second: respawn_draw
+  - first:
+      43: 4300026
+    second: respawn_killedby
+  - first:
+      43: 4300028
+    second: respawn_scoreyours
+  - first:
+      43: 4300030
+    second: respawn_scoregoal
+  - first:
+      43: 4300032
+    second: respawn_timeremains
+  - first:
+      43: 4300034
+    second: respawn_time
+  - first:
+      43: 4300036
+    second: header_level
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -121,6 +335,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -145,25 +360,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
@@ -172,10 +398,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -185,13 +411,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,133 +1,377 @@
 fileFormatVersion: 2
 guid: ab57751d6f169ae45976c7b0652b9ba5
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: train_boxcar_01
-    100002: //RootNode
-    100004: Train_Boxcar_Door_01
-    100006: Train_Boxcar_Door_02
-    100008: Train_Boxcar_Door_Front_01_Left_Handle
-    100010: Train_Boxcar_Door_Side_01_Left
-    100012: Train_boxcar_01
-    100014: Train_Boxcar_01
-    100016: boxcar
-    100018: train_boxcar_01_a
-    100020: train_boxcar_door
-    100022: train_boxcar_door_01
-    100024: train_boxcar_door_02
-    100026: train_caboose_01_a
-    100028: train_flatbed_01_a
-    100030: train_locomotive_01_a
-    100032: train_luggage_01_a
-    100034: train_sleeper_01_a
-    100036: train_boxcar_door_sliding
-    100038: Texture Group
-    100040: train_boxcar_collision
-    100042: train_caboose_collision
-    100044: train_flatbed_collision
-    100046: train_locomotive_collision
-    100048: train_luggage_collision
-    100050: train_sleeper_collision
-    400000: train_boxcar_01
-    400002: //RootNode
-    400004: Train_Boxcar_Door_01
-    400006: Train_Boxcar_Door_02
-    400008: Train_Boxcar_Door_Front_01_Left_Handle
-    400010: Train_Boxcar_Door_Side_01_Left
-    400012: Train_boxcar_01
-    400014: Train_Boxcar_01
-    400016: boxcar
-    400018: train_boxcar_01_a
-    400020: train_boxcar_door
-    400022: train_boxcar_door_01
-    400024: train_boxcar_door_02
-    400026: train_caboose_01_a
-    400028: train_flatbed_01_a
-    400030: train_locomotive_01_a
-    400032: train_luggage_01_a
-    400034: train_sleeper_01_a
-    400036: train_boxcar_door_sliding
-    400038: Texture Group
-    400040: train_boxcar_collision
-    400042: train_caboose_collision
-    400044: train_flatbed_collision
-    400046: train_locomotive_collision
-    400048: train_luggage_collision
-    400050: train_sleeper_collision
-    2300000: train_boxcar_01
-    2300002: Train_Boxcar_Door_01
-    2300004: Train_Boxcar_Door_02
-    2300006: Train_Boxcar_Door_Front_01_Left_Handle
-    2300008: Train_Boxcar_Door_Side_01_Left
-    2300010: Train_boxcar_01
-    2300012: Train_Boxcar_01
-    2300014: train_boxcar_01_a
-    2300016: train_boxcar_door
-    2300018: train_boxcar_door_01
-    2300020: train_boxcar_door_02
-    2300022: train_caboose_01_a
-    2300024: train_flatbed_01_a
-    2300026: train_locomotive_01_a
-    2300028: train_luggage_01_a
-    2300030: train_sleeper_01_a
-    2300032: train_boxcar_door_sliding
-    2300034: train_boxcar_collision
-    2300036: train_caboose_collision
-    2300038: train_flatbed_collision
-    2300040: train_locomotive_collision
-    2300042: train_luggage_collision
-    2300044: train_sleeper_collision
-    3300000: train_boxcar_01
-    3300002: Train_Boxcar_Door_01
-    3300004: Train_Boxcar_Door_02
-    3300006: Train_Boxcar_Door_Front_01_Left_Handle
-    3300008: Train_Boxcar_Door_Side_01_Left
-    3300010: Train_boxcar_01
-    3300012: Train_Boxcar_01
-    3300014: train_boxcar_01_a
-    3300016: train_boxcar_door
-    3300018: train_boxcar_door_01
-    3300020: train_boxcar_door_02
-    3300022: train_caboose_01_a
-    3300024: train_flatbed_01_a
-    3300026: train_locomotive_01_a
-    3300028: train_luggage_01_a
-    3300030: train_sleeper_01_a
-    3300032: train_boxcar_door_sliding
-    3300034: train_boxcar_collision
-    3300036: train_caboose_collision
-    3300038: train_flatbed_collision
-    3300040: train_locomotive_collision
-    3300042: train_luggage_collision
-    3300044: train_sleeper_collision
-    4300000: train_boxcar_01
-    4300002: Train_Boxcar_Door_01
-    4300004: Train_Boxcar_Door_02
-    4300006: Train_Boxcar_Door_Front_01_Left_Handle
-    4300008: Train_Boxcar_Door_Side_01_Left
-    4300010: Train_boxcar_01
-    4300012: Train_Boxcar_01
-    4300014: train_boxcar_door_01
-    4300016: train_boxcar_door_02
-    4300018: train_boxcar_01_a
-    4300020: train_luggage_01_a
-    4300022: train_flatbed_01_a
-    4300024: train_sleeper_01_a
-    4300026: train_locomotive_01_a
-    4300028: train_caboose_01_a
-    4300030: train_boxcar_door
-    4300032: train_boxcar_door_sliding
-    4300034: train_locomotive_collision
-    4300036: train_caboose_collision
-    4300038: train_boxcar_collision
-    4300040: train_sleeper_collision
-    4300042: train_flatbed_collision
-    4300044: train_luggage_collision
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: train_boxcar_01
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Train_Boxcar_Door_01
+  - first:
+      1: 100006
+    second: Train_Boxcar_Door_02
+  - first:
+      1: 100008
+    second: Train_Boxcar_Door_Front_01_Left_Handle
+  - first:
+      1: 100010
+    second: Train_Boxcar_Door_Side_01_Left
+  - first:
+      1: 100012
+    second: Train_boxcar_01
+  - first:
+      1: 100014
+    second: Train_Boxcar_01
+  - first:
+      1: 100016
+    second: boxcar
+  - first:
+      1: 100018
+    second: train_boxcar_01_a
+  - first:
+      1: 100020
+    second: train_boxcar_door
+  - first:
+      1: 100022
+    second: train_boxcar_door_01
+  - first:
+      1: 100024
+    second: train_boxcar_door_02
+  - first:
+      1: 100026
+    second: train_caboose_01_a
+  - first:
+      1: 100028
+    second: train_flatbed_01_a
+  - first:
+      1: 100030
+    second: train_locomotive_01_a
+  - first:
+      1: 100032
+    second: train_luggage_01_a
+  - first:
+      1: 100034
+    second: train_sleeper_01_a
+  - first:
+      1: 100036
+    second: train_boxcar_door_sliding
+  - first:
+      1: 100038
+    second: Texture Group
+  - first:
+      1: 100040
+    second: train_boxcar_collision
+  - first:
+      1: 100042
+    second: train_caboose_collision
+  - first:
+      1: 100044
+    second: train_flatbed_collision
+  - first:
+      1: 100046
+    second: train_locomotive_collision
+  - first:
+      1: 100048
+    second: train_luggage_collision
+  - first:
+      1: 100050
+    second: train_sleeper_collision
+  - first:
+      4: 400000
+    second: train_boxcar_01
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Train_Boxcar_Door_01
+  - first:
+      4: 400006
+    second: Train_Boxcar_Door_02
+  - first:
+      4: 400008
+    second: Train_Boxcar_Door_Front_01_Left_Handle
+  - first:
+      4: 400010
+    second: Train_Boxcar_Door_Side_01_Left
+  - first:
+      4: 400012
+    second: Train_boxcar_01
+  - first:
+      4: 400014
+    second: Train_Boxcar_01
+  - first:
+      4: 400016
+    second: boxcar
+  - first:
+      4: 400018
+    second: train_boxcar_01_a
+  - first:
+      4: 400020
+    second: train_boxcar_door
+  - first:
+      4: 400022
+    second: train_boxcar_door_01
+  - first:
+      4: 400024
+    second: train_boxcar_door_02
+  - first:
+      4: 400026
+    second: train_caboose_01_a
+  - first:
+      4: 400028
+    second: train_flatbed_01_a
+  - first:
+      4: 400030
+    second: train_locomotive_01_a
+  - first:
+      4: 400032
+    second: train_luggage_01_a
+  - first:
+      4: 400034
+    second: train_sleeper_01_a
+  - first:
+      4: 400036
+    second: train_boxcar_door_sliding
+  - first:
+      4: 400038
+    second: Texture Group
+  - first:
+      4: 400040
+    second: train_boxcar_collision
+  - first:
+      4: 400042
+    second: train_caboose_collision
+  - first:
+      4: 400044
+    second: train_flatbed_collision
+  - first:
+      4: 400046
+    second: train_locomotive_collision
+  - first:
+      4: 400048
+    second: train_luggage_collision
+  - first:
+      4: 400050
+    second: train_sleeper_collision
+  - first:
+      23: 2300000
+    second: train_boxcar_01
+  - first:
+      23: 2300002
+    second: Train_Boxcar_Door_01
+  - first:
+      23: 2300004
+    second: Train_Boxcar_Door_02
+  - first:
+      23: 2300006
+    second: Train_Boxcar_Door_Front_01_Left_Handle
+  - first:
+      23: 2300008
+    second: Train_Boxcar_Door_Side_01_Left
+  - first:
+      23: 2300010
+    second: Train_boxcar_01
+  - first:
+      23: 2300012
+    second: Train_Boxcar_01
+  - first:
+      23: 2300014
+    second: train_boxcar_01_a
+  - first:
+      23: 2300016
+    second: train_boxcar_door
+  - first:
+      23: 2300018
+    second: train_boxcar_door_01
+  - first:
+      23: 2300020
+    second: train_boxcar_door_02
+  - first:
+      23: 2300022
+    second: train_caboose_01_a
+  - first:
+      23: 2300024
+    second: train_flatbed_01_a
+  - first:
+      23: 2300026
+    second: train_locomotive_01_a
+  - first:
+      23: 2300028
+    second: train_luggage_01_a
+  - first:
+      23: 2300030
+    second: train_sleeper_01_a
+  - first:
+      23: 2300032
+    second: train_boxcar_door_sliding
+  - first:
+      23: 2300034
+    second: train_boxcar_collision
+  - first:
+      23: 2300036
+    second: train_caboose_collision
+  - first:
+      23: 2300038
+    second: train_flatbed_collision
+  - first:
+      23: 2300040
+    second: train_locomotive_collision
+  - first:
+      23: 2300042
+    second: train_luggage_collision
+  - first:
+      23: 2300044
+    second: train_sleeper_collision
+  - first:
+      33: 3300000
+    second: train_boxcar_01
+  - first:
+      33: 3300002
+    second: Train_Boxcar_Door_01
+  - first:
+      33: 3300004
+    second: Train_Boxcar_Door_02
+  - first:
+      33: 3300006
+    second: Train_Boxcar_Door_Front_01_Left_Handle
+  - first:
+      33: 3300008
+    second: Train_Boxcar_Door_Side_01_Left
+  - first:
+      33: 3300010
+    second: Train_boxcar_01
+  - first:
+      33: 3300012
+    second: Train_Boxcar_01
+  - first:
+      33: 3300014
+    second: train_boxcar_01_a
+  - first:
+      33: 3300016
+    second: train_boxcar_door
+  - first:
+      33: 3300018
+    second: train_boxcar_door_01
+  - first:
+      33: 3300020
+    second: train_boxcar_door_02
+  - first:
+      33: 3300022
+    second: train_caboose_01_a
+  - first:
+      33: 3300024
+    second: train_flatbed_01_a
+  - first:
+      33: 3300026
+    second: train_locomotive_01_a
+  - first:
+      33: 3300028
+    second: train_luggage_01_a
+  - first:
+      33: 3300030
+    second: train_sleeper_01_a
+  - first:
+      33: 3300032
+    second: train_boxcar_door_sliding
+  - first:
+      33: 3300034
+    second: train_boxcar_collision
+  - first:
+      33: 3300036
+    second: train_caboose_collision
+  - first:
+      33: 3300038
+    second: train_flatbed_collision
+  - first:
+      33: 3300040
+    second: train_locomotive_collision
+  - first:
+      33: 3300042
+    second: train_luggage_collision
+  - first:
+      33: 3300044
+    second: train_sleeper_collision
+  - first:
+      43: 4300000
+    second: train_boxcar_01
+  - first:
+      43: 4300002
+    second: Train_Boxcar_Door_01
+  - first:
+      43: 4300004
+    second: Train_Boxcar_Door_02
+  - first:
+      43: 4300006
+    second: Train_Boxcar_Door_Front_01_Left_Handle
+  - first:
+      43: 4300008
+    second: Train_Boxcar_Door_Side_01_Left
+  - first:
+      43: 4300010
+    second: Train_boxcar_01
+  - first:
+      43: 4300012
+    second: Train_Boxcar_01
+  - first:
+      43: 4300014
+    second: train_boxcar_door_01
+  - first:
+      43: 4300016
+    second: train_boxcar_door_02
+  - first:
+      43: 4300018
+    second: train_boxcar_01_a
+  - first:
+      43: 4300020
+    second: train_luggage_01_a
+  - first:
+      43: 4300022
+    second: train_flatbed_01_a
+  - first:
+      43: 4300024
+    second: train_sleeper_01_a
+  - first:
+      43: 4300026
+    second: train_locomotive_01_a
+  - first:
+      43: 4300028
+    second: train_caboose_01_a
+  - first:
+      43: 4300030
+    second: train_boxcar_door
+  - first:
+      43: 4300032
+    second: train_boxcar_door_sliding
+  - first:
+      43: 4300034
+    second: train_locomotive_collision
+  - first:
+      43: 4300036
+    second: train_caboose_collision
+  - first:
+      43: 4300038
+    second: train_boxcar_collision
+  - first:
+      43: 4300040
+    second: train_sleeper_collision
+  - first:
+      43: 4300042
+    second: train_flatbed_collision
+  - first:
+      43: 4300044
+    second: train_luggage_collision
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -136,6 +380,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -159,34 +404,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -196,13 +456,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

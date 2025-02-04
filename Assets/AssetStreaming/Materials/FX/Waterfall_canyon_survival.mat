@@ -2,20 +2,25 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Waterfall_canyon_survival
   m_Shader: {fileID: 4800000, guid: a578f34a12168984bb2df87d968ceba0, type: 3}
-  m_ShaderKeywords: _ALPHABLEND_ON
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2200
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -91,6 +96,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 80dc01a8c5ce3494b8ba04b5254a6b50, type: 3}
         m_Scale: {x: 1, y: 0.3}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Bump1Speed: 0
     - _Bump2Speed: 0
@@ -134,3 +140,4 @@ Material:
     - _Color: {r: 0, g: 0.58, b: 0.34931085, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _node_1150: {r: -0.39, g: 0.51, b: -4.5, a: 0}
+  m_BuildTextureStacks: []

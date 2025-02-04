@@ -1,94 +1,245 @@
 fileFormatVersion: 2
 guid: e8a25b0b18bc8414f8280d004d948d6c
-timeCreated: 1510098298
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: alpine_door_014
-    100004: alpine_door_015
-    100006: alpine_door_016
-    100008: Plank_01_low11
-    100010: polySurface6068
-    100012: polySurface6069
-    100014: polySurface6070
-    100016: polySurface6071
-    100018: polySurface6072
-    100020: polySurface6073
-    100022: polySurface6074
-    100024: polySurface6075
-    100026: polySurface6076
-    100028: polySurface6077
-    100030: polySurface6078
-    100032: polySurface6079
-    100034: polySurface6080
-    100036: transform17
-    100038: transform18
-    100040: transform19
-    100042: transform20
-    100044: transform21
-    100046: transform22
-    100048: transform23
-    100050: transform24
-    100052: transform25
-    100054: transform26
-    100056: transform27
-    100058: transform28
-    100060: transform29
-    100062: transform30
-    100064: transform31
-    100066: transform32
-    400000: //RootNode
-    400002: alpine_door_014
-    400004: alpine_door_015
-    400006: alpine_door_016
-    400008: Plank_01_low11
-    400010: polySurface6068
-    400012: polySurface6069
-    400014: polySurface6070
-    400016: polySurface6071
-    400018: polySurface6072
-    400020: polySurface6073
-    400022: polySurface6074
-    400024: polySurface6075
-    400026: polySurface6076
-    400028: polySurface6077
-    400030: polySurface6078
-    400032: polySurface6079
-    400034: polySurface6080
-    400036: transform17
-    400038: transform18
-    400040: transform19
-    400042: transform20
-    400044: transform21
-    400046: transform22
-    400048: transform23
-    400050: transform24
-    400052: transform25
-    400054: transform26
-    400056: transform27
-    400058: transform28
-    400060: transform29
-    400062: transform30
-    400064: transform31
-    400066: transform32
-    2300000: //RootNode
-    2300002: polySurface6080
-    3300000: //RootNode
-    3300002: polySurface6080
-    4300000: polySurface6052
-    4300002: polySurface6080
-    4300004: alpine_building_02
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: alpine_door_014
+  - first:
+      1: 100004
+    second: alpine_door_015
+  - first:
+      1: 100006
+    second: alpine_door_016
+  - first:
+      1: 100008
+    second: Plank_01_low11
+  - first:
+      1: 100010
+    second: polySurface6068
+  - first:
+      1: 100012
+    second: polySurface6069
+  - first:
+      1: 100014
+    second: polySurface6070
+  - first:
+      1: 100016
+    second: polySurface6071
+  - first:
+      1: 100018
+    second: polySurface6072
+  - first:
+      1: 100020
+    second: polySurface6073
+  - first:
+      1: 100022
+    second: polySurface6074
+  - first:
+      1: 100024
+    second: polySurface6075
+  - first:
+      1: 100026
+    second: polySurface6076
+  - first:
+      1: 100028
+    second: polySurface6077
+  - first:
+      1: 100030
+    second: polySurface6078
+  - first:
+      1: 100032
+    second: polySurface6079
+  - first:
+      1: 100034
+    second: polySurface6080
+  - first:
+      1: 100036
+    second: transform17
+  - first:
+      1: 100038
+    second: transform18
+  - first:
+      1: 100040
+    second: transform19
+  - first:
+      1: 100042
+    second: transform20
+  - first:
+      1: 100044
+    second: transform21
+  - first:
+      1: 100046
+    second: transform22
+  - first:
+      1: 100048
+    second: transform23
+  - first:
+      1: 100050
+    second: transform24
+  - first:
+      1: 100052
+    second: transform25
+  - first:
+      1: 100054
+    second: transform26
+  - first:
+      1: 100056
+    second: transform27
+  - first:
+      1: 100058
+    second: transform28
+  - first:
+      1: 100060
+    second: transform29
+  - first:
+      1: 100062
+    second: transform30
+  - first:
+      1: 100064
+    second: transform31
+  - first:
+      1: 100066
+    second: transform32
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: alpine_door_014
+  - first:
+      4: 400004
+    second: alpine_door_015
+  - first:
+      4: 400006
+    second: alpine_door_016
+  - first:
+      4: 400008
+    second: Plank_01_low11
+  - first:
+      4: 400010
+    second: polySurface6068
+  - first:
+      4: 400012
+    second: polySurface6069
+  - first:
+      4: 400014
+    second: polySurface6070
+  - first:
+      4: 400016
+    second: polySurface6071
+  - first:
+      4: 400018
+    second: polySurface6072
+  - first:
+      4: 400020
+    second: polySurface6073
+  - first:
+      4: 400022
+    second: polySurface6074
+  - first:
+      4: 400024
+    second: polySurface6075
+  - first:
+      4: 400026
+    second: polySurface6076
+  - first:
+      4: 400028
+    second: polySurface6077
+  - first:
+      4: 400030
+    second: polySurface6078
+  - first:
+      4: 400032
+    second: polySurface6079
+  - first:
+      4: 400034
+    second: polySurface6080
+  - first:
+      4: 400036
+    second: transform17
+  - first:
+      4: 400038
+    second: transform18
+  - first:
+      4: 400040
+    second: transform19
+  - first:
+      4: 400042
+    second: transform20
+  - first:
+      4: 400044
+    second: transform21
+  - first:
+      4: 400046
+    second: transform22
+  - first:
+      4: 400048
+    second: transform23
+  - first:
+      4: 400050
+    second: transform24
+  - first:
+      4: 400052
+    second: transform25
+  - first:
+      4: 400054
+    second: transform26
+  - first:
+      4: 400056
+    second: transform27
+  - first:
+      4: 400058
+    second: transform28
+  - first:
+      4: 400060
+    second: transform29
+  - first:
+      4: 400062
+    second: transform30
+  - first:
+      4: 400064
+    second: transform31
+  - first:
+      4: 400066
+    second: transform32
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: polySurface6080
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: polySurface6080
+  - first:
+      43: 4300000
+    second: polySurface6052
+  - first:
+      43: 4300002
+    second: polySurface6080
+  - first:
+      43: 4300004
+    second: alpine_building_02
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -96,12 +247,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -109,26 +263,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -138,14 +315,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

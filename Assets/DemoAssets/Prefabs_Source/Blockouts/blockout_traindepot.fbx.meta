@@ -1,152 +1,419 @@
 fileFormatVersion: 2
 guid: 37c59352b1cc4de44a64b4772a3b0ec3
-timeCreated: 1531433447
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: terrain_far
-    100004: terrain_near
-    100006: Texture Group
-    100008: Mesh
-    100010: Mesh (2)
-    100012: Mesh (3)
-    100014: Mesh (4)
-    100016: Mesh_MeshPart0
-    100018: Mesh_MeshPart1
-    100020: Texture Group (2)
-    100022: terrain_01
-    100024: terrain_mountain
-    100026: Texture Group (3)
-    100028: train
-    100030: scene
-    100032: scene_MeshPart0
-    100034: scene_MeshPart1
-    100036: Texture Group (4)
-    100038: scene_MeshPart2
-    100040: Texture Group (5)
-    100042: spanish_town
-    100044: terrain_rocks_01
-    100046: waterfall
-    100048: depot_town
-    100050: Texture Group (6)
-    100052: Texture Group (7)
-    100054: waterwheel
-    100056: _delete
-    100058: 80x60
-    100060: Texture Group (8)
-    100062: traintrack_curve
-    100064: Texture Group (9)
-    400000: //RootNode
-    400002: terrain_far
-    400004: terrain_near
-    400006: Texture Group
-    400008: Mesh
-    400010: Mesh (2)
-    400012: Mesh (3)
-    400014: Mesh (4)
-    400016: Mesh_MeshPart0
-    400018: Mesh_MeshPart1
-    400020: Texture Group (2)
-    400022: terrain_01
-    400024: terrain_mountain
-    400026: Texture Group (3)
-    400028: train
-    400030: scene
-    400032: scene_MeshPart0
-    400034: scene_MeshPart1
-    400036: Texture Group (4)
-    400038: scene_MeshPart2
-    400040: Texture Group (5)
-    400042: spanish_town
-    400044: terrain_rocks_01
-    400046: waterfall
-    400048: depot_town
-    400050: Texture Group (6)
-    400052: Texture Group (7)
-    400054: waterwheel
-    400056: _delete
-    400058: 80x60
-    400060: Texture Group (8)
-    400062: traintrack_curve
-    400064: Texture Group (9)
-    2300000: terrain_far
-    2300002: terrain_near
-    2300004: Mesh (2)
-    2300006: Mesh (3)
-    2300008: Mesh (4)
-    2300010: Mesh_MeshPart0
-    2300012: Mesh_MeshPart1
-    2300014: terrain_01
-    2300016: terrain_mountain
-    2300018: train
-    2300020: scene_MeshPart0
-    2300022: scene_MeshPart1
-    2300024: Mesh
-    2300026: scene_MeshPart2
-    2300028: spanish_town
-    2300030: terrain_rocks_01
-    2300032: waterfall
-    2300034: depot_town
-    2300036: waterwheel
-    2300038: _delete
-    2300040: 80x60
-    2300042: traintrack_curve
-    3300000: terrain_far
-    3300002: terrain_near
-    3300004: Mesh (2)
-    3300006: Mesh (3)
-    3300008: Mesh (4)
-    3300010: Mesh_MeshPart0
-    3300012: Mesh_MeshPart1
-    3300014: terrain_01
-    3300016: terrain_mountain
-    3300018: train
-    3300020: scene_MeshPart0
-    3300022: scene_MeshPart1
-    3300024: Mesh
-    3300026: scene_MeshPart2
-    3300028: spanish_town
-    3300030: terrain_rocks_01
-    3300032: waterfall
-    3300034: depot_town
-    3300036: waterwheel
-    3300038: _delete
-    3300040: 80x60
-    3300042: traintrack_curve
-    4300000: terrain_near
-    4300002: terrain_far
-    4300004: Mesh_MeshPart0
-    4300006: Mesh_MeshPart1
-    4300008: Mesh (2)
-    4300010: Mesh (3)
-    4300012: Mesh (4)
-    4300014: terrain_01
-    4300016: terrain_mountain
-    4300018: train
-    4300020: scene_MeshPart0
-    4300022: scene_MeshPart1
-    4300024: scene_MeshPart2
-    4300026: Mesh
-    4300028: spanish_town
-    4300030: waterfall
-    4300032: terrain_rocks_01
-    4300034: depot_town
-    4300036: waterwheel
-    4300038: _delete
-    4300040: 80x60
-    4300042: traintrack_curve
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: terrain_far
+  - first:
+      1: 100004
+    second: terrain_near
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: Mesh
+  - first:
+      1: 100010
+    second: Mesh (2)
+  - first:
+      1: 100012
+    second: Mesh (3)
+  - first:
+      1: 100014
+    second: Mesh (4)
+  - first:
+      1: 100016
+    second: Mesh_MeshPart0
+  - first:
+      1: 100018
+    second: Mesh_MeshPart1
+  - first:
+      1: 100020
+    second: Texture Group (2)
+  - first:
+      1: 100022
+    second: terrain_01
+  - first:
+      1: 100024
+    second: terrain_mountain
+  - first:
+      1: 100026
+    second: Texture Group (3)
+  - first:
+      1: 100028
+    second: train
+  - first:
+      1: 100030
+    second: scene
+  - first:
+      1: 100032
+    second: scene_MeshPart0
+  - first:
+      1: 100034
+    second: scene_MeshPart1
+  - first:
+      1: 100036
+    second: Texture Group (4)
+  - first:
+      1: 100038
+    second: scene_MeshPart2
+  - first:
+      1: 100040
+    second: Texture Group (5)
+  - first:
+      1: 100042
+    second: spanish_town
+  - first:
+      1: 100044
+    second: terrain_rocks_01
+  - first:
+      1: 100046
+    second: waterfall
+  - first:
+      1: 100048
+    second: depot_town
+  - first:
+      1: 100050
+    second: Texture Group (6)
+  - first:
+      1: 100052
+    second: Texture Group (7)
+  - first:
+      1: 100054
+    second: waterwheel
+  - first:
+      1: 100056
+    second: _delete
+  - first:
+      1: 100058
+    second: 80x60
+  - first:
+      1: 100060
+    second: Texture Group (8)
+  - first:
+      1: 100062
+    second: traintrack_curve
+  - first:
+      1: 100064
+    second: Texture Group (9)
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: terrain_far
+  - first:
+      4: 400004
+    second: terrain_near
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: Mesh
+  - first:
+      4: 400010
+    second: Mesh (2)
+  - first:
+      4: 400012
+    second: Mesh (3)
+  - first:
+      4: 400014
+    second: Mesh (4)
+  - first:
+      4: 400016
+    second: Mesh_MeshPart0
+  - first:
+      4: 400018
+    second: Mesh_MeshPart1
+  - first:
+      4: 400020
+    second: Texture Group (2)
+  - first:
+      4: 400022
+    second: terrain_01
+  - first:
+      4: 400024
+    second: terrain_mountain
+  - first:
+      4: 400026
+    second: Texture Group (3)
+  - first:
+      4: 400028
+    second: train
+  - first:
+      4: 400030
+    second: scene
+  - first:
+      4: 400032
+    second: scene_MeshPart0
+  - first:
+      4: 400034
+    second: scene_MeshPart1
+  - first:
+      4: 400036
+    second: Texture Group (4)
+  - first:
+      4: 400038
+    second: scene_MeshPart2
+  - first:
+      4: 400040
+    second: Texture Group (5)
+  - first:
+      4: 400042
+    second: spanish_town
+  - first:
+      4: 400044
+    second: terrain_rocks_01
+  - first:
+      4: 400046
+    second: waterfall
+  - first:
+      4: 400048
+    second: depot_town
+  - first:
+      4: 400050
+    second: Texture Group (6)
+  - first:
+      4: 400052
+    second: Texture Group (7)
+  - first:
+      4: 400054
+    second: waterwheel
+  - first:
+      4: 400056
+    second: _delete
+  - first:
+      4: 400058
+    second: 80x60
+  - first:
+      4: 400060
+    second: Texture Group (8)
+  - first:
+      4: 400062
+    second: traintrack_curve
+  - first:
+      4: 400064
+    second: Texture Group (9)
+  - first:
+      23: 2300000
+    second: terrain_far
+  - first:
+      23: 2300002
+    second: terrain_near
+  - first:
+      23: 2300004
+    second: Mesh (2)
+  - first:
+      23: 2300006
+    second: Mesh (3)
+  - first:
+      23: 2300008
+    second: Mesh (4)
+  - first:
+      23: 2300010
+    second: Mesh_MeshPart0
+  - first:
+      23: 2300012
+    second: Mesh_MeshPart1
+  - first:
+      23: 2300014
+    second: terrain_01
+  - first:
+      23: 2300016
+    second: terrain_mountain
+  - first:
+      23: 2300018
+    second: train
+  - first:
+      23: 2300020
+    second: scene_MeshPart0
+  - first:
+      23: 2300022
+    second: scene_MeshPart1
+  - first:
+      23: 2300024
+    second: Mesh
+  - first:
+      23: 2300026
+    second: scene_MeshPart2
+  - first:
+      23: 2300028
+    second: spanish_town
+  - first:
+      23: 2300030
+    second: terrain_rocks_01
+  - first:
+      23: 2300032
+    second: waterfall
+  - first:
+      23: 2300034
+    second: depot_town
+  - first:
+      23: 2300036
+    second: waterwheel
+  - first:
+      23: 2300038
+    second: _delete
+  - first:
+      23: 2300040
+    second: 80x60
+  - first:
+      23: 2300042
+    second: traintrack_curve
+  - first:
+      33: 3300000
+    second: terrain_far
+  - first:
+      33: 3300002
+    second: terrain_near
+  - first:
+      33: 3300004
+    second: Mesh (2)
+  - first:
+      33: 3300006
+    second: Mesh (3)
+  - first:
+      33: 3300008
+    second: Mesh (4)
+  - first:
+      33: 3300010
+    second: Mesh_MeshPart0
+  - first:
+      33: 3300012
+    second: Mesh_MeshPart1
+  - first:
+      33: 3300014
+    second: terrain_01
+  - first:
+      33: 3300016
+    second: terrain_mountain
+  - first:
+      33: 3300018
+    second: train
+  - first:
+      33: 3300020
+    second: scene_MeshPart0
+  - first:
+      33: 3300022
+    second: scene_MeshPart1
+  - first:
+      33: 3300024
+    second: Mesh
+  - first:
+      33: 3300026
+    second: scene_MeshPart2
+  - first:
+      33: 3300028
+    second: spanish_town
+  - first:
+      33: 3300030
+    second: terrain_rocks_01
+  - first:
+      33: 3300032
+    second: waterfall
+  - first:
+      33: 3300034
+    second: depot_town
+  - first:
+      33: 3300036
+    second: waterwheel
+  - first:
+      33: 3300038
+    second: _delete
+  - first:
+      33: 3300040
+    second: 80x60
+  - first:
+      33: 3300042
+    second: traintrack_curve
+  - first:
+      43: 4300000
+    second: terrain_near
+  - first:
+      43: 4300002
+    second: terrain_far
+  - first:
+      43: 4300004
+    second: Mesh_MeshPart0
+  - first:
+      43: 4300006
+    second: Mesh_MeshPart1
+  - first:
+      43: 4300008
+    second: Mesh (2)
+  - first:
+      43: 4300010
+    second: Mesh (3)
+  - first:
+      43: 4300012
+    second: Mesh (4)
+  - first:
+      43: 4300014
+    second: terrain_01
+  - first:
+      43: 4300016
+    second: terrain_mountain
+  - first:
+      43: 4300018
+    second: train
+  - first:
+      43: 4300020
+    second: scene_MeshPart0
+  - first:
+      43: 4300022
+    second: scene_MeshPart1
+  - first:
+      43: 4300024
+    second: scene_MeshPart2
+  - first:
+      43: 4300026
+    second: Mesh
+  - first:
+      43: 4300028
+    second: spanish_town
+  - first:
+      43: 4300030
+    second: waterfall
+  - first:
+      43: 4300032
+    second: terrain_rocks_01
+  - first:
+      43: 4300034
+    second: depot_town
+  - first:
+      43: 4300036
+    second: waterwheel
+  - first:
+      43: 4300038
+    second: _delete
+  - first:
+      43: 4300040
+    second: 80x60
+  - first:
+      43: 4300042
+    second: traintrack_curve
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -154,12 +421,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -167,26 +437,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -196,14 +489,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,50 +1,128 @@
 fileFormatVersion: 2
 guid: 8b0b8e4d3fb644c42a791d65f30ff284
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: alpine_watertower_01
-    100004: alpine_watertower_02
-    100006: alpine_watertower_03
-    100008: alpine_watertower_04
-    100010: alpine_watertower_05
-    100012: alpine_watertower_06
-    100014: transform23
-    100016: transform24
-    100018: transform25
-    100020: transform26
-    100022: transform27
-    100024: alpine_watertower_01_collision_player
-    400000: //RootNode
-    400002: alpine_watertower_01
-    400004: alpine_watertower_02
-    400006: alpine_watertower_03
-    400008: alpine_watertower_04
-    400010: alpine_watertower_05
-    400012: alpine_watertower_06
-    400014: transform23
-    400016: transform24
-    400018: transform25
-    400020: transform26
-    400022: transform27
-    400024: alpine_watertower_01_collision_player
-    2300000: //RootNode
-    2300002: alpine_watertower_06
-    2300004: alpine_watertower_01
-    2300006: alpine_watertower_01_collision_player
-    3300000: //RootNode
-    3300002: alpine_watertower_06
-    3300004: alpine_watertower_01
-    3300006: alpine_watertower_01_collision_player
-    4300000: alpine_watertower_01
-    4300002: alpine_watertower_06
-    4300004: alpine_watertower_02
-    4300006: alpine_watertower_01_collision_player
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: alpine_watertower_01
+  - first:
+      1: 100004
+    second: alpine_watertower_02
+  - first:
+      1: 100006
+    second: alpine_watertower_03
+  - first:
+      1: 100008
+    second: alpine_watertower_04
+  - first:
+      1: 100010
+    second: alpine_watertower_05
+  - first:
+      1: 100012
+    second: alpine_watertower_06
+  - first:
+      1: 100014
+    second: transform23
+  - first:
+      1: 100016
+    second: transform24
+  - first:
+      1: 100018
+    second: transform25
+  - first:
+      1: 100020
+    second: transform26
+  - first:
+      1: 100022
+    second: transform27
+  - first:
+      1: 100024
+    second: alpine_watertower_01_collision_player
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: alpine_watertower_01
+  - first:
+      4: 400004
+    second: alpine_watertower_02
+  - first:
+      4: 400006
+    second: alpine_watertower_03
+  - first:
+      4: 400008
+    second: alpine_watertower_04
+  - first:
+      4: 400010
+    second: alpine_watertower_05
+  - first:
+      4: 400012
+    second: alpine_watertower_06
+  - first:
+      4: 400014
+    second: transform23
+  - first:
+      4: 400016
+    second: transform24
+  - first:
+      4: 400018
+    second: transform25
+  - first:
+      4: 400020
+    second: transform26
+  - first:
+      4: 400022
+    second: transform27
+  - first:
+      4: 400024
+    second: alpine_watertower_01_collision_player
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: alpine_watertower_06
+  - first:
+      23: 2300004
+    second: alpine_watertower_01
+  - first:
+      23: 2300006
+    second: alpine_watertower_01_collision_player
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: alpine_watertower_06
+  - first:
+      33: 3300004
+    second: alpine_watertower_01
+  - first:
+      33: 3300006
+    second: alpine_watertower_01_collision_player
+  - first:
+      43: 4300000
+    second: alpine_watertower_01
+  - first:
+      43: 4300002
+    second: alpine_watertower_06
+  - first:
+      43: 4300004
+    second: alpine_watertower_02
+  - first:
+      43: 4300006
+    second: alpine_watertower_01_collision_player
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -53,6 +131,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -77,25 +156,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -104,10 +194,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -117,13 +207,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

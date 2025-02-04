@@ -17,18 +17,21 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 886ffb9a896452942bab669f59b53c68
   m_SerializeEntries:
-  - m_GUID: e3eb99e629f82ab469363f9d1ea8d436
-    m_Address: Assets/Shaders/Diffuse World ToD.shader
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 33a785f2cbe9ae943a30c83d987d915c
     m_Address: Assets/Scenes/Stripped/combined/OcclusionCullingData.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3eb99e629f82ab469363f9d1ea8d436
+    m_Address: Assets/Shaders/Diffuse World ToD.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec76f178d514e3b4a89ec76a2b1fd352
     m_Address: Assets/Scenes/Stripped/combined.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 359e3a4117cc79e45a9dec40ea000069, type: 2}
   m_SchemaSet:

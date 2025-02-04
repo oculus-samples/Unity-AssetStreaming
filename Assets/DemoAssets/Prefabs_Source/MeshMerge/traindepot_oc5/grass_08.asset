@@ -3,15 +3,17 @@
 --- !u!43 &4300000
 Mesh:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: grass_08
-  serializedVersion: 8
+  serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
     indexCount: 36
     topology: 0
+    baseVertex: 0
     firstVertex: 0
     vertexCount: 18
     localAABB:
@@ -25,14 +27,17 @@ Mesh:
   m_BindPose: []
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 1
   m_KeepIndices: 1
+  m_IndexFormat: 0
   m_IndexBuffer: 00000100020000000200030004000500060006000700040006000800070004000900050004000a0009000b000c000d000d000e000b000d000f000e000b0010000c000b0011001000
-  m_Skin: []
   m_VertexData:
-    m_CurrentChannels: 155
+    serializedVersion: 3
     m_VertexCount: 18
     m_Channels:
     - stream: 0
@@ -43,6 +48,10 @@ Mesh:
       offset: 12
       format: 0
       dimension: 3
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 4
     - stream: 0
       offset: 0
       format: 0
@@ -64,9 +73,29 @@ Mesh:
       format: 0
       dimension: 0
     - stream: 0
-      offset: 40
+      offset: 0
       format: 0
-      dimension: 4
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
     m_DataSize: 1008
     _typelessdata: cfcae5402312fec018a5d14001a995be1a1e5f3e8e616e3fe5b0363eeb29543bf90d603e258b293f99b273bf073823beeae685be000080bf7536e240d060d8c092b3c74001a995be1a1e5f3e8e616e3fe5b0363ece7c163e0000803b278b293f99b273bf073823beeae685be000080bfd6a1c240053de8c0cb7fc14001a995be1a1e5f3e8e616e3f8ba89b3effb4db3d5f83813deaecf23e99b273bf073823beeae685be000080bf7a34c5404eaa01c16ca5c84001a995be1a1e5f3e8e616e3f8ba89b3e3647823b74ec5e3eeaecf23e99b273bf073823beeae685be000080bf11ac2bc0f642db4064a81140a75474bf3d29973e79b233bda305023f1c290e3eee74f43e938fe93ecdab193d8273debcadb97fbf000080bf888744c0eebdb5405c8f12403f4b74bfbf92973ef5012abde112023f5b480a3c962df43e13ed743e769a103d032fd7bc85c07fbf000080bf394e53c09486b940f854a440c1c074bfc4f18c3e7a68cebdaee0a43e5b480a3c0c947a3feaec743e47d8bc3df20834bd2fa97ebf000080bf3fa435c0901de04062226440c1c074bfc4f18c3e7a68cebd8cc1d83ece7c163ebce2343feaecf03e286ebb3d47cb3dbd46a67ebf000080bf51164cc0e56ac440102ca440c1c074bfc4f18c3e7c68cebdaee0a43eef9e3d3df2a07a3f55b79a3e1e8ebd3d94212fbd7daa7ebf000080bf19b747c08f01b54008dacdbeeff772bf6218a13e1406733c39f52e3f5b480a3c0000803b10ed743e683897bcea100cbc6ff27fbf000080bf1f1232c060aad5405084d5beeff772bf6218a13e1406733c39f52e3fdbbef93d0000803b0c2ddb3e683897bcea100cbc6ff27fbf000080bf99974dc04db75a40df9412c1aa5474bfef15833ebf1b1dbea305023f1c290e3ef374f43e3f32623e4dac193d5f68d0be90a269bf000080bf107366c04cb9154033330bc1424b74bffced833e6e2f1bbee112023f5b480a3c9b2df43e9904803bf69a103d2a02d0be1fbf69bf000080bfc73975c0b7586240b8b6c3c0c3c074bfad015d3e84254bbeaee0a43e5b480a3c16947a3f0000803b88d8bc3d928ad7bed10167bf000080bfcb8f57c0759c81400a7500c1c3c074bfad015d3e84254bbe8cc1d83ece7c163ec1e2343feaec703e6a6ebb3de7a8d8be6cc366bf000080bfe0016ec0505a7640ac06c8c0c3c074bfad015d3e84254bbeaee0a43eef9e3d3dfba07a3f9303893d608ebd3d91fad6be052167bf000080bf9ba269c0aaf8a43ff2db32c1f3f772bff0c1973eea51dabd39f52e3f5b480a3c0000803baa02803b6e3797bc66c6c7be3fa96bbf000080bfa2fd53c085790e400c5339c1f3f772bff0c1973eea51dabd39f52e3fdbbef93d0000803b1e6d453e6e3797bc66c6c7be3fa96bbf000080bf
   m_CompressedMesh:
@@ -125,6 +154,14 @@ Mesh:
     m_Center: {x: 1.6746777, y: -0.5502348, z: -2.515686}
     m_Extent: {x: 5.506329, y: 7.5538435, z: 9.067089}
   m_MeshUsageFlags: 0
+  m_CookingOptions: 30
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
-  m_MeshOptimized: 0
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: -1
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 

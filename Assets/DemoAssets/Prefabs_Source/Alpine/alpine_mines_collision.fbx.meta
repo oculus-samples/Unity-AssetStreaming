@@ -1,97 +1,269 @@
 fileFormatVersion: 2
 guid: 648e3461585021d45a5ac77d29215281
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: navmesh
-    100004: scene
-    100006: Texture Group
-    100008: player_collision
-    100010: Texture Group (2)
-    100012: Texture Group (3)
-    100014: world_collision
-    100016: occlusion_mesh
-    100018: Texture Group (4)
-    100020: world_collision_ground
-    100022: world_collision_metal
-    100024: world_collision_stone
-    100026: world_collision_wood
-    100028: Texture Group (5)
-    100030: Mesh
-    100032: Mesh (2)
-    100034: Texture Group (6)
-    100036: blackbox
-    100038: Camera
-    100040: Directional Light
-    100042: Texture Group (7)
-    400000: //RootNode
-    400002: navmesh
-    400004: scene
-    400006: Texture Group
-    400008: player_collision
-    400010: Texture Group (2)
-    400012: Texture Group (3)
-    400014: world_collision
-    400016: occlusion_mesh
-    400018: Texture Group (4)
-    400020: world_collision_ground
-    400022: world_collision_metal
-    400024: world_collision_stone
-    400026: world_collision_wood
-    400028: Texture Group (5)
-    400030: Mesh
-    400032: Mesh (2)
-    400034: Texture Group (6)
-    400036: blackbox
-    400038: Camera
-    400040: Directional Light
-    400042: Texture Group (7)
-    2000000: Camera
-    2300000: //RootNode
-    2300002: navmesh
-    2300004: scene
-    2300006: player_collision
-    2300008: world_collision
-    2300010: occlusion_mesh
-    2300012: world_collision_ground
-    2300014: world_collision_metal
-    2300016: world_collision_stone
-    2300018: world_collision_wood
-    2300020: Mesh
-    2300022: Mesh (2)
-    2300024: blackbox
-    3300000: //RootNode
-    3300002: navmesh
-    3300004: scene
-    3300006: player_collision
-    3300008: world_collision
-    3300010: occlusion_mesh
-    3300012: world_collision_ground
-    3300014: world_collision_metal
-    3300016: world_collision_stone
-    3300018: world_collision_wood
-    3300020: Mesh
-    3300022: Mesh (2)
-    3300024: blackbox
-    4300000: navmesh
-    4300002: scene
-    4300004: player_collision
-    4300006: world_collision
-    4300008: world_collision_stone
-    4300010: world_collision_wood
-    4300012: world_collision_ground
-    4300014: world_collision_metal
-    4300016: occlusion_mesh
-    4300018: Mesh
-    4300020: Mesh (2)
-    4300022: blackbox
-    9500000: //RootNode
-    10800000: Directional Light
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: navmesh
+  - first:
+      1: 100004
+    second: scene
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: player_collision
+  - first:
+      1: 100010
+    second: Texture Group (2)
+  - first:
+      1: 100012
+    second: Texture Group (3)
+  - first:
+      1: 100014
+    second: world_collision
+  - first:
+      1: 100016
+    second: occlusion_mesh
+  - first:
+      1: 100018
+    second: Texture Group (4)
+  - first:
+      1: 100020
+    second: world_collision_ground
+  - first:
+      1: 100022
+    second: world_collision_metal
+  - first:
+      1: 100024
+    second: world_collision_stone
+  - first:
+      1: 100026
+    second: world_collision_wood
+  - first:
+      1: 100028
+    second: Texture Group (5)
+  - first:
+      1: 100030
+    second: Mesh
+  - first:
+      1: 100032
+    second: Mesh (2)
+  - first:
+      1: 100034
+    second: Texture Group (6)
+  - first:
+      1: 100036
+    second: blackbox
+  - first:
+      1: 100038
+    second: Camera
+  - first:
+      1: 100040
+    second: Directional Light
+  - first:
+      1: 100042
+    second: Texture Group (7)
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: navmesh
+  - first:
+      4: 400004
+    second: scene
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: player_collision
+  - first:
+      4: 400010
+    second: Texture Group (2)
+  - first:
+      4: 400012
+    second: Texture Group (3)
+  - first:
+      4: 400014
+    second: world_collision
+  - first:
+      4: 400016
+    second: occlusion_mesh
+  - first:
+      4: 400018
+    second: Texture Group (4)
+  - first:
+      4: 400020
+    second: world_collision_ground
+  - first:
+      4: 400022
+    second: world_collision_metal
+  - first:
+      4: 400024
+    second: world_collision_stone
+  - first:
+      4: 400026
+    second: world_collision_wood
+  - first:
+      4: 400028
+    second: Texture Group (5)
+  - first:
+      4: 400030
+    second: Mesh
+  - first:
+      4: 400032
+    second: Mesh (2)
+  - first:
+      4: 400034
+    second: Texture Group (6)
+  - first:
+      4: 400036
+    second: blackbox
+  - first:
+      4: 400038
+    second: Camera
+  - first:
+      4: 400040
+    second: Directional Light
+  - first:
+      4: 400042
+    second: Texture Group (7)
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: navmesh
+  - first:
+      23: 2300004
+    second: scene
+  - first:
+      23: 2300006
+    second: player_collision
+  - first:
+      23: 2300008
+    second: world_collision
+  - first:
+      23: 2300010
+    second: occlusion_mesh
+  - first:
+      23: 2300012
+    second: world_collision_ground
+  - first:
+      23: 2300014
+    second: world_collision_metal
+  - first:
+      23: 2300016
+    second: world_collision_stone
+  - first:
+      23: 2300018
+    second: world_collision_wood
+  - first:
+      23: 2300020
+    second: Mesh
+  - first:
+      23: 2300022
+    second: Mesh (2)
+  - first:
+      23: 2300024
+    second: blackbox
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: navmesh
+  - first:
+      33: 3300004
+    second: scene
+  - first:
+      33: 3300006
+    second: player_collision
+  - first:
+      33: 3300008
+    second: world_collision
+  - first:
+      33: 3300010
+    second: occlusion_mesh
+  - first:
+      33: 3300012
+    second: world_collision_ground
+  - first:
+      33: 3300014
+    second: world_collision_metal
+  - first:
+      33: 3300016
+    second: world_collision_stone
+  - first:
+      33: 3300018
+    second: world_collision_wood
+  - first:
+      33: 3300020
+    second: Mesh
+  - first:
+      33: 3300022
+    second: Mesh (2)
+  - first:
+      33: 3300024
+    second: blackbox
+  - first:
+      43: 4300000
+    second: navmesh
+  - first:
+      43: 4300002
+    second: scene
+  - first:
+      43: 4300004
+    second: player_collision
+  - first:
+      43: 4300006
+    second: world_collision
+  - first:
+      43: 4300008
+    second: world_collision_stone
+  - first:
+      43: 4300010
+    second: world_collision_wood
+  - first:
+      43: 4300012
+    second: world_collision_ground
+  - first:
+      43: 4300014
+    second: world_collision_metal
+  - first:
+      43: 4300016
+    second: occlusion_mesh
+  - first:
+      43: 4300018
+    second: Mesh
+  - first:
+      43: 4300020
+    second: Mesh (2)
+  - first:
+      43: 4300022
+    second: blackbox
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Directional Light
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -100,6 +272,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -124,25 +297,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -151,10 +335,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -164,13 +348,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

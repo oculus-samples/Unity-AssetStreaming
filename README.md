@@ -24,7 +24,7 @@ Then, clone this repo using the "Code" button above, or this command:
 ```sh
 git clone https://github.com/oculus-samples/Unity-AssetStreaming.git
 ```
-To run the sample, open the project folder in *Unity 2021.3.26f1* or newer. Load the [Assets/Scenes/Startup](Assets/Scenes/Startup.unity) scene.
+To run the sample, open the project folder in *Unity 2022.3.52f1* or newer. Load the [Assets/Scenes/Startup](Assets/Scenes/Startup.unity) scene.
 
 ### Build
 In order to build to device we need 2 steps. First we need to build the addressables assets, then we can build the apk. 

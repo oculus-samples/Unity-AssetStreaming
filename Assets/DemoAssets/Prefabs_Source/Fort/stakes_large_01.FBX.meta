@@ -1,36 +1,86 @@
 fileFormatVersion: 2
 guid: 9bb80c0e157142c4b83b4986fb79ac4f
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: stakes_large_01
-    100004: stakes_large_01_collision_player
-    100006: stakes_large_single_01
-    100008: stakes_large_single_01_collision_player
-    400000: //RootNode
-    400002: stakes_large_01
-    400004: stakes_large_01_collision_player
-    400006: stakes_large_single_01
-    400008: stakes_large_single_01_collision_player
-    2300000: //RootNode
-    2300002: stakes_large_01
-    2300004: stakes_large_01_collision_player
-    2300006: stakes_large_single_01
-    2300008: stakes_large_single_01_collision_player
-    3300000: //RootNode
-    3300002: stakes_large_01
-    3300004: stakes_large_01_collision_player
-    3300006: stakes_large_single_01
-    3300008: stakes_large_single_01_collision_player
-    4300000: stakes_large_01
-    4300002: stakes_large_01_collision_player
-    4300004: stakes_large_single_01
-    4300006: stakes_large_single_01_collision_player
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: stakes_large_01
+  - first:
+      1: 100004
+    second: stakes_large_01_collision_player
+  - first:
+      1: 100006
+    second: stakes_large_single_01
+  - first:
+      1: 100008
+    second: stakes_large_single_01_collision_player
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: stakes_large_01
+  - first:
+      4: 400004
+    second: stakes_large_01_collision_player
+  - first:
+      4: 400006
+    second: stakes_large_single_01
+  - first:
+      4: 400008
+    second: stakes_large_single_01_collision_player
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: stakes_large_01
+  - first:
+      23: 2300004
+    second: stakes_large_01_collision_player
+  - first:
+      23: 2300006
+    second: stakes_large_single_01
+  - first:
+      23: 2300008
+    second: stakes_large_single_01_collision_player
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: stakes_large_01
+  - first:
+      33: 3300004
+    second: stakes_large_01_collision_player
+  - first:
+      33: 3300006
+    second: stakes_large_single_01
+  - first:
+      33: 3300008
+    second: stakes_large_single_01_collision_player
+  - first:
+      43: 4300000
+    second: stakes_large_01
+  - first:
+      43: 4300002
+    second: stakes_large_01_collision_player
+  - first:
+      43: 4300004
+    second: stakes_large_single_01
+  - first:
+      43: 4300006
+    second: stakes_large_single_01_collision_player
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -39,6 +89,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -63,25 +114,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -90,10 +152,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -103,13 +165,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

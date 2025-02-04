@@ -1,245 +1,713 @@
 fileFormatVersion: 2
 guid: 6530156419487c644b25f4385df0ce43
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: _bank
-    100002: //RootNode
-    100004: _ref
-    100006: all_buildings
-    100008: all_terrain
-    100010: Mesh
-    100012: Mesh (2)
-    100014: Mesh (3)
-    100016: Mesh (4)
-    100018: terrain_alpine_01
-    100020: terrain_alpine_02
-    100022: terrain_alpinepath_01
-    100024: terrain_area_01
-    100026: terrain_bankpath_01
-    100028: terrain_canyon_01
-    100030: terrain_canyonpath_01
-    100032: terrain_cave_01
-    100034: terrain_cave_02
-    100036: terrain_cave_03
-    100038: terrain_cavefloor_01
-    100040: terrain_distillerypath_01
-    100042: terrain_fort_01
-    100044: terrain_fort_02
-    100046: terrain_fortpath_01
-    100048: terrain_graveyard_01
-    100050: terrain_homestead_01
-    100052: terrain_plateau_01
-    100054: terrain_river_01
-    100056: terrain_river_02
-    100058: terrain_rocks_01
-    100060: terrain_rocks_02
-    100062: terrain_rocks_03
-    100064: terrain_rocks_04
-    100066: terrain_saloonback_01
-    100068: terrain_shore_01
-    100070: terrain_streetpath_01
-    100072: terrain_tracks_01
-    100074: terrain_trainstation_01
-    100076: terrain_treepath_01
-    100078: terrain_vista_01
-    100080: terrain_vista_02
-    100082: terrain_wellpath_01
-    100084: Texture Group
-    100086: Texture Group (10)
-    100088: Texture Group (2)
-    100090: Texture Group (3)
-    100092: Texture Group (4)
-    100094: Texture Group (5)
-    100096: Texture Group (6)
-    100098: Texture Group (7)
-    100100: Texture Group (8)
-    100102: Texture Group (9)
-    100104: town_stream
-    400000: _bank
-    400002: //RootNode
-    400004: _ref
-    400006: all_buildings
-    400008: all_terrain
-    400010: Mesh
-    400012: Mesh (2)
-    400014: Mesh (3)
-    400016: Mesh (4)
-    400018: terrain_alpine_01
-    400020: terrain_alpine_02
-    400022: terrain_alpinepath_01
-    400024: terrain_area_01
-    400026: terrain_bankpath_01
-    400028: terrain_canyon_01
-    400030: terrain_canyonpath_01
-    400032: terrain_cave_01
-    400034: terrain_cave_02
-    400036: terrain_cave_03
-    400038: terrain_cavefloor_01
-    400040: terrain_distillerypath_01
-    400042: terrain_fort_01
-    400044: terrain_fort_02
-    400046: terrain_fortpath_01
-    400048: terrain_graveyard_01
-    400050: terrain_homestead_01
-    400052: terrain_plateau_01
-    400054: terrain_river_01
-    400056: terrain_river_02
-    400058: terrain_rocks_01
-    400060: terrain_rocks_02
-    400062: terrain_rocks_03
-    400064: terrain_rocks_04
-    400066: terrain_saloonback_01
-    400068: terrain_shore_01
-    400070: terrain_streetpath_01
-    400072: terrain_tracks_01
-    400074: terrain_trainstation_01
-    400076: terrain_treepath_01
-    400078: terrain_vista_01
-    400080: terrain_vista_02
-    400082: terrain_wellpath_01
-    400084: Texture Group
-    400086: Texture Group (10)
-    400088: Texture Group (2)
-    400090: Texture Group (3)
-    400092: Texture Group (4)
-    400094: Texture Group (5)
-    400096: Texture Group (6)
-    400098: Texture Group (7)
-    400100: Texture Group (8)
-    400102: Texture Group (9)
-    400104: town_stream
-    2300000: _bank
-    2300002: _ref
-    2300004: all_buildings
-    2300006: all_terrain
-    2300008: Mesh
-    2300010: Mesh (2)
-    2300012: Mesh (3)
-    2300014: terrain_alpine_01
-    2300016: terrain_alpine_02
-    2300018: terrain_alpinepath_01
-    2300020: terrain_area_01
-    2300022: terrain_bankpath_01
-    2300024: terrain_canyon_01
-    2300026: terrain_canyonpath_01
-    2300028: terrain_cave_01
-    2300030: terrain_cave_02
-    2300032: terrain_cave_03
-    2300034: terrain_cavefloor_01
-    2300036: terrain_distillerypath_01
-    2300038: terrain_fort_01
-    2300040: terrain_fort_02
-    2300042: terrain_fortpath_01
-    2300044: terrain_graveyard_01
-    2300046: terrain_homestead_01
-    2300048: terrain_plateau_01
-    2300050: terrain_river_01
-    2300052: terrain_river_02
-    2300054: terrain_rocks_01
-    2300056: terrain_rocks_02
-    2300058: terrain_rocks_03
-    2300060: terrain_rocks_04
-    2300062: terrain_saloonback_01
-    2300064: terrain_shore_01
-    2300066: terrain_streetpath_01
-    2300068: terrain_tracks_01
-    2300070: terrain_trainstation_01
-    2300072: terrain_treepath_01
-    2300074: terrain_vista_01
-    2300076: terrain_vista_02
-    2300078: terrain_wellpath_01
-    2300080: town_stream
-    2300082: //RootNode
-    3300000: _bank
-    3300002: _ref
-    3300004: all_buildings
-    3300006: all_terrain
-    3300008: Mesh
-    3300010: Mesh (2)
-    3300012: Mesh (3)
-    3300014: terrain_alpine_01
-    3300016: terrain_alpine_02
-    3300018: terrain_alpinepath_01
-    3300020: terrain_area_01
-    3300022: terrain_bankpath_01
-    3300024: terrain_canyon_01
-    3300026: terrain_canyonpath_01
-    3300028: terrain_cave_01
-    3300030: terrain_cave_02
-    3300032: terrain_cave_03
-    3300034: terrain_cavefloor_01
-    3300036: terrain_distillerypath_01
-    3300038: terrain_fort_01
-    3300040: terrain_fort_02
-    3300042: terrain_fortpath_01
-    3300044: terrain_graveyard_01
-    3300046: terrain_homestead_01
-    3300048: terrain_plateau_01
-    3300050: terrain_river_01
-    3300052: terrain_river_02
-    3300054: terrain_rocks_01
-    3300056: terrain_rocks_02
-    3300058: terrain_rocks_03
-    3300060: terrain_rocks_04
-    3300062: terrain_saloonback_01
-    3300064: terrain_shore_01
-    3300066: terrain_streetpath_01
-    3300068: terrain_tracks_01
-    3300070: terrain_trainstation_01
-    3300072: terrain_treepath_01
-    3300074: terrain_vista_01
-    3300076: terrain_vista_02
-    3300078: terrain_wellpath_01
-    3300080: town_stream
-    3300082: //RootNode
-    4300000: _ref
-    4300002: town_stream
-    4300004: terrain_vista_02
-    4300006: terrain_vista_01
-    4300008: _bank
-    4300010: terrain_canyon_01
-    4300012: terrain_cave_02
-    4300014: terrain_cave_01
-    4300016: terrain_alpine_02
-    4300018: terrain_alpine_01
-    4300020: terrain_river_02
-    4300022: terrain_river_01
-    4300024: terrain_fort_02
-    4300026: terrain_fort_01
-    4300028: terrain_rocks_02
-    4300030: terrain_rocks_01
-    4300032: terrain_cave_03
-    4300034: terrain_rocks_04
-    4300036: terrain_rocks_03
-    4300038: terrain_tracks_01
-    4300040: terrain_homestead_01
-    4300042: terrain_alpinepath_01
-    4300044: terrain_cavefloor_01
-    4300046: terrain_shore_01
-    4300048: terrain_plateau_01
-    4300050: terrain_treepath_01
-    4300052: terrain_fortpath_01
-    4300054: terrain_canyonpath_01
-    4300056: terrain_saloonback_01
-    4300058: terrain_graveyard_01
-    4300060: terrain_trainstation_01
-    4300062: terrain_streetpath_01
-    4300064: terrain_bankpath_01
-    4300066: terrain_wellpath_01
-    4300068: terrain_distillerypath_01
-    4300070: terrain_area_01
-    4300072: all_buildings
-    4300074: Mesh
-    4300076: Mesh (2)
-    4300078: Mesh (3)
-    4300080: all_terrain
-    4300082: _player_collision
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _bank
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: _ref
+  - first:
+      1: 100006
+    second: all_buildings
+  - first:
+      1: 100008
+    second: all_terrain
+  - first:
+      1: 100010
+    second: Mesh
+  - first:
+      1: 100012
+    second: Mesh (2)
+  - first:
+      1: 100014
+    second: Mesh (3)
+  - first:
+      1: 100016
+    second: Mesh (4)
+  - first:
+      1: 100018
+    second: terrain_alpine_01
+  - first:
+      1: 100020
+    second: terrain_alpine_02
+  - first:
+      1: 100022
+    second: terrain_alpinepath_01
+  - first:
+      1: 100024
+    second: terrain_area_01
+  - first:
+      1: 100026
+    second: terrain_bankpath_01
+  - first:
+      1: 100028
+    second: terrain_canyon_01
+  - first:
+      1: 100030
+    second: terrain_canyonpath_01
+  - first:
+      1: 100032
+    second: terrain_cave_01
+  - first:
+      1: 100034
+    second: terrain_cave_02
+  - first:
+      1: 100036
+    second: terrain_cave_03
+  - first:
+      1: 100038
+    second: terrain_cavefloor_01
+  - first:
+      1: 100040
+    second: terrain_distillerypath_01
+  - first:
+      1: 100042
+    second: terrain_fort_01
+  - first:
+      1: 100044
+    second: terrain_fort_02
+  - first:
+      1: 100046
+    second: terrain_fortpath_01
+  - first:
+      1: 100048
+    second: terrain_graveyard_01
+  - first:
+      1: 100050
+    second: terrain_homestead_01
+  - first:
+      1: 100052
+    second: terrain_plateau_01
+  - first:
+      1: 100054
+    second: terrain_river_01
+  - first:
+      1: 100056
+    second: terrain_river_02
+  - first:
+      1: 100058
+    second: terrain_rocks_01
+  - first:
+      1: 100060
+    second: terrain_rocks_02
+  - first:
+      1: 100062
+    second: terrain_rocks_03
+  - first:
+      1: 100064
+    second: terrain_rocks_04
+  - first:
+      1: 100066
+    second: terrain_saloonback_01
+  - first:
+      1: 100068
+    second: terrain_shore_01
+  - first:
+      1: 100070
+    second: terrain_streetpath_01
+  - first:
+      1: 100072
+    second: terrain_tracks_01
+  - first:
+      1: 100074
+    second: terrain_trainstation_01
+  - first:
+      1: 100076
+    second: terrain_treepath_01
+  - first:
+      1: 100078
+    second: terrain_vista_01
+  - first:
+      1: 100080
+    second: terrain_vista_02
+  - first:
+      1: 100082
+    second: terrain_wellpath_01
+  - first:
+      1: 100084
+    second: Texture Group
+  - first:
+      1: 100086
+    second: Texture Group (10)
+  - first:
+      1: 100088
+    second: Texture Group (2)
+  - first:
+      1: 100090
+    second: Texture Group (3)
+  - first:
+      1: 100092
+    second: Texture Group (4)
+  - first:
+      1: 100094
+    second: Texture Group (5)
+  - first:
+      1: 100096
+    second: Texture Group (6)
+  - first:
+      1: 100098
+    second: Texture Group (7)
+  - first:
+      1: 100100
+    second: Texture Group (8)
+  - first:
+      1: 100102
+    second: Texture Group (9)
+  - first:
+      1: 100104
+    second: town_stream
+  - first:
+      4: 400000
+    second: _bank
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: _ref
+  - first:
+      4: 400006
+    second: all_buildings
+  - first:
+      4: 400008
+    second: all_terrain
+  - first:
+      4: 400010
+    second: Mesh
+  - first:
+      4: 400012
+    second: Mesh (2)
+  - first:
+      4: 400014
+    second: Mesh (3)
+  - first:
+      4: 400016
+    second: Mesh (4)
+  - first:
+      4: 400018
+    second: terrain_alpine_01
+  - first:
+      4: 400020
+    second: terrain_alpine_02
+  - first:
+      4: 400022
+    second: terrain_alpinepath_01
+  - first:
+      4: 400024
+    second: terrain_area_01
+  - first:
+      4: 400026
+    second: terrain_bankpath_01
+  - first:
+      4: 400028
+    second: terrain_canyon_01
+  - first:
+      4: 400030
+    second: terrain_canyonpath_01
+  - first:
+      4: 400032
+    second: terrain_cave_01
+  - first:
+      4: 400034
+    second: terrain_cave_02
+  - first:
+      4: 400036
+    second: terrain_cave_03
+  - first:
+      4: 400038
+    second: terrain_cavefloor_01
+  - first:
+      4: 400040
+    second: terrain_distillerypath_01
+  - first:
+      4: 400042
+    second: terrain_fort_01
+  - first:
+      4: 400044
+    second: terrain_fort_02
+  - first:
+      4: 400046
+    second: terrain_fortpath_01
+  - first:
+      4: 400048
+    second: terrain_graveyard_01
+  - first:
+      4: 400050
+    second: terrain_homestead_01
+  - first:
+      4: 400052
+    second: terrain_plateau_01
+  - first:
+      4: 400054
+    second: terrain_river_01
+  - first:
+      4: 400056
+    second: terrain_river_02
+  - first:
+      4: 400058
+    second: terrain_rocks_01
+  - first:
+      4: 400060
+    second: terrain_rocks_02
+  - first:
+      4: 400062
+    second: terrain_rocks_03
+  - first:
+      4: 400064
+    second: terrain_rocks_04
+  - first:
+      4: 400066
+    second: terrain_saloonback_01
+  - first:
+      4: 400068
+    second: terrain_shore_01
+  - first:
+      4: 400070
+    second: terrain_streetpath_01
+  - first:
+      4: 400072
+    second: terrain_tracks_01
+  - first:
+      4: 400074
+    second: terrain_trainstation_01
+  - first:
+      4: 400076
+    second: terrain_treepath_01
+  - first:
+      4: 400078
+    second: terrain_vista_01
+  - first:
+      4: 400080
+    second: terrain_vista_02
+  - first:
+      4: 400082
+    second: terrain_wellpath_01
+  - first:
+      4: 400084
+    second: Texture Group
+  - first:
+      4: 400086
+    second: Texture Group (10)
+  - first:
+      4: 400088
+    second: Texture Group (2)
+  - first:
+      4: 400090
+    second: Texture Group (3)
+  - first:
+      4: 400092
+    second: Texture Group (4)
+  - first:
+      4: 400094
+    second: Texture Group (5)
+  - first:
+      4: 400096
+    second: Texture Group (6)
+  - first:
+      4: 400098
+    second: Texture Group (7)
+  - first:
+      4: 400100
+    second: Texture Group (8)
+  - first:
+      4: 400102
+    second: Texture Group (9)
+  - first:
+      4: 400104
+    second: town_stream
+  - first:
+      23: 2300000
+    second: _bank
+  - first:
+      23: 2300002
+    second: _ref
+  - first:
+      23: 2300004
+    second: all_buildings
+  - first:
+      23: 2300006
+    second: all_terrain
+  - first:
+      23: 2300008
+    second: Mesh
+  - first:
+      23: 2300010
+    second: Mesh (2)
+  - first:
+      23: 2300012
+    second: Mesh (3)
+  - first:
+      23: 2300014
+    second: terrain_alpine_01
+  - first:
+      23: 2300016
+    second: terrain_alpine_02
+  - first:
+      23: 2300018
+    second: terrain_alpinepath_01
+  - first:
+      23: 2300020
+    second: terrain_area_01
+  - first:
+      23: 2300022
+    second: terrain_bankpath_01
+  - first:
+      23: 2300024
+    second: terrain_canyon_01
+  - first:
+      23: 2300026
+    second: terrain_canyonpath_01
+  - first:
+      23: 2300028
+    second: terrain_cave_01
+  - first:
+      23: 2300030
+    second: terrain_cave_02
+  - first:
+      23: 2300032
+    second: terrain_cave_03
+  - first:
+      23: 2300034
+    second: terrain_cavefloor_01
+  - first:
+      23: 2300036
+    second: terrain_distillerypath_01
+  - first:
+      23: 2300038
+    second: terrain_fort_01
+  - first:
+      23: 2300040
+    second: terrain_fort_02
+  - first:
+      23: 2300042
+    second: terrain_fortpath_01
+  - first:
+      23: 2300044
+    second: terrain_graveyard_01
+  - first:
+      23: 2300046
+    second: terrain_homestead_01
+  - first:
+      23: 2300048
+    second: terrain_plateau_01
+  - first:
+      23: 2300050
+    second: terrain_river_01
+  - first:
+      23: 2300052
+    second: terrain_river_02
+  - first:
+      23: 2300054
+    second: terrain_rocks_01
+  - first:
+      23: 2300056
+    second: terrain_rocks_02
+  - first:
+      23: 2300058
+    second: terrain_rocks_03
+  - first:
+      23: 2300060
+    second: terrain_rocks_04
+  - first:
+      23: 2300062
+    second: terrain_saloonback_01
+  - first:
+      23: 2300064
+    second: terrain_shore_01
+  - first:
+      23: 2300066
+    second: terrain_streetpath_01
+  - first:
+      23: 2300068
+    second: terrain_tracks_01
+  - first:
+      23: 2300070
+    second: terrain_trainstation_01
+  - first:
+      23: 2300072
+    second: terrain_treepath_01
+  - first:
+      23: 2300074
+    second: terrain_vista_01
+  - first:
+      23: 2300076
+    second: terrain_vista_02
+  - first:
+      23: 2300078
+    second: terrain_wellpath_01
+  - first:
+      23: 2300080
+    second: town_stream
+  - first:
+      23: 2300082
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: _bank
+  - first:
+      33: 3300002
+    second: _ref
+  - first:
+      33: 3300004
+    second: all_buildings
+  - first:
+      33: 3300006
+    second: all_terrain
+  - first:
+      33: 3300008
+    second: Mesh
+  - first:
+      33: 3300010
+    second: Mesh (2)
+  - first:
+      33: 3300012
+    second: Mesh (3)
+  - first:
+      33: 3300014
+    second: terrain_alpine_01
+  - first:
+      33: 3300016
+    second: terrain_alpine_02
+  - first:
+      33: 3300018
+    second: terrain_alpinepath_01
+  - first:
+      33: 3300020
+    second: terrain_area_01
+  - first:
+      33: 3300022
+    second: terrain_bankpath_01
+  - first:
+      33: 3300024
+    second: terrain_canyon_01
+  - first:
+      33: 3300026
+    second: terrain_canyonpath_01
+  - first:
+      33: 3300028
+    second: terrain_cave_01
+  - first:
+      33: 3300030
+    second: terrain_cave_02
+  - first:
+      33: 3300032
+    second: terrain_cave_03
+  - first:
+      33: 3300034
+    second: terrain_cavefloor_01
+  - first:
+      33: 3300036
+    second: terrain_distillerypath_01
+  - first:
+      33: 3300038
+    second: terrain_fort_01
+  - first:
+      33: 3300040
+    second: terrain_fort_02
+  - first:
+      33: 3300042
+    second: terrain_fortpath_01
+  - first:
+      33: 3300044
+    second: terrain_graveyard_01
+  - first:
+      33: 3300046
+    second: terrain_homestead_01
+  - first:
+      33: 3300048
+    second: terrain_plateau_01
+  - first:
+      33: 3300050
+    second: terrain_river_01
+  - first:
+      33: 3300052
+    second: terrain_river_02
+  - first:
+      33: 3300054
+    second: terrain_rocks_01
+  - first:
+      33: 3300056
+    second: terrain_rocks_02
+  - first:
+      33: 3300058
+    second: terrain_rocks_03
+  - first:
+      33: 3300060
+    second: terrain_rocks_04
+  - first:
+      33: 3300062
+    second: terrain_saloonback_01
+  - first:
+      33: 3300064
+    second: terrain_shore_01
+  - first:
+      33: 3300066
+    second: terrain_streetpath_01
+  - first:
+      33: 3300068
+    second: terrain_tracks_01
+  - first:
+      33: 3300070
+    second: terrain_trainstation_01
+  - first:
+      33: 3300072
+    second: terrain_treepath_01
+  - first:
+      33: 3300074
+    second: terrain_vista_01
+  - first:
+      33: 3300076
+    second: terrain_vista_02
+  - first:
+      33: 3300078
+    second: terrain_wellpath_01
+  - first:
+      33: 3300080
+    second: town_stream
+  - first:
+      33: 3300082
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: _ref
+  - first:
+      43: 4300002
+    second: town_stream
+  - first:
+      43: 4300004
+    second: terrain_vista_02
+  - first:
+      43: 4300006
+    second: terrain_vista_01
+  - first:
+      43: 4300008
+    second: _bank
+  - first:
+      43: 4300010
+    second: terrain_canyon_01
+  - first:
+      43: 4300012
+    second: terrain_cave_02
+  - first:
+      43: 4300014
+    second: terrain_cave_01
+  - first:
+      43: 4300016
+    second: terrain_alpine_02
+  - first:
+      43: 4300018
+    second: terrain_alpine_01
+  - first:
+      43: 4300020
+    second: terrain_river_02
+  - first:
+      43: 4300022
+    second: terrain_river_01
+  - first:
+      43: 4300024
+    second: terrain_fort_02
+  - first:
+      43: 4300026
+    second: terrain_fort_01
+  - first:
+      43: 4300028
+    second: terrain_rocks_02
+  - first:
+      43: 4300030
+    second: terrain_rocks_01
+  - first:
+      43: 4300032
+    second: terrain_cave_03
+  - first:
+      43: 4300034
+    second: terrain_rocks_04
+  - first:
+      43: 4300036
+    second: terrain_rocks_03
+  - first:
+      43: 4300038
+    second: terrain_tracks_01
+  - first:
+      43: 4300040
+    second: terrain_homestead_01
+  - first:
+      43: 4300042
+    second: terrain_alpinepath_01
+  - first:
+      43: 4300044
+    second: terrain_cavefloor_01
+  - first:
+      43: 4300046
+    second: terrain_shore_01
+  - first:
+      43: 4300048
+    second: terrain_plateau_01
+  - first:
+      43: 4300050
+    second: terrain_treepath_01
+  - first:
+      43: 4300052
+    second: terrain_fortpath_01
+  - first:
+      43: 4300054
+    second: terrain_canyonpath_01
+  - first:
+      43: 4300056
+    second: terrain_saloonback_01
+  - first:
+      43: 4300058
+    second: terrain_graveyard_01
+  - first:
+      43: 4300060
+    second: terrain_trainstation_01
+  - first:
+      43: 4300062
+    second: terrain_streetpath_01
+  - first:
+      43: 4300064
+    second: terrain_bankpath_01
+  - first:
+      43: 4300066
+    second: terrain_wellpath_01
+  - first:
+      43: 4300068
+    second: terrain_distillerypath_01
+  - first:
+      43: 4300070
+    second: terrain_area_01
+  - first:
+      43: 4300072
+    second: all_buildings
+  - first:
+      43: 4300074
+    second: Mesh
+  - first:
+      43: 4300076
+    second: Mesh (2)
+  - first:
+      43: 4300078
+    second: Mesh (3)
+  - first:
+      43: 4300080
+    second: all_terrain
+  - first:
+      43: 4300082
+    second: _player_collision
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -248,6 +716,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -271,34 +740,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -308,13 +792,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

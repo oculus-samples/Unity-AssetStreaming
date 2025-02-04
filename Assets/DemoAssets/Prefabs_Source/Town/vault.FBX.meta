@@ -1,115 +1,329 @@
 fileFormatVersion: 2
 guid: cdfb84f149c20154e828567f7f052f06
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Bank_Vault_01
-    100002: Bank_Vault_Floor_01
-    100004: Bank_Vault_Wall_01
-    100006: knob_dial
-    100008: safe_body
-    100010: safe_door
-    100012: safe_handle
-    100014: safe_knob
-    100016: Strongbox_01
-    100018: Strongbox_01_Lid
-    100020: Strongbox_01_Lock
-    100022: Strongbox_02
-    100024: //RootNode
-    100026: kvault_nob_dial
-    100028: strongbox_01
-    100030: strongbox_01_lid
-    100032: strongbox_01_lock
-    100034: strongbox_02
-    100036: vault_01
-    100038: vault_floor_01
-    100040: vault_wall_01
-    100042: vault_knob_dial
-    400000: Bank_Vault_01
-    400002: Bank_Vault_Floor_01
-    400004: Bank_Vault_Wall_01
-    400006: knob_dial
-    400008: safe_body
-    400010: safe_door
-    400012: safe_handle
-    400014: safe_knob
-    400016: Strongbox_01
-    400018: Strongbox_01_Lid
-    400020: Strongbox_01_Lock
-    400022: Strongbox_02
-    400024: //RootNode
-    400026: kvault_nob_dial
-    400028: strongbox_01
-    400030: strongbox_01_lid
-    400032: strongbox_01_lock
-    400034: strongbox_02
-    400036: vault_01
-    400038: vault_floor_01
-    400040: vault_wall_01
-    400042: vault_knob_dial
-    2300000: Bank_Vault_01
-    2300002: Bank_Vault_Floor_01
-    2300004: Bank_Vault_Wall_01
-    2300006: knob_dial
-    2300008: safe_body
-    2300010: safe_door
-    2300012: safe_handle
-    2300014: safe_knob
-    2300016: Strongbox_01
-    2300018: Strongbox_01_Lid
-    2300020: Strongbox_01_Lock
-    2300022: Strongbox_02
-    2300024: kvault_nob_dial
-    2300026: strongbox_01
-    2300028: strongbox_01_lid
-    2300030: strongbox_01_lock
-    2300032: strongbox_02
-    2300034: vault_01
-    2300036: vault_floor_01
-    2300038: vault_wall_01
-    2300040: vault_knob_dial
-    3300000: Bank_Vault_01
-    3300002: Bank_Vault_Floor_01
-    3300004: Bank_Vault_Wall_01
-    3300006: knob_dial
-    3300008: safe_body
-    3300010: safe_door
-    3300012: safe_handle
-    3300014: safe_knob
-    3300016: Strongbox_01
-    3300018: Strongbox_01_Lid
-    3300020: Strongbox_01_Lock
-    3300022: Strongbox_02
-    3300024: kvault_nob_dial
-    3300026: strongbox_01
-    3300028: strongbox_01_lid
-    3300030: strongbox_01_lock
-    3300032: strongbox_02
-    3300034: vault_01
-    3300036: vault_floor_01
-    3300038: vault_wall_01
-    3300040: vault_knob_dial
-    4300000: Bank_Vault_Wall_01
-    4300002: Bank_Vault_Floor_01
-    4300004: knob_dial
-    4300006: safe_door
-    4300008: safe_knob
-    4300010: safe_handle
-    4300012: Strongbox_01
-    4300014: Strongbox_01_Lock
-    4300016: Strongbox_01_Lid
-    4300018: Strongbox_02
-    4300020: Bank_Vault_01
-    4300022: safe_body
-    4300024: vault_wall_01
-    4300026: vault_floor_01
-    4300028: kvault_nob_dial
-    4300030: strongbox_01
-    4300032: strongbox_01_lock
-    4300034: strongbox_01_lid
-    4300036: strongbox_02
-    4300038: vault_01
-    4300040: vault_knob_dial
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bank_Vault_01
+  - first:
+      1: 100002
+    second: Bank_Vault_Floor_01
+  - first:
+      1: 100004
+    second: Bank_Vault_Wall_01
+  - first:
+      1: 100006
+    second: knob_dial
+  - first:
+      1: 100008
+    second: safe_body
+  - first:
+      1: 100010
+    second: safe_door
+  - first:
+      1: 100012
+    second: safe_handle
+  - first:
+      1: 100014
+    second: safe_knob
+  - first:
+      1: 100016
+    second: Strongbox_01
+  - first:
+      1: 100018
+    second: Strongbox_01_Lid
+  - first:
+      1: 100020
+    second: Strongbox_01_Lock
+  - first:
+      1: 100022
+    second: Strongbox_02
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: kvault_nob_dial
+  - first:
+      1: 100028
+    second: strongbox_01
+  - first:
+      1: 100030
+    second: strongbox_01_lid
+  - first:
+      1: 100032
+    second: strongbox_01_lock
+  - first:
+      1: 100034
+    second: strongbox_02
+  - first:
+      1: 100036
+    second: vault_01
+  - first:
+      1: 100038
+    second: vault_floor_01
+  - first:
+      1: 100040
+    second: vault_wall_01
+  - first:
+      1: 100042
+    second: vault_knob_dial
+  - first:
+      4: 400000
+    second: Bank_Vault_01
+  - first:
+      4: 400002
+    second: Bank_Vault_Floor_01
+  - first:
+      4: 400004
+    second: Bank_Vault_Wall_01
+  - first:
+      4: 400006
+    second: knob_dial
+  - first:
+      4: 400008
+    second: safe_body
+  - first:
+      4: 400010
+    second: safe_door
+  - first:
+      4: 400012
+    second: safe_handle
+  - first:
+      4: 400014
+    second: safe_knob
+  - first:
+      4: 400016
+    second: Strongbox_01
+  - first:
+      4: 400018
+    second: Strongbox_01_Lid
+  - first:
+      4: 400020
+    second: Strongbox_01_Lock
+  - first:
+      4: 400022
+    second: Strongbox_02
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: kvault_nob_dial
+  - first:
+      4: 400028
+    second: strongbox_01
+  - first:
+      4: 400030
+    second: strongbox_01_lid
+  - first:
+      4: 400032
+    second: strongbox_01_lock
+  - first:
+      4: 400034
+    second: strongbox_02
+  - first:
+      4: 400036
+    second: vault_01
+  - first:
+      4: 400038
+    second: vault_floor_01
+  - first:
+      4: 400040
+    second: vault_wall_01
+  - first:
+      4: 400042
+    second: vault_knob_dial
+  - first:
+      23: 2300000
+    second: Bank_Vault_01
+  - first:
+      23: 2300002
+    second: Bank_Vault_Floor_01
+  - first:
+      23: 2300004
+    second: Bank_Vault_Wall_01
+  - first:
+      23: 2300006
+    second: knob_dial
+  - first:
+      23: 2300008
+    second: safe_body
+  - first:
+      23: 2300010
+    second: safe_door
+  - first:
+      23: 2300012
+    second: safe_handle
+  - first:
+      23: 2300014
+    second: safe_knob
+  - first:
+      23: 2300016
+    second: Strongbox_01
+  - first:
+      23: 2300018
+    second: Strongbox_01_Lid
+  - first:
+      23: 2300020
+    second: Strongbox_01_Lock
+  - first:
+      23: 2300022
+    second: Strongbox_02
+  - first:
+      23: 2300024
+    second: kvault_nob_dial
+  - first:
+      23: 2300026
+    second: strongbox_01
+  - first:
+      23: 2300028
+    second: strongbox_01_lid
+  - first:
+      23: 2300030
+    second: strongbox_01_lock
+  - first:
+      23: 2300032
+    second: strongbox_02
+  - first:
+      23: 2300034
+    second: vault_01
+  - first:
+      23: 2300036
+    second: vault_floor_01
+  - first:
+      23: 2300038
+    second: vault_wall_01
+  - first:
+      23: 2300040
+    second: vault_knob_dial
+  - first:
+      33: 3300000
+    second: Bank_Vault_01
+  - first:
+      33: 3300002
+    second: Bank_Vault_Floor_01
+  - first:
+      33: 3300004
+    second: Bank_Vault_Wall_01
+  - first:
+      33: 3300006
+    second: knob_dial
+  - first:
+      33: 3300008
+    second: safe_body
+  - first:
+      33: 3300010
+    second: safe_door
+  - first:
+      33: 3300012
+    second: safe_handle
+  - first:
+      33: 3300014
+    second: safe_knob
+  - first:
+      33: 3300016
+    second: Strongbox_01
+  - first:
+      33: 3300018
+    second: Strongbox_01_Lid
+  - first:
+      33: 3300020
+    second: Strongbox_01_Lock
+  - first:
+      33: 3300022
+    second: Strongbox_02
+  - first:
+      33: 3300024
+    second: kvault_nob_dial
+  - first:
+      33: 3300026
+    second: strongbox_01
+  - first:
+      33: 3300028
+    second: strongbox_01_lid
+  - first:
+      33: 3300030
+    second: strongbox_01_lock
+  - first:
+      33: 3300032
+    second: strongbox_02
+  - first:
+      33: 3300034
+    second: vault_01
+  - first:
+      33: 3300036
+    second: vault_floor_01
+  - first:
+      33: 3300038
+    second: vault_wall_01
+  - first:
+      33: 3300040
+    second: vault_knob_dial
+  - first:
+      43: 4300000
+    second: Bank_Vault_Wall_01
+  - first:
+      43: 4300002
+    second: Bank_Vault_Floor_01
+  - first:
+      43: 4300004
+    second: knob_dial
+  - first:
+      43: 4300006
+    second: safe_door
+  - first:
+      43: 4300008
+    second: safe_knob
+  - first:
+      43: 4300010
+    second: safe_handle
+  - first:
+      43: 4300012
+    second: Strongbox_01
+  - first:
+      43: 4300014
+    second: Strongbox_01_Lock
+  - first:
+      43: 4300016
+    second: Strongbox_01_Lid
+  - first:
+      43: 4300018
+    second: Strongbox_02
+  - first:
+      43: 4300020
+    second: Bank_Vault_01
+  - first:
+      43: 4300022
+    second: safe_body
+  - first:
+      43: 4300024
+    second: vault_wall_01
+  - first:
+      43: 4300026
+    second: vault_floor_01
+  - first:
+      43: 4300028
+    second: kvault_nob_dial
+  - first:
+      43: 4300030
+    second: strongbox_01
+  - first:
+      43: 4300032
+    second: strongbox_01_lock
+  - first:
+      43: 4300034
+    second: strongbox_01_lid
+  - first:
+      43: 4300036
+    second: strongbox_02
+  - first:
+      43: 4300038
+    second: vault_01
+  - first:
+      43: 4300040
+    second: vault_knob_dial
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -117,7 +331,7 @@ ModelImporter:
       name: SafeAtlas_mobile
     second: {fileID: 2100000, guid: 900b1799a8e17c64d87626d35bc39ead, type: 2}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -126,6 +340,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -134,6 +349,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -148,32 +364,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -183,14 +416,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

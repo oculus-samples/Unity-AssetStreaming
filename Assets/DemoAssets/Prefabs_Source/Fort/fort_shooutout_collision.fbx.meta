@@ -1,56 +1,146 @@
 fileFormatVersion: 2
 guid: 8ae55fa60170ce848b226c02d17688ae
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: fort_shooutout_player_collision
-    100004: fort_shooutout_world_collision_dirt
-    100006: fort_shooutout_world_collision_glass
-    100008: fort_shooutout_world_collision_metal
-    100010: fort_shooutout_world_collision_stone
-    100012: fort_shooutout_world_collision_wood
-    100014: stakes_fence_01__1_
-    100016: fort_shootout_before
-    400000: //RootNode
-    400002: fort_shooutout_player_collision
-    400004: fort_shooutout_world_collision_dirt
-    400006: fort_shooutout_world_collision_glass
-    400008: fort_shooutout_world_collision_metal
-    400010: fort_shooutout_world_collision_stone
-    400012: fort_shooutout_world_collision_wood
-    400014: stakes_fence_01__1_
-    400016: fort_shootout_before
-    2300000: fort_shooutout_player_collision
-    2300002: fort_shooutout_world_collision_dirt
-    2300004: fort_shooutout_world_collision_glass
-    2300006: fort_shooutout_world_collision_metal
-    2300008: fort_shooutout_world_collision_stone
-    2300010: fort_shooutout_world_collision_wood
-    2300012: stakes_fence_01__1_
-    2300014: //RootNode
-    2300016: fort_shootout_before
-    3300000: fort_shooutout_player_collision
-    3300002: fort_shooutout_world_collision_dirt
-    3300004: fort_shooutout_world_collision_glass
-    3300006: fort_shooutout_world_collision_metal
-    3300008: fort_shooutout_world_collision_stone
-    3300010: fort_shooutout_world_collision_wood
-    3300012: stakes_fence_01__1_
-    3300014: //RootNode
-    3300016: fort_shootout_before
-    4300000: fort_shooutout_world_collision_dirt
-    4300002: fort_shooutout_world_collision_glass
-    4300004: fort_shooutout_world_collision_stone
-    4300006: fort_shooutout_player_collision
-    4300008: fort_shooutout_world_collision_wood
-    4300010: fort_shooutout_world_collision_metal
-    4300012: stakes_fence_01__1_
-    4300014: fort_building_01
-    4300016: fort_shootout_before
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: fort_shooutout_player_collision
+  - first:
+      1: 100004
+    second: fort_shooutout_world_collision_dirt
+  - first:
+      1: 100006
+    second: fort_shooutout_world_collision_glass
+  - first:
+      1: 100008
+    second: fort_shooutout_world_collision_metal
+  - first:
+      1: 100010
+    second: fort_shooutout_world_collision_stone
+  - first:
+      1: 100012
+    second: fort_shooutout_world_collision_wood
+  - first:
+      1: 100014
+    second: stakes_fence_01__1_
+  - first:
+      1: 100016
+    second: fort_shootout_before
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: fort_shooutout_player_collision
+  - first:
+      4: 400004
+    second: fort_shooutout_world_collision_dirt
+  - first:
+      4: 400006
+    second: fort_shooutout_world_collision_glass
+  - first:
+      4: 400008
+    second: fort_shooutout_world_collision_metal
+  - first:
+      4: 400010
+    second: fort_shooutout_world_collision_stone
+  - first:
+      4: 400012
+    second: fort_shooutout_world_collision_wood
+  - first:
+      4: 400014
+    second: stakes_fence_01__1_
+  - first:
+      4: 400016
+    second: fort_shootout_before
+  - first:
+      23: 2300000
+    second: fort_shooutout_player_collision
+  - first:
+      23: 2300002
+    second: fort_shooutout_world_collision_dirt
+  - first:
+      23: 2300004
+    second: fort_shooutout_world_collision_glass
+  - first:
+      23: 2300006
+    second: fort_shooutout_world_collision_metal
+  - first:
+      23: 2300008
+    second: fort_shooutout_world_collision_stone
+  - first:
+      23: 2300010
+    second: fort_shooutout_world_collision_wood
+  - first:
+      23: 2300012
+    second: stakes_fence_01__1_
+  - first:
+      23: 2300014
+    second: //RootNode
+  - first:
+      23: 2300016
+    second: fort_shootout_before
+  - first:
+      33: 3300000
+    second: fort_shooutout_player_collision
+  - first:
+      33: 3300002
+    second: fort_shooutout_world_collision_dirt
+  - first:
+      33: 3300004
+    second: fort_shooutout_world_collision_glass
+  - first:
+      33: 3300006
+    second: fort_shooutout_world_collision_metal
+  - first:
+      33: 3300008
+    second: fort_shooutout_world_collision_stone
+  - first:
+      33: 3300010
+    second: fort_shooutout_world_collision_wood
+  - first:
+      33: 3300012
+    second: stakes_fence_01__1_
+  - first:
+      33: 3300014
+    second: //RootNode
+  - first:
+      33: 3300016
+    second: fort_shootout_before
+  - first:
+      43: 4300000
+    second: fort_shooutout_world_collision_dirt
+  - first:
+      43: 4300002
+    second: fort_shooutout_world_collision_glass
+  - first:
+      43: 4300004
+    second: fort_shooutout_world_collision_stone
+  - first:
+      43: 4300006
+    second: fort_shooutout_player_collision
+  - first:
+      43: 4300008
+    second: fort_shooutout_world_collision_wood
+  - first:
+      43: 4300010
+    second: fort_shooutout_world_collision_metal
+  - first:
+      43: 4300012
+    second: stakes_fence_01__1_
+  - first:
+      43: 4300014
+    second: fort_building_01
+  - first:
+      43: 4300016
+    second: fort_shootout_before
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -59,6 +149,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -83,25 +174,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -110,10 +212,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -123,13 +225,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

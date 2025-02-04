@@ -1,41 +1,86 @@
 fileFormatVersion: 2
 guid: 6f55489c65deed54a832f3a9d2c83d33
-timeCreated: 1516302097
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: alpine_slough_017
-    100002: alpine_slough_018
-    100004: alpine_slough_019
-    100006: alpine_slough_020
-    100008: //RootNode
-    100010: transform26
-    100012: transform27
-    100014: transform28
-    400000: alpine_slough_017
-    400002: alpine_slough_018
-    400004: alpine_slough_019
-    400006: alpine_slough_020
-    400008: //RootNode
-    400010: transform26
-    400012: transform27
-    400014: transform28
-    2300000: alpine_slough_020
-    2300002: //RootNode
-    3300000: alpine_slough_020
-    3300002: //RootNode
-    4300000: alpine_slough_020
-    4300002: alpine_slough_curve_01
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: alpine_slough_017
+  - first:
+      1: 100002
+    second: alpine_slough_018
+  - first:
+      1: 100004
+    second: alpine_slough_019
+  - first:
+      1: 100006
+    second: alpine_slough_020
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: transform26
+  - first:
+      1: 100012
+    second: transform27
+  - first:
+      1: 100014
+    second: transform28
+  - first:
+      4: 400000
+    second: alpine_slough_017
+  - first:
+      4: 400002
+    second: alpine_slough_018
+  - first:
+      4: 400004
+    second: alpine_slough_019
+  - first:
+      4: 400006
+    second: alpine_slough_020
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: transform26
+  - first:
+      4: 400012
+    second: transform27
+  - first:
+      4: 400014
+    second: transform28
+  - first:
+      23: 2300000
+    second: alpine_slough_020
+  - first:
+      23: 2300002
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: alpine_slough_020
+  - first:
+      33: 3300002
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: alpine_slough_020
+  - first:
+      43: 4300002
+    second: alpine_slough_curve_01
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -43,12 +88,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -56,26 +104,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,14 +156,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

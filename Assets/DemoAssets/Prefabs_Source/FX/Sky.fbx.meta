@@ -1,108 +1,302 @@
 fileFormatVersion: 2
 guid: 42da1336decf5415f98e3f4f6a8289ef
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: heart_object
-    100002: nest_object
-    100004: //RootNode
-    100006: Texture Group
-    100008: egg_object
-    100010: 'Texture Group '
-    100012: TextureGroup
-    100014: Texture Group  1
-    100016: sky_dome
-    100018: sun_plane
-    100020: Texture Group  2
-    100022: star_dome
-    100024: horizon
-    100026: Texture Group  (2)
-    100028: Texture Group  (3)
-    100030: star_dome_old
-    100032: Texture Group (2)
-    100034: moon_plane
-    100036: horizon_2
-    100038: horizon_3
-    100040: Texture Group (3)
-    100042: horizon_4
-    100044: skybox
-    100046: skyplane
-    100048: sky_distillery
-    400000: heart_object
-    400002: nest_object
-    400004: //RootNode
-    400006: Texture Group
-    400008: egg_object
-    400010: 'Texture Group '
-    400012: TextureGroup
-    400014: Texture Group  1
-    400016: sky_dome
-    400018: sun_plane
-    400020: Texture Group  2
-    400022: star_dome
-    400024: horizon
-    400026: Texture Group  (2)
-    400028: Texture Group  (3)
-    400030: star_dome_old
-    400032: Texture Group (2)
-    400034: moon_plane
-    400036: horizon_2
-    400038: horizon_3
-    400040: Texture Group (3)
-    400042: horizon_4
-    400044: skybox
-    400046: skyplane
-    400048: sky_distillery
-    2300000: heart_object
-    2300002: nest_object
-    2300004: egg_object
-    2300006: sky_dome
-    2300008: sun_plane
-    2300010: star_dome
-    2300012: horizon
-    2300014: star_dome_old
-    2300016: moon_plane
-    2300018: horizon_2
-    2300020: horizon_3
-    2300022: horizon_4
-    2300024: skybox
-    2300026: skyplane
-    2300028: sky_distillery
-    3300000: heart_object
-    3300002: nest_object
-    3300004: egg_object
-    3300006: sky_dome
-    3300008: sun_plane
-    3300010: star_dome
-    3300012: horizon
-    3300014: star_dome_old
-    3300016: moon_plane
-    3300018: horizon_2
-    3300020: horizon_3
-    3300022: horizon_4
-    3300024: skybox
-    3300026: skyplane
-    3300028: sky_distillery
-    4300000: nest_object
-    4300002: heart_object
-    4300004: egg_object
-    4300006: sky_dome
-    4300008: sun_plane
-    4300010: star_dome
-    4300012: horizon
-    4300014: star_dome_old
-    4300016: moon_plane
-    4300018: horizon_2
-    4300020: horizon_3
-    4300022: horizon_4
-    4300024: skybox
-    4300026: skyplane
-    4300028: sky_distillery
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: heart_object
+  - first:
+      1: 100002
+    second: nest_object
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Texture Group
+  - first:
+      1: 100008
+    second: egg_object
+  - first:
+      1: 100010
+    second: 'Texture Group '
+  - first:
+      1: 100012
+    second: TextureGroup
+  - first:
+      1: 100014
+    second: Texture Group  1
+  - first:
+      1: 100016
+    second: sky_dome
+  - first:
+      1: 100018
+    second: sun_plane
+  - first:
+      1: 100020
+    second: Texture Group  2
+  - first:
+      1: 100022
+    second: star_dome
+  - first:
+      1: 100024
+    second: horizon
+  - first:
+      1: 100026
+    second: Texture Group  (2)
+  - first:
+      1: 100028
+    second: Texture Group  (3)
+  - first:
+      1: 100030
+    second: star_dome_old
+  - first:
+      1: 100032
+    second: Texture Group (2)
+  - first:
+      1: 100034
+    second: moon_plane
+  - first:
+      1: 100036
+    second: horizon_2
+  - first:
+      1: 100038
+    second: horizon_3
+  - first:
+      1: 100040
+    second: Texture Group (3)
+  - first:
+      1: 100042
+    second: horizon_4
+  - first:
+      1: 100044
+    second: skybox
+  - first:
+      1: 100046
+    second: skyplane
+  - first:
+      1: 100048
+    second: sky_distillery
+  - first:
+      4: 400000
+    second: heart_object
+  - first:
+      4: 400002
+    second: nest_object
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Texture Group
+  - first:
+      4: 400008
+    second: egg_object
+  - first:
+      4: 400010
+    second: 'Texture Group '
+  - first:
+      4: 400012
+    second: TextureGroup
+  - first:
+      4: 400014
+    second: Texture Group  1
+  - first:
+      4: 400016
+    second: sky_dome
+  - first:
+      4: 400018
+    second: sun_plane
+  - first:
+      4: 400020
+    second: Texture Group  2
+  - first:
+      4: 400022
+    second: star_dome
+  - first:
+      4: 400024
+    second: horizon
+  - first:
+      4: 400026
+    second: Texture Group  (2)
+  - first:
+      4: 400028
+    second: Texture Group  (3)
+  - first:
+      4: 400030
+    second: star_dome_old
+  - first:
+      4: 400032
+    second: Texture Group (2)
+  - first:
+      4: 400034
+    second: moon_plane
+  - first:
+      4: 400036
+    second: horizon_2
+  - first:
+      4: 400038
+    second: horizon_3
+  - first:
+      4: 400040
+    second: Texture Group (3)
+  - first:
+      4: 400042
+    second: horizon_4
+  - first:
+      4: 400044
+    second: skybox
+  - first:
+      4: 400046
+    second: skyplane
+  - first:
+      4: 400048
+    second: sky_distillery
+  - first:
+      23: 2300000
+    second: heart_object
+  - first:
+      23: 2300002
+    second: nest_object
+  - first:
+      23: 2300004
+    second: egg_object
+  - first:
+      23: 2300006
+    second: sky_dome
+  - first:
+      23: 2300008
+    second: sun_plane
+  - first:
+      23: 2300010
+    second: star_dome
+  - first:
+      23: 2300012
+    second: horizon
+  - first:
+      23: 2300014
+    second: star_dome_old
+  - first:
+      23: 2300016
+    second: moon_plane
+  - first:
+      23: 2300018
+    second: horizon_2
+  - first:
+      23: 2300020
+    second: horizon_3
+  - first:
+      23: 2300022
+    second: horizon_4
+  - first:
+      23: 2300024
+    second: skybox
+  - first:
+      23: 2300026
+    second: skyplane
+  - first:
+      23: 2300028
+    second: sky_distillery
+  - first:
+      33: 3300000
+    second: heart_object
+  - first:
+      33: 3300002
+    second: nest_object
+  - first:
+      33: 3300004
+    second: egg_object
+  - first:
+      33: 3300006
+    second: sky_dome
+  - first:
+      33: 3300008
+    second: sun_plane
+  - first:
+      33: 3300010
+    second: star_dome
+  - first:
+      33: 3300012
+    second: horizon
+  - first:
+      33: 3300014
+    second: star_dome_old
+  - first:
+      33: 3300016
+    second: moon_plane
+  - first:
+      33: 3300018
+    second: horizon_2
+  - first:
+      33: 3300020
+    second: horizon_3
+  - first:
+      33: 3300022
+    second: horizon_4
+  - first:
+      33: 3300024
+    second: skybox
+  - first:
+      33: 3300026
+    second: skyplane
+  - first:
+      33: 3300028
+    second: sky_distillery
+  - first:
+      43: 4300000
+    second: nest_object
+  - first:
+      43: 4300002
+    second: heart_object
+  - first:
+      43: 4300004
+    second: egg_object
+  - first:
+      43: 4300006
+    second: sky_dome
+  - first:
+      43: 4300008
+    second: sun_plane
+  - first:
+      43: 4300010
+    second: star_dome
+  - first:
+      43: 4300012
+    second: horizon
+  - first:
+      43: 4300014
+    second: star_dome_old
+  - first:
+      43: 4300016
+    second: moon_plane
+  - first:
+      43: 4300018
+    second: horizon_2
+  - first:
+      43: 4300020
+    second: horizon_3
+  - first:
+      43: 4300022
+    second: horizon_4
+  - first:
+      43: 4300024
+    second: skybox
+  - first:
+      43: 4300026
+    second: skyplane
+  - first:
+      43: 4300028
+    second: sky_distillery
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -111,6 +305,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -134,34 +329,49 @@ ModelImporter:
     globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 4
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -171,13 +381,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.01
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

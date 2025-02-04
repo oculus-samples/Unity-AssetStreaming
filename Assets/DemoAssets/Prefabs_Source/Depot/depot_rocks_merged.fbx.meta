@@ -1,104 +1,275 @@
 fileFormatVersion: 2
 guid: 3c104dcb0dc3e254f859a491424e204f
-timeCreated: 1535356072
-licenseType: Pro
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: _multipleCameraPositions
-    100002: //RootNode
-    100004: rock_merged_01
-    100006: rock_merged_02
-    100008: rock_merged_03
-    100010: rock_merged_04
-    100012: rock_merged_05
-    100014: rock_merged_06
-    100016: rock_merged_07
-    100018: rock_merged_08
-    100020: rock_merged_09
-    100022: rock_merged_10
-    100024: rock_merged_11
-    100026: rock_merged_12
-    100028: rock_merged_13
-    100030: rock_merged_14
-    100032: rock_merged_15
-    100034: Texture Group
-    400000: _multipleCameraPositions
-    400002: //RootNode
-    400004: rock_merged_01
-    400006: rock_merged_02
-    400008: rock_merged_03
-    400010: rock_merged_04
-    400012: rock_merged_05
-    400014: rock_merged_06
-    400016: rock_merged_07
-    400018: rock_merged_08
-    400020: rock_merged_09
-    400022: rock_merged_10
-    400024: rock_merged_11
-    400026: rock_merged_12
-    400028: rock_merged_13
-    400030: rock_merged_14
-    400032: rock_merged_15
-    400034: Texture Group
-    2300000: _multipleCameraPositions
-    2300002: rock_merged_01
-    2300004: rock_merged_02
-    2300006: rock_merged_03
-    2300008: rock_merged_04
-    2300010: rock_merged_05
-    2300012: rock_merged_06
-    2300014: rock_merged_07
-    2300016: rock_merged_08
-    2300018: rock_merged_09
-    2300020: rock_merged_10
-    2300022: rock_merged_11
-    2300024: rock_merged_12
-    2300026: rock_merged_13
-    2300028: rock_merged_14
-    2300030: rock_merged_15
-    3300000: _multipleCameraPositions
-    3300002: rock_merged_01
-    3300004: rock_merged_02
-    3300006: rock_merged_03
-    3300008: rock_merged_04
-    3300010: rock_merged_05
-    3300012: rock_merged_06
-    3300014: rock_merged_07
-    3300016: rock_merged_08
-    3300018: rock_merged_09
-    3300020: rock_merged_10
-    3300022: rock_merged_11
-    3300024: rock_merged_12
-    3300026: rock_merged_13
-    3300028: rock_merged_14
-    3300030: rock_merged_15
-    4300000: rock_merged_01
-    4300002: rock_merged_15
-    4300004: rock_merged_14
-    4300006: rock_merged_13
-    4300008: rock_merged_12
-    4300010: rock_merged_11
-    4300012: rock_merged_10
-    4300014: rock_merged_09
-    4300016: rock_merged_08
-    4300018: rock_merged_07
-    4300020: rock_merged_06
-    4300022: rock_merged_05
-    4300024: rock_merged_04
-    4300026: rock_merged_03
-    4300028: rock_merged_02
-    4300030: _multipleCameraPositions
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _multipleCameraPositions
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: rock_merged_01
+  - first:
+      1: 100006
+    second: rock_merged_02
+  - first:
+      1: 100008
+    second: rock_merged_03
+  - first:
+      1: 100010
+    second: rock_merged_04
+  - first:
+      1: 100012
+    second: rock_merged_05
+  - first:
+      1: 100014
+    second: rock_merged_06
+  - first:
+      1: 100016
+    second: rock_merged_07
+  - first:
+      1: 100018
+    second: rock_merged_08
+  - first:
+      1: 100020
+    second: rock_merged_09
+  - first:
+      1: 100022
+    second: rock_merged_10
+  - first:
+      1: 100024
+    second: rock_merged_11
+  - first:
+      1: 100026
+    second: rock_merged_12
+  - first:
+      1: 100028
+    second: rock_merged_13
+  - first:
+      1: 100030
+    second: rock_merged_14
+  - first:
+      1: 100032
+    second: rock_merged_15
+  - first:
+      1: 100034
+    second: Texture Group
+  - first:
+      4: 400000
+    second: _multipleCameraPositions
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: rock_merged_01
+  - first:
+      4: 400006
+    second: rock_merged_02
+  - first:
+      4: 400008
+    second: rock_merged_03
+  - first:
+      4: 400010
+    second: rock_merged_04
+  - first:
+      4: 400012
+    second: rock_merged_05
+  - first:
+      4: 400014
+    second: rock_merged_06
+  - first:
+      4: 400016
+    second: rock_merged_07
+  - first:
+      4: 400018
+    second: rock_merged_08
+  - first:
+      4: 400020
+    second: rock_merged_09
+  - first:
+      4: 400022
+    second: rock_merged_10
+  - first:
+      4: 400024
+    second: rock_merged_11
+  - first:
+      4: 400026
+    second: rock_merged_12
+  - first:
+      4: 400028
+    second: rock_merged_13
+  - first:
+      4: 400030
+    second: rock_merged_14
+  - first:
+      4: 400032
+    second: rock_merged_15
+  - first:
+      4: 400034
+    second: Texture Group
+  - first:
+      23: 2300000
+    second: _multipleCameraPositions
+  - first:
+      23: 2300002
+    second: rock_merged_01
+  - first:
+      23: 2300004
+    second: rock_merged_02
+  - first:
+      23: 2300006
+    second: rock_merged_03
+  - first:
+      23: 2300008
+    second: rock_merged_04
+  - first:
+      23: 2300010
+    second: rock_merged_05
+  - first:
+      23: 2300012
+    second: rock_merged_06
+  - first:
+      23: 2300014
+    second: rock_merged_07
+  - first:
+      23: 2300016
+    second: rock_merged_08
+  - first:
+      23: 2300018
+    second: rock_merged_09
+  - first:
+      23: 2300020
+    second: rock_merged_10
+  - first:
+      23: 2300022
+    second: rock_merged_11
+  - first:
+      23: 2300024
+    second: rock_merged_12
+  - first:
+      23: 2300026
+    second: rock_merged_13
+  - first:
+      23: 2300028
+    second: rock_merged_14
+  - first:
+      23: 2300030
+    second: rock_merged_15
+  - first:
+      33: 3300000
+    second: _multipleCameraPositions
+  - first:
+      33: 3300002
+    second: rock_merged_01
+  - first:
+      33: 3300004
+    second: rock_merged_02
+  - first:
+      33: 3300006
+    second: rock_merged_03
+  - first:
+      33: 3300008
+    second: rock_merged_04
+  - first:
+      33: 3300010
+    second: rock_merged_05
+  - first:
+      33: 3300012
+    second: rock_merged_06
+  - first:
+      33: 3300014
+    second: rock_merged_07
+  - first:
+      33: 3300016
+    second: rock_merged_08
+  - first:
+      33: 3300018
+    second: rock_merged_09
+  - first:
+      33: 3300020
+    second: rock_merged_10
+  - first:
+      33: 3300022
+    second: rock_merged_11
+  - first:
+      33: 3300024
+    second: rock_merged_12
+  - first:
+      33: 3300026
+    second: rock_merged_13
+  - first:
+      33: 3300028
+    second: rock_merged_14
+  - first:
+      33: 3300030
+    second: rock_merged_15
+  - first:
+      43: 4300000
+    second: rock_merged_01
+  - first:
+      43: 4300002
+    second: rock_merged_15
+  - first:
+      43: 4300004
+    second: rock_merged_14
+  - first:
+      43: 4300006
+    second: rock_merged_13
+  - first:
+      43: 4300008
+    second: rock_merged_12
+  - first:
+      43: 4300010
+    second: rock_merged_11
+  - first:
+      43: 4300012
+    second: rock_merged_10
+  - first:
+      43: 4300014
+    second: rock_merged_09
+  - first:
+      43: 4300016
+    second: rock_merged_08
+  - first:
+      43: 4300018
+    second: rock_merged_07
+  - first:
+      43: 4300020
+    second: rock_merged_06
+  - first:
+      43: 4300022
+    second: rock_merged_05
+  - first:
+      43: 4300024
+    second: rock_merged_04
+  - first:
+      43: 4300026
+    second: rock_merged_03
+  - first:
+      43: 4300028
+    second: rock_merged_02
+  - first:
+      43: 4300030
+    second: _multipleCameraPositions
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -106,12 +277,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -119,26 +293,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -148,14 +345,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,41 +1,101 @@
 fileFormatVersion: 2
 guid: 03001a4b7442e3b4b913a3b400cbcedd
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: arrow
-    100002: botgem
-    100004: Camera
-    100006: Directional Light
-    100008: //RootNode
-    100010: Texture Group
-    100012: flare_quad_01
-    100014: flare_quad_02
-    100016: Texture Group (2)
-    400000: arrow
-    400002: botgem
-    400004: Camera
-    400006: Directional Light
-    400008: //RootNode
-    400010: Texture Group
-    400012: flare_quad_01
-    400014: flare_quad_02
-    400016: Texture Group (2)
-    2000000: Camera
-    2300000: arrow
-    2300002: flare_quad_01
-    2300004: flare_quad_02
-    3300000: arrow
-    3300002: flare_quad_01
-    3300004: flare_quad_02
-    4300000: arrow
-    4300002: flare_quad_01
-    4300004: flare_quad_02
-    9500000: //RootNode
-    10800000: Directional Light
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arrow
+  - first:
+      1: 100002
+    second: botgem
+  - first:
+      1: 100004
+    second: Camera
+  - first:
+      1: 100006
+    second: Directional Light
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: Texture Group
+  - first:
+      1: 100012
+    second: flare_quad_01
+  - first:
+      1: 100014
+    second: flare_quad_02
+  - first:
+      1: 100016
+    second: Texture Group (2)
+  - first:
+      4: 400000
+    second: arrow
+  - first:
+      4: 400002
+    second: botgem
+  - first:
+      4: 400004
+    second: Camera
+  - first:
+      4: 400006
+    second: Directional Light
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: Texture Group
+  - first:
+      4: 400012
+    second: flare_quad_01
+  - first:
+      4: 400014
+    second: flare_quad_02
+  - first:
+      4: 400016
+    second: Texture Group (2)
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      23: 2300000
+    second: arrow
+  - first:
+      23: 2300002
+    second: flare_quad_01
+  - first:
+      23: 2300004
+    second: flare_quad_02
+  - first:
+      33: 3300000
+    second: arrow
+  - first:
+      33: 3300002
+    second: flare_quad_01
+  - first:
+      33: 3300004
+    second: flare_quad_02
+  - first:
+      43: 4300000
+    second: arrow
+  - first:
+      43: 4300002
+    second: flare_quad_01
+  - first:
+      43: 4300004
+    second: flare_quad_02
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Directional Light
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -44,6 +104,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -67,34 +128,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -104,13 +180,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

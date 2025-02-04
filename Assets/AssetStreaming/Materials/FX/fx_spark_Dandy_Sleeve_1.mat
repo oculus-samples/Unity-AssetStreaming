@@ -2,105 +2,71 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: fx_spark_Dandy_Sleeve_1
   m_Shader: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TexEnvs:
-    - first:
-        name: _BumpMap1
-      second:
+    - _BumpMap1:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _BumpMap2
-      second:
+    - _BumpMap2:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _DistortionMap
-      second:
+    - _DistortionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _MainTex
-      second:
+    - _MainTex:
         m_Texture: {fileID: 2800000, guid: abb6ba87420c285469fa8cda5ba77b36, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _Reflection
-      second:
+    - _Reflection:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _Texture1
-      second:
+    - _Texture1:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _Texture2
-      second:
+    - _Texture2:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
-    - first:
-        name: _Bump1Speed
-      second: 0
-    - first:
-        name: _Bump2Speed
-      second: 0
-    - first:
-        name: _DistortionPower
-      second: 0
-    - first:
-        name: _DistortionSpeed
-      second: 0
-    - first:
-        name: _Gloss
-      second: 0.3
-    - first:
-        name: _InvFade
-      second: 0.01
-    - first:
-        name: _MainTexSpeed
-      second: 0
-    - first:
-        name: _Opacity
-      second: 0
-    - first:
-        name: _ReflectPower
-      second: 0
-    - first:
-        name: _Specular
-      second: 1
-    - first:
-        name: _Texture2Speed
-      second: 0
+    - _Bump1Speed: 0
+    - _Bump2Speed: 0
+    - _DistortionPower: 0
+    - _DistortionSpeed: 0
+    - _Gloss: 0.3
+    - _InvFade: 0.01
+    - _MainTexSpeed: 0
+    - _Opacity: 0
+    - _ReflectPower: 0
+    - _Specular: 1
+    - _Texture2Speed: 0
     m_Colors:
-    - first:
-        name: _Color
-      second: {r: 1, g: 1, b: 1, a: 1}
-    - first:
-        name: _EmisColor
-      second: {r: 0.27450982, g: 0.27450982, b: 0.27450982, a: 0}
-    - first:
-        name: _Properties
-      second: {r: 0.005, g: 0.01, b: 1, a: 0}
-    - first:
-        name: _TintColor
-      second: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmisColor: {r: 0.27450982, g: 0.27450982, b: 0.27450982, a: 0}
+    - _Properties: {r: 0.005, g: 0.01, b: 1, a: 0}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,37 +1,89 @@
 fileFormatVersion: 2
 guid: ebd20164c54685f47a649bd5d5f9d960
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: distillery_wall_brick_archway_048
-    100004: distillery_wall_brick_archway_049
-    100006: distillery_wall_brick_archway_05
-    100008: distillery_wall_brick_archway_050
-    100010: distillery_wall_brick_archway_051
-    100012: transform114
-    100014: transform115
-    100016: transform116
-    100018: transform117
-    400000: //RootNode
-    400002: distillery_wall_brick_archway_048
-    400004: distillery_wall_brick_archway_049
-    400006: distillery_wall_brick_archway_05
-    400008: distillery_wall_brick_archway_050
-    400010: distillery_wall_brick_archway_051
-    400012: transform114
-    400014: transform115
-    400016: transform116
-    400018: transform117
-    2300000: //RootNode
-    2300002: distillery_wall_brick_archway_05
-    3300000: //RootNode
-    3300002: distillery_wall_brick_archway_05
-    4300000: distillery_wall_brick_05
-    4300002: distillery_wall_brick_archway_05
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: distillery_wall_brick_archway_048
+  - first:
+      1: 100004
+    second: distillery_wall_brick_archway_049
+  - first:
+      1: 100006
+    second: distillery_wall_brick_archway_05
+  - first:
+      1: 100008
+    second: distillery_wall_brick_archway_050
+  - first:
+      1: 100010
+    second: distillery_wall_brick_archway_051
+  - first:
+      1: 100012
+    second: transform114
+  - first:
+      1: 100014
+    second: transform115
+  - first:
+      1: 100016
+    second: transform116
+  - first:
+      1: 100018
+    second: transform117
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: distillery_wall_brick_archway_048
+  - first:
+      4: 400004
+    second: distillery_wall_brick_archway_049
+  - first:
+      4: 400006
+    second: distillery_wall_brick_archway_05
+  - first:
+      4: 400008
+    second: distillery_wall_brick_archway_050
+  - first:
+      4: 400010
+    second: distillery_wall_brick_archway_051
+  - first:
+      4: 400012
+    second: transform114
+  - first:
+      4: 400014
+    second: transform115
+  - first:
+      4: 400016
+    second: transform116
+  - first:
+      4: 400018
+    second: transform117
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: distillery_wall_brick_archway_05
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: distillery_wall_brick_archway_05
+  - first:
+      43: 4300000
+    second: distillery_wall_brick_05
+  - first:
+      43: 4300002
+    second: distillery_wall_brick_archway_05
   externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,6 +92,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -64,25 +117,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -91,10 +155,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -104,13 +168,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
