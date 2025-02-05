@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "com.meta.xr.sdk.core": "68.0.2",
-    "com.meta.xr.sdk.platform": "68.0.0",
-    "com.meta.xr.simulator": "68.0.0",
+    "com.meta.xr.sdk.core": "72.0.0",
+    "com.meta.xr.sdk.platform": "72.0.0",
+    "com.meta.xr.simulator": "72.0.0",
     "com.unity.addressables": "1.22.3",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.burst": "1.8.18",

@@ -17,8 +17,11 @@ public class FadeCanvas : MonoBehaviour
 
     void Update()
     {
-        timer -= Time.deltaTime;
-        canvas.alpha = timer;
+        if (timer > 0.0f)
+        {
+            timer -= Time.deltaTime;
+            canvas.alpha = timer;
+        }
 
         if (OVRInput.Get(OVRInput.RawButton.B) || OVRInput.Get(OVRInput.RawButton.X))
             timer = 10.0f;

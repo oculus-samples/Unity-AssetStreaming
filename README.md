@@ -44,5 +44,5 @@ For Licenses reasons we didn't include [Mesh Baker](https://assetstore.unity.com
 # Conversion to use Addressables
 We detailed how we converted the original Asset Streaming project to use Unity Addressables system [here](./ConversionToAddressables.md).
 
-# Quest Store App
-You can find the build version on the [Quest Store](https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/)
+# Horizon Store App
+You can find the build version on the [Horizon Store](https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/)

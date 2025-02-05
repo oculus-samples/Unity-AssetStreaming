@@ -1,10 +1,12 @@
 {
     "name": "AssetStreaming.Editor",
+    "rootNamespace": "",
     "references": [
         "GUID:21284c7abde20ee439013b58103466c1",
         "GUID:69448af7b92c7f342b298e06a37122aa",
         "GUID:e0cd26848372d4e5c891c569017e11f1",
-        "GUID:9e24947de15b9834991c9d8411ea37cf"
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30"
     ],
     "includePlatforms": [
         "Editor"
