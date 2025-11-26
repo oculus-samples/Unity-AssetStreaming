@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee262462c8042e840a3146c602914c9a, type: 3}
+  m_Name: StartupWalkthrough
+  m_EditorClassIdentifier: 
+  m_title: Startup Walkthrough
+  m_priority: 1011
+  m_tutorialConfig: {fileID: 11400000, guid: 5a448f2f9aa45f243bed1449c25b0170, type: 2}
+  m_showBanner: 0
+  m_references:
+  - Header: Startup Scene
+    Description: "This is the initial scene. It sets up the camera and loads the
+      'combined' scene next.\r"
+    Reference:
+      m_referenceType: 0
+      m_obj: {fileID: 102900000, guid: a158d755199ed8f46b9c101f249d94e1, type: 3}
+      m_classType: 
+      m_scene: {fileID: 0}
+      m_name: 
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
+  - Header: StartupController
+    Description: "This handles loading the 'combined' scene asynchronously.\r"
+    Reference:
+      m_referenceType: 5
+      m_obj: {fileID: 0}
+      m_classType: 
+      m_scene: {fileID: 102900000, guid: a158d755199ed8f46b9c101f249d94e1, type: 3}
+      m_name: StartupController
+      m_path: 
+      m_guid: 
+      m_instanceID: 0

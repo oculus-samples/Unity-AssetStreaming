@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4510294d23d964fe59443526f1ca7c4b, type: 3}
+  m_Name: Convert To Addressables
+  m_EditorClassIdentifier: 
+  m_displayName: Convert To Addressables
+  m_hierarchyName: Convert To Addressables
+  m_context: {fileID: 11400000, guid: 4f260c748af38f24cb5488a8bed2fa17, type: 2}
+  m_markdownFile: {fileID: 0}
+  m_priority: 1002
+  m_overrideMarkdownText: "# Convert AssetStreaming to Use Addressables\n\n## Overview\n\nThis
+    document outlines the process of converting this project to use addressables.
+    Addressables help manage assets, memory, and iteration time. Learn more about
+    how they improve [iteration time](https://developers.meta.com/horizon/documentation/unity/po-unity-iteration/).\n\nFor
+    more information on Unity Addressables, refer to their [documentation](https://docs.unity3d.com/Packages/com.unity.addressables@1.18/manual/index.html).\n\n##
+    Initial Non-Addressables Setup\n\nIn the project, each LOD (level of detail)
+    chunk is a scene added in the Build Settings, each with a scene index. The first
+    scene (0) loads at startup, while others load as needed.\n\n![image1](./Media/ConversionToAddressables/image1.png)\n\nIn
+    the main scene (named \"combined,\" at index 0), multiple gameObjects have the
+    LODManager component. These components contain a list of nodes (LODTreeNode)
+    with data on what to load, including the scene index from the Build Settings.\n\n![image2](./Media/ConversionToAddressables/image2.png)\n\nThe
+    LODManager uses this information to load scenes asynchronously using `SceneManager.LoadSceneAsync`.\n\n```csharp\nSceneManager.LoadSceneAsync(ao.sceneIndex,
+    LoadSceneMode.Additive);\n```\n\n## Updating to Addressables\n\n### How to Use
+    Addressables\n\nAddressable assets can be referenced using the full address from
+    the addressable manifest or the AssetReference data, which contains the necessary
+    information to load the asset from the addressable bundle.\n\nFor our case, AssetReference
+    is ideal. It allows the asset address to change while maintaining the correct
+    reference. The full address method is useful for dynamic loading, such as retrieving
+    data from a CMS, file, or text data.\n\nTo proceed, we need to replace the scene
+    index with an AssetReference and convert our scenes to use the addressable system.\n\n###
+    Add the Addressable Package\n\nNavigate to Window -> Package Manager.\n\n![image3](./Media/ConversionToAddressables/image3.png)\n\nInstall
+    the Addressables package from the Unity Registry. Once added, set it up by opening
+    the Addressables Group window (Window -> Asset Management -> Addressables ->
+    Groups) and clicking \"Create Addressables Settings.\"\n\n![image4](./Media/ConversionToAddressables/image4.png)\n\nThis
+    creates basic settings, resulting in two groups:\n\n- **Built-in Data**: Data
+    referenced when building the client (Scenes and Resources).\n- **Default Local
+    Group**: A new addressable group for local assets, initially empty. This is where
+    we will add our scenes. Local assets are packaged with the build, while remote
+    assets are hosted elsewhere (details on remote assets are not covered here).\n\nNow,
+    we are ready to convert our scenes to be included in the addressable group.\n\n###
+    Add Scenes to Addressables Group and Reference Them\n\nWe have many nodes in
+    different LODManagers, so automating the conversion is easier than doing it manually.
+    We will add an AssetReference in the LODTreeNode to reference the scene. Add
+    this field in the LODTreeNode right after the sceneIndex.\n\n```csharp\npublic
+    int sceneIndex = -1;\npublic AssetReference sceneRef = null; // New field added\n```\n\nWith
+    this field, we can process each node, use the sceneIndex to add the scene to
+    the Default addressable group, and link it in the sceneRef field.\n\nThis code
+    snippet processes a LODTreeNode, retrieves the sceneIndex to get the scene path
+    from the BuildSettings, creates an addressable entry, assigns it to the DefaultGroup,
+    sets the address to the scene's GUID, and assigns a new AssetReference using
+    the GUID to the node's sceneRef field.\n\n```csharp\nvar settings = AddressableAssetSettingsDefaultObject.Settings;\nvar
+    group = settings.DefaultGroup;\nif (node.sceneIndex != -1)\n{\n   string scenePath
+    = SceneUtility.GetScenePathByBuildIndex(node.sceneIndex);\n#if UNITY_2019\n  
+    string guid = AssetDatabase.AssetPathToGUID(scenePath);\n#else\n   GUID guid
+    = AssetDatabase.GUIDFromAssetPath(scenePath);\n#endif\n   var entry = settings.CreateOrMoveEntry(guid.ToString(),
+    group, readOnly: false, postEvent: true);\n   entry.address = AssetDatabase.GUIDToAssetPath(guid);\n  
+    node.sceneRef = new AssetReference(guid.ToString());\n}\n```\n\nThe node data
+    now includes the reference:\n\n![image5](./Media/ConversionToAddressables/image5.png)\n\nThe
+    scene is now addressable with a specific address, the scene GUID, which can be
+    used to load the asset instead of using the AssetReference.\n\n![image6](./Media/ConversionToAddressables/image6.png)\n\nWhen
+    a scene is marked as addressable, it is automatically disabled in the Build Settings.
+    The build settings should now look like this:\n\n![image7](./Media/ConversionToAddressables/image7.png)\n\nAll
+    runtime scenes are disabled to prevent them from being built with the executable.\n\n**Important**:
+    Save the Scene\n\nSave the main scene (you might need to make a small change
+    to mark it dirty or set it dirty from your update script) to save changes to
+    the LODManagers.\n\n#### Separate Scenes into Relevant Groups\n\nTo speed up
+    iteration when modifying a location, separate assets into groups based on location
+    so only the modified group needs rebuilding. Create a group for shared assets
+    to avoid including reused assets in each group.\n\n![image8](./Media/ConversionToAddressables/image8.png)\n\n###
+    Load Scenes from Addressable\n\nWith scenes in an addressable group, update the
+    code to load from addressable.\n\nChange the previous call:\n\n```csharp\nSceneManager.LoadSceneAsync(ao.sceneIndex,
+    LoadSceneMode.Additive);\n```\n\nTo use the sceneRef field and load the scene
+    using AssetReference. Use the LoadSceneAsync method to set the scene load mode
+    and async thread priority.\n\n```csharp\nao.sceneRef.LoadSceneAsync(LoadSceneMode.Additive,
+    priority: ao.lodLevel);\n```\n\nThis method replaces the previous call. Since
+    it returns an AsyncOperationHandle, update how this data is handled. It's similar
+    to having a reference to UnityEngine.AsyncOperation, but instead of the actual
+    operation, keep the handle. For scenes, it returns an AsyncOperationHandle<SceneInstance>.
+    Update fields that kept the AsyncOperation for the Handle and update callbacks
+    like onSceneLoadComplete to take the handle as a parameter.\n\nFor unloading
+    the scene, use the saved handle and call the addressable unload scene method.
+    This provides a different handle to observe the operation's status and add callbacks
+    upon completion.\n\n```csharp\nAddressables.UnloadSceneAsync(ao.sceneHandle);\n```\n"
+  m_overrideMarkdownRoot: ./

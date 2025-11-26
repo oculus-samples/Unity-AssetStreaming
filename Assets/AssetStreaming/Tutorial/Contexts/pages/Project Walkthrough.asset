@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645f4231a451006409b7afbabdd9f82d, type: 3}
+  m_Name: Project Walkthrough
+  m_EditorClassIdentifier: 
+  m_displayName: Project Walkthrough
+  m_hierarchyName: 
+  m_context: {fileID: 11400000, guid: 906e16c50ba0c504fa50c264e1ca556a, type: 2}
+  m_markdownFile: {fileID: 0}
+  m_priority: 0
+  <References>k__BackingField:
+  - Header: AssetStreaming
+    Description: This is where all the project specific code and assets are located.
+    Reference:
+      m_referenceType: 0
+      m_obj: {fileID: 102900000, guid: af05b04e485b370409578de2eb23c6c1, type: 3}
+      m_classType: 
+      m_scene: {fileID: 0}
+      m_name: 
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
+  - Header: Prefabs
+    Description: Prefabs used in Asset Streaming can be found here.
+    Reference:
+      m_referenceType: 0
+      m_obj: {fileID: 102900000, guid: 47016ba3bce7e3249853ccb6bebc3ac6, type: 3}
+      m_classType: 
+      m_scene: {fileID: 0}
+      m_name: 
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
+  - Header: Scenes
+    Description: "Scenes are located here.\r"
+    Reference:
+      m_referenceType: 0
+      m_obj: {fileID: 102900000, guid: f0e11fa56f0c2b04590ddb56813aa0d6, type: 3}
+      m_classType: 
+      m_scene: {fileID: 0}
+      m_name: 
+      m_path: 
+      m_guid: 
+      m_instanceID: 0

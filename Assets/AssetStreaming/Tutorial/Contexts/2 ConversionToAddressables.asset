@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6406cf99f3eda9543b76052362849a20, type: 3}
+  m_Name: 2 ConversionToAddressables
+  m_EditorClassIdentifier: 
+  m_title: Convert To Addressables
+  m_priority: 1002
+  m_tutorialConfig: {fileID: 11400000, guid: 5a448f2f9aa45f243bed1449c25b0170, type: 2}
+  m_showBanner: 0
+  m_markdownPath: ./ConversionToAddressables.md
+  m_reduceTitleLevelBy1: 1
+  m_pageConfigs:
+  - SectionTitle: Convert AssetStreaming to Use Addressables
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: Overview
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: Initial Non-Addressables Setup
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: Updating to Addressables
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: if UNITY_2019
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: else
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0
+  - SectionTitle: endif
+    ShowSectionInContext: 1
+    ShowSectionAsChild: 0
+    HideTitle: 0

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4510294d23d964fe59443526f1ca7c4b, type: 3}
+  m_Name: Welcome
+  m_EditorClassIdentifier: 
+  m_displayName: Welcome
+  m_hierarchyName: Welcome
+  m_context: {fileID: 11400000, guid: 34a075b5ac8f7a94188fe854495cf390, type: 2}
+  m_markdownFile: {fileID: 0}
+  m_priority: 1001
+  m_overrideMarkdownText: '# AssetStreaming
+
+
+    AssetStreaming is a Unity project
+    that demonstrates efficient asset streaming techniques for open-world games.
+    It handles world loading without loading everything into memory at once.
+
+
+    This
+    codebase serves as a reference and template for implementing asset streaming
+    in your projects. You can test it on the <a href="https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/">Meta
+    Store - AssetStreaming</a>.
+
+
+
+    ## Project Description
+
+
+    This project
+    showcases advanced asset streaming techniques, including world loading optimization
+    and memory management. It efficiently loads assets without overwhelming system
+    resources.
+
+
+    Built with the <a href="https://unity.com/">Unity engine</a>
+    and Unity''s Addressables system, the project demonstrates practical asset streaming
+    for open-world environments. It provides tools and methods for efficient resource
+    management.
+
+
+
+    ## Dependencies
+
+
+    This project uses the following plugins
+    and software:
+
+
+    - <a href="https://unity.com/download">Unity</a> 6000.0.50f1
+    or newer.
+
+    - Unity Addressables System.
+
+    - <a href="https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017">Mesh
+    Baker</a> (recommended for LOD generation; not included due to licensing).
+
+
+    Alternative
+    LOD solutions:
+
+    - Custom mesh optimization tools.
+
+    - Simplygon (commercial
+    license required).
+
+
+
+    ## Documentation
+
+
+    More information is available
+    in the project documentation:
+
+
+    - <a href="https://developers.meta.com/horizon/blog/now-available-guide-to-asset-streaming-in-open-world-games-/">Guide
+    to Asset Streaming in Open World Games</a>.
+
+    - <a href="https://developers.meta.com/horizon/documentation/unity/po-assetstreaming/">Asset
+    Streaming Documentation</a>.
+
+    - <a href="./ConversionToAddressables.md">Conversion
+    to Addressables</a>.
+
+
+'
+  m_overrideMarkdownRoot: ./

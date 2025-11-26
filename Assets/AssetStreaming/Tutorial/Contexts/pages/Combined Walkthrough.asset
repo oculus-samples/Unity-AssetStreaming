@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645f4231a451006409b7afbabdd9f82d, type: 3}
+  m_Name: Combined Walkthrough
+  m_EditorClassIdentifier: 
+  m_displayName: Combined Walkthrough
+  m_hierarchyName: 
+  m_context: {fileID: 11400000, guid: eb1f3b489557f064aa488b430af3f844, type: 2}
+  m_markdownFile: {fileID: 0}
+  m_priority: 0
+  <References>k__BackingField:
+  - Header: Combined Scene
+    Description: This scene loads after the 'startup' scene. This is the main scene
+      where the user will reside.
+    Reference:
+      m_referenceType: 0
+      m_obj: {fileID: 102900000, guid: ec76f178d514e3b4a89ec76a2b1fd352, type: 3}
+      m_classType: 
+      m_scene: {fileID: 0}
+      m_name: 
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
+  - Header: PlayerController Variant
+    Description: This handles spawning and controlling the character so the user
+      can interact and move around.
+    Reference:
+      m_referenceType: 5
+      m_obj: {fileID: 0}
+      m_classType: 
+      m_scene: {fileID: 102900000, guid: ec76f178d514e3b4a89ec76a2b1fd352, type: 3}
+      m_name: PlayerController Variant
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
+  - Header: TimeOfDay
+    Description: This tints the environment based on the time of day.
+    Reference:
+      m_referenceType: 5
+      m_obj: {fileID: 0}
+      m_classType: 
+      m_scene: {fileID: 102900000, guid: ec76f178d514e3b4a89ec76a2b1fd352, type: 3}
+      m_name: TimeOfDay
+      m_path: 
+      m_guid: 
+      m_instanceID: 0
