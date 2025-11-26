@@ -1,48 +1,68 @@
-![AssetStreaming Banner](./Media/banner.png "AssetStreaming")
-
 # AssetStreaming
 
-AssetStreaming was built to demonstrate how to handle world loading without loading everything into memory at once. For more details and explanations you can visit our [Guide to Asset Streaming in Open World Game](https://developer.oculus.com/blog/now-available-guide-to-asset-streaming-in-open-world-games-/). More documentation that explains the ideas and the approach behind this project can be found [here](https://developer.oculus.com/documentation/unity/po-assetstreaming/).
+AssetStreaming is a Unity project that demonstrates efficient asset streaming techniques for open-world games. It handles world loading without loading everything into memory at once.
 
-This codebase is availabale as a reference to help you setup your own asset streaming project. Unity-AssetStreaming is under the license found [here](LICENSE) unless otherwise specified.
+This codebase serves as a reference and template for implementing asset streaming in your projects. You can test it on the [Meta Store - AssetStreaming](https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/).
 
-See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
+## Project Description
 
-## Licenses
-The majority of Asset Streaming is licensed under [MIT LICENSE](LICENSE), however files listed below are licensed under their respective licensing terms.
-* [TextMeshPro](./Assets/TextMesh Pro) - [Unity Companion License](http://www.unity3d.com/legal/licenses/Unity_Companion_License)
-* [Demo Assets](./Assets/DemoAssets/) - [Meta Platforms Technologies Examples License](./Assets/DemoAssets/LICENSE.txt)
+This project showcases advanced asset streaming techniques, including world loading optimization and memory management. It efficiently loads assets without overwhelming system resources.
 
-## Getting started
+Built with the [Unity engine](https://unity.com/) and Unity's Addressables system, the project demonstrates practical asset streaming for open-world environments. It provides tools and methods for efficient resource management.
 
-First, ensure you have Git LFS installed by running this command:
+## How to Run the Project in Unity
+
+1. Use *Unity 6000.0.50f1* or newer.
+2. Load the [Assets/AssetStreaming/Scenes/Startup](Assets/AssetStreaming/Scenes/Startup.unity) scene.
+3. To build to a device, follow these steps:
+   - Build the Addressables assets from Window->Asset Management->Addressables->Groups.
+   - Use Build Settings to build the APK.
+   - Alternatively, use the AssetStreaming menu for automated builds:
+     - **Build Addressables and APK**: Build both Addressables and APK.
+     - **Build Addressables**: Build only the Addressables.
+     - **Build APK**: Build only the APK (useful when only changing code).
+
+## Dependencies
+
+This project uses the following plugins and software:
+
+- [Unity](https://unity.com/download) 6000.0.50f1 or newer.
+- Unity Addressables System.
+- [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017) (recommended for LOD generation; not included due to licensing).
+
+Alternative LOD solutions:
+- Custom mesh optimization tools.
+- Simplygon (commercial license required).
+
+## Getting the Code
+
+Ensure you have Git LFS installed by running:
+
 ```sh
 git lfs install
 ```
 
-Then, clone this repo using the "Code" button above, or this command:
+Then, clone this repository using the "Code" button above or this command:
+
 ```sh
 git clone https://github.com/oculus-samples/Unity-AssetStreaming.git
 ```
-To run the sample, open the project folder in *Unity 6000.0.50f1* or newer. Load the [Assets/AssetStreaming/Scenes/Startup](Assets/AssetStreaming/Scenes/Startup.unity) scene.
 
-### Build
-In order to build to device we need 2 steps. First we need to build the addressables assets, then we can build the apk. 
+## Documentation
 
-You can use the traditional route to build addressables from the groups menu (Window->Asset Management->Addressables->Groups). Then open Build Settings and click Build.
+More information is available in the project documentation:
 
-We also added an utility menu. Under AssetStreaming menu on the menu bar, you can do different builds:
-* Build Addressables and Apk: build the addressables and the apk
-* Build Addressables: Build's only the addressables
-* Build Apk: Build's only the apk (usefull when only changing code)
+- [Guide to Asset Streaming in Open World Games](https://developers.meta.com/horizon/blog/now-available-guide-to-asset-streaming-in-open-world-games-/).
+- [Asset Streaming Documentation](https://developers.meta.com/horizon/documentation/unity/po-assetstreaming/).
+- [Conversion to Addressables](./ConversionToAddressables.md).
 
-## Third-Party Libraries
-In our implementation of the LOD Generator, we used a package from the Asset Store called [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017). We highly recommend using Mesh Baker to create texture atlases and combine your meshes. Alternatively, you could write your own or get a license for something like Simplygon.
+## License
 
-For Licenses reasons we didn't include [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017) in the project.
+The majority of AssetStreaming is licensed under the [MIT LICENSE](./LICENSE). However, the files listed below are licensed under their respective terms:
 
-# Conversion to use Addressables
-We detailed how we converted the original Asset Streaming project to use Unity Addressables system [here](./ConversionToAddressables.md).
+- [TextMeshPro](./Assets/TextMesh Pro) - [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license).
+- [Demo Assets](./Assets/DemoAssets/) - [Meta Platforms Technologies Examples License](./Assets/DemoAssets/LICENSE.txt).
 
-# Horizon Store App
-You can find the build version on the [Horizon Store](https://www.meta.com/en-gb/experiences/oculus-asset-streaming-for-unity/7325963400811201/)
+## Contribution
+
+See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
