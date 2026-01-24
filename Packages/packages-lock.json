@@ -8,14 +8,14 @@
       "hash": "4b77258a14866968e2d3216bbc8563f721d758a6"
     },
     "com.meta.xr.sdk.core": {
-      "version": "77.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.platform": {
-      "version": "77.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -24,7 +24,7 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.simulator": {
-      "version": "77.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},

@@ -66,3 +66,7 @@ The majority of AssetStreaming is licensed under the [MIT LICENSE](./LICENSE). H
 ## Contribution
 
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
+
+## Changelog
+
+See the [CHANGELOG](./CHANGELOG.md) file for information on changes made to this project.

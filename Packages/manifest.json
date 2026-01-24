@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.meta.tutorial.framework": "https://github.com/meta-quest/Unity-UtilityPackages.git?path=com.meta.tutorial.framework#com.meta.tutorial.framework-1.0.3",
-    "com.meta.xr.sdk.core": "77.0.0",
-    "com.meta.xr.sdk.platform": "77.0.0",
-    "com.meta.xr.simulator": "77.0.0",
+    "com.meta.xr.sdk.core": "81.0.0",
+    "com.meta.xr.sdk.platform": "81.0.0",
+    "com.meta.xr.simulator": "81.0.0",
     "com.unity.addressables": "2.5.0",
     "com.unity.ai.navigation": "2.0.7",
     "com.unity.burst": "1.8.21",
