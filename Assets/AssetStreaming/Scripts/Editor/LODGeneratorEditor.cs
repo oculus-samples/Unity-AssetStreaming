@@ -757,7 +757,7 @@ public class LODGeneratorEditor : Editor
         // Copy colliders from the original meshes.
         // All colliders are added to a single object which itself is not visible.
         // The LOD meshes don't have colliders.
-        Collider[] colliders = FindObjectsOfType<Collider>();
+        Collider[] colliders = FindObjectsByType<Collider>(FindObjectsSortMode.None);
         GameObject colliderObj = new GameObject("Colliders");
         colliderObj.transform.parent = lodManagerObj.transform;
         foreach(Collider collider in colliders)

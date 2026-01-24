@@ -55,7 +55,7 @@ MonoBehaviour:
     and software:
 
 
-    - <a href="https://unity.com/download">Unity</a> 6000.0.50f1
+    - <a href="https://unity.com/download">Unity</a> 6000.0.59f2
     or newer.
 
     - Unity Addressables System.
@@ -90,6 +90,13 @@ MonoBehaviour:
     - <a href="./ConversionToAddressables.md">Conversion
     to Addressables</a>.
 
+
+
+    ## Changelog
+
+
+    See the <a href="./CHANGELOG.md">CHANGELOG</a>
+    file for information on changes made to this project.
 
 '
   m_overrideMarkdownRoot: ./

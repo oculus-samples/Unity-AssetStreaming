@@ -22,7 +22,7 @@ public class Cleanup : EditorWindow
     {
         if(GUILayout.Button("Clean"))
         {
-            List<GameObject> objects = new List<GameObject>(FindObjectsOfType<GameObject>());
+            List<GameObject> objects = new List<GameObject>(FindObjectsByType<GameObject>(FindObjectsSortMode.None));
             objects.RemoveAll(x => x.name != "Colliders");
             foreach (GameObject go in objects)
                 RemoveNonPhysicsComponents(go);

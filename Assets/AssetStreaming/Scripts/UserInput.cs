@@ -42,7 +42,7 @@ public class UserInput : MonoBehaviour
 
     public void Start()
     {
-        lc = FindObjectOfType<LocomotionController>();
+        lc = FindFirstObjectByType<LocomotionController>();
         SetupNodeTeleport();
         
         uiLocomotionType = DebugUIBuilder.instance.AddButton("Switch Locomotion Type (Teleport)", SwitchLocomotionType).GetComponentInChildren<UnityEngine.UI.Text>();
@@ -102,7 +102,7 @@ public class UserInput : MonoBehaviour
 
     public void ToggleDebugView(Toggle t = null)
     {
-        LODManager[] managers = FindObjectsOfType<LODManager>();
+        LODManager[] managers = FindObjectsByType<LODManager>(FindObjectsSortMode.None);
         foreach (LODManager m in managers)
             m.SetLODDebugView(t.isOn);
     }
@@ -145,14 +145,14 @@ public class UserInput : MonoBehaviour
                 break;
         }
 
-        LODManager[] managers = FindObjectsOfType<LODManager>();
+        LODManager[] managers = FindObjectsByType<LODManager>(FindObjectsSortMode.None);
         foreach (LODManager m in managers)
             m.ForceLOD(level);
     }
 
     public void FreezeLODLevels(Toggle t = null)
     {
-        LODManager[] managers = FindObjectsOfType<LODManager>();
+        LODManager[] managers = FindObjectsByType<LODManager>(FindObjectsSortMode.None);
         foreach (LODManager m in managers)
             m.freezeLOD = t.isOn;
     }

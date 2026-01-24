@@ -38,8 +38,8 @@ public class SublevelCombinerEditor : Editor
 
     public void Execute()
     {
-        LODManager[] lodManagers = FindObjectsOfType<LODManager>();
-        LightmapInfo[] lightmapInfos = FindObjectsOfType<LightmapInfo>();
+        LODManager[] lodManagers = FindObjectsByType<LODManager>(FindObjectsSortMode.None);
+        LightmapInfo[] lightmapInfos = FindObjectsByType<LightmapInfo>(FindObjectsSortMode.None);
 
         // Collect the lightmaps and lightmap indices
         List<Texture2D> lightmaps = new List<Texture2D>();

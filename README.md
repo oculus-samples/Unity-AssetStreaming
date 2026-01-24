@@ -12,7 +12,7 @@ Built with the [Unity engine](https://unity.com/) and Unity's Addressables syste
 
 ## How to Run the Project in Unity
 
-1. Use *Unity 6000.0.50f1* or newer.
+1. Use *Unity 6000.0.59f2* or newer.
 2. Load the [Assets/AssetStreaming/Scenes/Startup](Assets/AssetStreaming/Scenes/Startup.unity) scene.
 3. To build to a device, follow these steps:
    - Build the Addressables assets from Window->Asset Management->Addressables->Groups.
@@ -26,7 +26,7 @@ Built with the [Unity engine](https://unity.com/) and Unity's Addressables syste
 
 This project uses the following plugins and software:
 
-- [Unity](https://unity.com/download) 6000.0.50f1 or newer.
+- [Unity](https://unity.com/download) 6000.0.59f2 or newer.
 - Unity Addressables System.
 - [Mesh Baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017) (recommended for LOD generation; not included due to licensing).
 
